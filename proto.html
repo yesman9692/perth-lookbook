@@ -1,59 +1,30 @@
-<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>카드 프로토타입 #1</title><style>
-*{box-sizing:border-box;margin:0;padding:0}
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>카드 프로토타입 v2</title><style>*{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Malgun Gothic','Segoe UI',sans-serif;background:#f0f2f5;padding:14px;font-size:14px;color:#222}
-.note{font-size:.8rem;color:#888;margin-bottom:10px}
+.note{font-size:.8rem;color:#888;margin:0 auto 10px;max-width:680px}
 .card{background:#fff;border-radius:12px;box-shadow:0 1px 5px rgba(0,0,0,.1);overflow:hidden;max-width:680px;margin:0 auto}
 .chead{padding:13px 16px 10px}
 .top{display:flex;gap:11px;align-items:baseline}
 .rank{font-size:1rem;font-weight:800;background:#1a1a1a;color:#fff;border-radius:8px;padding:3px 10px}
 .price{font-size:1.5rem;font-weight:800}
-.addr{font-size:.95rem;font-weight:700;margin-top:5px}
-.sub{font-size:.76rem;color:#888;margin-top:2px}
+.addr{font-size:.95rem;font-weight:700;margin-top:5px}.sub{font-size:.76rem;color:#888;margin-top:2px}
 .badges{display:flex;gap:5px;margin-top:7px}
 .badge{padding:2px 9px;border-radius:10px;font-size:.72rem;font-weight:700;color:#fff}
-.z-b{background:#34a853} .b-bare{background:#d4edda;color:#155724}
-.tot{margin-top:10px;font-size:1.05rem;font-weight:800} .tot b{color:#1a73e8;font-size:1.25rem}
-.oneliner{margin-top:8px;font-size:.9rem;line-height:1.55;color:#333;background:#f6f8fa;border-left:3px solid #34a853;padding:8px 11px;border-radius:0 7px 7px 0;font-weight:600}
+.z-b{background:#34a853}.b-bare{background:#d4edda!important;color:#155724!important}
+.tot{margin-top:10px;font-size:1.05rem;font-weight:800}.tot b{color:#1a73e8;font-size:1.25rem}
+.oneliner{margin-top:8px;font-size:.9rem;line-height:1.55;background:#f6f8fa;border-left:3px solid #34a853;padding:8px 11px;border-radius:0 7px 7px 0;font-weight:600}
 details{margin:0 16px 13px;border:1px solid #e8ebf0;border-radius:9px;overflow:hidden}
-summary{padding:10px 13px;font-weight:700;font-size:.86rem;cursor:pointer;background:#f8f9fb;color:#1a73e8;user-select:none}
+summary{padding:11px 13px;font-weight:700;font-size:.86rem;cursor:pointer;background:#f8f9fb;color:#1a73e8;user-select:none}
 summary:hover{background:#eef1f6}
 .dbody{padding:6px 13px 13px}
-.sectit{font-size:.8rem;font-weight:800;color:#888;margin:12px 0 7px;letter-spacing:.5px}
+.sectit{font-size:.8rem;font-weight:800;color:#888;margin:13px 0 7px;letter-spacing:.5px}
 .item{padding:8px 0;border-bottom:1px solid #f2f4f7}
-.ihead{display:flex;justify-content:space-between;align-items:baseline}
-.ihead b{font-size:.86rem}
-.iscore{font-weight:800;color:#1a73e8;font-size:.95rem} .iscore i{font-size:.68rem;color:#bbb;font-style:normal;font-weight:400}
+.ihead{display:flex;justify-content:space-between;align-items:baseline}.ihead b{font-size:.86rem}
+.iscore{font-weight:800;color:#1a73e8;font-size:.95rem}.iscore i{font-size:.68rem;color:#bbb;font-style:normal;font-weight:400}
 .bd{margin-top:5px;background:#fafbfc;border-radius:6px;padding:6px 9px}
 .pp{display:flex;justify-content:space-between;font-size:.78rem;padding:1.5px 0}
-.ppl{color:#555} .ppv{font-weight:700;font-variant-numeric:tabular-nums}
-.ppv.neg{color:#c0392b} .ppv.pos{color:#2e7d32}
+.ppl{color:#555}.ppv{font-weight:700}.ppv.neg{color:#c0392b}.ppv.pos{color:#2e7d32}
 .route{margin-top:5px;font-size:.73rem;color:#999;line-height:1.5}
-.why{margin-top:4px;font-size:.8rem;color:#444;line-height:1.5}
-.analysis{font-size:.85rem;line-height:1.7;white-space:normal}
+.why{margin-top:4px;font-size:.8rem;color:#444;line-height:1.55}
+.compare{font-size:.84rem;line-height:1.7}
 .photos{display:flex;gap:8px;padding:11px 16px 14px;overflow-x:auto}
-.photos img{height:240px;border-radius:7px;flex-shrink:0}
-</style></head><body>
-<div class="note">⬇️ 카드 프로토타입 — 이 구조 OK인지 확인용 (#1 한 건만). "상세 보기"를 눌러보세요.</div>
-<div class="card">
-  <div class="chead">
-    <div class="top"><span class="rank">#1</span><span class="price">$590</span></div>
-    <div class="addr">5/51-53 Tate Street</div>
-    <div class="sub">West Leederville · 종합 42.6점</div>
-    <div class="badges"><span class="badge z-b">Ⓑ 자전거존</span><span class="badge b-bare">🟢 BARE</span></div>
-    <div class="tot">종합 <b>42.6</b> / 64</div>
-    <div class="oneliner">🟢 하드우드 전실에 조용한 막다른 골목, 마트도 도보권 — 약점이 거의 없는 균형형 1위. 다만 아파트라 마당·수납·뷰는 평범하다.</div>
-  </div>
-  <details open>
-    <summary>▼ 상세 보기 (점수 분해 + 매물 설명)</summary>
-    <div class="dbody">
-      <div class="sectit">■ 점수 상세</div>
-      <div class="item"><div class="ihead"><b>가격</b><span class="iscore">5.75<i>/10</i></span></div><div class="bd"><div class="pp"><span class="ppl">$590 → 3 + (700−590)/40</span><span class="ppv">=5.75</span></div></div></div><div class="item"><div class="ihead"><b>통근</b><span class="iscore">4.97<i>/10</i></span></div><div class="bd"><div class="pp"><span class="ppl">기본</span><span class="ppv pos">+10.0</span></div><div class="pp"><span class="ppl">시간 25분 (10분당 −1)</span><span class="ppv neg">-2.5</span></div><div class="pp"><span class="ppl">환승 1회</span><span class="ppv neg">-1.0</span></div><div class="pp"><span class="ppl">버스 이용</span><span class="ppv neg">-1.0</span></div><div class="pp"><span class="ppl">역도보 158m (300m당 −1)</span><span class="ppv neg">-0.53</span></div></div><div class="route">🚆 25분(도보 158m): 도보 0.1 km → Cambridge St Before St Leonards Av[83] 7정거장/14 mins → Wellington St Watertown[Yellow CAT] 2정거장/4 mins → 도보 55 m ·환승1회 · ⚡최단 19분(도보 944m)</div></div><div class="item"><div class="ihead"><b>마트</b><span class="iscore">4.4<i>/7</i></span></div><div class="bd"><div class="pp"><span class="ppl">기본</span><span class="ppv pos">+7.0</span></div><div class="pp"><span class="ppl">도보 519m (100m당 −0.5)</span><span class="ppv neg">-2.6</span></div></div><div class="route">도보 519m 8분 (Coles West Leederville)</div></div><div class="item"><div class="ihead"><b>소음</b><span class="iscore">7<i>/7</i></span></div><div class="why">Tate Street는 West Leederville 내부 주거 골목으로 조용한 거리 확인</div></div><div class="item"><div class="ihead"><b>주차</b><span class="iscore">2<i>/2</i></span></div><div class="why">주차 1대</div></div><div class="item"><div class="ihead"><b>인테리어</b><span class="iscore">4.5<i>/5</i></span></div><div class="why">거실+침실 전체 짙은 레드-마호가니 하드우드 훌륭(마감 5), 80년대 크림벽돌 −0.5 → 4.5</div></div><div class="item"><div class="ihead"><b>카펫</b><span class="iscore">5<i>/5</i></span></div><div class="why">floor=BARE, 전 공간 하드우드, 카펫 없음</div></div><div class="item"><div class="ihead"><b>detached</b><span class="iscore">1<i>/5</i></span></div><div class="why">2층 복합 아파트, 발코니 나무뷰, 전용 마당 없음</div></div><div class="item"><div class="ihead"><b>감성</b><span class="iscore">1<i>/3</i></span></div><div class="why">West Leederville 나무 많고 엽서 같은 동네 +1, 외관 평범, 뷰 없음</div></div><div class="item"><div class="ihead"><b>안전</b><span class="iscore">6.0<i>/7</i></span></div><div class="why">Tate St 조용한 막다른 주거 골목 +0.5</div></div><div class="item"><div class="ihead"><b>수납</b><span class="iscore">1<i>/3</i></span></div><div class="why">별도 런드리룸/창고 명시 없음 — BIR만</div></div>
-      <div class="sectit">■ 매물 설명</div>
-      <div class="analysis">🏘 동네 — West Leederville는 CBD와 Subiaco 사이에 낀 inner-ring 블루칩. 젠트리피케이션이 끝난 안정형 주거지로, Lake Monger·West Leederville역·카페 스트립이 도보권을 받쳐준다. 이 매물(5/51-53 Tate St)은 광고의 &quot;quiet complex&quot; + 발코니 leafy outlook(잔디·성숙한 가로수)으로 보아 대로 안쪽 조용한 라인. 사진상 번화가 소음·어수선함 신호는 없음.<br><br>✅ 좋은 점<br>· 전실 진한 하드우드(맨발 OK — 네 1순위 조건), 욕실만 타일. 카펫 제로.<br>· 주방·욕실 업데이트됨: 스톤 벤치탑·스테인리스 후드·가스쿡탑·빌트인 오븐·식기세척기·프레임 샤워.<br>· 발코니 + 카포트1 + 반려동물 가능(Pets Allowed 명시 — 호주 아파트 렌트에선 드문 플러스).<br>· 통근 25분(도보 158m, 83번→Yellow CAT)·자전거 11분(3.6km). 도보 158m는 우리 48건 중 최소 그룹 — 도보 부담 사실상 없음.<br><br>⚠️ 나쁜 점 / 체크포인트<br>· 거실만 에어컨, 침실 무에어컨(퍼스 여름엔 본질적 약점 — 창문형 추가 가능성).<br>· 짙은 적갈색 바닥 + 저층 그늘로 거실이 사진상 어둡고 좁아 보임(실측은 길이가 긴 개방형 LDK).<br>· 외관 크림 벽돌 = 70-80년대 저층 워크업(구축). 내부 리노 대비 외부는 올드한 인상.<br>· 빌트인 옷장 미확인(프리스탠딩 옷장만 보임), 거실 좌측 벽 얼룩 1곳.<br><br>📐 연식·면적 — 광고에 건축연도·m² 둘 다 없음. 사진 추정: 외부 구축 / 내부 부분 리노, 면적은 &quot;협소하지 않은 표준 2베드&quot;(가구 없는 방이 보통 크기, 복도 과점유 없음). 정확한 m²는 6/13(토) 10:30 inspection 때 직접 확인 항목.<br><br>💰 가격 — $590/주(본드 $2,360). 우리 소스(RapidAPI) 기준 West Leederville 2베드 현재 호가 median $800(표본 5건, 550-900) — $590는 median 대비 약 -26%, 호가 하단권. 표본이 작아 변동은 있지만 이 동네에선 확실히 싼 편(어제 &quot;가성비 미쳤다&quot;던 감각이 숫자로도 확인됨). ※ ACHIEVED(체결가) 아닌 ASKING(호가) snapshot.<br><br>🆚 어제 비교 (441562152, 같은 West Leederville $550) — 네가 &quot;가성비 미쳤다&quot;던 그 매물. 정면 비교: 어제 건 탑층(Level 4) 코너 + 높은 천장 + 동·북·서 3면 뷰 + 거실·안방 둘 다 에어컨 + 엘리베이터라 채광·뷰는 압승. 그러나 ① 공용 세탁실(RED), ② 제목 그대로 6개월 단기계약 — 네가 치명타로 짚은 두 단점이 그대로다. 이 매물($590, +$40)은 그 둘을 다 해소(전용 세탁·계약기간 제한 없음)하고 반려동물·식기세척기·도보 158m가 더 낫지만, 대신 뷰·채광·침실 에어컨을 내줬다. 한 줄 요약: 어제 건 = 화려하지만 결격 / 이건 = 수수하지만 결격 없음.</div>
-    </div>
-  </details>
-  <div class="photos"><img src="imgs_detail/444356216_01.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_02.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_03.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_04.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_05.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_06.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_07.jpg" onerror="this.remove()"></div>
-</div>
-</body></html>
+.photos img{height:240px;border-radius:7px;flex-shrink:0}</style></head><body><div class="note">⬇️ 카드 프로토타입 v2 — 동네·면적 점수화, 매물설명=비교만, 기본 접힘. "상세 보기"를 눌러보세요.</div><div class="card"><div class="chead"><div class="top"><span class="rank">#1</span><span class="price">$590</span></div><div class="addr">5/51-53 Tate Street</div><div class="sub">West Leederville · 2bd</div><div class="badges"><span class="badge z-b">Ⓑ 자전거존</span><span class="badge b-bare">🟢 BARE</span></div><div class="tot">종합 <b>44.6</b> / 67</div><div class="oneliner">🟢 하드우드 전실 + 펫 가능 + 마트·역 도보권의 균형형. 동네(West Leederville 블루칩)·통근 좋고 결격 없음. 대신 침실 에어컨·뷰·수납은 평범.</div></div><details><summary>▼ 상세 보기 (점수 분해 + 비교)</summary><div class="dbody"><div class="sectit">■ 점수 상세</div><div class="item"><div class="ihead"><b>가격</b><span class="iscore">5.75<i>/10</i></span></div><div class="bd"><div class="pp"><span class="ppl">$590 → 3+(700−590)/40</span><span class="ppv pos">+5.75</span></div></div></div><div class="item"><div class="ihead"><b>통근</b><span class="iscore">4.97<i>/10</i></span></div><div class="bd"><div class="pp"><span class="ppl">기본</span><span class="ppv pos">+10.0</span></div><div class="pp"><span class="ppl">시간 25분 (10분당 −1)</span><span class="ppv neg">-2.5</span></div><div class="pp"><span class="ppl">환승 1회</span><span class="ppv neg">-1.0</span></div><div class="pp"><span class="ppl">버스 이용</span><span class="ppv neg">-1.0</span></div><div class="pp"><span class="ppl">역도보 158m (300m당 −1)</span><span class="ppv neg">-0.53</span></div></div><div class="route">🚆 25분(도보 158m): 도보 0.1 km → Cambridge St Before St Leonards Av[83] 7정거장/14 mins → Wellington St Watertown[Yellow CAT] 2정거장/4 mins → 도보 55 m ·환승1회 · ⚡최단 19분(도보 944m)</div></div><div class="item"><div class="ihead"><b>마트</b><span class="iscore">4.4<i>/7</i></span></div><div class="bd"><div class="pp"><span class="ppl">기본</span><span class="ppv pos">+7.0</span></div><div class="pp"><span class="ppl">도보 519m (100m당 −0.5)</span><span class="ppv neg">-2.6</span></div></div><div class="route">도보 519m 8분 (Coles West Leederville)</div></div><div class="item"><div class="ihead"><b>소음</b><span class="iscore">7<i>/7</i></span></div><div class="why">Tate Street는 West Leederville 내부 주거 골목으로 조용한 거리 확인</div></div><div class="item"><div class="ihead"><b>주차</b><span class="iscore">2<i>/2</i></span></div><div class="why">주차 1대</div></div><div class="item"><div class="ihead"><b>동네</b><span class="iscore">2<i>/2</i></span></div><div class="why">West Leederville는 CBD와 Subiaco 사이에 낀 inner-ring 블루칩. 젠트리피케이션이 끝난 안정형 주거지로, Lake Monger·West Leederville역·카페 스트립이 도보권을 받쳐준다. 이 매물(5/51-53 Tate St)은 광고의 &quot;quiet complex&quot; + 발코니 leafy outlook(잔디·성숙한 가로수)으로 보아 대로 안쪽 조용한 라인. 사진상 번화가 소음·어수선함 신호는 없음.</div></div><div class="item"><div class="ihead"><b>안전</b><span class="iscore">5.0<i>/6</i></span></div><div class="why">corridor 아님 · 대로 안쪽 조용한 라인(+0.5) · 쇠창살·게이트 없음 (중립 4.5 출발)</div></div><div class="item"><div class="ihead"><b>면적</b><span class="iscore">2<i>/3</i></span></div><div class="why">광고에 건축연도·m² 둘 다 없음. 사진 추정: 외부 구축 / 내부 부분 리노, 면적은 &quot;협소하지 않은 표준 2베드&quot;(가구 없는 방이 보통 크기, 복도 과점유 없음). 정확한 m²는 6/13(토) 10:30 inspection 때 직접 확인 항목.</div></div><div class="item"><div class="ihead"><b>인테리어</b><span class="iscore">4.5<i>/5</i></span></div><div class="why">거실+침실 전체 짙은 레드-마호가니 하드우드 훌륭(마감 5), 80년대 크림벽돌 −0.5 → 4.5</div></div><div class="item"><div class="ihead"><b>카펫</b><span class="iscore">5<i>/5</i></span></div><div class="why">floor=BARE, 전 공간 하드우드, 카펫 없음</div></div><div class="item"><div class="ihead"><b>detached</b><span class="iscore">1<i>/5</i></span></div><div class="why">2층 복합 아파트, 발코니 나무뷰, 전용 마당 없음</div></div><div class="item"><div class="ihead"><b>감성</b><span class="iscore">0<i>/2</i></span></div><div class="why">외관 70-80년대 크림벽돌 구축(특출 없음), 뷰 없음</div></div><div class="item"><div class="ihead"><b>수납</b><span class="iscore">1<i>/3</i></span></div><div class="why">별도 런드리룸/창고 명시 없음 — BIR만</div></div><div class="sectit">■ 비교</div><div class="compare">🆚 어제 비교 (441562152, 같은 West Leederville $550) — 네가 &quot;가성비 미쳤다&quot;던 그 매물. 정면 비교: 어제 건 탑층(Level 4) 코너 + 높은 천장 + 동·북·서 3면 뷰 + 거실·안방 둘 다 에어컨 + 엘리베이터라 채광·뷰는 압승. 그러나 ① 공용 세탁실(RED), ② 제목 그대로 6개월 단기계약 — 네가 치명타로 짚은 두 단점이 그대로다. 이 매물($590, +$40)은 그 둘을 다 해소(전용 세탁·계약기간 제한 없음)하고 반려동물·식기세척기·도보 158m가 더 낫지만, 대신 뷰·채광·침실 에어컨을 내줬다. 한 줄 요약: 어제 건 = 화려하지만 결격 / 이건 = 수수하지만 결격 없음.</div></div></details><div class="photos"><img src="imgs_detail/444356216_01.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_02.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_03.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_04.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_05.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_06.jpg" onerror="this.remove()"><img src="imgs_detail/444356216_07.jpg" onerror="this.remove()"></div></div></body></html>
