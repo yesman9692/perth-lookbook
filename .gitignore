@@ -1,2 +1,6 @@
 logs/
 .git/
+*_key.txt
+rapidapi_key.txt
+gmaps_key.txt
+.ra_key_state.json
