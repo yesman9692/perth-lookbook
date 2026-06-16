@@ -33,7 +33,7 @@
     "flag": "RED:communal",
     "commute": "🚆 16분(도보 505m): 도보 0.2 km → William St After Monger St[980] 4정거장/7 mins → 도보 0.3 km ·무환승 · 🚲 자전거 5 mins(1.1 km) (Maps)",
     "grocery": "🛒 도보 187m 3분 (Golden Choice Perth Fresh Market)",
-    "amenity": "🏪 amenity:A(클러스터70·최근접176m)"
+    "amenity": "🏪 amenity:A(클러스터70·최근접187m)"
   },
   {
     "id": "444369576",
@@ -81,7 +81,7 @@
     "flag": "",
     "commute": "🚆 18분(도보 720m): 도보 0.5 km → Hay St Perth Mint[Red CAT] 3정거장/7 mins → 도보 0.2 km ·무환승 · 🚲 자전거 9 mins(2.4 km) (Maps)",
     "grocery": "🛒 도보 240m 3분 (OZMART 24 SUPER)",
-    "amenity": "🏪 amenity:A(클러스터52·최근접579m)"
+    "amenity": "🏪 amenity:A(클러스터52·최근접240m)"
   },
   {
     "id": "444386016",
@@ -93,7 +93,7 @@
     "flag": "",
     "commute": "🚆 16분(도보 330m): 도보 85 m → Cleaver St After Carr St[403] 2정거장/11 mins → 도보 0.2 km ·무환승 · 🚲 자전거 11 mins(3.2 km) (Maps)",
     "grocery": "🛒 도보 1110m 15분 (The Good Grocer Leederville IGA)",
-    "amenity": "🏪 amenity:C(클러스터26·최근접849m)"
+    "amenity": "🏪 amenity:C(클러스터26·최근접1110m)"
   },
   {
     "id": "436411272",
@@ -105,7 +105,7 @@
     "flag": " YEL:carpet",
     "commute": "🚆 13분(도보 326m): 도보 81 m → Newcastle St After Strathcona St[403] 1정거장/9 mins → 도보 0.2 km ·무환승 · 🚲 자전거 10 mins(2.8 km) (Maps)",
     "grocery": "🛒 도보 632m 9분 (Tran's Emporium)",
-    "amenity": "🏪 amenity:C(클러스터17·최근접1095m)"
+    "amenity": "🏪 amenity:C(클러스터17·최근접632m)"
   },
   {
     "id": "444339976",
@@ -129,7 +129,7 @@
     "flag": " YEL:furnished",
     "commute": "🚆 13분(도보 433m): 도보 0.3 km → Wellington Square[Yellow CAT] 6정거장/7 mins → 도보 0.1 km ·무환승 · 🚲 자전거 10 mins(2.5 km) (Maps)",
     "grocery": "🛒 도보 470m 7분 (Carlton Fresh)",
-    "amenity": "🏪 amenity:A(클러스터49·최근접656m)"
+    "amenity": "🏪 amenity:A(클러스터49·최근접470m)"
   },
   {
     "id": "444282668",
@@ -153,7 +153,7 @@
     "flag": "",
     "commute": "🚆 14분(도보 506m): 도보 0.3 km → Fitzgerald St Fitzgerald Street[19] 1정거장/7 mins → 도보 0.2 km ·무환승 · 🚲 자전거 4 mins(1.0 km) (Maps)",
     "grocery": "🛒 도보 390m 5분 (Lotus Vegetarian Market)",
-    "amenity": "🏪 amenity:A(클러스터55·최근접499m)"
+    "amenity": "🏪 amenity:A(클러스터55·최근접390m)"
   },
   {
     "id": "439056992",
@@ -177,7 +177,7 @@
     "flag": "",
     "commute": "🚆 7분(도보 140m): 도보 85 m → Wellington St Harold Boas Gardens[Yellow CAT] 3정거장/5 mins → 도보 55 m ·무환승 · 🚲 자전거 8 mins(2.2 km) (Maps)",
     "grocery": "🛒 도보 1169m 16분 (Lotus Vegetarian Market)",
-    "amenity": "🏪 amenity:C(클러스터42·최근접554m)"
+    "amenity": "🏪 amenity:C(클러스터42·최근접1169m)"
   },
   {
     "id": "441045584",
@@ -189,7 +189,7 @@
     "flag": " YEL:furnished,carpet",
     "commute": "🚆 10분(도보 428m): 도보 0.4 km → Wellington St Harold Boas Gardens[Yellow CAT] 3정거장/5 mins → 도보 55 m ·무환승 · 🚲 자전거 7 mins(1.7 km) (Maps)",
     "grocery": "🛒 도보 1539m 21분 (Lotus Vegetarian Market)",
-    "amenity": "🏪 amenity:C(클러스터41·최근접661m)"
+    "amenity": "🏪 amenity:C(클러스터41·최근접1539m)"
   },
   {
     "id": "444332640",
@@ -201,7 +201,7 @@
     "flag": "",
     "commute": "🚆 17분(도보 543m): 도보 0.3 km → William St After Monger St[980] 4정거장/7 mins → 도보 0.3 km ·무환승 · ⚡최단 15분(도보 1056m) · 🚲 자전거 5 mins(1.0 km) (Maps)",
     "grocery": "🛒 도보 327m 4분 (Pure Blue)",
-    "amenity": "🏪 amenity:A(클러스터76·최근접445m)"
+    "amenity": "🏪 amenity:A(클러스터76·최근접327m)"
   },
   {
     "id": "441584688",
@@ -249,7 +249,7 @@
     "flag": "RED:communal",
     "commute": "🚆 33분(도보 536m): 도보 0.3 km → Peninsula Rd After Joseph St[43] 19정거장/24 mins → 도보 0.3 km ·무환승 · 🚲 자전거 21 mins(6.2 km) (Maps)",
     "grocery": "🛒 도보 1128m 16분 (Coles Maylands)",
-    "amenity": "🏪 amenity:D(클러스터2·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터2·최근접1128m)"
   },
   {
     "id": "444330156",
@@ -261,7 +261,7 @@
     "flag": "",
     "commute": "🚆 33분(도보 572m): 도보 0.3 km → Peninsula Rd After Joseph St[43] 19정거장/24 mins → 도보 0.3 km ·무환승 · 🚲 자전거 19 mins(5.5 km) (Maps)",
     "grocery": "🛒 🚌 11분 (Maylands IGA, 현지도보 315m)",
-    "amenity": "🏪 amenity:D(클러스터2·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터2·최근접1385m)"
   },
   {
     "id": "444195016",
@@ -273,7 +273,7 @@
     "flag": "",
     "commute": "🚆 36분(도보 723m): 도보 0.5 km → Peninsula Rd After Joseph St[43] 19정거장/24 mins → 도보 0.3 km ·무환승 · ⚡최단 34분(도보 1729m) · 🚲 자전거 20 mins(5.8 km) (Maps)",
     "grocery": "🛒 도보 815m 12분 (Coles Maylands)",
-    "amenity": "🏪 amenity:D(클러스터2·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터2·최근접815m)"
   },
   {
     "id": "405358406",
@@ -321,7 +321,7 @@
     "flag": "",
     "commute": "🚆 21분(도보 866m): 도보 0.6 km → Maylands[Midland Line] 5정거장/9 mins → 도보 0.3 km ·무환승 · 🚲 자전거 20 mins(5.5 km) (Maps)",
     "grocery": "🛒 도보 625m 9분 (IGA Local Grocer Maylands)",
-    "amenity": "🏪 amenity:A(클러스터28·최근접730m)"
+    "amenity": "🏪 amenity:A(클러스터28·최근접625m)"
   },
   {
     "id": "444356216",
@@ -333,7 +333,7 @@
     "flag": "",
     "commute": "🚆 25분(도보 158m): 도보 0.1 km → Cambridge St Before St Leonards Av[83] 7정거장/14 mins → Wellington St Watertown[Yellow CAT] 2정거장/4 mins → 도보 55 m ·환승1회 · ⚡최단 19분(도보 944m) · 🚲 자전거 11 mins(3.6 km) (Maps)",
     "grocery": "🛒 도보 519m 8분 (Coles West Leederville)",
-    "amenity": "🏪 amenity:A(클러스터29·최근접849m)"
+    "amenity": "🏪 amenity:A(클러스터29·최근접519m)"
   },
   {
     "id": "444230912",
@@ -357,7 +357,7 @@
     "flag": "",
     "commute": "🚆 36분(도보 574m): 도보 0.3 km → Geddes St Before Gloucester St[72] 4정거장/13 mins → 도보 56 m → Adelaide Tce Westend Causeway[960] 9정거장/15 mins → 도보 0.2 km ·환승1회 · ⚡최단 34분(도보 843m) · 🚲 자전거 19 mins(5.3 km) (Maps)",
     "grocery": "🛒 🚌 13분 (IGA Local Grocer Kensington, 현지도보 361m)",
-    "amenity": "🏪 amenity:C(클러스터6·최근접449m)"
+    "amenity": "🏪 amenity:C(클러스터6·최근접1283m)"
   },
   {
     "id": "444418204",
@@ -381,7 +381,7 @@
     "flag": "",
     "commute": "🚆 33분(도보 572m): 도보 0.3 km → Peninsula Rd After Joseph St[43] 19정거장/24 mins → 도보 0.3 km ·무환승 · 🚲 자전거 19 mins(5.5 km) (Maps)",
     "grocery": "🛒 🚌 11분 (Maylands IGA, 현지도보 315m)",
-    "amenity": "🏪 amenity:D(클러스터2·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터2·최근접1385m)"
   },
   {
     "id": "444254684",
@@ -393,7 +393,7 @@
     "flag": "",
     "commute": "🚆 22분(도보 903m): 도보 0.6 km → Maylands[Ellenbrook Line] 5정거장/9 mins → 도보 0.3 km ·무환승 · 🚲 자전거 19 mins(5.5 km) (Maps)",
     "grocery": "🛒 도보 243m 4분 (BHAARAT GROCERIES)",
-    "amenity": "🏪 amenity:A(클러스터36·최근접702m)"
+    "amenity": "🏪 amenity:A(클러스터36·최근접243m)"
   },
   {
     "id": "443548228",
@@ -405,7 +405,7 @@
     "flag": "",
     "commute": "🚆 33분(도보 572m): 도보 0.3 km → Peninsula Rd After Joseph St[43] 19정거장/24 mins → 도보 0.3 km ·무환승 · 🚲 자전거 19 mins(5.5 km) (Maps)",
     "grocery": "🛒 🚌 11분 (Maylands IGA, 현지도보 315m)",
-    "amenity": "🏪 amenity:D(클러스터2·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터2·최근접1385m)"
   },
   {
     "id": "444292312",
@@ -429,7 +429,7 @@
     "flag": "",
     "commute": "🚆 34분(도보 799m): 도보 0.5 km → Peninsula Rd Before East St[43] 17정거장/22 mins → 도보 0.3 km ·무환승 · 🚲 자전거 17 mins(5.0 km) (Maps)",
     "grocery": "🛒 🚌 11분 (BHAARAT GROCERIES, 현지도보 132m)",
-    "amenity": "🏪 amenity:D(클러스터2·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터2·최근접1062m)"
   },
   {
     "id": "437328528",
@@ -465,7 +465,7 @@
     "flag": "",
     "commute": "🚆 32분(도보 541m): 도보 0.3 km → Albany Hwy After Leonard St[960] 13정거장/25 mins → 도보 0.2 km ·무환승 · ⚡최단 30분(도보 1316m) · 🚲 자전거 20 mins(5.5 km) (Maps)",
     "grocery": "🛒 도보 499m 7분 (Perthtao)",
-    "amenity": "🏪 amenity:A(클러스터43·최근접622m)"
+    "amenity": "🏪 amenity:A(클러스터43·최근접499m)"
   },
   {
     "id": "444213448",
@@ -477,7 +477,7 @@
     "flag": " YEL:carpet",
     "commute": "🚆 32분(도보 874m): 도보 0.2 km → Canning Hwy After Taylor St[33] 9정거장/19 mins → 도보 0.6 km ·무환승 · 🚲 자전거 18 mins(4.9 km) (Maps)",
     "grocery": "🛒 🚌 15분 (Perthtao, 현지도보 244m)",
-    "amenity": "🏪 amenity:C(클러스터9·최근접477m)"
+    "amenity": "🏪 amenity:C(클러스터9·최근접1403m)"
   },
   {
     "id": "434853675",
@@ -501,7 +501,7 @@
     "flag": " YEL:carpet",
     "commute": "🚆 21분(도보 386m): 도보 40 m → Canning Hwy Before Cale St[910] 2정거장/3 mins → 도보 18 m → Canning Bridge Station[Mandurah Line] 2정거장/8 mins → 도보 0.3 km ·환승1회 · 🚲 자전거 27 mins(7.6 km) (Maps)",
     "grocery": "🛒 도보 1126m 15분 (Preston Street IGA)",
-    "amenity": "🏪 amenity:C(클러스터7·최근접384m)"
+    "amenity": "🏪 amenity:C(클러스터7·최근접1126m)"
   },
   {
     "id": "444409008",
@@ -537,7 +537,7 @@
     "flag": "",
     "commute": "🚆 22분(도보 943m): 도보 0.7 km → Maylands[Ellenbrook Line] 5정거장/9 mins → 도보 0.3 km ·무환승 · 🚲 자전거 19 mins(4.9 km) (Maps)",
     "grocery": "🛒 도보 702m 10분 (IGA Local Grocer Maylands)",
-    "amenity": "🏪 amenity:A(클러스터28·최근접807m)"
+    "amenity": "🏪 amenity:A(클러스터28·최근접702m)"
   },
   {
     "id": "444400568",
@@ -561,7 +561,7 @@
     "flag": "",
     "commute": "🚆 42분(도보 879m): 도보 0.6 km → Mill Point Rd After Hovia Tce[32] 5정거장/12 mins → 도보 56 m → Adelaide Tce Westend Causeway[960] 9정거장/15 mins → 도보 0.2 km ·환승1회 · 🚲 자전거 23 mins(6.5 km) (Maps)",
     "grocery": "🛒 🚌 26분 (Foodies Market IGA Langley Park East Perth, 현지도보 357m)",
-    "amenity": "🏪 amenity:D(클러스터4·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터4·최근접3585m)"
   },
   {
     "id": "444407028",
@@ -585,7 +585,7 @@
     "flag": "",
     "commute": "🚆 31분(도보 486m): 도보 0.3 km → Albany Hwy After Leonard St[960] 13정거장/25 mins → 도보 0.2 km ·무환승 · ⚡최단 29분(도보 1261m) · 🚲 자전거 20 mins(5.4 km) (Maps)",
     "grocery": "🛒 도보 512m 7분 (Perthtao)",
-    "amenity": "🏪 amenity:A(클러스터44·최근접567m)"
+    "amenity": "🏪 amenity:A(클러스터44·최근접512m)"
   },
   {
     "id": "444325668",
@@ -597,7 +597,7 @@
     "flag": "RED:over55",
     "commute": "🚆 29분(도보 432m): 도보 0.2 km → Albany Hwy Before Geddes St[960] 11정거장/23 mins → 도보 0.2 km ·무환승 · 🚲 자전거 19 mins(5.0 km) (Maps)",
     "grocery": "🛒 도보 444m 6분 (Perthtao)",
-    "amenity": "🏪 amenity:A(클러스터42·최근접768m)"
+    "amenity": "🏪 amenity:A(클러스터42·최근접444m)"
   },
   {
     "id": "444409976",
@@ -621,7 +621,7 @@
     "flag": "",
     "commute": "🚆 31분(도보 567m): 도보 0.3 km → Peninsula Rd Before East St[43] 17정거장/22 mins → 도보 0.3 km ·무환승 · 🚲 자전거 18 mins(5.2 km) (Maps)",
     "grocery": "🛒 도보 872m 13분 (BHAARAT GROCERIES)",
-    "amenity": "🏪 amenity:A(클러스터13·최근접902m)"
+    "amenity": "🏪 amenity:A(클러스터13·최근접872m)"
   },
   {
     "id": "444302888",
@@ -633,7 +633,7 @@
     "flag": "",
     "commute": "🚆 24분(도보 1245m): 도보 1.0 km → Mount Lawley[Ellenbrook Line] 4정거장/7 mins → 도보 0.3 km ·무환승 · 🚲 자전거 17 mins(4.5 km) (Maps)",
     "grocery": "🛒 도보 946m 14분 (The Good Grocer 2nd Ave IGA)",
-    "amenity": "🏪 amenity:C(클러스터8·최근접770m)"
+    "amenity": "🏪 amenity:C(클러스터8·최근접946m)"
   },
   {
     "id": "404271805",
@@ -645,7 +645,7 @@
     "flag": "",
     "commute": "🚆 43분(도보 1257m): 도보 0.6 km → Mill Point Rd Before Brandon St[32] 13정거장/25 mins → 도보 0.6 km ·무환승 · 🚲 자전거 23 mins(6.4 km) (Maps)",
     "grocery": "🛒 🚌 13분 (Angelo Street Market, 현지도보 44m)",
-    "amenity": "🏪 amenity:D(클러스터4·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터4·최근접1730m)"
   },
   {
     "id": "435337479",
@@ -669,7 +669,7 @@
     "flag": " YEL:furnished",
     "commute": "🚆 20분(도보 478m): 도보 0.2 km → Beaufort St After Clarence St[950] 8정거장/12 mins → 도보 0.3 km ·무환승 · 🚲 자전거 9 mins(2.2 km) (Maps)",
     "grocery": "🛒 도보 305m 5분 (The Market Place Mt Lawley IGA)",
-    "amenity": "🏪 amenity:A(클러스터49·최근접459m)"
+    "amenity": "🏪 amenity:A(클러스터49·최근접305m)"
   },
   {
     "id": "437016484",
@@ -705,7 +705,7 @@
     "flag": " YEL:furnished",
     "commute": "🚆 24분(도보 1068m): 도보 0.7 km → Canning Bridge Station[Mandurah Line] 2정거장/8 mins → 도보 0.3 km ·무환승 · 🚲 자전거 32 mins(9.1 km) (Maps)",
     "grocery": "🛒 🚌 9분 (Preston Street IGA, 현지도보 102m)",
-    "amenity": "🏪 amenity:D(클러스터6·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터6·최근접1658m)"
   },
   {
     "id": "444300692",
@@ -753,7 +753,7 @@
     "flag": " YEL:furnished",
     "commute": "🚆 33분(도보 296m): 도보 28 m → Geddes St Before Gloucester St[72] 4정거장/13 mins → 도보 56 m → Adelaide Tce Westend Causeway[960] 9정거장/15 mins → 도보 0.2 km ·환승1회 · 🚲 자전거 20 mins(5.4 km) (Maps)",
     "grocery": "🛒 🚌 11분 (IGA Local Grocer Kensington, 현지도보 512m)",
-    "amenity": "🏪 amenity:C(클러스터7·최근접635m)"
+    "amenity": "🏪 amenity:C(클러스터7·최근접1225m)"
   },
   {
     "id": "444380272",
@@ -765,7 +765,7 @@
     "flag": "",
     "commute": "🚆 18분(도보 345m): 도보 0.1 km → Charles St After Angove St[970] 4정거장/13 mins → 도보 0.2 km ·무환승 · 🚲 자전거 15 mins(4.3 km) (Maps)",
     "grocery": "🛒 도보 973m 14분 (Coles North Perth)",
-    "amenity": "🏪 amenity:D(클러스터30·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터30·최근접973m)"
   },
   {
     "id": "439858516",
@@ -777,7 +777,7 @@
     "flag": " YEL:carpet",
     "commute": "🚆 22분(도보 347m): 도보 0.1 km → Charles St After Selkirk St[970] 8정거장/17 mins → 도보 0.2 km ·무환승 · 🚲 자전거 18 mins(5.2 km) (Maps)",
     "grocery": "🛒 도보 1408m 20분 (Woolworths Mt Hawthorn)",
-    "amenity": "🏪 amenity:C(클러스터13·최근접289m)"
+    "amenity": "🏪 amenity:C(클러스터13·최근접1408m)"
   },
   {
     "id": "444410468",
@@ -801,7 +801,7 @@
     "flag": "",
     "commute": "🚆 41분(도보 1047m): 도보 0.4 km → Mill Point Rd After Pepper St[32] 15정거장/26 mins → 도보 0.6 km ·무환승 · 🚲 자전거 21 mins(5.8 km) (Maps)",
     "grocery": "🛒 🚌 9분 (Angelo Street Market, 현지도보 44m)",
-    "amenity": "🏪 amenity:D(클러스터10·최근접9999m)"
+    "amenity": "🏪 amenity:D(클러스터10·최근접1150m)"
   },
   {
     "id": "444410204",
@@ -813,7 +813,7 @@
     "flag": "",
     "commute": "🚆 49분(도보 448m): 도보 0.2 km → Mount Henry Rd Before Cloister Av[30] 30정거장/43 mins → 도보 0.2 km ·무환승 · ⚡최단 35분(도보 1824m) · 🚲 자전거 34 mins(9.5 km) (Maps)",
     "grocery": "🛒 🚌 27분 (Woolworths Mount Pleasant, 현지도보 84m)",
-    "amenity": "🏪 amenity:C(클러스터18·최근접657m)"
+    "amenity": "🏪 amenity:C(클러스터18·최근접2936m)"
   },
   {
     "id": "444335044",
@@ -825,7 +825,7 @@
     "flag": "",
     "commute": "🚆 49분(도보 448m): 도보 0.2 km → Mount Henry Rd Before Cloister Av[30] 30정거장/43 mins → 도보 0.2 km ·무환승 · ⚡최단 35분(도보 1824m) · 🚲 자전거 34 mins(9.5 km) (Maps)",
     "grocery": "🛒 🚌 27분 (Woolworths Mount Pleasant, 현지도보 84m)",
-    "amenity": "🏪 amenity:C(클러스터18·최근접657m)"
+    "amenity": "🏪 amenity:C(클러스터18·최근접2936m)"
   },
   {
     "id": "444257400",
@@ -837,7 +837,7 @@
     "flag": "",
     "commute": "🚆 24분(도보 585m): 도보 0.2 km → Canning Hwy Before Cale St[910] 2정거장/3 mins → 도보 18 m → Canning Bridge Station[Mandurah Line] 2정거장/8 mins → 도보 0.3 km ·환승1회 · 🚲 자전거 28 mins(7.8 km) (Maps)",
     "grocery": "🛒 🚌 6분 (Preston Street IGA, 현지도보 102m)",
-    "amenity": "🏪 amenity:C(클러스터7·최근접664m)"
+    "amenity": "🏪 amenity:C(클러스터7·최근접1257m)"
   },
   {
     "id": "441393864",
