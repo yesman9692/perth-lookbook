@@ -1,0 +1,224 @@
+{
+  "prettyUrl": "property-unit-wa-maylands-444391576",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0422867291",
+    "phoneNumber": "0422867291",
+    "powerProfile": false,
+    "jobTitle": "Leasing & Investment Support Specialist",
+    "name": "Blake Coonan",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/2c2abb1da45560d000d2e7c5c99bbe35be0598568f3790d9f147d92d6b4b6238/main.jpg"
+    },
+    "id": "3898244",
+    "email": "leasing@mouveasset.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "10/16 Tenth Ave, Maylands, WA 6051 Australia<br/><br/>2 Bedroom,1 Bathroom Apartment in Maylands<br/><br/>Step into these lovely two-bedroom apartments offering unbeatable convenience and a vibrant urban lifestyle. <br/><br/>With easy access to public transport, the Swan River, and the Maylands shopping precinct, everything you need is right at your doorstep. <br/><br/>Just minutes from the bustling energy of Eighth Avenue and Whatley Crescent, you’ll enjoy a thriving selection of trendy cafés, restaurants, bars, boutique shops, and more. <br/><br/>You’re also perfectly positioned near Highgate, Mount Lawley, and Edith Cowan University—making this an ideal home for students, professionals and anyone who loves being close to the action. <br/><br/>Plus, with Maylands Railway Station nearby, you're only moments from the Perth CBD, Northbridge, Elizabeth Quay, and Optus Stadium. <br/><br/>Live connected. Live vibrant. Live Maylands. <br/><br/>FEATURES FOR THE APARTMENT <br/>- Photo's similar to other unit in the complex<br/>- Two spacious bedrooms with built-in-robes <br/>- Freshly painted - New flooring to living and bedrooms <br/>- Brand new kitchens<br/>- Brand new blinds<br/>- Electric cooking appliances <br/>- Open plan kitchen/meals/living<br/>- Split system air-conditioning to living area <br/>- Common laundry facility in complex <br/>- Single allocated car bay available<br/>- Single storage Unit<br/><br/>LEASING INFORMATION:<br/>- Available 21/06/2026 - $520 Per Week <br/>- Properties are leased unfurnished <br/>- Water & Gas is portioned between occupied apartments in the complex and payable by tenants <br/>- Electricity to be paid by tenants directly to utility provider<br/><br/>*Important* Whilst every care is taken in the preparation of the information contained in this marketing, <br/>Mouve Asset Management will not be held liable for any errors in typing or information. All information is considered correct at the time of printing.",
+  "showAgencyLogo": true,
+  "title": "Discover the Perfect Maylands Lifestyle!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0422867291",
+      "phoneNumber": "0422867291",
+      "powerProfile": false,
+      "jobTitle": "Leasing & Investment Support Specialist",
+      "name": "Blake Coonan",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/2c2abb1da45560d000d2e7c5c99bbe35be0598568f3790d9f147d92d6b4b6238/main.jpg"
+      },
+      "id": "3898244",
+      "email": "leasing@mouveasset.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$520 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0d68da4519f19919c6cbe3f2fb5a8c2a70b2210131189c86a1c28c724bcae2db/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0b2a3620578b1be280baa988b4ed9ec6b767ceeae1e972d40afdc015d96fd125/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e13b98570cf327ff4567037572364f0e83997b1fc42d71fb78d60664d0de64b9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e693989ebcf0f8ae9d132ead78fd18fd6cc4fc2171528c1bf1ca36a78fceff2e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/114a1cd4cb225f80a66ecb23360c31ff384235512ed9d334e3c8b50d2b78bdf2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/baad8092f2b2f17a8db977d27f7b459fd5d7a867684148edfe432069c99569c1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c402544c36da6aa9b424d6b2c4b48285b2b988ff4d5dd5fd1909ebfecc0dcae4/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "10/16 Tenth Ave",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.925297,
+      "longitude": 115.89232829
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "53 Bay View Terrace",
+      "postcode": "6010",
+      "suburb": "Claremont",
+      "state": "WA"
+    },
+    "phoneNumber": "0407939931",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#939C85"
+    },
+    "name": "Mouve Asset Managements",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/32a7f4a940740324f834137bd842c4912cbb96f603bce5656c1a2ba621e380c2/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/32a7f4a940740324f834137bd842c4912cbb96f603bce5656c1a2ba621e380c2/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/32a7f4a940740324f834137bd842c4912cbb96f603bce5656c1a2ba621e380c2/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/acbb628586aad1f660f1e5d338f14ea2342596726ff0b89b9fe029d8b97b3436/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/32a7f4a940740324f834137bd842c4912cbb96f603bce5656c1a2ba621e380c2/logo.jpg",
+        "hero image": "/1536x800/acbb628586aad1f660f1e5d338f14ea2342596726ff0b89b9fe029d8b97b3436/main.jpg",
+        "default": "/160x30/32a7f4a940740324f834137bd842c4912cbb96f603bce5656c1a2ba621e380c2/logo.jpg",
+        "large": "/170x32/32a7f4a940740324f834137bd842c4912cbb96f603bce5656c1a2ba621e380c2/logo.jpg"
+      }
+    },
+    "agencyId": "MTVENP",
+    "email": "sarah@mouveasset.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "b46601f565614e629f3944345807ce2f",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Dishwasher",
+        "Floorboards",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444391576",
+  "bond": {
+    "display": "$2,080",
+    "value": 2080
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/889b142c3351b3793be903c7937b451b7dcd48178c775d381b6be4f7c7269dc3/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "22 Jun 2026",
+    "dateDisplay": "22 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

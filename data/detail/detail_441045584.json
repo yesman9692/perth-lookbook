@@ -1,0 +1,229 @@
+{
+  "prettyUrl": "property-apartment-wa-west+perth-441045584",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 6261 0666",
+    "website": "http://www.ppmwa.com",
+    "phoneNumber": "08 6261 0666",
+    "powerProfile": false,
+    "jobTitle": "Director",
+    "name": "Kristy Copping",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/72cdc5324ebf65669acb7963435154afadfe2b224f28902895eb00e159ea5139/main.jpg"
+    },
+    "id": "2679218",
+    "email": "leasing@ppmwa.com"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "**** 6 month lease only ***<br/><br/>Don't miss the opportunity to inspect this PARTLY FURNISHED 2 bedroom 2 bathroom EXCLUSIVE apartment boasting stylish inner city living with amazing lifestyle choices on your doorstep. But be quick, 2x2 apartments offering this type of VALUE are leasing FAST. <br/> <br/>The apartment is situated in a secure complex providing luxurious low maintenance living and convenience. The manicured gardens, large swimming pool, spa and BBQ facilities will provide an amazing place to unwind or entertain guests. <br/> <br/>This stunning apartment boasts fantastic lifestyle choices at your doorstep including parks, restaurants, shops and cafes. Whether you want to grab a coffee (20m), walk to Kings Park (650m), get a bite to eat (250m) or shop in the CBD (1km), everything you need is conveniently located near your new home.<br/> <br/>Apartment features include:<br/>- Stunning and spacious 2x2 apartment offering resort style living and amazing lifestyle options<br/>- Modern open plan dining and living space<br/>- Spacious and homely living room that opens out onto the balcony <br/>- Large kitchen with gas cooking and plenty of storage space <br/>- Generously sized master bedroom with built-in wardrobes and an ensuite.<br/>- Good size second bedroom with a large built-in wardrobes, <br/>- Modern bathrooms<br/>- Great private Balcony perfect for relaxing<br/>- Picturesque gardens with swimming pool and BBQ area, perfect for entertaining family and friends<br/>- European laundry <br/>- Secure complex with intercom system<br/>- Amazing natural light throughout <br/>- Low maintenance floorboard living areas and warm carpet in the bedrooms<br/>- Dedicated car bay<br/>- LOCATION, LOCATION LOCATION! Offering plenty of amazing lifestyle choices. <br/> <br/>This MODERN and SPACIOUS apartments present a fantastic opportunity for a small family, professional single, couple (or friends sharing) looking for a great work-life balance. Don't let this opportunity slip away! Contact the PPM team TODAY on 6261 0666 to book an appointment to view this amazing home! Alternatively, you can schedule a home open through our online booking system by clicking on the \"Book an Inspection Time\" button.<br/> <br/>Perth Property Management, offering Perth Rentals and Property Management Services in Perth and metro suburbs",
+  "showAgencyLogo": true,
+  "title": "RESORT STYLE PARTLY FURNISHED 2X2 INNER CITY HOME OFFERING AMAZING LIFESTYLE CHOICES!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 6261 0666",
+      "website": "http://www.ppmwa.com",
+      "phoneNumber": "08 6261 0666",
+      "powerProfile": false,
+      "jobTitle": "Director",
+      "name": "Kristy Copping",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/72cdc5324ebf65669acb7963435154afadfe2b224f28902895eb00e159ea5139/main.jpg"
+      },
+      "id": "2679218",
+      "email": "leasing@ppmwa.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$750 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/044d335208fe976aba62c5fa904d195ca8f63481dfd9b1e1a5a7ba54addce558/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/150704e78642385822ad6e345cba9d1e74aaf7c1e3b4f18989a1da680fe1ca4a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dd7e2e4330d2e8f7a1238ec6d432ab77ba1a9de674c3658051bbdfeb356aeed2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5f3e04948c80c35eb620b831d6c2f9158bd772b7646dcce84a752d7f40572d58/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b16043ff1c9fa5dd718228734ba27d5f667d64f2074f8177ec8f2a5d21c82df7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d4f5f55431cb4351d1b16456a11ebd2a6ade339f9da28f18fe93e3a36527265d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e72407836e86a07d2818fc2e4bdc150a365d1182e8d515c8102b4245cc092339/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f0a38aec2a70522edc41dc5dedb1b8dcf111a665cd6b7606e2bbd7fa9054dbd0/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "29/2 Mayfair Street",
+    "locality": "West Perth",
+    "postcode": "6005",
+    "suburb": "West Perth",
+    "postCode": "6005",
+    "location": {
+      "latitude": -31.94858,
+      "longitude": 115.84352
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.ppmwa.com",
+    "address": {
+      "streetAddress": "1232 Hay Street",
+      "postcode": "6005",
+      "suburb": "West Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6261 0666",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#84bc03"
+    },
+    "name": "Perth Property Management",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/4f5498e8f18338dde652b6338aa57a25c15bdbdf3fc4c1c606299f532ef91a04/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/4f5498e8f18338dde652b6338aa57a25c15bdbdf3fc4c1c606299f532ef91a04/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/4f5498e8f18338dde652b6338aa57a25c15bdbdf3fc4c1c606299f532ef91a04/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/283f9e32ca2b2d6eb7e22aaf573efa15f7ad13e0873262c30eb2013d9e4cdcb8/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/4f5498e8f18338dde652b6338aa57a25c15bdbdf3fc4c1c606299f532ef91a04/logo.jpg",
+        "hero image": "/1536x800/283f9e32ca2b2d6eb7e22aaf573efa15f7ad13e0873262c30eb2013d9e4cdcb8/main.jpg",
+        "default": "/160x30/4f5498e8f18338dde652b6338aa57a25c15bdbdf3fc4c1c606299f532ef91a04/logo.jpg",
+        "large": "/170x32/4f5498e8f18338dde652b6338aa57a25c15bdbdf3fc4c1c606299f532ef91a04/logo.jpg"
+      }
+    },
+    "agencyId": "SUMTDY",
+    "email": "kristy@ppmwa.com"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R1004889",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Carport: 1",
+        "Swimming Pool - Inground"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Toilets: 2"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "441045584",
+  "bond": {
+    "display": "$3,000",
+    "value": 3000
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/94037f943ed7865bc9f4d929e9902187a1cb12521ac7fdafdb6f2abf8ba8d812/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "22 May 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

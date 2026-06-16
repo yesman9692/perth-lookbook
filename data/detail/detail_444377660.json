@@ -1,0 +1,205 @@
+{
+  "prettyUrl": "property-apartment-wa-victoria+park-444377660",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0418 909 655",
+    "website": "http://www.universalrealty.com.au",
+    "phoneNumber": "0418 909 655",
+    "powerProfile": false,
+    "name": "Universal Realty",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "2067366",
+    "email": "pm@universalrealty.com.au"
+  },
+  "featured": true,
+  "signature": false,
+  "channel": "rent",
+  "description": "This unit is larger than your average 2 bedroom unit in a well maintained complex. Open plan lounge/dining, spacious kitchen with lots of cupboard space and large balcony for entertaining with great views.<br/><br/>Features:<br/>- 2 bedrooms, 1 bathroom<br/>- Own laundry<br/>- Open plan living<br/>- Large balcony with great views<br/>- Lock up store and 1 undercover car bay<br/>- Great location with short walk to cafes, restaurants and Victoria Park Shopping Centre<br/><br/>Please contact our office to arrange a viewing.",
+  "showAgencyLogo": true,
+  "title": "Spacious 2 Bedroom Unit",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0418 909 655",
+      "website": "http://www.universalrealty.com.au",
+      "phoneNumber": "0418 909 655",
+      "powerProfile": false,
+      "name": "Universal Realty",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "2067366",
+      "email": "pm@universalrealty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$620 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "featured",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c71a31669a78bbbe08d965cb3455cc20cb29b4212230a5e13908a16e050c4f93/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e741da747fa0b5d8f567ca2a58fb38171d7fa94c2fac5d5e790a344efc804e2b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1bd793133f8a944548f9c9f5c156b608fd0f4dfdf0bcadd9be62234e40d8aa8e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/249a80e8b7d2e8ebf5433cc019decada003229397d07ef3d0fe0e20af37462d4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5367a7dbff3685a27ad9b2b1fdbb8b4a095cc8d0a1be3fd5ec143f300b540fb1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6ff173f57007e01c79377f027b838ad5d5aa592764d27aa951ba1f29b8f2428e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6fd4d4ddc13ac70bb8fbbe50384f63f4a539d3d08ff6795ffab79f92a82657ef/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "11/26 McMaster Street",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97396,
+      "longitude": 115.89406
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.universalrealty.com.au",
+    "address": {
+      "streetAddress": "115A Riseley Street",
+      "postcode": "6153",
+      "suburb": "Ardross",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9356 3388",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#ffffff"
+    },
+    "name": "Universal Realty",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/339100049b897fb0f1505a2fdb4c17070609fda94fe87cec8fa838b5fb30a8d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/339100049b897fb0f1505a2fdb4c17070609fda94fe87cec8fa838b5fb30a8d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/339100049b897fb0f1505a2fdb4c17070609fda94fe87cec8fa838b5fb30a8d8/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/339100049b897fb0f1505a2fdb4c17070609fda94fe87cec8fa838b5fb30a8d8/logo.jpg",
+        "default": "/160x30/339100049b897fb0f1505a2fdb4c17070609fda94fe87cec8fa838b5fb30a8d8/logo.jpg",
+        "large": "/170x32/339100049b897fb0f1505a2fdb4c17070609fda94fe87cec8fa838b5fb30a8d8/logo.jpg"
+      }
+    },
+    "agencyId": "PUYKEN",
+    "email": "info@universalrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "8bb7fb23-5352-4860-8de9-d63a2fa05a7d",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444377660",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/200b37420462b2c8af700983e2225e008c9dc535deda6cc94a2e629409ecfd6f/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "10 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

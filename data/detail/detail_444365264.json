@@ -1,0 +1,276 @@
+{
+  "prettyUrl": "property-apartment-wa-mount+lawley-444365264",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0433334400",
+    "website": "http://www.avenueone.com.au",
+    "phoneNumber": "0433334400",
+    "powerProfile": false,
+    "jobTitle": "Property Management Team",
+    "name": "Karyn Mathews",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "1626782",
+    "email": "pm1@avenueone.com.au,849.8907@leaddrop.rexsoftware.com"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Less than 2 minutes stroll to the cafes offered in Mount Lawley and Highgate area is this superbly located ground floor 2 bed apartment. <br/><br/>Some of the features which make this delightful home a great place to live include:<br/>* Two generous bedrooms<br/>* Built-in robes<br/>* Renovated bathroom & laundry tiled to ceiling<br/>* Beautiful kitchen with loads of cupboard space<br/>* Quality appliances<br/>* Dishwasher<br/>* Breakfast bar<br/>• Open plan living<br/>* Courtyard for your entertaining<br/>* Air Conditioning<br/>* Secure undercover parking<br/>* Partly furnished<br/><br/>Available now.<br/>Viewings will not disappoint! <br/>Don't miss out, email your enquiries to pm1@avenueone.com.au today.<br/>Sorry, pets not suitable.",
+  "showAgencyLogo": true,
+  "title": "Gorgeous Furnished Apartment in Prime Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0433334400",
+      "website": "http://www.avenueone.com.au",
+      "phoneNumber": "0433334400",
+      "powerProfile": false,
+      "jobTitle": "Property Management Team",
+      "name": "Karyn Mathews",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "1626782",
+      "email": "pm1@avenueone.com.au,849.8907@leaddrop.rexsoftware.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$675 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/26e25861a289dd23bb042b9ef61f6fab4034a39404dce95037f7549f5eecbf2f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/be7948cf1a42fd306be1a3dbfb347a2f413ca54b354a86ce84453a70e28ea728/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/106742f577f66e9c2c4e4283f70740992ce05067e3d53b7fbc72d252bfb8ca4e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b6a0e2d0e22cd03e4a3142e364dfdc5a32c24e4b1f0b8c59cd6b86471209b6ed/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/260b323791c5156740305fb8784147439afc5694613bbef06c39eae1e81998ef/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e778cdf1640a4f48de539cdcf53e817cb0a0918c6f526904a1a8fb62307b1c0e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ef10b22e48406fa2fd1124c45965b298f35ac1c9256bdabb0d0d028c427175c9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a38f37cb3317088ad0407066f891a7e007307dc49b4c171e95f74903ea12914e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5cf450556c9bc3f5e720266adfa886945c4e7a25ef433a3c7ac2767051f54939/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1b49b8e59812e46ef055c022d043f1c8c6bd9aa59d2d0b3b302402f8c5cb9821/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/06c46650695ca7d2c40f19ddcb97040c8384e7a0ee58905238f8d0e24c822797/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/41f51528a1e91cbf0a6d756c241462e91e11fa9df8e88ebeba963ed0a7e5202f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/06db08fe7ac9fbc3007752e77faa1c29407e32630996a6bf066346f646ceb1ff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c563941163a4110d1e00c81f927801e4b4426c98c56c8407c63aa63584f54f83/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f8ca636acdc7d417930b1c06e46bd1ea9fafa23ec2f6d0e408489b2f9827f2fb/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "4/7 Vincent Street",
+    "locality": "Mount Lawley",
+    "postcode": "6050",
+    "suburb": "Mount Lawley",
+    "postCode": "6050",
+    "location": {
+      "latitude": -31.93689,
+      "longitude": 115.86966
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.avenueone.com.au",
+    "address": {
+      "streetAddress": "260 Stirling Street",
+      "postcode": "6000",
+      "suburb": "Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9228 4616",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#BCBDC1"
+    },
+    "name": "Avenue One Property Group - Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/1910761818d709bf3b34689458135287262bdf5ccdff03b76d9710b49668676e/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/1910761818d709bf3b34689458135287262bdf5ccdff03b76d9710b49668676e/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/1910761818d709bf3b34689458135287262bdf5ccdff03b76d9710b49668676e/logo.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/1910761818d709bf3b34689458135287262bdf5ccdff03b76d9710b49668676e/logo.gif",
+        "default": "/160x30/1910761818d709bf3b34689458135287262bdf5ccdff03b76d9710b49668676e/logo.gif",
+        "large": "/170x32/1910761818d709bf3b34689458135287262bdf5ccdff03b76d9710b49668676e/logo.gif"
+      }
+    },
+    "agencyId": "AWPPER",
+    "email": "admin@avenueone.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R2-5138226",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Dishwasher",
+        "Living Areas: 1",
+        "Reverse-cycle Air Conditioning",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Furnished"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444365264",
+  "bond": {
+    "display": "$2,700",
+    "value": 2700
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/24cde240b2031175c32b9c5eecffb7d120dd8d1acce333c427ad722175e315e9/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Jun 2026",
+    "dateDisplay": "16 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Tomorrow",
+      "startTimeDisplay": "4:45 PM",
+      "endTimeDisplay": "5:00 PM",
+      "startTime": "2026-06-17T16:45:00",
+      "endTime": "2026-06-17T17:00:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

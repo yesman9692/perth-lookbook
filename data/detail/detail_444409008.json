@@ -1,0 +1,221 @@
+{
+  "prettyUrl": "property-apartment-wa-mount+lawley-444409008",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0433998975",
+    "website": "http://www.blackburnepropertymanagement.com.au/",
+    "phoneNumber": "0433998975",
+    "powerProfile": false,
+    "jobTitle": "Leasing Executive",
+    "name": "Dana Cirulis",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/5225d0ea2cae56894938e89b3f291219fabc671fac675ddfa31bc7cfb8c56699/main.jpg"
+    },
+    "id": "3046315",
+    "email": "leasing-perth@blackburne.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Live only metres from Beaufort Street within the heart of Mount Lawley in this refurbished two-bedroom unfurnished unit featuring quality fittings throughout. <br/><br/>Features include:<br/>- Split level unit with spacious living/dining and kitchen situated upstairs <br/>- Electric cooking to kitchen with plenty of bench and cupboard space<br/>- Bathroom/laundry combination with connections for you to install your own washing machine<br/>- Two bedrooms, master bedroom with built-in robe<br/>- Great location close to schools and shops<br/><br/>*Note: It is important that you select the 'Book Inspection Time' button and register your details to ensure you receive updates on any unforeseen changes or cancellations of viewing times. Alternatively if no 'Book Inspection Time' option is shown, please send through an enquiry with your details and you will be emailed the available inspection times<br/><br/>The images shown are for illustration purposes only and may not be an exact representation of the fixtures and fittings currently in the property.<br/><br/>Blackburne Property Management are the highest-rated property management company in Perth, delivering exceptional Perth Property Management Services across Perth and metropolitan areas.",
+  "showAgencyLogo": false,
+  "title": "GREAT LOCATION 2 BEDROOM UNIT",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0433998975",
+      "website": "http://www.blackburnepropertymanagement.com.au/",
+      "phoneNumber": "0433998975",
+      "powerProfile": false,
+      "jobTitle": "Leasing Executive",
+      "name": "Dana Cirulis",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/5225d0ea2cae56894938e89b3f291219fabc671fac675ddfa31bc7cfb8c56699/main.jpg"
+      },
+      "id": "3046315",
+      "email": "leasing-perth@blackburne.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$630 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1dcbd041b02443dc489e3e97c78ddd6e441c5305fe84e632217c2f34c5f7d68b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/28b7eeaa3c873ee642ef8eb9a8f01230cd27d9ab9b777cf93ea7bb84eb841c9e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8a572f8f38cc04277c0612961492bff9401e2353a9e2674ee050aaa3edd7bc04/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dfd6c726d5a43c74947190fd06e65592a4e92a90a62c9783bca8857b110c9157/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/76c94d8f6d7f3585dbee508fd791e7370d518d4332842c586a75ccfbb1aecab2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9ed4acfb036f00d61ba8d016e229cac37e81d1e61b15aa72c4f798f65fb31186/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "11/62 Second Avenue",
+    "locality": "Mount Lawley",
+    "postcode": "6050",
+    "suburb": "Mount Lawley",
+    "postCode": "6050",
+    "location": {
+      "latitude": -31.92834457,
+      "longitude": 115.8790126
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.blackburnepropertymanagement.com.au/",
+    "address": {
+      "streetAddress": "Level 1, 10 Rokeby Road",
+      "postcode": "6008",
+      "suburb": "Subiaco",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9429 5777",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#222222"
+    },
+    "name": "Blackburne   - Subiaco",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/5762e3680ef36631db83ba5f8b88983c5a01b967533b84e05ad4ce94a7e07e07/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/5762e3680ef36631db83ba5f8b88983c5a01b967533b84e05ad4ce94a7e07e07/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/5762e3680ef36631db83ba5f8b88983c5a01b967533b84e05ad4ce94a7e07e07/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/f99cc17d36f902d88b65fc38eb901ab58c7788a9e9950a6a5f9df031d7be7fca/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/5762e3680ef36631db83ba5f8b88983c5a01b967533b84e05ad4ce94a7e07e07/logo.jpg",
+        "hero image": "/1536x800/f99cc17d36f902d88b65fc38eb901ab58c7788a9e9950a6a5f9df031d7be7fca/main.jpg",
+        "default": "/160x30/5762e3680ef36631db83ba5f8b88983c5a01b967533b84e05ad4ce94a7e07e07/logo.jpg",
+        "large": "/170x32/5762e3680ef36631db83ba5f8b88983c5a01b967533b84e05ad4ce94a7e07e07/logo.jpg"
+      }
+    },
+    "agencyId": "BLJWES",
+    "email": "pm@blackburne.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R2-5068375",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Carport: 1",
+        "Outdoor Entertaining Area"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Built-in Wardrobes"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444409008",
+  "bond": {
+    "display": "$2,520",
+    "value": 2520
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/8f044a2c065c4dcf099fdbfe31bf59e0c03d193a6ed92ce763a5f4905414ac28/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "20 Jul 2026",
+    "dateDisplay": "20 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

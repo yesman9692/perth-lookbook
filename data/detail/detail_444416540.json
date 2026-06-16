@@ -1,0 +1,270 @@
+{
+  "prettyUrl": "property-apartment-wa-east+perth-444416540",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "08 9225 7000",
+    "website": "http://www.markhay.com.au",
+    "phoneNumber": "08 9225 7000",
+    "powerProfile": false,
+    "name": "Property Management Team",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/7cc4b75f3ecd478df1d6918394d6e885d759cdf64dba6544d410655299fe5e68/main.jpg"
+    },
+    "id": "1706686",
+    "email": "leasing@markhay.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Nestled in the heart of East Perth, this freshly painted 2-bedroom apartment offers a perfect blend of comfort and convenience. Situated on Regal Place, this property presents an ideal opportunity for those seeking a vibrant urban lifestyle. With a spacious layout, the apartment provides ample room to relax and entertain, making it a wonderful choice for couples or small families.<br/><br/>Located just a stone's throw from the picturesque Swan River, you can enjoy leisurely strolls along the waterfront or explore the nearby parks that dot the area. The suburb is well-served by public transport, ensuring easy access to the bustling Perth CBD, along with an array of dining and shopping options.<br/><br/>This apartment also includes a secure garage space, adding an extra layer of convenience. Proximity to quality schools such as Trinity College makes this a compelling option for young families. With its prime location and comfortable living spaces, this property is sure to attract attention. Don't miss your chance to make this charming apartment your new home.<br/><br/>Features:<br/>- Part Furnished - White goods, Dining Table & Chairs, TV <br/>- Double Balcony <br/>- Split system Airconditioning in every room <br/>- Secure Fob access to building <br/>- 1x Allocated Car Bay<br/>- Close to Public Transport & Cafe's<br/><br/>We would love to see you at our next Home Open. To book an inspection, please register your details through the “Book an Inspection” button and confirm your attendance when prompted.<br/> <br/>As we are proactive at leasing properties, home open times are subject to change/cancel due to the property leasing quickly. If your details are registered, you will be notified of any changes. <br/>If you do not confirm your attendance, the viewing may not proceed. To help you secure a rental property, we invite you to hit the 'apply now' button. Thank you.<br/> <br/>Check out our other properties at www.markhay.com.au.",
+  "showAgencyLogo": true,
+  "title": "Charming East Perth Apartment",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9225 7000",
+      "website": "http://www.markhay.com.au",
+      "phoneNumber": "08 9225 7000",
+      "powerProfile": false,
+      "name": "Property Management Team",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/7cc4b75f3ecd478df1d6918394d6e885d759cdf64dba6544d410655299fe5e68/main.jpg"
+      },
+      "id": "1706686",
+      "email": "leasing@markhay.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9e20d93a5a7eee40158433f948bb8ec8601b554a8864674ae87aea044d577bf0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/89405d25cae469df2080c5dc3e117187fe964e0f0afb03b3b0e561c55934f49c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e848096ad64c3d0d28222802af9cd0de7166a58406cbc9c3438493b5830c19ca/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/895a787cb53c4a0426de86164463fd4de9cf5a00690c35dace18f171761a15b8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2a3fdfb34d36fa0f0dab4d3f87c1e32af1342401cb846862878670d84c5cea13/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7220df027c115c87839d8d20d0ad7828ea63695fe7cf1241a865cfd0e6668a52/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/922912f5b4e4aad1be7da0d420593faaab03a8fb84786faf8c8b3ee8f64e8256/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/29d481176935ee1c87f8956ea363ef7ff3e0ba9ac06d9bb8ac0d9d2cbe251f5e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/06cafccd46f545daa02b760b370257eed9372ec758274af5656933dbffac8ef0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e66b8b5bb28f9720149fca981ffc6faae297009686d80e13ab49dd563dd701be/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6f494d66018784313e2b41daa6ec431414e73c0e6964126eb7fddb644f09d527/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/98c3b67cfcd9fa55d3dbe6f9bb7b824af812e6ded4467245bbc137aefb437c80/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9b2f4a81ca2b073a2d0140acaa99056fd5bfe135371a36e9a2e1be22cee6edaa/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9bd49c875921fa6ccba1d421f15c5e4b5809db57f1101c79dfb13e7652e81459/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/47d21ba107a4ae4878f420752f1aa0419f7a6783e297469c184e312cb6900a37/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d71817509c586916ad3766206006186aafcb0a3d5f963f985970b0f12d8a9de4/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "29/11 Regal Place",
+    "locality": "East Perth",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "postCode": "6004",
+    "location": {
+      "latitude": -31.95394,
+      "longitude": 115.87696
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.markhay.com.au",
+    "address": {
+      "streetAddress": "28/118 Royal Street",
+      "postcode": "6004",
+      "suburb": "East Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9225 7000",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#1ab7ea"
+    },
+    "name": "Mark Hay - East Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/642750df3679d327c833c767e348a18705ac94a351c1c7b8d113a321e7760e6d/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif",
+        "hero image": "/1536x800/642750df3679d327c833c767e348a18705ac94a351c1c7b8d113a321e7760e6d/main.gif",
+        "default": "/160x30/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif",
+        "large": "/170x32/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+      }
+    },
+    "agencyId": "MAHEAA",
+    "email": "salesadmin1@markhay.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R2-5143667",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Intercom"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444416540",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/8e5bf4c05b90abdc6529effc2a7763b70315c873d0ee9e598aacfb92f97c86bd/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Jun 2026",
+    "dateDisplay": "16 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

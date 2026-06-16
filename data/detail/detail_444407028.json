@@ -1,0 +1,230 @@
+{
+  "prettyUrl": "property-unit-wa-victoria+park-444407028",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0488533367",
+    "website": "http://www.timeconti.com.au",
+    "phoneNumber": "0488533367",
+    "powerProfile": false,
+    "name": "Amangul Stevenson",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3777704",
+    "email": "rentals@timeconti.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Located in a secure complex this well presented partly furnished 2 bedroom unit features the following:<br/>- Large tiled lounge<br/>- Spacious kitchen with dishwasher, microwave and fridge as well as ample cupboard space<br/>- Air conditioning in the lounge room<br/>- Large bedrooms with built in robes to the main<br/>- Combined bathroom/laundry including tumble dryer and washing machine<br/>- Large balcony<br/>- Undercover parking for one car<br/> <br/>Walking distance to Victoria Park café strip, restaurants, hotels and transport. Minutes to the Crown Entertainment Complex.<br/>Sorry no pets.<br/>Minimum of a 6 month lease<br/>* ****************************** ****************************** ******************************<br/><br/>Important notice:<br/><br/>In order that we can provide you with personalised communication as to viewing times, cancellations and other notifications register your details through the \"Book a Viewing\" button above.<br/><br/>This will ensure that you will be notified if a viewing time has been changed or is cancelled. Thank you.<br/><br/>* ****************************** ****************************** ******************************",
+  "showAgencyLogo": false,
+  "title": "CONVENIENTLY LOCATED!! Some White Goods Provided!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0488533367",
+      "website": "http://www.timeconti.com.au",
+      "phoneNumber": "0488533367",
+      "powerProfile": false,
+      "name": "Amangul Stevenson",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3777704",
+      "email": "rentals@timeconti.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fdced3153b816f1452f8d1f4230c51dc3f989888b96a13ae930436a359e604cd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0ab7810210f300f74cf0bcde93712259753247cad5ee7919af5a7897354199eb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c8c84d315ce3e11ad1b7b551e40d64d4dc8a6491b384b39ffcce4053cd6e0aa5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/704460dfeccd811d0e891b03f060586941de73049b577376ba54c8f810efeda1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/75db22215e68f1a45a741cdaa962c9412a3f10c6fb5e2655bd6e978285fdec7c/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "12/72 King George Street",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97860483,
+      "longitude": 115.89038189
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.timeconti.com.au",
+    "address": {
+      "streetAddress": "338 Albany Hwy",
+      "postcode": "6100",
+      "suburb": "Victoria Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9362 5333",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#882345"
+    },
+    "name": "Time Conti Sheffield - VICTORIA PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/ed62e7d54ad7df7f384dcbc769a78a148336cbcde8b50f7a736ea2c5d6e0d294/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif",
+        "hero image": "/1536x800/ed62e7d54ad7df7f384dcbc769a78a148336cbcde8b50f7a736ea2c5d6e0d294/main.gif",
+        "default": "/160x30/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif",
+        "large": "/170x32/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+      }
+    },
+    "agencyId": "ZWQVTU",
+    "email": "cknight@timeconti.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6645335",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Carport: 1",
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Furnished"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444407028",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/33c73b07dad31eae7154c1f0ed739109bf10b04e03a1c8f0b67526244270bfb5/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "14 Jul 2026",
+    "dateDisplay": "14 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Fri 19 Jun",
+      "startTimeDisplay": "4:15 PM",
+      "endTimeDisplay": "4:30 PM",
+      "startTime": "2026-06-19T16:15:00",
+      "endTime": "2026-06-19T16:30:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

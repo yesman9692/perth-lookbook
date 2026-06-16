@@ -1,0 +1,283 @@
+{
+  "prettyUrl": "property-house-wa-west+leederville-444400568",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9286 3655",
+    "website": "http://https:hohmproperty.com.au",
+    "phoneNumber": "08 9286 3655",
+    "powerProfile": false,
+    "jobTitle": "Residential Property Manager",
+    "name": "Magdalena Abad",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/38fbff211914d4c4ed6537a696cc8cd4fb7f9593d6d039eadf945623eff25608/main.jpg"
+    },
+    "id": "3512080",
+    "email": "leasing@hohmproperty.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to this delightful character home, perfectly positioned in a highly sought-after location close to everything you need.<br/><br/>Offering three well-appointed bedrooms, this home combines charm, comfort, and practicality. The spacious kitchen features ample bench space and storage, making it ideal for family living and entertaining. Large living areas provide plenty of room to relax and enjoy quality time with family and friends.<br/><br/>Outside, you'll find a versatile garage/workshop located at the rear of the property, with convenient side and rear access. The fully fenced backyard offers a secure and private outdoor space, while the high privacy wall surrounding the front garden creates a peaceful retreat and enhances security.<br/><br/>Property Features:<br/><br/>3 well-sized bedrooms<br/>Spacious kitchen with generous bench space and storage<br/>Large and comfortable living areas<br/>Garage/workshop with side and rear access<br/>Fully fenced and secure backyard<br/>Private front garden with high privacy wall<br/>Character features throughout<br/><br/>Prime Location:<br/><br/>Walking distance to Lake Monger<br/>Close to primary schools<br/>Easy access to public transport<br/>Nearby cafés, restaurants, and shopping centres<br/>Convenient access to Perth CBD and surrounding suburbs<br/><br/>This charming home offers the perfect balance of character, space, privacy, and convenience. An excellent opportunity for families, professionals, or anyone looking to enjoy a fantastic lifestyle in a vibrant and well-connected neighborhood.<br/>",
+  "showAgencyLogo": true,
+  "title": "Charming Character Home in an Unbeatable Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9286 3655",
+      "website": "http://https:hohmproperty.com.au",
+      "phoneNumber": "08 9286 3655",
+      "powerProfile": false,
+      "jobTitle": "Residential Property Manager",
+      "name": "Magdalena Abad",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/38fbff211914d4c4ed6537a696cc8cd4fb7f9593d6d039eadf945623eff25608/main.jpg"
+      },
+      "id": "3512080",
+      "email": "leasing@hohmproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 0
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bcfc91815c6a59adbef5338261174f2d2f16f01eef998a70479a9c1fe4f583f5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/38b19d6bc8305a447fddb8da6ea84e9a28b046d81304a003aaeeb7700094f970/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/99e31ebae47a654a98f3b0d91c8fa8d9e7d27bf5bc9df9cda8a38ae8ca1bdbe7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ca6249c9dcb5a81d92219b48b382e0e2744667112d87fe9b342d582bca4472fe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d922ef847c83251896e4b608a55a4c9190b7d7f9988ac423ec226ec1ed1912c8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fa37f7377e80b63514e1f008ad9f7208770704391b4856eb8d3afaeb0947af57/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7c830f28604e83ce121a9256cc23a51a2fbc28ca2f4641554fcab0282c701e5c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8cca991edf345a4ba4e8536f91ad85d19dbbc0ce3b02693a80f5547a1bd98a25/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ab4ba0e8b87b4fbb8c1ede662fcfe85331e6287b674684576d88ab7662fcb5dd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7f4de46d289b6c8630600ccbcbea7cb0e9fe1fed4ec011b52bd8fa3f7b1bf190/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d5f5cba0861bb5f24ac03a7969f22bf3edece75db33fe266b550da9f3aa06828/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aa37df9deea5a753e5afaf71b67c9ededec338595b4e943ae6570d10fe5c8818/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2f4611bc1a3eeaa65bd3892010f0844d9e7dad83de448f763d675b517f65ace2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/17fcf511d314d93123605eac1323cd7a08e467b9f129c6902bdbb445a89cdb27/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/26e398746118b1049bb095dc8fe613f4ab8ff9bfbc3832f3a1c88c192156769d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5c5276bb001e06064e94e804e47da0f7a8f29cdc3eaafb9f49c6a991b2b64d5a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5f0c90b8b602eca346f4d821e91e1d85d66f41498ea9b9e5280ae66121b99933/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5daa4d52040fecc3a5b59800a7a0fc456f581e226f5d8d86fef405bcd6b6d89e/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "94 Kimberley Street",
+    "locality": "West Leederville",
+    "postcode": "6007",
+    "suburb": "West Leederville",
+    "postCode": "6007",
+    "location": {
+      "latitude": -31.93742,
+      "longitude": 115.83491
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://https:hohmproperty.com.au",
+    "address": {
+      "streetAddress": "303 Stirling Highway",
+      "postcode": "6010",
+      "suburb": "Claremont",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9286 3655",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#4F7081"
+    },
+    "name": "hohm Property Group",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/8ebb1bb9d67fcd19f10d3fe42820223594274fed712b35e910aca442ba54211d/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/8ebb1bb9d67fcd19f10d3fe42820223594274fed712b35e910aca442ba54211d/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/8ebb1bb9d67fcd19f10d3fe42820223594274fed712b35e910aca442ba54211d/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2c7d513661fdb9bf626014f34ced009c7f81f183f1b8aa9fed6e374a58f49e99/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/8ebb1bb9d67fcd19f10d3fe42820223594274fed712b35e910aca442ba54211d/logo.jpg",
+        "hero image": "/1536x800/2c7d513661fdb9bf626014f34ced009c7f81f183f1b8aa9fed6e374a58f49e99/main.jpg",
+        "default": "/160x30/8ebb1bb9d67fcd19f10d3fe42820223594274fed712b35e910aca442ba54211d/logo.jpg",
+        "large": "/170x32/8ebb1bb9d67fcd19f10d3fe42820223594274fed712b35e910aca442ba54211d/logo.jpg"
+      }
+    },
+    "agencyId": "ABGCLA",
+    "email": "kylied@edisonmcgrath.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "100P15457",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444400568",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/cc4793b8fba44da79997ffc22ea0a41fa903429f528b01750416fda085d14487/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "15 Jul 2026",
+    "dateDisplay": "15 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Tomorrow",
+      "startTimeDisplay": "4:00 PM",
+      "endTimeDisplay": "4:15 PM",
+      "startTime": "2026-06-17T16:00:00",
+      "endTime": "2026-06-17T16:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

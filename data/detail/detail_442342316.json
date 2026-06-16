@@ -1,0 +1,228 @@
+{
+  "prettyUrl": "property-house-wa-maylands-442342316",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0433506800",
+    "website": "http://www.perthrealty.com.au",
+    "phoneNumber": "0433506800",
+    "powerProfile": false,
+    "jobTitle": "Leasing Department",
+    "name": "Leasing Department",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/4bb1d7557818c7093fba997170ecc9fad783c1bc20a8ca5be4097f01c88f18fe/main.jpg"
+    },
+    "id": "2573574",
+    "email": "viewings@perthrealty.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Simple Home in Convenient Maylands Location<br/><br/>Located at 179C Railway Parade, Maylands, this property offers a basic and practical home in a very convenient location.<br/><br/>The home includes a functional layout with a combined living and dining area, a basic kitchen, and well-sized bedrooms. It is suitable for tenants looking for a straightforward place to live.<br/><br/>Close to public transport, local shops, cafes, and with easy access to the Perth CBD, the location is the main highlight of this property.<br/><br/>Key features:<br/><br/>* Simple, functional home<br/>* Practical kitchen and living area<br/>* Good-sized bedrooms<br/>* Convenient location close to transport and amenities<br/>* Easy access to Perth CBD<br/><br/>Ideal for tenants seeking a home in a central location.<br/><br/>*Information Disclaimer: This advertisement has been prepared for marketing purposes only. It is believed to be reliable and accurate, but clients must make their own independent enquiries about the information included in this document.<br/><br/>Perth Realty Group provides this information without any express or implied warranty as to its accuracy or currency. Perth Realty Group accepts no responsibility for the results of any actions taken, or reliance placed upon this document by a client.<br/><br/>SCAM ALERT - Perth Realty Group is managing this property on behalf of the owner. Be aware that a scammer may act as if they are the owner of this property. Be careful - do NOT pay any money unless a lease has been signed and everything has been verified with our office. If you have any concerns, please call us on 08 9473 4888.<br/>",
+  "showAgencyLogo": true,
+  "title": "Spacious 3-Bedroom Townhouse - Central Maylands Convenience",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0433506800",
+      "website": "http://www.perthrealty.com.au",
+      "phoneNumber": "0433506800",
+      "powerProfile": false,
+      "jobTitle": "Leasing Department",
+      "name": "Leasing Department",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/4bb1d7557818c7093fba997170ecc9fad783c1bc20a8ca5be4097f01c88f18fe/main.jpg"
+      },
+      "id": "2573574",
+      "email": "viewings@perthrealty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$580 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1d56a29c3e3efeff4092edbbba1dc881f4ac6ba718c630c179dde0d2cd1511f8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6b21ee714c837b25a4b356fa4613ddcf9b47414ab2036fd61e8f9757ccd329af/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a65b42fbad9257e3aaac20e0c3b77ca91bc800cb773f6d9a06ce3130d4efe7af/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f1989cb64414d4f7299f4022caf3be3fe685b6c90fd59fa49c31641978896e7e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9bfa80d1d4a3d89c20392c68d9aa8f70c60b701a00dce278eb1322739149cdb4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e07fad171b23cb80c63823d159abd330c21ffd036d587ad07a450553e23cbb17/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6917039c60fb13d7cfb5f0b497bc9018bc9e32748b25f9c14a91ce5828bd72f5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/14be072090f925a570dad80e300cbae36310098654b5298fcdf68712af4bdaa9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/61fde2f837fe31ca6ae5d50f730506c0caf19960fe76d40a1b7a5f70356e3ab7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/abde3f887fb216fb9bbfc9daf503b6dec78af48f74576cff79f5db2afec909ba/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "179C Railway Parade",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.92998,
+      "longitude": 115.88848
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.perthrealty.com.au",
+    "address": {
+      "streetAddress": "28/168 Guildford Road",
+      "postcode": "6051",
+      "suburb": "Maylands",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9473 4888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#fefefe"
+    },
+    "name": "Perth Realty Group - Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/5e619d501d8204c9ae5a8dc6a81e1309824edff14e64faa96f05609d1131e9c1/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg",
+        "hero image": "/1536x800/5e619d501d8204c9ae5a8dc6a81e1309824edff14e64faa96f05609d1131e9c1/main.jpg",
+        "default": "/160x30/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg",
+        "large": "/170x32/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+      }
+    },
+    "agencyId": "ROYMAY",
+    "email": "admin@perthrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3974196",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "442342316",
+  "bond": {
+    "display": "$2,320",
+    "value": 2320
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/b47d70744cacf9459a9c4b3a0d80d08f10aed8cbe84b7e769e9557a35c2ca8b1/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "20 May 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

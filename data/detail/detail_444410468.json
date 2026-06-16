@@ -1,0 +1,289 @@
+{
+  "prettyUrl": "property-unit-wa-mount+lawley-444410468",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9271 2777",
+    "website": "http://www.ntypropertygroup.com",
+    "phoneNumber": "08 9271 2777",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Renae Turner",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/b2e4c8b4f975862fd9245d7dc10839cb03bf74b477fc6e54e507e63b7eab80e4/main.jpg"
+    },
+    "id": "3470856",
+    "email": "pm4@ntypropertygroup.com"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This home is located in the heart of Mount Lawley, walking distance from many cafes, bars and restaurants. Enjoy boutique shopping along Beaufort St. Perth CBD is just minutes away by car and it is located with easy access to public transport. <br/><br/>Features Include; <br/>- Two bedrooms with built in robes<br/>- Lounge area <br/>- Additional area that can be utilised as a second lounge area or study<br/>- One bathroom with bathtub<br/>- Kitchen/meals area with gas cook top<br/>- Internal laundry<br/>- High ceilings and floor boards <br/>- Courtyard<br/>- Parking at the rear<br/>- Unfurnished<br/><br/>Primary Schools:<br/>Highgate Primary School (0.9 km)<br/>Mount Lawley Primary School (1.0 km)<br/><br/>Secondary Schools:<br/>Mount Lawley Senior High School (1.4 km)<br/>Bob Hawke College (3.8 km)<br/><br/>*If there are no home open times listed on the advert, please email the agent using the “contact agent” button and we will let you know when the next home open time is.",
+  "showAgencyLogo": true,
+  "title": "Two bedroom Character Home!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9271 2777",
+      "website": "http://www.ntypropertygroup.com",
+      "phoneNumber": "08 9271 2777",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Renae Turner",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/b2e4c8b4f975862fd9245d7dc10839cb03bf74b477fc6e54e507e63b7eab80e4/main.jpg"
+      },
+      "id": "3470856",
+      "email": "pm4@ntypropertygroup.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/60546d44bf36ed32224047035dbec247ad38b7a1b290690c8b96f39bb855b701/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/de3bb355cc3a770cd42172217db69aadb134b8af9e67819db2c9d403b657de67/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/38a30684c9ee859db48371abbe8c088964f660158e54d81b13875568f3319810/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/036bafa7bb84b056ff86c8bd1fbdc46da5c64858954c73c8722363e4c8a40414/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5c176f51c98bd05f4eaf824731f840f8f31b0c17ccfb6ffc4599f80b176135ad/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0ba288f5e4fed78ede5587d92e91f1e89f76f45e7ae0ee0d2738c61fe939c98c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3040c697378706059cdd63b06cafabf9de3b6518a83902960b0b44bb9fdbe5b8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2329e8cc2b63d2d0fa974661c79de2c88fdcc218c6b390319a4e0cdf0767644f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e91902a2e9fb406dee6cfe653daa2a80805262cc8cf488e8141555f2074f5fe2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ec41e00fee2dd2107c532746d7df4da998c0982f2d5ba66c81507c3396f16975/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d47044b377d8ed85170a5820253a211dc78e548a338b439b1f8a7eac89060ee1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/65910796fa6faa2d7305c6f26e1884e0752cfa200c6c7e32438d1d8bac0f6322/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c0b68c6e4deae7c60cced1fda63c3df47dc6086e0f1f3487075dd06dd9045753/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e4eac1756d44ff755eaa2bbbb73ed96624b22d3ffa1c65125afa01dd23b65b58/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/463c8975aaa4c89d994f02e521ea8d36ca6f3831e99bb87af1741a9507fb831b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2d347e4504ea3514ee4a53b7bba7ee6905129ce88cd37318b5f0e631056a81d9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/25cf60b36c6e270fa2eb35aa077c3defbbe79170839fb0de6d6fd4804a164a23/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f838d730d0428e04874bca217ebe81f7443921220b0f89eab620b3fd2314c71b/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "89 Walcott Street",
+    "locality": "Mount Lawley",
+    "postcode": "6050",
+    "suburb": "Mount Lawley",
+    "postCode": "6050",
+    "location": {
+      "latitude": -31.93342512,
+      "longitude": 115.8703735
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.ntypropertygroup.com",
+    "address": {
+      "streetAddress": "170 Whatley Crescent",
+      "postcode": "6051",
+      "suburb": "Maylands",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9271 2777",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#003973"
+    },
+    "name": "NTY Property Group Maylands - MAYLANDS",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/81b14e63ef2b11064597600cea79622f697283a52ae688f6800a99508cccd170/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/81b14e63ef2b11064597600cea79622f697283a52ae688f6800a99508cccd170/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/81b14e63ef2b11064597600cea79622f697283a52ae688f6800a99508cccd170/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/eb7565d94077096fd7eb75fca227bb2f27688a611c593566cca6bd209b7ae75f/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/81b14e63ef2b11064597600cea79622f697283a52ae688f6800a99508cccd170/logo.jpg",
+        "hero image": "/1536x800/eb7565d94077096fd7eb75fca227bb2f27688a611c593566cca6bd209b7ae75f/main.jpg",
+        "default": "/160x30/81b14e63ef2b11064597600cea79622f697283a52ae688f6800a99508cccd170/logo.jpg",
+        "large": "/170x32/81b14e63ef2b11064597600cea79622f697283a52ae688f6800a99508cccd170/logo.jpg"
+      }
+    },
+    "agencyId": "NTYEAS",
+    "email": "salesadmin@ntypropertygroup.com"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R2-5143051",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Living Areas: 2",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444410468",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/7ecd4dc580f45a45a537d2e2fa5195eddcda39347bcff2444a7f6a7934a585b9/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "22 Jun 2026",
+    "dateDisplay": "22 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Thu 18 Jun",
+      "startTimeDisplay": "2:00 PM",
+      "endTimeDisplay": "2:15 PM",
+      "startTime": "2026-06-18T14:00:00",
+      "endTime": "2026-06-18T14:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

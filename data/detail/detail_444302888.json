@@ -1,0 +1,273 @@
+{
+  "prettyUrl": "property-apartment-wa-mount+lawley-444302888",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0411371300",
+    "website": "http://www.bellcourtproperty.com.au",
+    "phoneNumber": "0411371300",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Anish Patel",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/93d7797b8915f2cc5fc5da646ccf54630acb4f20215787acf49c414255491f03/main.jpg"
+    },
+    "id": "3379548",
+    "email": "mountlawleypm@bellcourtproperty.com.au,5083.59961@leaddrop.rexsoftware.com"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This well-maintained property offers comfortable living in a convenient and family-friendly location. This home offers easy everyday living with everything you need just moments away. Don't miss the opportunity to make this property your next home!<br/><br/>Features:<br/><br/>- Spacious bedrooms with built-in wardrobes.<br/>- Bright open-plan living and dining area.<br/>- Modern kitchen with quality appliances.<br/>- Air conditioning/heating for year-round comfort.<br/>- Stylish bathroom & laundry combined.<br/>- Private outdoor entertaining area/backyard.<br/>- Secure parking.<br/><br/>Ideally located close to public transport, major roads, shops, cafés, and restaurants for everyday convenience. Enjoy nearby parks, walking trails, schools, and essential local amenities just minutes away.<br/><br/>- Registration not required to attend Home Open<br/>- Applications needs to be submitted through realestate.com.au<br/>- Only applications from those who have attended a viewing will be considered<br/>- Viewing times as advertised. Confirmation is not required.",
+  "showAgencyLogo": true,
+  "title": "Partly Furnished Modern Flat in Sought-After Mount Lawley!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0411371300",
+      "website": "http://www.bellcourtproperty.com.au",
+      "phoneNumber": "0411371300",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Anish Patel",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/93d7797b8915f2cc5fc5da646ccf54630acb4f20215787acf49c414255491f03/main.jpg"
+      },
+      "id": "3379548",
+      "email": "mountlawleypm@bellcourtproperty.com.au,5083.59961@leaddrop.rexsoftware.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$660 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bab116cc5560e0c2bc7381b1aa49b6c5bc7f3fdea984b2ea54b74ef6720f145f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/de09de5942a22908ef1fb1fb7ab1d721e2831e719ac068485bf226257bbd8a5f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/27a50b1b3a4619373a6acf40791ba707133adc63ffec93a50168613f9aa4877a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7ed00224a1cfac95c7feb79698a5eda8f7225431e84271d85c511614f4f3c18a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f9b30d4c68a525bc0e35023a4136f113aa186cfaabc8c14a61ebec470cd41e4f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/66e5f40d960e290448cb2d4d0910f053b24a7e4c8d2023c369cf70d4237782d5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5a201e10f4b472b5dd768ad71b40dcf0d7506d83eefd098bd7d8119de025b7af/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/11e5b6cae9ad47ff4844b448524495245fa977d1a2ecf043a3d9d674bf4307d6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d0fabda0b22d504f4f0f29957f657b15c5b131d5c1e314a2fb649ad106597d27/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ae69b9030910b9a71ab0cd6f04dd6abe7cb3006bdf5605eb3900397aa12fd5a2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2309c30297a614c0c48ae7617da02c6d9e181c08312d2ca5c9df14100a71bb0d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fbcb74780b96edf33901a4e80fa4171328ea991e0a68b79c60f815baed51697a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b4f7a302a5b6151357a62c3a37af5c364e4ea63783b34381410f3c905df5d2cc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/635c63965938f476a03c4dedacc2c3d1fba83ea3c073fd37f36b93f616ff1444/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8b973aa5333750135f7632c9cdd33de77da160b742c62f989b4ef0f0c03fd4ea/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/44d809bf3ddb35114bd35b7aff541c5bdabf4a4840f49c9c4242b023d91361d1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/efc6993b4d144f6ff35ad9ca87c63b5ad91aab88fe1ecae16ba144803526ecfb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/17899392e40024ed1a913924ee57e1110c0691ec501f39afb5ea8b79544b5bfb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3531b8826a7961c8fc6b5e7f9447d3f2ec5b903f623b884aa75c735cb40c9da3/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "2/25 Fourth Avenue",
+    "locality": "Mount Lawley",
+    "postcode": "6050",
+    "suburb": "Mount Lawley",
+    "postCode": "6050",
+    "location": {
+      "latitude": -31.93010215,
+      "longitude": 115.88405577
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.bellcourtproperty.com.au",
+    "address": {
+      "streetAddress": "291 Walcott Street",
+      "postcode": "6006",
+      "suburb": "North Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6141 7848",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#28272c"
+    },
+    "name": "Bellcourt Property Group - MOUNT LAWLEY",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/a20d46948e27a7931596d64910a351d18001b785a26fff7333bb2396b192161a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/a20d46948e27a7931596d64910a351d18001b785a26fff7333bb2396b192161a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/a20d46948e27a7931596d64910a351d18001b785a26fff7333bb2396b192161a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/0cedc68fcf5362bb8dd5c69f0741b69abb79be87c43938ccd22589669c95fb37/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/a20d46948e27a7931596d64910a351d18001b785a26fff7333bb2396b192161a/logo.jpg",
+        "hero image": "/1536x800/0cedc68fcf5362bb8dd5c69f0741b69abb79be87c43938ccd22589669c95fb37/main.jpg",
+        "default": "/160x30/a20d46948e27a7931596d64910a351d18001b785a26fff7333bb2396b192161a/logo.jpg",
+        "large": "/170x32/a20d46948e27a7931596d64910a351d18001b785a26fff7333bb2396b192161a/logo.jpg"
+      }
+    },
+    "agencyId": "MHBJKH",
+    "email": "mountlawley@bellcourtproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R2-5122512",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444302888",
+  "bond": {
+    "display": "$2,640",
+    "value": 2640
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/848e5e1e9a96b58119c27616ce302e31e6b59dbb8d672b53cd601ef8a7ec1227/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "10 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

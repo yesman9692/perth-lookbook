@@ -1,0 +1,194 @@
+{
+  "prettyUrl": "property-unit-wa-east+perth-444114592",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0412638105",
+    "phoneNumber": "0412638105",
+    "powerProfile": false,
+    "name": "Kristin Clarke",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3938988",
+    "email": "leasingwa@drpm.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to this charming and cozy property located in East Perth. This property offers a homely atmosphere and is ideal for individuals looking for a comfortable living space. The property is conveniently located near local amenities, making it easily accessible for daily needs.<br/><br/>Key Features:<br/>- 2 Bedrooms<br/>- Bathroom <br/>- Laundry<br/>- Secure building<br/>- Accessible location<br/><br/>This property is perfect for those seeking a peaceful and secure living environment in a prime East Perth location. Register your interest to be notified when home opens are scheduled. <br/><br/>Dilleen Property Group of companies have taken all care in preparing this information and used their best endeavours to ensure that the information contained therein is true and accurate, but accept no responsibility and disclaim all liability in respect of any errors, inaccuracies or misstatements contained herein. Dilleen Property Group of companies urge prospective purchasers to make their own inquiries to verify the information contained herein.",
+  "showAgencyLogo": true,
+  "title": "Prime East Perth Property: Your Cozy Haven Awaits!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0412638105",
+      "phoneNumber": "0412638105",
+      "powerProfile": false,
+      "name": "Kristin Clarke",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3938988",
+      "email": "leasingwa@drpm.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 0
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d41f373e053a79b5618d149ce9e23f160ee6e9c0bdd1d0caa2360fe0434e8a5a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b221902135e7912737d365cf7078463e2034352b21cafaa926eb5beac0a788e5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9993e44bc6c1edf636acd4b373ff561a86adcc3441f4da83f3b079a19fbf5fe4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/efdc0f2e9d1d54d9d7825640280bea5795cc87f08e7bdc0eb62270099a5c8977/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/45e7deb7350b7880276c07e4b33a838329ce2272df3a01a75fed4492847ccd71/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/577ef29396432cb7c5995177f6cfae3d5252ce30172dd6dc61bb9fcb12d90b5b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/322f2d57f603c346fbdb7574bee0efd77b3f1e860bd278b40660778f10f55bcf/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "11/273 Hay Street",
+    "locality": "East Perth",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "postCode": "6004",
+    "location": {
+      "latitude": -31.95830704,
+      "longitude": 115.87026438
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "7/29 Logan River Rd",
+      "postcode": "4207",
+      "suburb": "Beenleigh",
+      "state": "QLD"
+    },
+    "phoneNumber": "07 3063 7676",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#fffffe"
+    },
+    "name": "D R Property Management",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/1e27036f82b61fbc9a808923d9a3a0e9518047fca3aa66fcd9e89e8af79a6204/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/1e27036f82b61fbc9a808923d9a3a0e9518047fca3aa66fcd9e89e8af79a6204/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/1e27036f82b61fbc9a808923d9a3a0e9518047fca3aa66fcd9e89e8af79a6204/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/a138a135f7831e437daaeee5ca31182879c59defbe49830c708eabb8a5d3843e/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/1e27036f82b61fbc9a808923d9a3a0e9518047fca3aa66fcd9e89e8af79a6204/logo.jpg",
+        "hero image": "/1536x800/a138a135f7831e437daaeee5ca31182879c59defbe49830c708eabb8a5d3843e/main.jpg",
+        "default": "/160x30/1e27036f82b61fbc9a808923d9a3a0e9518047fca3aa66fcd9e89e8af79a6204/logo.jpg",
+        "large": "/170x32/1e27036f82b61fbc9a808923d9a3a0e9518047fca3aa66fcd9e89e8af79a6204/logo.jpg"
+      }
+    },
+    "agencyId": "JVJTGA",
+    "email": "admin@drpm.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE6000668",
+  "listingId": "444114592",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/55a4a1a32c1fb1f898c758edd7b73797f879d3391b453068524a62d402f79ef1/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "04 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

@@ -1,0 +1,255 @@
+{
+  "prettyUrl": "property-unit-wa-victoria+park-444097840",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0466802066",
+    "phoneNumber": "0466802066",
+    "powerProfile": false,
+    "jobTitle": "Property Consultant",
+    "name": "Christopher Nonis",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/48927666f5ad77f70d99f026c13250db00a4644af762bf4f08cd050bcd78fa96/main.jpg"
+    },
+    "id": "3922244",
+    "email": "christopher@broadview.net.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Step into this beautifully renovated 2-bedroom, 2-bathroom unit, designed to offer comfort, space, and modern convenience. With high ceilings and generous room proportions throughout, this home is ideal for tenants seeking a low-maintenance lifestyle without compromising on quality.<br/><br/>Property Features: <br/><br/>- Fully renovated & freshly painted throughout the property <br/>- Two generously sized carpeted bedrooms with high ceilings – both rooms offer plenty of space and natural light<br/>- Modern and large bathrooms - Well-appointed showers, toilets, vanities and mirrors<br/>- AC: Split Reverse Cycle AC for each bedroom and the living area<br/>- Spacious open-plan living area – perfect for both relaxing and entertaining<br/>- Kitchen: Designed for functionality with ample bench space and quality kitchen appliances such as a rangehood, electric cooktop and oven. <br/>- Laundry: Spacious laundry area which features a laundry sink, a linen cupboard for extra storage and an additional toilet in the laundry. <br/>- Front Lounge: ideal for an additional living area or workspace.<br/>- Camera: An intercom camera system which allows you to screen visitors<br/>- Security: Secure keypad entry offering both convenience and peace of mind. <br/><br/>Nearest Amenities Nearby (approx.): <br/><br/>- Walking distance to nearby eateries<br/>- 350m to Victoria Park Central<br/>- 450m to Victoria Park Primary School<br/>- 500m to Ursula Frayne Catholic College<br/>- 1.1km to Raphael Park<br/>- 3.0km to Optus Stadium<br/>- 4.0km to Bunnings East Victoria Park<br/>- 4.2km to Curtin University<br/><br/>Disclaimer: The information provided in this rental advertisement is intended as a guide only. While we aim to ensure all details are correct at the time of listing, they may change without notice. Prospective tenants should rely on their own enquiries and inspections to confirm the accuracy of the information provided.",
+  "showAgencyLogo": true,
+  "title": "Fully Renovated 2x2 Unit I Spacious and Move-in Ready!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0466802066",
+      "phoneNumber": "0466802066",
+      "powerProfile": false,
+      "jobTitle": "Property Consultant",
+      "name": "Christopher Nonis",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/48927666f5ad77f70d99f026c13250db00a4644af762bf4f08cd050bcd78fa96/main.jpg"
+      },
+      "id": "3922244",
+      "email": "christopher@broadview.net.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkingSpaces": 0
+    }
+  },
+  "price": {
+    "display": "$690 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6507433d5cbc31aa36214a8d7dcd82350d10b66c9b8588414acd68315dc0dcd0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9edf9ba36be85fa638d3092ec83e98263e5b090d707d51e5013b8c2d1c0020ec/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a39edfb33efdfce6cb2ee60948f155bfb082824ff9e9be94a4a9d0c4906c552c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a03d09c11203d3afbc89bddad04102fccb092ce38f7379a42886083d545509db/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ecd6ace125e005588f2fedc0bd6bbea5d20eb5cf4d61eec846fcbd9911982f58/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3915b130a76b076b4901208b21dd42bbf24fcf78f58afbae5b7f8791e163a4ce/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/df687f8c34a0777b0bb728e602b8b45fb99f07bf0651011a9c6c156c56832423/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/80d418526a04e270539d08da1b6a0fc54b5ca612160dbe2358607279d4122906/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b087410207c0a81f3ad96c70ada7e4ff84bf8e715325f2f649c6bf6ff21dca07/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a1d4cd2821962143b28adc73372d037af0046be579e6c2e1a64e791970cd412a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f355c82562472b5a6359d396361e4e7147e0426b5849cf969cd2dd9d621be4d4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/484b3fb00fa0c0e611a7c7324596fff60d69aedc854468b426895be036aedaef/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/af1ce5c85fcd9875be1206e3a44345bb345295c037b2a2138f6d4fc8fb2ae580/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d20786b444c1f28c54109febe134c68ed4a0b3bdec67bf805af06807cd43e25e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f9fd5b002eb7d409fef05df5fc96416b5cc05fa6649467fcf9b5e3ecb56d9cc2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/35b7334335190c1947d83eed89a7a0ace9b668c8afac265230cc81bbc913d211/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "4/335 Albany Highway",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97342,
+      "longitude": 115.89628
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "Unit 6/184 Raleigh Street",
+      "postcode": "6101",
+      "suburb": "Carlisle",
+      "state": "WA"
+    },
+    "phoneNumber": "0432104675",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "BVRE",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/0070d04325b026e9ad0421f70d4e726e88d323b2e32487ce5b7483773f34f590/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/0070d04325b026e9ad0421f70d4e726e88d323b2e32487ce5b7483773f34f590/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/0070d04325b026e9ad0421f70d4e726e88d323b2e32487ce5b7483773f34f590/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2f00b8f710d57cb9a459640e3fde488317f1523d9aa752786efb275ebb9a7714/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/0070d04325b026e9ad0421f70d4e726e88d323b2e32487ce5b7483773f34f590/logo.jpg",
+        "hero image": "/1536x800/2f00b8f710d57cb9a459640e3fde488317f1523d9aa752786efb275ebb9a7714/main.jpg",
+        "default": "/160x30/0070d04325b026e9ad0421f70d4e726e88d323b2e32487ce5b7483773f34f590/logo.jpg",
+        "large": "/170x32/0070d04325b026e9ad0421f70d4e726e88d323b2e32487ce5b7483773f34f590/logo.jpg"
+      }
+    },
+    "agencyId": "PMHIKH",
+    "email": "sales@broadview.net.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "1P0137",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Toilets: 3"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444097840",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/64eb44d850230565b13fefaf55c710c46b6933c3382fdc9ff3dc47513780b7d8/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "05 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Today",
+      "startTimeDisplay": "4:45 PM",
+      "endTimeDisplay": "5:00 PM",
+      "startTime": "2026-06-16T16:45:00",
+      "endTime": "2026-06-16T17:00:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

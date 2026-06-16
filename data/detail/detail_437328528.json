@@ -1,0 +1,240 @@
+{
+  "prettyUrl": "property-apartment-wa-south+perth-437328528",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0416097179",
+    "website": "http://www.lally.com.au",
+    "phoneNumber": "0416097179",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Veronica Hughes",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/a454d341b280a1b8d3edc078b6ac1bccc58f58c918206b3c59b8288d6709b2f2/main.jpg"
+    },
+    "id": "3860720",
+    "email": "veronica@lally.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Lovely 3 x 1 ground floor apartment in established small 4 unit complex close to Swan River. <br/><br/>Lovely 3 x 1 ground floor apartment in established small 4 unit complex. <br/>The unit has polished timber floors to large living area, kitchen and 2 of the 3 bedrooms.<br/>Retro style kitchen comes with electric stove and large pantry.<br/>Shared common external laundry area.<br/>The unit is perfectly located off Mill Point Rd and a short stroll to the Swan River foreshore in South Perth and recreational areas, Mends St Jetty & cafe/shopping precinct, short drive to CBD with transport links near by. Undercover parking for 1 vehicle and street parking is available. <br/><br/>* Please note: Utilities are shared between the 4 units*<br/>* Sorry No Pets *<br/> <br/>**Register to view NOW**<br/>**To ensure your inspection of this property, you must register. If you do not register, the inspection may not be confirmed. By registering you will be automatically advised of any changes, updates or future inspections.**<br/><br/>**Please follow the steps below:**<br/>Step 1: Click 'Book Inspection'<br/>Step 2: Fill in your details<br/>Step 3: Click 'Register Details'<br/>Step 4: Receive immediate confirmation Email/SMS",
+  "showAgencyLogo": true,
+  "title": "Great South Perth location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0416097179",
+      "website": "http://www.lally.com.au",
+      "phoneNumber": "0416097179",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Veronica Hughes",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/a454d341b280a1b8d3edc078b6ac1bccc58f58c918206b3c59b8288d6709b2f2/main.jpg"
+      },
+      "id": "3860720",
+      "email": "veronica@lally.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$615 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ce31297104c6873c7da894f62e723b55aa865268d666be78098b079404f8d52a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/beb61b3b41169a68a602b6ca490ac22439b57a40e96e882f12a80f3da970dae6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fb32011ecf6745344dde1ef109dabd9012f95298f82425c84d00ece04a0daed2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d77eb051195cef3d81bcb44f5a9989511a97cb90187ffdfe03ddf435687fb73e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a98a92e75d3cc659a89ce1039487d0bde9ae6469d0711bea8f2d6c6bbd8535fa/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2ef030fbe822906e853e6ebefcc947763fea3854e940b81f58558353aed26740/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0b496662d268c145ab871243234db8fd2c9f5e9a886a2d4a8d5f196745d301bd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c58adacf71118820c67ff04fd059cff7e2477919de9ac04cb954374b434bdbc0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/da5366ab37b06ddb5a98877f5f57d578d8485d417afc573006e9053deababdd2/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/250 MILL POINT RD",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.97745,
+      "longitude": 115.86787
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.lally.com.au",
+    "address": {
+      "streetAddress": "South Shore Centre 2, 3 & 4, 85 South Perth Esplanade (Enter off Mends St)",
+      "postcode": "6151",
+      "suburb": "South Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9474 2200",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#cf4520"
+    },
+    "name": "Lally Real Estate",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/4e98e07ccc5d0953c8d3dab5321577ac6a7642295382080621bc5e82017d4ded/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg",
+        "hero image": "/1536x800/4e98e07ccc5d0953c8d3dab5321577ac6a7642295382080621bc5e82017d4ded/main.jpg",
+        "default": "/160x30/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg",
+        "large": "/170x32/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+      }
+    },
+    "agencyId": "IARSOU",
+    "email": "sales@ianhutch.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R693482",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Floorboards",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "437328528",
+  "bond": {
+    "display": "$2,460",
+    "value": 2460
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/538fe2ca5f286f606c3920607a5ace59b5a860eda8b88286e12ece1a5e5956b8/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "25 May 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Fri 19 Jun",
+      "startTimeDisplay": "12:30 PM",
+      "endTimeDisplay": "12:45 PM",
+      "startTime": "2026-06-19T12:30:00",
+      "endTime": "2026-06-19T12:45:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

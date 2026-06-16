@@ -1,0 +1,220 @@
+{
+  "prettyUrl": "property-apartment-wa-maylands-438968352",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0435922717",
+    "website": "http://www.rentchoice.com.au",
+    "phoneNumber": "0435922717",
+    "powerProfile": false,
+    "jobTitle": "Senior Property Manager",
+    "name": "Jimmy Fung",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/351617ef2ab3eecfc4498e38d42a36a8748747de5eee5861c530b4eb650ed223/main.jpg"
+    },
+    "id": "2767030",
+    "email": "pm7@rentchoice.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Enjoy the convenient location in this two bedroom apartment.<br/>Situated only minutes from Maylands cafe and boutique shopping strip, Maylands Golf Course, Maylands Peninsula Primary School, Public Transport, Perth CBD, the Swan River and Perth Airport.<br/><br/>REASONS TO RENT THIS PROPERTY:<br/><br/>- 2 bedrooms, 1 bathroom<br/>- Gas cooktop, oven and range hood<br/>- Open kitchen area with tiled flooring<br/>- Wooden floorboards in the living room<br/>- Split system air-conditioning within living room.<br/>- Ample natural light through large windows<br/>- Built in wardrobes within master bedroom<br/><br/>**PLEASE NOTE**: Car bay allocations are determined annually via a ballot system, running from October 1 to September 30. This unit currently has not been allocated a car bay.<br/><br/>LEASING INFORMATION:<br/>- Available from 17/6/26<br/>- Unfurnished<br/>- Car bay allocations are determined annually via a ballot system, running from October 1 to September 30. This unit currently has not been allocated a car bay.<br/><br/>HOW TO APPLY:<br/>www.tenantoptions.com.au<br/><br/>HOW TO VIEW:<br/>You can register your interest in viewing this property and apply by submitting an enquiry.",
+  "showAgencyLogo": false,
+  "title": "Great Location!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0435922717",
+      "website": "http://www.rentchoice.com.au",
+      "phoneNumber": "0435922717",
+      "powerProfile": false,
+      "jobTitle": "Senior Property Manager",
+      "name": "Jimmy Fung",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/351617ef2ab3eecfc4498e38d42a36a8748747de5eee5861c530b4eb650ed223/main.jpg"
+      },
+      "id": "2767030",
+      "email": "pm7@rentchoice.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 0
+    }
+  },
+  "price": {
+    "display": "$550 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1802818cf73e27f7ee130601bd229d17f2816277e741265876731c044a392f18/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e5e1909051bf55879cee3710ebf5350773d33591486ea7ce797fb681a5647085/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/44320e1f6baa18cc64f20c6ec8e5275f00e880d0bfa03b82a9d449a39a22c76a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c0e58fd0a2cbc43b600885b66ee1c658f4a8858d418fcaf9bcdc9bcbb55b4040/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/417ff4096d922b95e57a3580e26701fecddb2a3d24c217cc19222cd2ed76ae0e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0dc905daf73b4bf1f2311ce41dfb4cad6b37d6295dbd5bac877643ff201ff8fb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6f5fa0c11434f5a86f8a019f9a5616e100c582e6977f54be8adcae26d78638fc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7103de81bf99bd17ff8f0c62e84c22de7e3f84fd5de87530073bea480a6e2e4b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1f8987b07484f8401ca4afdad307196177c2c8bffb5d6d7cd2566db1fe24aaa9/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "15/303 Guildford Road",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.927731,
+      "longitude": 115.902494
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rentchoice.com.au",
+    "address": {
+      "streetAddress": "5/1076 Hay Street",
+      "postcode": "6005",
+      "suburb": "West Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6365 5665",
+    "branded": false,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#49C5B1"
+    },
+    "name": "Rent Choice - West Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/4fc6af8715ecadcef213e1d799978651276e07adc699836e2aad35cc086fbc0c/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/4fc6af8715ecadcef213e1d799978651276e07adc699836e2aad35cc086fbc0c/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/4fc6af8715ecadcef213e1d799978651276e07adc699836e2aad35cc086fbc0c/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/4f50c4b8e634883ce6b5ab78ec8e79f32c44c76355d1daecce265fd61a98a631/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/4fc6af8715ecadcef213e1d799978651276e07adc699836e2aad35cc086fbc0c/logo.gif",
+        "hero image": "/1536x800/4f50c4b8e634883ce6b5ab78ec8e79f32c44c76355d1daecce265fd61a98a631/main.jpg",
+        "default": "/160x30/4fc6af8715ecadcef213e1d799978651276e07adc699836e2aad35cc086fbc0c/logo.gif",
+        "large": "/170x32/4fc6af8715ecadcef213e1d799978651276e07adc699836e2aad35cc086fbc0c/logo.gif"
+      }
+    },
+    "agencyId": "MULZBP",
+    "email": "hello@rentchoice.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "eagle_1391930",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Floorboards"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "438968352",
+  "bond": {
+    "display": "$2,200",
+    "value": 2200
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/5f376bb0eea8bc0170ff2d24ae4758d377805221eb4e6b874c441d6d2a1ead51/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "17 Jun 2026",
+    "dateDisplay": "17 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

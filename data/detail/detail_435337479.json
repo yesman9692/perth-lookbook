@@ -1,0 +1,277 @@
+{
+  "prettyUrl": "property-duplex+semi-detached-wa-victoria+park-435337479",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9361 6888",
+    "website": "http://https://carlisle.century21.com.au/",
+    "phoneNumber": "08 9361 6888",
+    "powerProfile": false,
+    "name": "Century 21 Jones Property Group Leasing",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/7f2f82eeae7706ebcf18c6a5536d04652f2b4156eb183a922b57d7758f0afaa2/main.jpg"
+    },
+    "id": "1975446",
+    "email": "leasing@c21jonesproperty.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "6 month lease only. Featuring 3 Bedrooms and 1 Bathroom this spacious family home is conveniently located only minutes from local schools and situated within the Victoria Park Primary school zone!<br/><br/>Features Include;<br/>* Open plan kitchen/dining area<br/>* Spacious kitchen with ample cupboard space and gas cooking<br/>* Living area framed by beautiful brick arches<br/>* Air conditioning<br/>* Separate, large laundry<br/>* Large master bedroom with built in robes!<br/>* Good sized backyard and alfresco area<br/>* Parking for 3 cars!<br/><br/>Located only minutes from the Victoria Park Café strip with public transport just at your doorstep, it is the perfect home for the growing family or professional couple looking to be near to the city.",
+  "showAgencyLogo": true,
+  "title": "6 MONTH LEASE ONLY! Character Home in Prime Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9361 6888",
+      "website": "http://https://carlisle.century21.com.au/",
+      "phoneNumber": "08 9361 6888",
+      "powerProfile": false,
+      "name": "Century 21 Jones Property Group Leasing",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/7f2f82eeae7706ebcf18c6a5536d04652f2b4156eb183a922b57d7758f0afaa2/main.jpg"
+      },
+      "id": "1975446",
+      "email": "leasing@c21jonesproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$660 per week"
+  },
+  "propertyType": "duplex/semi-detached",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/27d5ee491c4c4cca8df252ec1c40d67a7ea7f7f8dcaff587faa1fe3f52d5b7bb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2994cd7f83808db44ce07016d48f691f6f6104afbedf49756dc7c96ad72acd99/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0df426cc33ee929b6f28a5ab18195e356adbced30b24d7151b3fc2247f5b3ed2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f8733f5f8703c6be942a6173784edf6194755e53de0fee020892d8138ba0ac01/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/335217fa23aaf6c73b03cb2796f460fb2ba7be812f089629d37d7e4e1af6d9d3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/054d8a33439ec367ac8bcaad27b3cee889d6672d487d0e875937864a69608683/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/008f2b6431840be19aa8578672efe6a6f29011e8f507daed0261138a300aa14c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/55e74fd3f43e238b76c30eb844712fb7f98a222c2036132a951bc8ccba805d50/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b84460346b457a19c0eb2681cae22e3b9d3426530e8d6ba2767681d9c450a2f4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5ec536643ff3810a4c0db338bc5233997d09436a7485b808cd6b48a58e165479/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a216ad4139ee30120edb7dfc8c07cafd96fdf14055f3c43515c0083e82381a78/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cdc834374a4cbd7712cd3d53467a0ed01630caed15c843e16883b29764447205/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f3cd02fedb362b3aa4ed31736374202220b75fa47480ad2fb9be7cac0c639a36/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f8d120f45ef82b1162ae5e121e95e203b5821cc6744c3bce4084e2aa91495cb5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2c4e0f09fc014c5a2dc35d89c9627ca04baf2bb93f4f9adaba211d9dbe3bb784/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/262fbe7b3ebc11315723b5dd8a4b97301700c8341f9e1cff90e8944228a79cab/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e387b78dd160b19c201ac608a577f5a71ef668ab7be2e8bba0ffe9bf0fe401d0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/40221fc1e5e50f9159e5d89647c4bb08face135769ef1703c34621cb9e9ed90c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e571fba2e23c1fd5743e75e70631c10278839545e0ef0b937db1c5c920b5b4b2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e571fba2e23c1fd5743e75e70631c10278839545e0ef0b937db1c5c920b5b4b2/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "16a Manchester Street",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97883,
+      "longitude": 115.89739
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://https://carlisle.century21.com.au/",
+    "address": {
+      "streetAddress": "4/55 Archer St",
+      "postcode": "6101",
+      "suburb": "Carlisle",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9361 6888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#252526"
+    },
+    "name": "Century 21 Jones Property Group - Carlisle ",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif",
+        "default": "/160x30/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif",
+        "large": "/170x32/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+      }
+    },
+    "agencyId": "JQVCAR",
+    "email": "matt@c21jonesproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "WA88416227",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "435337479",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/f2c0b329a3aa7923bcf23827a582071a725f437a4692fab46dc70882f2cfa3e4/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "29 May 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

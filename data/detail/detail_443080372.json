@@ -1,0 +1,247 @@
+{
+  "prettyUrl": "property-apartment-wa-como-443080372",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0433664575",
+    "website": "http://www.century21.com.au/perthcity",
+    "phoneNumber": "0433664575",
+    "powerProfile": false,
+    "jobTitle": "Licensee/Principal",
+    "name": "Joseph Lai",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/010caa9b549001ec7a6660d2ff41a7fbef85bdef145bf4478c57abf134514297/main.jpg"
+    },
+    "id": "779647",
+    "email": "joseph.lai@century21.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Set in a Secure and well maintained complex with parking, this well light filled two bedroom, one bathroom apartment offers one of the most convenient parts of Como, you will be at the Preston Street and South Perth lifestyle precincts in just minutes. You'll have easy access to the city via road or train with the Canning Bridge station nearby and you've got the stunning Swan River at your door step.<br/><br/>DO NOTE SOME FURNITURE ARE FOR DISPLAY PURPOSES ONLY <br/><br/>Features you will love:<br/>* Open Plan Living <br/>* North facing<br/>* Great size rooms<br/>* Bathtub<br/>* White goods provided<br/>* Air Conditioning <br/>* Storage Room<br/>* NBN ready<br/><br/>LOCATION LOCATION LOCATION<br/>* South Perth Foreshore<br/>* Cafe and restaurants not far away<br/>* Perth Zoo<br/>* Angelo St shopping precinct<br/>* Royal Perth Golf Club<br/>* South Perth foreshore<br/>* Crown Casino<br/>* Optus Stadium<br/>* Perth CBD<br/>* The iconic Windsor Hotel<br/><br/>CALL C21 GRAND ALLIANCE FOR MORE INFORMATION!!!!!!<br/>",
+  "showAgencyLogo": true,
+  "title": "LOCATION LOCATION LOCATION @$630 per week",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0433664575",
+      "website": "http://www.century21.com.au/perthcity",
+      "phoneNumber": "0433664575",
+      "powerProfile": false,
+      "jobTitle": "Licensee/Principal",
+      "name": "Joseph Lai",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/010caa9b549001ec7a6660d2ff41a7fbef85bdef145bf4478c57abf134514297/main.jpg"
+      },
+      "id": "779647",
+      "email": "joseph.lai@century21.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$630 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f4f642343734b19a017af8d0f37c52f38e0c5db98e2fbf615bda80edf01b2367/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/79348fe75f2015595b4d9d591751bd8cb60678a50069657c8896a8bc5406063e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/049d746eaa9ef098f34ddcb0996d98c10333cf02a4c022949c2dd6d1bc351106/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/21c95b0e3487e527533e15abb8c4a74e0cb79223b78435a6a1f0b1fa02a18546/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/33747685c7055924da95d198f864476bb28868f297ddf6060c3916288234b8b9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3444586c3f105b7c337eb0f8dd61df0296c2139f4c0c04469067fcb7f2c3b5ea/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6ae85ce4f7703022c679ff6ec498503b9dc6685313db8c69b3ba0b1a19947e78/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/52463d4371288e1c52bcf35ddce2f321af856728c54166368b57fa31ac23b683/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/73c3a7679a976670f874bc1d9ec4bd41bec79d90e9cd50a6479f3f15478ad06c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/87a92a6b11744c2c88d05dccce32f23d6afed29156aece8dc497ea7eef1a2262/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2d1cddc1158eae351a236af8dffa40e155a29d0eb7c1d05f87f30d9c878f9c12/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "44/15 Gardner Street",
+    "locality": "Como",
+    "postcode": "6152",
+    "suburb": "Como",
+    "postCode": "6152",
+    "location": {
+      "latitude": -31.99046256,
+      "longitude": 115.8561809
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.century21.com.au/perthcity",
+    "address": {
+      "streetAddress": "2/280 LORD STREET",
+      "postcode": "6000",
+      "suburb": "Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6230 2488",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#252526"
+    },
+    "name": "Century 21 Grand Alliance - PERTH",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.jpg",
+        "default": "/160x30/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.jpg",
+        "large": "/170x32/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.jpg"
+      }
+    },
+    "agencyId": "XRWXND",
+    "email": "gareception@century21.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "WA8897000",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "443080372",
+  "bond": {
+    "display": "$2,520",
+    "value": 2520
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/32f15e25670fcadc4b0ba9d6398cf4c0abcf968a167ed4872910f1ba818a2a74/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "22 Jun 2026",
+    "dateDisplay": "22 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Sat 20 Jun",
+      "startTimeDisplay": "12:00 PM",
+      "endTimeDisplay": "12:15 PM",
+      "startTime": "2026-06-20T12:00:00",
+      "endTime": "2026-06-20T12:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

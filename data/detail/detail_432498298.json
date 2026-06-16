@@ -1,0 +1,256 @@
+{
+  "prettyUrl": "property-house-wa-maylands-432498298",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0416933623",
+    "website": "http://www.crashrealty.com.au",
+    "phoneNumber": "0416933623",
+    "powerProfile": false,
+    "name": "David Crash - Rent",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3694372",
+    "email": "rentals@davidcrash.com"
+  },
+  "featured": true,
+  "signature": false,
+  "channel": "rent",
+  "description": "Consisting of two bedrooms, this beautifully presented apartment offers spacious carefree living. Conveniently located close to Coles Supermarket and IGA, 8th Avenue cafes and restaurants, Maylands train station and Recreation centre and library.<br/><br/>FEATURES<br/>- 2 bedrooms, 1 bathroom<br/>- Off street parking<br/>- Small quiet complex of 8",
+  "showAgencyLogo": true,
+  "title": "Retired? Looking for a quiet complex with neighbours of a similar age? 2x1 Apartment in Maylands",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0416933623",
+      "website": "http://www.crashrealty.com.au",
+      "phoneNumber": "0416933623",
+      "powerProfile": false,
+      "name": "David Crash - Rent",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3694372",
+      "email": "rentals@davidcrash.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$390 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "featured",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5b5585502553cfad0952a71a42ede55c42aca7c7e08c4bee18a12edb538e719c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/708f268e092d03cd02f93a7adceca3a7197d62a9d8891638ef378f3076ff9a08/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/80ac3cedfe2336ee7042a5e5f3badf9294abb07d487a273597fc68d5ff267060/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b0bd0a9f86769c29c6465f0cf004e880a69e6503102e8ae6cf42126ffd1ea5b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9a173ebd1b870a8c9116806297cce6fc2a1ce6b4100355440eedf7e5c3f7d607/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c6dced43610f6bd4663aab2fba70923f493cbf8ba4197922b176e3502573e99d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4519b931378f49e86d70c53699813626f18d3e79998a4c8d78e4f66b63aa9958/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4e50ae045bdc3bce7d501684ed402b9b40d92efa739e1912f69d1d421b6d9760/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3fb97af58ea53927cb1bad5f2cdd6b8466271a902f73beb97838f406bf3e1af1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7e3d2c4065aff94e42db2ae196bc8bb7e34f44142bccf82d575cdb80ded43a30/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/06f16bb5ec53f6ec1300c4f28230f2b31d98a95ab47904336083175711e1df18/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b3d20e2b951511dbf1a65624ca606cd52b699d29449a5fdf9c8873df301763e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ec62e28c2501fc218f01b4adede8a6668d386c5ff96761393dd010b2945e7d8a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cc5d51c6709725eacc3a8c4172867d89151fba33a0e549b71beeff7f7d0f9c75/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c85f85b0dee45d732a852fc2cfef6c5ae5c774382d528140d60544d0dd37d600/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8d740bda507d3805d062772b4877123b068f46b1eed96b27965a06719d5ed62e/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/17 Sherwood Street",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.92928,
+      "longitude": 115.90042
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.crashrealty.com.au",
+    "address": {
+      "streetAddress": "191 Mirrabooka Avenue",
+      "postcode": "6061",
+      "suburb": "Balga",
+      "state": "WA"
+    },
+    "phoneNumber": "0416 933 623",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#000000"
+    },
+    "name": "David Crash",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/f9f003748a369746923e71f993f0c4cef510755dec09798c38a5c2576709e8b2/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg",
+        "hero image": "/1536x800/f9f003748a369746923e71f993f0c4cef510755dec09798c38a5c2576709e8b2/main.gif",
+        "default": "/160x30/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg",
+        "large": "/170x32/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+      }
+    },
+    "agencyId": "EZCMGT",
+    "email": "support@crashrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE3156327",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "432498298",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/86a4ff2aa34f53d0360876efdfcc5a31b7743e6281b0bb8a793ab3e5035d7c2a/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "12 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

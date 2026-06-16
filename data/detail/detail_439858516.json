@@ -1,0 +1,231 @@
+{
+  "prettyUrl": "property-apartment-wa-north+perth-439858516",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9269 6100",
+    "website": "http://www.rmaproperty.com.au",
+    "phoneNumber": "08 9269 6100",
+    "powerProfile": false,
+    "name": "Stella Rossiter",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3732736",
+    "email": "inspect.joondalup@rmaproperty.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Make this stunning boutique 2x2x2 apartment situated just out of the Perth CBD your home! <br/><br/>Positioned on the top floor and located in a secure complex of 11, it is neatly tucked away at the back of the block away from the road and noise. <br/><br/>Upon entry, you'll find a spacious lounge with carpeting for comfort and a Reverse Cycle AC positioned neatly for the summer and Winter months. Leading into the kitchen there is tiles in and around, perfect for those accidental messes and easy cleanup. With a quality finish and a modern touch, the kitchen provides plenty!, fitted with a dual sink, electric cooktop and oven, friendly fridge recess and dishwasher, this kitchen comes with it all.<br/><br/>The master bedroom comes with both a ceiling fan, sliding double BIR and ensuite.<br/><br/>The second bedroom provides both a ceiling fan and BIR for convenience.<br/><br/>Features include:<br/>- 2 Bedrooms, both with Ceiling Fans and BIR's<br/>- 2 Bathrooms<br/>- Internal Laundry<br/>- Private balcony<br/>- Modern kitchen including Dishwasher<br/>- Reverse Cycle AC<br/>- Secure storeroom<br/>- 2x Parking Bays<br/>- Secure Complex<br/><br/>HOW TO INSPECT THIS PROPERTY<br/>Arranging inspections is easy.<br/>Simply click on the button above 'Book an inspection time' then enter your details and choose an appointment time that suits YOU.<br/><br/>You will be INSTANTLY informed of any updates, changes or cancellations for your appointment.<br/><br/>If no one registers for an appointment time - then that appointment may not proceed.<br/>So DON'T MISS OUT book for an appointment today<br/><br/>Application forms can be downloaded from our website at www.rmaproperty.com.au. Once you have inspected the property, if you wish to proceed it is recommended you have the application form completed to provide to our representative at the inspection.",
+  "showAgencyLogo": true,
+  "title": "Modern Apartment, Great Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9269 6100",
+      "website": "http://www.rmaproperty.com.au",
+      "phoneNumber": "08 9269 6100",
+      "powerProfile": false,
+      "name": "Stella Rossiter",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3732736",
+      "email": "inspect.joondalup@rmaproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4013a17df8e4281097d758a08bf2fbe140ef988ce5babf084c15097617acccfc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/75b181d38250254a2e7d149b77290cab047f0312d65dbcbac2d0460d6dba2c02/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6b80cc5a32255f2722c37e241cf141536c62efc52d4ce7990734f7ce1c619edb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e3191bc17a1a13012412d3f16bccc12047b45f59d25618a25629e261f41a695d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c342e393d90e622ef00efd6bc40bdb9eeb99c78265e7a1aac6e3bd950fa8efd0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/899ad7a42349e952dd83258c9138c7310906c344e188e7ea3f1f9098cd990e6d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7392e2825c496fc82b246ab133934090b071d30f7029da33ee82de60fb188b95/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0c8c0d554b4f30bdd033b333f128e2bd6b44a45c65670a9c07667f0d1f2b6351/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6d0a636f1e6007acd1a59d0dd9a5a5b58f9b62bf102fee5789e3a676aee52b61/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d163d4317bd48ef5f99c3f222044e7ca825a79b6dd1fdd68dddb9970a91a1537/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7bc1804b803f18cb7d807773a50f3ec910ab2e181acaf399121632482694c8b9/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "11/459 Charles Street",
+    "locality": "North Perth",
+    "postcode": "6006",
+    "suburb": "North Perth",
+    "postCode": "6006",
+    "location": {
+      "latitude": -31.92001295,
+      "longitude": 115.84932201
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rmaproperty.com.au",
+    "address": {
+      "streetAddress": "17 Drake Steet",
+      "postcode": "6017",
+      "suburb": "Osborne Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9269 6100",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "Rental Management Australia - OSBORNE PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/db62cba2e93d1995a98ad6c9eab73016679ebd27adeb63b19d54ecdb3b1471a0/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg",
+        "hero image": "/1536x800/db62cba2e93d1995a98ad6c9eab73016679ebd27adeb63b19d54ecdb3b1471a0/main.jpg",
+        "default": "/160x30/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg",
+        "large": "/170x32/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+      }
+    },
+    "agencyId": "GOGBAY",
+    "email": "info@rmaproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3635015",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "439858516",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/b9e51bc7d58d677310af6111eb2b41d6d5aae744819747810d0b8407a5ad1de7/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "28 May 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

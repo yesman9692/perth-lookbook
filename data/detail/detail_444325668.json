@@ -1,0 +1,241 @@
+{
+  "prettyUrl": "property-villa-wa-victoria+park-444325668",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0478774004",
+    "website": "http://mavinrealestate.com.au",
+    "phoneNumber": "0478774004",
+    "powerProfile": false,
+    "jobTitle": "Director",
+    "name": "Bronwyn Pollitt",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/1706c268e027087ad777ecc9780cdc7dd93799de1c0f4cb6142e4ee831c4d6b3/main.jpg"
+    },
+    "id": "1201959",
+    "email": "bronwyn@mavinrealestate.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Over 55's Villa in great Victoria Park community<br/><br/>If you are over 55 years of age : Contact the Village Hub on 9361 2904 and ask for Ashlyn in the Housing Team during office hours if you would like to organise a property viewing.<br/><br/>Conveniently located at the river end of the Victoria Park strip, this rear 2 Bedroom plus study and 1 bathroom property has a single car lock up garage and is close to shops, cafe's, restaurants and transport. <br/>There are built in robes in both bedrooms, and the property also has small storeroom and a low maintenance garden in the courtyard!<br/><br/> As well as its highly desirable location this property is a great opportunity for someone who wants to be part of a wonderful community and live close to our Village Hub. (www.connectvictoriapark.org/). Only people aged 55 and over should apply.<br/><br/> <br/>Pets are negotiable with a pet bond.<br/><br/><br/><br/> The property is available immediately for the right tenant!",
+  "showAgencyLogo": true,
+  "title": "Over 55's Villa, only available to persons that are over 55 years old.",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0478774004",
+      "website": "http://mavinrealestate.com.au",
+      "phoneNumber": "0478774004",
+      "powerProfile": false,
+      "jobTitle": "Director",
+      "name": "Bronwyn Pollitt",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/1706c268e027087ad777ecc9780cdc7dd93799de1c0f4cb6142e4ee831c4d6b3/main.jpg"
+      },
+      "id": "1201959",
+      "email": "bronwyn@mavinrealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "villa",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/35e664c546e3b3487f3dc66bb823c94f58da966def41949895aa06e53b048a27/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f044d318a2d46c82dcd99bf99fe369d89c0910e26ec5d3a3e6b0a59e4b1b05f6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/123fb19e149b9e057f783a5f688e1d0a0a58dddf41ae81a17c420c17e49b3f6c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d469de7a12d7bd4ff75345030cb8e7207cff51bb64a3b128fb77e8e2d402672a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2ae4df773932f19c9480b0695ceee97a5328c7831833e4c729850e30b217845d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/83aa66b495cd2e10569229e370ae21c9b0393c63029f8c167ca94846dee87fc0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d2143f46507d8193557ee8acd7ad1106b9b384d1c7438b1c7d410fa5d3b9b037/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c4251a9f940a18aeaa18033cb5c38fab4cd54127fc2461d7647edf34f960dd45/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b5a7c0a50f0e795d8e2f948458746c2a941b45a32bd67ffcc837f7a770bc66d2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5a2fb0ea4a5bf24a473a334d8bddeb1a73252e0b30aab51036b45432fc087044/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "2/10 Cargill Street",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97213,
+      "longitude": 115.89261
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://mavinrealestate.com.au",
+    "address": {
+      "streetAddress": "48 Mackie Street",
+      "postcode": "6100",
+      "suburb": "Victoria Park",
+      "state": "WA"
+    },
+    "phoneNumber": "0478774004",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#1268B2"
+    },
+    "name": "Mavin Real Estate - VICTORIA PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/02ede9bc58046d6460e66ce437411c44016b16ea07de88f7d3b22253b98e3b71/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/02ede9bc58046d6460e66ce437411c44016b16ea07de88f7d3b22253b98e3b71/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/02ede9bc58046d6460e66ce437411c44016b16ea07de88f7d3b22253b98e3b71/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/f58abd95f1367134a7a3dadc2153acf16bd9568167a1e9dd34fea22b4fae27ab/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/02ede9bc58046d6460e66ce437411c44016b16ea07de88f7d3b22253b98e3b71/logo.jpg",
+        "hero image": "/1536x800/f58abd95f1367134a7a3dadc2153acf16bd9568167a1e9dd34fea22b4fae27ab/main.jpg",
+        "default": "/160x30/02ede9bc58046d6460e66ce437411c44016b16ea07de88f7d3b22253b98e3b71/logo.jpg",
+        "large": "/170x32/02ede9bc58046d6460e66ce437411c44016b16ea07de88f7d3b22253b98e3b71/logo.jpg"
+      }
+    },
+    "agencyId": "ZERCAC",
+    "email": "bronwyn@mavinrealestate.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "1P0864",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Living Areas: 1",
+        "Study",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444325668",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/7cb4298c62e3f7b89f176e19cb5ddac80cbc91ce772642c09ce4948e519a276c/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "04 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

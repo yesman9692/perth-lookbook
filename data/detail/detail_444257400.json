@@ -1,0 +1,181 @@
+{
+  "prettyUrl": "property-duplex+semi-detached-wa-como-444257400",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "08 9269 6100",
+    "website": "http://www.rmaproperty.com.au",
+    "phoneNumber": "08 9269 6100",
+    "powerProfile": false,
+    "name": "Stella Rossiter",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3732736",
+    "email": "inspect.joondalup@rmaproperty.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Welcome to this lovely duplex located in one of Como's most sought-after streets. Offering comfort, space, and convenience, this property is perfect for families, professionals, or anyone looking to enjoy the relaxed riverside lifestyle Como is known for.<br/><br/>Property Features:<br/><br/>Spacious bedrooms with built-in storage<br/>Light-filled living and dining areas<br/>Kitchen with ample cupboard space<br/>Well-maintained bathroom/s<br/>Private outdoor entertaining area and backyard<br/>Secure garaged parking<br/>Front lawnmowing included <br/><br/>Ideally positioned close to local cafés, shops, parks, public transport, and quality schools, with easy access to Perth CBD and nearby amenities.Enjoy the best of Como living in a quiet, tree-lined street just moments from the river.<br/><br/><br/>ALL ATTENDEES MUST REGISTER IN ORDER TO VIEW<br/>HOW TO INSPECT THIS PROPERTY<br/>Arranging inspections is easy. Simply click on the button above 'Book an inspection' or alternatively go to our website and book the inspection on this site by entering your details and choose an appointment time that suits you.<br/>You will be INSTANTLY informed of any updates, changes or cancellations for your appointment.<br/>If no one registers for an appointment time - then that appointment WILL not proceed. So DON'T MISS OUT book for an appointment today.<br/>To apply for this property, please use the 'APPLY FOR PROPERTY' button on our website at rmaproperty.com.au<br/>Important* Whilst every care is taken in the preparation of the information contained in this marketing, Rental Management Australia will not be held liable for any errors in typing or information. All information is considered correct at the time of printing.<br/><br/>",
+  "showAgencyLogo": true,
+  "title": "Charming family home in the heart of Como",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9269 6100",
+      "website": "http://www.rmaproperty.com.au",
+      "phoneNumber": "08 9269 6100",
+      "powerProfile": false,
+      "name": "Stella Rossiter",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3732736",
+      "email": "inspect.joondalup@rmaproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "duplex/semi-detached",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e57eb8ca6f9d4557dff3a28e1e3d8f346f0a9c2f6d0d73d07135c72d8cf2252f/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "12 Cale Street",
+    "locality": "Como",
+    "postcode": "6152",
+    "suburb": "Como",
+    "postCode": "6152",
+    "location": {
+      "latitude": -32.00308421,
+      "longitude": 115.85883806
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rmaproperty.com.au",
+    "address": {
+      "streetAddress": "17 Drake Steet",
+      "postcode": "6017",
+      "suburb": "Osborne Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9269 6100",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "Rental Management Australia - OSBORNE PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/db62cba2e93d1995a98ad6c9eab73016679ebd27adeb63b19d54ecdb3b1471a0/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg",
+        "hero image": "/1536x800/db62cba2e93d1995a98ad6c9eab73016679ebd27adeb63b19d54ecdb3b1471a0/main.jpg",
+        "default": "/160x30/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg",
+        "large": "/170x32/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+      }
+    },
+    "agencyId": "GOGBAY",
+    "email": "info@rmaproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3885417",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444257400",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/ca9e65531bdabfbbca0fd9b6844c2371a4985a3def6b2d227f30589f81cc3712/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "03 Jul 2026",
+    "dateDisplay": "03 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

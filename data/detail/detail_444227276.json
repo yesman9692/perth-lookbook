@@ -1,0 +1,238 @@
+{
+  "prettyUrl": "property-unit-wa-south+perth-444227276",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "08 9474 2200",
+    "website": "http://www.lally.com.au",
+    "phoneNumber": "08 9474 2200",
+    "powerProfile": false,
+    "jobTitle": "Senior Property Manager",
+    "name": "Sandie Khong",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/3151191a471f9628ebec5d1dce73ad49f8f5d619e18dafddefa304af72ddb0d0/main.jpg"
+    },
+    "id": "222441",
+    "email": "sandie@ianhutch.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "2 bedroom, 1 bathroom unfurnished apartment in secure complex with direct access to the river foreshore and parklands. Beautiful unobstructed outlook from the lounge room, balcony and master bedroom.<br/><br/>Spacious lounge room with reverse cycle air conditioning and separate dining room. Large kitchen with electric cooker. Both bedrooms have built in robes. Separate bathroom and laundry.<br/><br/> Lock up garage plus extra carbay exclusively appointed to this apartment, store room and small courtyard with clothesline. Ideally located with easy access to the CBD via Cannning Hwy and the Causeway. <br/>",
+  "showAgencyLogo": true,
+  "title": "2 X 1 UNFURNISHED APARTMENT IN SECURE COMPLEX",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9474 2200",
+      "website": "http://www.lally.com.au",
+      "phoneNumber": "08 9474 2200",
+      "powerProfile": false,
+      "jobTitle": "Senior Property Manager",
+      "name": "Sandie Khong",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/3151191a471f9628ebec5d1dce73ad49f8f5d619e18dafddefa304af72ddb0d0/main.jpg"
+      },
+      "id": "222441",
+      "email": "sandie@ianhutch.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d386fef7a43d29eed71cf5f78dece2c167419c9bbad30d6e139bf9df1ed03287/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/21a7de2f94e15f22d46462e50c37957acf2f7975f199cb7e93e28467f5f2b1b5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/671fad2383e1514b7ad931715879de579bb411e178b12edf6e5ed37745e59d0a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/45c7fd67106a4c8d79e86dcec9b36d05ee50a5fc8fa89401a7c503c42130bffb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ebe6e3d60d31708cb3f5d74551707f57bfafaeb9c762359cd37e73ab4e127d0c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f48e51ac9daad9fe4dca1eb59991aa58d4ed4058cccfd458808ba8caa6bc40b0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/59dc5a419043905407781f24b0b16ef5b1a257400e7796f58779d81be2c0c56e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d49d85815ff38ce96b40ceef28a4d8b72b490a3fb607a800fe1727a23ed70736/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ae5996ae4295ab8d910e222541cf5a9dadb4a6d805b308abcf07be8e1e94d9c7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e233744681daa52eb1397666ecbb3ff364b3bada1afbf236f597dd5be093e61a/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "23/32 JUBILEE STREET",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.97554699,
+      "longitude": 115.87014172
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.lally.com.au",
+    "address": {
+      "streetAddress": "South Shore Centre 2, 3 & 4, 85 South Perth Esplanade (Enter off Mends St)",
+      "postcode": "6151",
+      "suburb": "South Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9474 2200",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#cf4520"
+    },
+    "name": "Lally Real Estate",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/4e98e07ccc5d0953c8d3dab5321577ac6a7642295382080621bc5e82017d4ded/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg",
+        "hero image": "/1536x800/4e98e07ccc5d0953c8d3dab5321577ac6a7642295382080621bc5e82017d4ded/main.jpg",
+        "default": "/160x30/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg",
+        "large": "/170x32/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+      }
+    },
+    "agencyId": "IARSOU",
+    "email": "sales@ianhutch.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R692248",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1",
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444227276",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/e7b707bc6f6199a89d046caab13bbc1e0d44277a09e1db141b14be4d9f3b8506/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "20 Jul 2026",
+    "dateDisplay": "20 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

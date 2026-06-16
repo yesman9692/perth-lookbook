@@ -1,0 +1,217 @@
+{
+  "prettyUrl": "property-apartment-wa-west+leederville-444356216",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0401111566",
+    "phoneNumber": "0401111566",
+    "powerProfile": false,
+    "name": "Simon",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "2773366",
+    "email": "saonomo@gmail.com"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "📍 5/51 Tate Street, West Leederville WA 6007<br/>Available Now<br/>Enjoy the convenience of inner-city living in this well-positioned 2-bedroom, 1-bathroom unit located in the heart of West Leederville. Situated in a quiet complex, this property offers easy access to public transport, shops, cafés, hospitals, and Perth CBD. The Tate Street complex is known for its excellent location, just minutes from West Leederville Station, Lake Monger, Subiaco, and Leederville precincts. <br/>Property Features<br/>✅ 2 bedrooms✅ 1 bathroom✅ Open-plan living and dining area✅ Private balcony with leafy outlook✅ 1 parking bay✅ Close to public transport and local amenities<br/>Location Highlights<br/>• Walking distance to West Leederville Train Station• Easy access to Perth CBD• Close to Lake Monger, Subiaco and Leederville cafés• Near hospitals, shopping centres and entertainment precincts <br/>Rent $ 590 per week <br/>",
+  "showAgencyLogo": false,
+  "title": "PENDING - APPLICATION FOR RENT – 2 Bedroom Unit in Prime West Leederville Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0401111566",
+      "phoneNumber": "0401111566",
+      "powerProfile": false,
+      "name": "Simon",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "2773366",
+      "email": "saonomo@gmail.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$590 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c152da5217c8d711d11e4b3ea0e8fde8471544cfdad8a421401d52b35f188121/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7308f04522f2860248992ca328c639fde62d29586c45efd6e1bf305dfec41bf4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f39a5683dfa524a1a9dce5a7cbcae27c81d184e79792e321fe2d507d8087b19a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9a7c4a13e709bc991ff31acea675df4124389d34ddef81ab4fbf534b15d989e4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/83a76675782dbb1ee1e587a1aede4116f7ab14c81741e49752738d045099e2f0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2877c449d2dfbf4f9aee3c89f045b3b13231688af39026a8cf33fb8266e6a5d5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/70177fa36cb6687f09f263c4dfbbdd183d9d0a16b9e5c5daf6fa56d49eadf4d8/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "5/51-53 Tate Street",
+    "locality": "West Leederville",
+    "postcode": "6007",
+    "suburb": "West Leederville",
+    "postCode": "6007",
+    "location": {
+      "latitude": -31.94048919,
+      "longitude": 115.82847259
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "511 Church St",
+      "postcode": "3121",
+      "suburb": "Richmond",
+      "state": "VIC"
+    },
+    "phoneNumber": "1300134174",
+    "branded": false,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#333F48"
+    },
+    "name": "Property Owner",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg",
+        "default": "/160x30/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg",
+        "large": "/170x32/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+      }
+    },
+    "agencyId": "TFKZUA",
+    "email": "customercare@reasupport.zendesk.com"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "ddb2cc14-75fa-43f6-af77-5c25440cd8c6",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Dishwasher"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444356216",
+  "bond": {
+    "display": "$2,360",
+    "value": 2360
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/95a75d217a2c651243f86bb089b6c790f8c23f3f2d3b6430c234fbfdeef27686/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "04 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

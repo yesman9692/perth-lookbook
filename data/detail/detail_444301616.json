@@ -1,0 +1,212 @@
+{
+  "prettyUrl": "property-house-wa-maylands-444301616",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0427626316",
+    "website": "http://https://www.professionalstwt.com.au",
+    "phoneNumber": "0427626316",
+    "powerProfile": false,
+    "jobTitle": "Leasing Team",
+    "name": "The Wright Leasing Team",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/5372c930476ae8ef7bd23603f97705e3eee6c6c6112bd13613ccb416fd168125/main.jpg"
+    },
+    "id": "3139704",
+    "email": "rentals@professionalstwt.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to 65/50 Kirkham Hill Terrace, Maylands - a superbly located 2-bedroom, 1-bathroom apartment offering comfort, convenience, and breathtaking panoramic views across Perth.<br/><br/>Positioned in a highly sought-after riverside pocket, this clean and low-maintenance apartment delivers the perfect lock-and-leave lifestyle for professionals, couples, or anyone seeking easy-care living close to the city.<br/><br/>Step out onto your private balcony and take in sweeping views stretching across the Perth CBD, Maylands Peninsula, Swan River, golf course, Optus Stadium, and Crown Entertainment Complex - all complemented by stunning sunset skies.<br/><br/>Inside, the apartment features a functional open plan layout designed for relaxed living and entertaining. The light-filled bedrooms provide a comfortable retreat, while the well-appointed bathroom and practical kitchen add to the home's everyday appeal.<br/><br/>Residents can also enjoy access to the complex swimming pool and outdoor entertaining areas - perfect for cooling off during Perth's warmer months. With the Swan River just moments away, there are endless opportunities to enjoy walking trails, parklands, and the vibrant local lifestyle.<br/><br/>Conveniently located close to cafes, shops, public transport, and only a short commute to the Perth CBD, this apartment combines lifestyle and location in one attractive package.<br/><br/>Features You'll Love:<br/>Unbeatable panoramic views<br/>Fantastic riverside location<br/>Low-maintenance living<br/>Secure lock-and-leave lifestyle<br/>Private balcony<br/>Open plan living and dining<br/>Swimming pool within the complex<br/>Close to transport, cafes, and local amenities<br/><br/>Nearby Schools:<br/>Maylands Peninsula Primary School<br/>St Columba's Primary School<br/>Bayswater Primary School<br/>Perth College<br/>Mount Lawley Primary School<br/><br/>Don't miss the opportunity to secure this well-positioned apartment in one of Maylands' most desirable locations.<br/><br/>TO VIEW:<br/>You must register to view online with home open times scheduled by visiting our website: https://www.professionalstwt.com.au<br/><br/>TO APPLY:<br/>You can apply for this property using this link- https://2apply.com.au/agency/prowrightteam<br/>Applications will be processed only once you have attended the open, we accept applications via 2Apply and the Tenant App only.<br/><br/>ENQUIRIES:<br/>rentals@professionalstwt.com.au<br/>In these extremely busy times we endeavor to answer as many calls as possible but we highly encourage you to email for a response.",
+  "showAgencyLogo": true,
+  "title": "Stylish Apartment Living with Spectacular Views in the Heart of Maylands",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0427626316",
+      "website": "http://https://www.professionalstwt.com.au",
+      "phoneNumber": "0427626316",
+      "powerProfile": false,
+      "jobTitle": "Leasing Team",
+      "name": "The Wright Leasing Team",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/5372c930476ae8ef7bd23603f97705e3eee6c6c6112bd13613ccb416fd168125/main.jpg"
+      },
+      "id": "3139704",
+      "email": "rentals@professionalstwt.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/51fe4ac348e77f8cc40dc106881c55812c281eed30f3559526c360d60bf932bc/image.png"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5feb04dbf068605d5672cf23f65eaeb5ab446232f3890d9db6db2b715124319f/image.png"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a5220b11aabd19c8572db0916d4f80c1e7cf9c4ee3d08a74dfeea99f371f71a2/image.png"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cc871662aaaf17f8bcf5fd867bd681cf79ea09705c1c9fa1eef69e11ddf54205/image.png"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/05fe52bfa7f555580ee709c84237e7b1a5171d49ae6c0475b9d8f0b57dd06bdc/image.png"
+    }
+  ],
+  "address": {
+    "streetAddress": "65/50 Kirkham Hill Terrace",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93706314,
+      "longitude": 115.89837478
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://https://www.professionalstwt.com.au",
+    "address": {
+      "streetAddress": "1/56 Creaney Drive",
+      "postcode": "6026",
+      "suburb": "Kingsley",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9349 4655",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#373D40"
+    },
+    "name": "Professionals TWT Realty",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/428614646fd642b0fc9752b16f829db9b509b1c206947ad4a0c534beb1ff2ff5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/428614646fd642b0fc9752b16f829db9b509b1c206947ad4a0c534beb1ff2ff5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/428614646fd642b0fc9752b16f829db9b509b1c206947ad4a0c534beb1ff2ff5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/c459112b9f04c2edc1b961ca3029847100142b67361ad5924863b0c2dd625fd8/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/428614646fd642b0fc9752b16f829db9b509b1c206947ad4a0c534beb1ff2ff5/logo.jpg",
+        "hero image": "/1536x800/c459112b9f04c2edc1b961ca3029847100142b67361ad5924863b0c2dd625fd8/main.jpg",
+        "default": "/160x30/428614646fd642b0fc9752b16f829db9b509b1c206947ad4a0c534beb1ff2ff5/logo.jpg",
+        "large": "/170x32/428614646fd642b0fc9752b16f829db9b509b1c206947ad4a0c534beb1ff2ff5/logo.jpg"
+      }
+    },
+    "agencyId": "RRZIJL",
+    "email": "justin@professionalstwt.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4300143",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444301616",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/d6fab94f06cfb000a8b7b41d3a10248dc096395d614fffa3f7d173e1c13eb080/image.png"
+  },
+  "dateAvailable": {
+    "date": "17 Jun 2026",
+    "dateDisplay": "17 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Today",
+      "startTimeDisplay": "2:00 PM",
+      "endTimeDisplay": "2:15 PM",
+      "startTime": "2026-06-16T14:00:00",
+      "endTime": "2026-06-16T14:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

@@ -1,0 +1,276 @@
+{
+  "prettyUrl": "property-unit-wa-maylands-441919300",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0893441160",
+    "website": "http://www.saracenirealestate.com.au",
+    "phoneNumber": "0893441160",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Danni Saraceni",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/bede5c318b32963de0989209af24a0442ef9deeac4dab83abe1c9501dccc3928/main.jpg"
+    },
+    "id": "902191",
+    "email": "rentals@saracenirealestate.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Stunning 2 by 1 unit located in Maylands <br/> <br/>*Available from the 8th of July 2026*<br/><br/>Includes:<br/>- 1x split system A/C unit in the master bedroom. <br/>- Built in wardrobe in the master bedroom<br/>- Spacious living/dining area <br/>- 1x carport <br/>- Electric stove and oven.<br/>- Electric Storage Hot Water System.<br/><br/><br/>5 Minute drive to the train station.<br/>10 minute drive to the city.<br/><br/>",
+  "showAgencyLogo": true,
+  "title": "Stunning 2 by 1 unit located in Maylands",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0893441160",
+      "website": "http://www.saracenirealestate.com.au",
+      "phoneNumber": "0893441160",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Danni Saraceni",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/bede5c318b32963de0989209af24a0442ef9deeac4dab83abe1c9501dccc3928/main.jpg"
+      },
+      "id": "902191",
+      "email": "rentals@saracenirealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/70f2de6b3938e493c62b5965b071e5d8b4f4efe0a0063eabc4d1892b24506faf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/44e2ef22c317bcef727df96ff5c063862576f2b9b0f82488be07da41a50b9636/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/70ec96d52875ff752987d5a1ac6af5ed1dde67a711b19cc8dfaec62f28232740/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b11eb0e6551f18caf1a2744d0119bd28df696b7371ddc7d5fcb65ce206b90849/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2c09266ea19e5e941f50783829f55ecc75fa7783cb67f1482d6aae675acc8499/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b59aeaa1fd2ed81e8b156a5b2d3929528ef63bf04320b47e2ea2d33ca861445/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/05bd58acc3fcaf80afee051fe97e939a11bc60205881cc4e49277fda9a061e8b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e7074d39a0aed80607937d0b7c93bd2a4c60bbdfc7315d82e9017507abdc6faa/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ea83728f4cda92ed49e4d69e4573ae507ff297f8daea6d9df417610ad305cd8f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3b85a5f1d715aaae1e7ab8d829dfe7a62badce4725ee52086124b5c3a638e275/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cb0c8d64d2794f11c1b12e48b50b85ed140ddc92218d7d38a9321b7951608464/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ac7d9c205714e6076bb828642c114d556b95c7684486d4136442c590ffe434d0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bc5c5d25856f8beef3f4d3380a8ba078493a453b8d67d5894456ac445341cc60/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/af3c2a41476ffef38c2e467201e9d2b3a54d532b03a906e3fb3cc5f305f8fe52/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e74fd949c0096f57e2f68408b7c6600cf1339c23e99edd0419c346bbdd4d4251/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8e939ff04c9197a3a09564229453e11ea31ca7b501bfe6f74bdef540deef8d91/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/91799035397aaf2d50394d8098f08d75c2eb1c9dce3ab4fb7910f290a3b5b819/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2025ceb1229f13349bd15236f879177c8be95fc89f4ee1ef25ad34baa9f71f8c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/529808955128fffa26d2f6024fab23457b4405146a650c9964a187a6c748aee6/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "Unit 8/21  Elizabeth Street",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.9351003,
+      "longitude": 115.89484335
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.saracenirealestate.com.au",
+    "address": {
+      "streetAddress": "8/114 Cedric street",
+      "postcode": "6021",
+      "suburb": "Stirling",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9344 1160",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#FEFEFE"
+    },
+    "name": "Saraceni Real Estate",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/1d4ed03337c9878862756faae5236a8a3601db4d81f03a6c314669489eb01280/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/1d4ed03337c9878862756faae5236a8a3601db4d81f03a6c314669489eb01280/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/1d4ed03337c9878862756faae5236a8a3601db4d81f03a6c314669489eb01280/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/1d4ed03337c9878862756faae5236a8a3601db4d81f03a6c314669489eb01280/logo.jpg",
+        "default": "/160x30/1d4ed03337c9878862756faae5236a8a3601db4d81f03a6c314669489eb01280/logo.jpg",
+        "large": "/170x32/1d4ed03337c9878862756faae5236a8a3601db4d81f03a6c314669489eb01280/logo.jpg"
+      }
+    },
+    "agencyId": "ROYNOL",
+    "email": "sales@saracenirealestate.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "434748",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "441919300",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/406a8607071968aa2f47feed0ca453b7466c261b439709c3d3fc74640dc9a970/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "08 Jul 2026",
+    "dateDisplay": "08 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Today",
+      "startTimeDisplay": "5:15 PM",
+      "endTimeDisplay": "5:30 PM",
+      "startTime": "2026-06-16T17:15:00",
+      "endTime": "2026-06-16T17:30:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

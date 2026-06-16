@@ -1,0 +1,230 @@
+{
+  "prettyUrl": "property-unit-wa-perth-444388124",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0448361155",
+    "website": "http://www.housesmart.com.au",
+    "phoneNumber": "0448361155",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Samantha Kirwan",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/ff28e40e20a67a2fbb59a1d4a3c29d509bf8c140b051d4ebb48c0764f19b2edb/main.jpg"
+    },
+    "id": "2737710",
+    "email": "pm8@housesmart.com.au,leasing@housesmart.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Step out of your partly furnished renovated two-bedroom apartment, and it's just a hop, skip and a jump to Perth's fantastic Swan River Foreshore which boasts some of the best restaurants, cafe's and shops! 6 month lease wanted to begin with.<br/><br/>Some of the many features include:<br/>- Partly furnished<br/>- 2 Bedrooms with wardrobes<br/>- 1 Bathroom<br/>- Galley style kitchen with plenty of storage<br/>- Gas cooking<br/>- Reverse-cycle air-conditioning to the living area<br/>- Laminate boards throughout<br/>- Remote access to parking<br/>- One car bay<br/><br/>*Please click the 'Book an Inspection Time' or 'Request Inspection Time' button to register for upcoming viewing times. Registration is necessary to ensure we keep you as up to date as possible and notified of any important changes in details or viewing times. You will receive a link upon viewing to apply via 2Apply*",
+  "showAgencyLogo": true,
+  "title": "2 Bedroom Partly Furnished Apartment",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0448361155",
+      "website": "http://www.housesmart.com.au",
+      "phoneNumber": "0448361155",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Samantha Kirwan",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/ff28e40e20a67a2fbb59a1d4a3c29d509bf8c140b051d4ebb48c0764f19b2edb/main.jpg"
+      },
+      "id": "2737710",
+      "email": "pm8@housesmart.com.au,leasing@housesmart.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d2492883bd277d9b36a0678ea6727304161931401b5c3081e9d3489dea0e7c52/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/764d24d83e641bbbcb651a420cef12b93b948f591b3035a0245a1d9c2eb29553/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/12cef9b38462a74209ea1dc0f5f3cc5e4f79133f0d582127ccd73790e8fbdd0b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b9ac0ca7afe4ca4d9fe1e63a1e7f077be0fc83f2e80aa9e93f5866b120db1482/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1d3cb7dc46375e7fda8e49a2d36152766fe5b0a1eed15891ec8003e87d101fb1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8a13c42e139ed1007c7bd408a72f86fcb6337361eaf80197b751dc2c06fbd0c4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5772c3b30d66e39357f413c40f972bb9449da801b5297c2feb6b988b18d3ad4d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8c5926daa337571611b09d1174666b9b0182fac1439157e6e43eaa94a42e53c9/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "11/130 Terrace Road",
+    "locality": "Perth",
+    "postcode": "6000",
+    "suburb": "Perth",
+    "postCode": "6000",
+    "location": {
+      "latitude": -31.95933,
+      "longitude": 115.86605
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.housesmart.com.au",
+    "address": {
+      "streetAddress": "Shop 18 & 19, 222-226 Belmont Avenue",
+      "postcode": "6105",
+      "suburb": "Cloverdale",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9378 2555",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#01AEEF"
+    },
+    "name": "HouseSmart Real Estate Pty Ltd - CLOVERDALE",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "hero image": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif",
+        "default": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "large": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+      }
+    },
+    "agencyId": "GRRBEE",
+    "email": "enquiries@housesmart.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE1553787",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Floorboards"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444388124",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/be3ebaa3f30e987c32c9a0f86d74ee2d3599493899f03f00f86442d08145c8bb/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "08 Jul 2026",
+    "dateDisplay": "08 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

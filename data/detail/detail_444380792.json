@@ -1,0 +1,282 @@
+{
+  "prettyUrl": "property-apartment-wa-east+perth-444380792",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9323 0000",
+    "website": "http://https://www.matteblackrealestate.com/",
+    "phoneNumber": "08 9323 0000",
+    "powerProfile": false,
+    "jobTitle": "Senior Property Manager",
+    "name": "Natalie Gage",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/4c7b271d88b9a71b321baca7406d5637738f693f82e1ebf440ef3dc34409141f/main.jpg"
+    },
+    "id": "3938532",
+    "email": "pm1@matteblackre.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "THE VIBE<br/><br/>Experience the epitome of urban living in this fully furnished and equipped, 2-bedroom apartment, perfectly positioned in the heart of East Perth. With CAT services, the train station, Optus Stadium, Crown Casino, Northbridge and the CBD just moments away, convenience is at your doorstep.<br/><br/>Whether you're catching a game, enjoying a scenic walk along the river, or relaxing at a local café, this vibrant neighbourhood offers it all. Inside, enjoy a modern and low-maintenance retreat to relax and recharge - the perfect city base.<br/><br/>THE DETAILS<br/><br/>- Two bedrooms<br/>- One bathroom<br/>- Open-plan living and dining<br/>- Fully furnished<br/>- Modern kitchen with appliances<br/>- Private balcony<br/>- 1x allocated parking bay<br/><br/>THE DEAL<br/><br/>- Rent: $640.00 per week<br/>- Bond: $2,560.00<br/>- Lease term: Negotiable<br/>- Available: 9th July 2026<br/>- Furnished: Yes – Fully furnished <br/><br/>THE LOCALE<br/><br/>- East Perth Train Station – 600m<br/>- CAT Bus Stop – 350m<br/>- Optus Stadium – 1.8km<br/>- Claisebrook Cove Café Strip – 500m<br/>- Crown Casino – 2.5km<br/>- Perth CBD – 1.5km<br/><br/>THE DISCLAIMER<br/><br/>Whilst every care is taken in preparing this marketing information, Matte Black Real Estate accepts no responsibility for any errors or for its accuracy. Tenants and all interested parties should rely on their own enquiries to verify the information. This includes phone, internet and NBN connection type and availability, as we cannot guarantee or control telecommunication services, so we recommend speaking with your provider before applying to lease if required.<br/><br/>By registering your details, you will be kept informed of any updates, changes or cancellations to your appointment and sent an application link so you can apply prior to the home open if you wish. <br/><br/>For any further assistance, please contact our office on 9323 0003. Thank you.",
+  "showAgencyLogo": true,
+  "title": "Fully Furnished I Modern Urban Oasis",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9323 0000",
+      "website": "http://https://www.matteblackrealestate.com/",
+      "phoneNumber": "08 9323 0000",
+      "powerProfile": false,
+      "jobTitle": "Senior Property Manager",
+      "name": "Natalie Gage",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/4c7b271d88b9a71b321baca7406d5637738f693f82e1ebf440ef3dc34409141f/main.jpg"
+      },
+      "id": "3938532",
+      "email": "pm1@matteblackre.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$640 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2259b770f37826676258b5cc247d7d3ef5ff849be1cf31b01d4043cd196a63f6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/049f7ab6793d25f8a9a48ab586dc665852a0c9e11852fc8e38e86eae70dc3068/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1d72d82bca32ba67accbb79373e01a0871f436f01867159f671d75cd780268ba/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6baed532246ad0e90fd8423b11f2e14b9105eecc116b8198de3159e4e82e5eaa/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/558610ccfb8866cee9fd62eef49a4e4624f3ced8b688729a708b61d20969a7d3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e1eb2d98f65c988ccc8dd657cf39a9e42d8cb96bc665f680a656bf0fbc3084ad/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ac7402060c42bd1c2bbb3874b4eba99780c8af3682189879031a2dfec14138e0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9409bad8cce81686fe84e301ff209eaf3b4cb5437fe7d723979f6a2a11336710/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/62caa6c712903c986efbfab4bac5e52c1ffe344143f2f6445184e4d7587240ac/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bdb7235c63f5f2f7a42df14c490bfe628089c3f0155c1f202ec04cab018dc32e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e0dfdad93a6ce47184e12cb5a946634ff8b336e681b99007ec187adfec0d52ca/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2e588a3713c5ea874a15fd192bd86ac8fcc2babe8dc08ea526b0507d5ee6466e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e42dc50ed06b91b88475ba489134a52d8561f8e09f531226a17dbec7ee3fae93/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7c004182636ecfbe91884efef8e6742f063f47e48e07ce728fc7e19ec0fcb8e8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f4e4ed1ae6c221df322e92a23dd965d3a64768c22b6aa2832bfa2cf971d1952e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6746870e6d3ec66d7bbe56c02d6c88153ae87d9a0bceeba027c60f06fd88da0b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7fc5b3959b2d17012e23e62e728ee6f88084f46c53ed7d9da98db82d397eaab8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c16c4498988e417fc0b0fcab53c57a23d92773723497aa83a9621c77ae906318/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3b7ea0c07e79d0b1b94cf06a5170c5fde36f9cb52e4517e97ae3ecec00196dbe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ced54a989c6ba926d8a5899f25252cbe39baf5446d4228251601678888225cc6/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "9/11 Regal Place",
+    "locality": "East Perth",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "postCode": "6004",
+    "location": {
+      "latitude": -31.95394,
+      "longitude": 115.87696
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://https://www.matteblackrealestate.com/",
+    "address": {
+      "streetAddress": "512 Hay Street",
+      "postcode": "6008",
+      "suburb": "Subiaco",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9323 0000",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#0a0000"
+    },
+    "name": "Matte Black Real Estate - SUBIACO",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/40ffae2f1f74b730d3ea14d2b91acc5cfed235155975e360eaeedac11ca69b2c/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/40ffae2f1f74b730d3ea14d2b91acc5cfed235155975e360eaeedac11ca69b2c/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/40ffae2f1f74b730d3ea14d2b91acc5cfed235155975e360eaeedac11ca69b2c/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/f68da1e7744ea2ac150c850ac6188929de1006b58233952267daa047e09efc6b/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/40ffae2f1f74b730d3ea14d2b91acc5cfed235155975e360eaeedac11ca69b2c/logo.jpg",
+        "hero image": "/1536x800/f68da1e7744ea2ac150c850ac6188929de1006b58233952267daa047e09efc6b/main.jpg",
+        "default": "/160x30/40ffae2f1f74b730d3ea14d2b91acc5cfed235155975e360eaeedac11ca69b2c/logo.jpg",
+        "large": "/170x32/40ffae2f1f74b730d3ea14d2b91acc5cfed235155975e360eaeedac11ca69b2c/logo.jpg"
+      }
+    },
+    "agencyId": "WPVROQ",
+    "email": "info@matteblackre.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6639539",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444380792",
+  "bond": {
+    "display": "$2,560",
+    "value": 2560
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/0f54336b51de3364dfb6d1f9f302f75ca153dde82cc509db7b54c5965140c795/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "09 Jul 2025",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

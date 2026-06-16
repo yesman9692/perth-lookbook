@@ -1,0 +1,186 @@
+{
+  "444330156": {
+    "noise": "보통",
+    "noise_reason": "중규모 도로 면, 간선·철로 직접 아님"
+  },
+  "444388124": {
+    "noise": "보통",
+    "noise_reason": "Terrace Rd 면하나 전면 리버 포어쇼어측"
+  },
+  "440477624": {
+    "noise": "보통",
+    "noise_reason": "역 400m·Beaufort St 800m, 간선 직접 아님"
+  },
+  "444354380": {
+    "noise": "높음",
+    "noise_reason": "건물이 간선 Beaufort Street 직접 전면"
+  },
+  "404271805": {
+    "noise": "보통",
+    "noise_reason": "강변측 사이드 스트리트, 간선·철로 아님"
+  },
+  "444410204": {
+    "noise": "낮음",
+    "noise_reason": "단지 안쪽 rear villa, 도로에서 set back"
+  },
+  "444335044": {
+    "noise": "보통",
+    "noise_reason": "Mount Henry Rd 주거지, 간선 직접 아님"
+  },
+  "444410468": {
+    "noise": "높음",
+    "noise_reason": "89 Walcott St 번화 상가 strip 직접 접함"
+  },
+  "444417108": {
+    "noise": "보통",
+    "noise_reason": "단지 안쪽, Beaufort St·역 인근 일반 도심권"
+  },
+  "439577464": {
+    "noise": "보통",
+    "noise_reason": "Glendalough역 인근 = 철로·프리웨이 인접"
+  },
+  "444388504": {
+    "noise": "보통",
+    "noise_reason": "Beaufort St 코너 인근, 안쪽 Field St"
+  },
+  "444301528": {
+    "noise": "보통",
+    "noise_reason": "Anstey St 주거지, 간선·철로 직접 아님"
+  },
+  "440398688": {
+    "noise": "낮음",
+    "noise_reason": "조용한 콤플렉스 내부, 간선 직접 아님"
+  },
+  "438534212": {
+    "noise": "보통",
+    "noise_reason": "Primary 맞은편 주택가, Northwood St 주거 도로"
+  },
+  "438927504": {
+    "noise": "보통",
+    "noise_reason": "Mitchell Fwy·Oxford St 근접 중심부, 다소 번잡"
+  },
+  "438947352": {
+    "noise": "보통",
+    "noise_reason": "South Perth Esplanade 강변 도로 면함"
+  },
+  "440511028": {
+    "noise": "낮음",
+    "noise_reason": "막다른 쿨드삭 성격의 공원변 단지, 간선·철로 없음. McDougal Park 안쪽 조용"
+  },
+  "437016484": {
+    "noise": "낮음",
+    "noise_reason": "Angelo St 살짝 비켜난 소형 블록, 간선·철로 직접 면함 없음. 주거 안쪽"
+  },
+  "441584688": {
+    "noise": "보통",
+    "noise_reason": "Namatjira Place 주거 안쪽 막다른 길, 간선 직접 면함 없음. Leederville 도심 근접이라 약간의 활기로 보통"
+  },
+  "444371160": {
+    "noise": "보통",
+    "noise_reason": "First Avenue 주거 포켓, 간선 직접 면함 없음. Beaufort St·역 근접 도심권이라 보통"
+  },
+  "444355368": {
+    "noise": "보통",
+    "noise_reason": "Tenth Ave 단지 내부 1층, 간선·철로 직접 면함 없음. 풀 등 공용공간 인접한 단지라 보통"
+  },
+  "444315520": {
+    "noise": "보통",
+    "noise_reason": "Newcastle St(628-630)는 비교적 통행 있는 도로변이나 게이티드 단지 안쪽 유닛, 간선 대로·철로 직접 아님 → 보통"
+  },
+  "442829368": {
+    "noise": "낮음",
+    "noise_reason": "Ley Street Como 주거 안쪽, 간선·철로 직접 면함 없음. 카페 도보권이나 조용한 거리"
+  },
+  "444366040": {
+    "noise": "낮음",
+    "noise_reason": "Parker St cul-de-sac 막다른 길, 공원 맞은편. 간선·철로 직접 면함 없음 + 고층이라 지상 소음 차단"
+  },
+  "444385596": {
+    "noise": "보통",
+    "noise_reason": "Murray St(611) CBD 인접 도로변이나 시큐어 단지 안쪽 유닛, 간선 대로 직접 면함 아님 → 보통"
+  },
+  "444370976": {
+    "noise": "보통",
+    "noise_reason": "York St 세트백 위치로 도로에서 물러남, 간선 대로 직접 면함 아님. Subiaco 도심권 활기로 보통"
+  },
+  "444254684": {
+    "noise": "보통",
+    "noise_reason": "Seventh Avenue 주거 포켓, 간선·철로 직접 면함 없음. Maylands 카페 strip 근접 인너시티라 보통"
+  },
+  "444230912": {
+    "noise": "보통",
+    "noise_reason": "Mill Point Rd(154) 다소 통행 있는 도로변이나 단지 안쪽 유닛, 간선 대로 정면·철로 직접 면함 아님 → 보통"
+  },
+  "444292312": {
+    "noise": "보통",
+    "noise_reason": "King George St는 Vic Park 내 주거 이면도로, 간선(Albany Hwy)·철로 직접 인접 아님. 1층이라 도로 소음 약간 노출되나 micro 보통."
+  },
+  "444356712": {
+    "noise": "낮음",
+    "noise_reason": "Como 주거 내 상층, 간선·철로 직접 인접 근거 없음. 상층이라 도로 소음 더 적음 → 낮음."
+  },
+  "444114592": {
+    "noise": "보통",
+    "noise_reason": "East Perth 아파트존, 중고층이라 도로 소음 완화. 간선/철로 직접 인접 명확 근거 없음 → 보통."
+  },
+  "441919300": {
+    "noise": "낮음",
+    "noise_reason": "단지 안쪽 court(막다른 진입로), 간선/철로 직접 인접 아님. 단층 cul-de-sac 형태 → 낮음."
+  },
+  "444407028": {
+    "noise": "보통",
+    "noise_reason": "Vic Park café strip 도보권 이면, 간선/철로 직접 인접 명확 근거 없음 → 보통."
+  },
+  "444097840": {
+    "noise": "높음",
+    "noise_reason": "Albany Hwy = Vic Park 핵심 간선도로 직접 면한 상가 2층 유닛. 차량·상업 소음 직격 → 높음."
+  },
+  "444227276": {
+    "noise": "낮음",
+    "noise_reason": "강변 parkland 단지 내, 조용한 주거. Canning Hwy/Causeway 접근 좋으나 단지는 foreshore 안쪽"
+  },
+  "444391228": {
+    "noise": "낮음",
+    "noise_reason": "조용한 4세대 group, 성숙한 녹지로 둘러싸인 주거. 간선·철로 없음"
+  },
+  "439604680": {
+    "noise": "보통",
+    "noise_reason": "Alfonso(측면 소로) 주소이나 Fitzgerald St 간선 인접. 유닛은 공원/측면 향. 간선 근접으로 보통"
+  },
+  "444353136": {
+    "noise": "낮음",
+    "noise_reason": "Mary St Como 조용한 주거 소로. 간선·철로 없음"
+  },
+  "444378952": {
+    "noise": "보통",
+    "noise_reason": "Carr Place Leederville inner-city 주거 소로, cafe strip 인접. 간선·철로 직접 면하지 않음 = 보통"
+  },
+  "432498298": {
+    "noise": "보통",
+    "noise_reason": "Sherwood St 주거지 내부, 간선·철로 직접 인접 아님. Maylands역 도보권이나 선로 바로 옆 아님"
+  },
+  "444301616": {
+    "noise": "보통",
+    "noise_reason": "Kirkham Hill Terrace 언덕 주거 블록, 간선·철로 직접 인접 아님"
+  },
+  "443548228": {
+    "noise": "보통",
+    "noise_reason": "같은 Kirkham Hill 블록, 간선·철로 직접 인접 아님"
+  },
+  "441619272": {
+    "noise": "보통",
+    "noise_reason": "Colombo St 스트리트프론트, 간선 직접 아니나 도로변 듀플렉스. 철로 인접 아님"
+  },
+  "444320492": {
+    "noise": "보통",
+    "noise_reason": "Manning Terrace 리버사이드 단지 내부, 간선·철로 직접 인접 아님"
+  },
+  "436411272": {
+    "noise": "보통",
+    "noise_reason": "Newcastle St 인접 - West Perth 간선로변 가능성 있으나 단독 확증 부족, 보수적 보통. (실측 시 Newcastle St 교통량 재확인 권장)"
+  },
+  "444380272": {
+    "noise": "보통",
+    "noise_reason": "Kadina St North Perth 주거 이면, 간선·철로 직접 아님 → 보통"
+  }
+}

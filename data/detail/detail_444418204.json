@@ -1,0 +1,270 @@
+{
+  "prettyUrl": "property-unit-wa-maylands-444418204",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0460723218",
+    "website": "http://www.theagency.com.au",
+    "phoneNumber": "0460723218",
+    "powerProfile": false,
+    "jobTitle": "Leasing Manager",
+    "name": "Katherine Windebank",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/71731e253a0540cce2518248431b52664d62cd1edfb15b4e8c6b37bb6a54ba55/main.jpg"
+    },
+    "id": "3895792",
+    "email": "katwindebank@theagency.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Don't miss the opportunity to secure this well-presented two-bedroom ground floor unit, set within a small, quiet complex. Offering comfortable living, an outdoor space, and undercover parking, this property is perfectly positioned to enjoy everything Maylands has to offer.<br/><br/>Conveniently located close to Beaufort Street's cafes, restaurants and amenities, Maylands Train Station, and the popular Eighth Avenue specialty shopping precinct, you'll love the lifestyle and accessibility this home provides.<br/><br/>Features include:<br/><br/>Spacious tiled open-plan living area<br/>Air conditioning and ceiling fans for year-round comfort<br/>Combined bathroom and laundry<br/>Neutral décor throughout<br/>Private outdoor area<br/>Undercover carport parking<br/><br/>Perfect for professionals, couples or small families seeking a low-maintenance home in a highly desirable location.",
+  "showAgencyLogo": true,
+  "title": "Charming 2-Bedroom Ground Floor Unit",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0460723218",
+      "website": "http://www.theagency.com.au",
+      "phoneNumber": "0460723218",
+      "powerProfile": false,
+      "jobTitle": "Leasing Manager",
+      "name": "Katherine Windebank",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/71731e253a0540cce2518248431b52664d62cd1edfb15b4e8c6b37bb6a54ba55/main.jpg"
+      },
+      "id": "3895792",
+      "email": "katwindebank@theagency.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/54e7b88cf5230cc147b5a60fcbd75369902f93aea352c33c0abedc7cc0c3c260/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e4ee365157a775d370847e2bda8c42ed1abbebe01cc6d63daf8e75fb2d579509/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/308760dcf846ed26694950bb67749e0e0a45731dc268a41d34e29d8968b90344/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e719866779be768c07943cd8be5e0e117c06f48b9da47485fa38c33398a97df0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c91c49c5cacb40722d0a068f226d8a257af8dc8672c0f37e6f8c7213c970d80d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b6f7330171e205ed016a204dfc5994d355773bba8454d3abab8aae02d0af5ec0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a0fe55388b30d8113f935dc91e83e4225fa3a5a119cb0bdb65c1b4f1b20c4582/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f22a2de1a167f1d95ca38b9200180c8252499f158dbe301d36d7bde24667d53a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3ffd860d386d889cae8db1f2c3978f44862644992099defe02ba7b5a734e8fba/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c7cf9f5e063c74eb12067bcdf7ee11e610ed0d3409085c0c91dfb68c5f3b5517/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b85c10756b67ee6b948fef7346825e02ca85cd80061f18833b5f8013d279b4e5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5ec0daf405a8c44411788b77eedb1f43e9e6c29adff8fe7477a5966d085bab80/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a032f52fcadbf4c91c861d5f0ea6d3afde0fa035c3b5ec5d62e381559f5c5a4c/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "7/29 Tenth Avenue",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.92526,
+      "longitude": 115.89086
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.theagency.com.au",
+    "address": {
+      "streetAddress": "68 Milligan Street",
+      "postcode": "6000",
+      "suburb": "Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "1300 243 629",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#272727"
+    },
+    "name": "The Agency - WA",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/489e4f98b74704767e776031b07270bd8e559fc104301ff999fc830581b5ae1e/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg",
+        "hero image": "/1536x800/489e4f98b74704767e776031b07270bd8e559fc104301ff999fc830581b5ae1e/main.jpg",
+        "default": "/160x30/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg",
+        "large": "/170x32/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+      }
+    },
+    "agencyId": "SJOAVK",
+    "email": "hellowa@theagency.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE4572043",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444418204",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/bb74dfc100ead2deb0cc88e2fcb85ee4d258ade7173ef2c07a0241e14a0d0088/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "09 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Mon 22 Jun",
+      "startTimeDisplay": "4:40 PM",
+      "endTimeDisplay": "4:50 PM",
+      "startTime": "2026-06-22T16:40:00",
+      "endTime": "2026-06-22T16:50:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

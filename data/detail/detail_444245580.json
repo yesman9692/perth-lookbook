@@ -1,0 +1,220 @@
+{
+  "prettyUrl": "property-house-wa-perth-444245580",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0403309597",
+    "phoneNumber": "0403309597",
+    "powerProfile": false,
+    "jobTitle": "Director/Principal",
+    "name": "Chris Jonker",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/6c4535746ccf0c4a484642b8fa462a1e8b4b46b1ce3ed5befd3603d561db1ce7/main.jpg"
+    },
+    "id": "287056",
+    "email": "chris@link2realty.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Located in a prime inner-city location just moments from Perth's best cafes, bars and restaurants, and only a short walk to Chinatown, this freshly painted apartment offers the ultimate low-maintenance lock-and-leave lifestyle.<br/><br/>Featuring two bedrooms, high ceilings, a modern kitchen, open-plan living area and nice bathroom, the apartment combines character with convenience. Residents also have access to a communal laundry at the rear of the complex, plus an allocated parking space at the front.<br/><br/>Perfect for anyone seeking vibrant city living with everything right at your doorstep.",
+  "showAgencyLogo": false,
+  "title": "PRIME POSITION!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0403309597",
+      "phoneNumber": "0403309597",
+      "powerProfile": false,
+      "jobTitle": "Director/Principal",
+      "name": "Chris Jonker",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/6c4535746ccf0c4a484642b8fa462a1e8b4b46b1ce3ed5befd3603d561db1ce7/main.jpg"
+      },
+      "id": "287056",
+      "email": "chris@link2realty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 0
+    }
+  },
+  "price": {
+    "display": "$625 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8ce61a323a34e414526ba1c21f0d64093299181f5ed13635e42d6fbfc47cdc79/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c9677085418d921af71c7e073450c6e0522ec18abf54b631e40b179b18fa1618/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e8b9e7050921cf6923eac5fd38bf8af82bfbf8d6a285fe00c3c1e10986ebf5d5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7d134289dc355ec499e151e418694c93e54fd1b06581cf25d39cd53858a361fc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c7822ba3efdbe61e5b7fa7567fc2622a8adaf7200115e864ff227fc3a29ca3e8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/51df44f5d137297ca63c3a12c02c13a5b968d276b4f1d53e182ae61ea8036e32/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2f8772155b45d5b1b26fecf9a7194cdc783b472a82b1e16abb9261de8c5d2ed9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7bc9d3d033f74703ecccb05a4714973066ac0dde2132b4969fbbc333be931944/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/127d7c9f764c859b5e8fa2b53950ebdc4e0467004a6991c5ae7d8c52d3c2ca4d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bea96ccedc3bcbfa841737c017a9daef1411764504160b9b63e14f961ccd4717/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/68834fbeba4e55290f51dd75666f1c66693f37b0ada99282b06512151c07c627/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6dce964555903b34da528d4cd063575a1eb892c75fe624701f4aa2a8ff67c327/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3c66bd18082728f6eec61c5455f94cba6c1237882a959fca45832c200fdc2609/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/3 Brisbane Place",
+    "locality": "Perth",
+    "postcode": "6000",
+    "suburb": "Perth",
+    "postCode": "6000",
+    "location": {
+      "latitude": -31.94333,
+      "longitude": 115.86198
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "Cimbrook way",
+      "postcode": "6023",
+      "suburb": "Duncraig",
+      "state": "WA"
+    },
+    "phoneNumber": "0403309597",
+    "branded": false,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "Link 2 Realty",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/70dcebf2468628b085e12a450e64a986a2b6dded2d6e653694093bcb0824fd60/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/70dcebf2468628b085e12a450e64a986a2b6dded2d6e653694093bcb0824fd60/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/70dcebf2468628b085e12a450e64a986a2b6dded2d6e653694093bcb0824fd60/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/70dcebf2468628b085e12a450e64a986a2b6dded2d6e653694093bcb0824fd60/logo.jpg",
+        "default": "/160x30/70dcebf2468628b085e12a450e64a986a2b6dded2d6e653694093bcb0824fd60/logo.jpg",
+        "large": "/170x32/70dcebf2468628b085e12a450e64a986a2b6dded2d6e653694093bcb0824fd60/logo.jpg"
+      }
+    },
+    "agencyId": "PWLMDW",
+    "email": "chris@link2realty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4295179",
+  "listingId": "444245580",
+  "bond": {
+    "display": "$2,500",
+    "value": 2500
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/9cbc9f4c3724abcf69e3fb7443fe997471e47a9cf7ea590631231e14e25ca657/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "25 May 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

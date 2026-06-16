@@ -1,0 +1,231 @@
+{
+  "prettyUrl": "property-unit-wa-south+perth-444230912",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0448361155",
+    "website": "http://www.housesmart.com.au",
+    "phoneNumber": "0448361155",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Samantha Kirwan",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/ff28e40e20a67a2fbb59a1d4a3c29d509bf8c140b051d4ebb48c0764f19b2edb/main.jpg"
+    },
+    "id": "2737710",
+    "email": "pm8@housesmart.com.au,leasing@housesmart.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "The lovely apartment is ideally located on Mill Point Road with views from the complex of our beautiful City and Swan River, opposite Perth Zoo, close to all amenities, transport, parks, schools, shops, restaurants and many more. This 2 by 1, cosy apartment includes a split reverse cycle air conditioner, with a secure pool for the complex, under cover BBQ facilities and a lush, manicured garden.",
+  "showAgencyLogo": true,
+  "title": "LOVELY APARTMENT - GREAT LOCATION!!!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0448361155",
+      "website": "http://www.housesmart.com.au",
+      "phoneNumber": "0448361155",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Samantha Kirwan",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/ff28e40e20a67a2fbb59a1d4a3c29d509bf8c140b051d4ebb48c0764f19b2edb/main.jpg"
+      },
+      "id": "2737710",
+      "email": "pm8@housesmart.com.au,leasing@housesmart.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/11d8c79ef5c8e61dd2b78b246e10cddebbf273cd072d3e71615fc9c85042f336/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/eaa307bb3440e9f14d35ef7aed3a0c656df9fe13e54a9bd5f7ea1162c2ad81a4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ddce319ba0a97c9297828aa24418f1f42ca9f49d1d79751bbe9902dfbc9ab4c5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cbc2253480b0562eaf4ecb41de0afc3f3b5245a19f15b2e31a74817a666bfc0a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bad11335a89b38875a93736ff52418658ed063024d6f417d25d615ac029884a3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e65081b16a41b78bcde9e83ede790bd46b73b709c00799cc7f875c09d3a486dd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/423ec5bc60df534c330ce7d79d49716d0dc6a263c26c4ec9e4b4e1790ed2cac4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/83e045b0fe5935579516b97ebabcab33336238f1653b61fdd8c9678cde8fb5a9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/437f1d60d45442fe3c75612f4ecd3e155f492568be853c448c32f4a6c9885588/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "12/154 Mill Point Road",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.97487987,
+      "longitude": 115.85652908
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.housesmart.com.au",
+    "address": {
+      "streetAddress": "Shop 18 & 19, 222-226 Belmont Avenue",
+      "postcode": "6105",
+      "suburb": "Cloverdale",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9378 2555",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#01AEEF"
+    },
+    "name": "HouseSmart Real Estate Pty Ltd - CLOVERDALE",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "hero image": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif",
+        "default": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "large": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+      }
+    },
+    "agencyId": "GRRBEE",
+    "email": "enquiries@housesmart.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6604969",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Reverse-cycle Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444230912",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/56f364499723bca4b002fcb6e9d45edeb789076843070bfba2d7df80c7269062/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "13 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

@@ -1,0 +1,320 @@
+{
+  "prettyUrl": "property-apartment-wa-east+perth-444303740",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9325 0700",
+    "website": "http://propertyexperience.ljhooker.com.au",
+    "phoneNumber": "08 9325 0700",
+    "powerProfile": false,
+    "jobTitle": "Leasing Manager",
+    "name": "Kayleigh Fox",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/3f55b78a33dd5304667ec84e93abbd7612b9ea673d1f1ce5a09c7ba030ec5ef5/main.jpg"
+    },
+    "id": "3920532",
+    "email": "leasing.cityresperth@ljhpxp.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Furnished: Prepare to be impressed by this ultra-stylish and lovingly modernised city verge apartment. The property is styled and furnished to a high degree and has been extensively renovated throughout. The photos simply don't tell the whole story, you must come and appreciate in person.<br/><br/>Ideally located in a secure complex nestled between East Perth village and the CBD, you are never short of something to do & getting there is easy; with a free CAT bus only a short walk away<br/><br/>Offering a long list of features including:<br/>* Open planned living and dining space with direct balcony access - Ideal for hosting all events<br/>* Luxurious. modernised kitchen with ample bench/storage space <br/>* Comfortably sized, covered balcony with leafy outlook - start and finish your day here<br/>* Generous Master bedroom with air conditioning and built in wardrobe<br/>* Second bedroom is set us as a reading room - has a sofa bed for visitors.<br/>* Chic, modern family bathroom with bath shower. Refurbished for your enjoyment<br/>* Separate internal laundry/larder with ample storage space<br/>* Secure parking for one vehicle in covered, gated garage.<br/>** Linen is NOT provided in the lease **<br/>** Not all items pictured are included the lease, some items may vary **<br/><br/><br/>•••Please note the lessor makes no representations about the availability of CTV/Alarms, telephone lines, internet lines or any other communications services to the premises. The tenant must make their own enquiries regarding the availability, cost and/or installation of those services.<br/><br/>•••TO ARRANGE A VIEWING PLEASE CLICK ON THE 'CONTACT THE AGENT' BUTTON OR THE 'BOOK INSPECTION' BUTTON AND YOU WILL BE SENT AN INSTANT REPLY TO REGISTER FOR THE SCHEDULED VIEWING/S•••<br/><br/>•••HOME OPEN TIMES ARE SUBJECT TO CHANGE WITHOUT NOTICE.••• Please be on time so you have sufficient time to fully view the property and ensure that it meets your requirements as viewing times cannot be extended, so as not to cause delays for the next home open. See You There.•••<br/><br/>ARE YOU A LANDLORD? If you are looking for property management services, we would love to hear from you. Contact our Business Development Manager Kelly on 0477 177 339 or kelly.johnson@ljhooker.com.au for a no-obligation and confidential conversation.",
+  "showAgencyLogo": true,
+  "title": "Best in the Complex - Come See Why...",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9325 0700",
+      "website": "http://propertyexperience.ljhooker.com.au",
+      "phoneNumber": "08 9325 0700",
+      "powerProfile": false,
+      "jobTitle": "Leasing Manager",
+      "name": "Kayleigh Fox",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/3f55b78a33dd5304667ec84e93abbd7612b9ea673d1f1ce5a09c7ba030ec5ef5/main.jpg"
+      },
+      "id": "3920532",
+      "email": "leasing.cityresperth@ljhpxp.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$720 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9e4f80f16836916fe4b59ff0e19facd7db43f6b49856d9a1a3e45a0ceb176c38/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/942fbd0e8f000156ad63c4619f5fb50978831622d464d7d14dee2d0f16636116/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c0bedb15431b7c18a1aa629206d8ad8f8008c701d483da50b003ab0242a25f2c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bb0b3f08e56e262bf2ba91d2ed04c35379d80572ae18417d166edab65ea039f4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/10a6676b580393bbaa407a1e174d4a200074370adbc34b364831a11bcfc624f0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/00823d62d4861fc0ea8a6fd67e7424d6027f29db9c56336b777e2c186ba0a268/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f72f2cf6e4e54e1d526931d969e50b5750ba249163757c3a69c14e5e0402ec36/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/df01307e8268cff9a5dde9ba09e4dc78d837361fbb1f90c313bd0118cfddc555/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fe02255336a5649bb5b35c7f5244d763070a03b4f92cf5d313548d4727f3ec7e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aff13c55bb3bea048d64e4557d31366aba1a13cf9593174fb9fab210c8ab6752/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/59054f425231d15919b82cd72c2c15b2624ba8a6b30d596424eefb49ec7b558f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f0908b7a7f86c1b7c781b6ba1b426c01da1a2f7dbe2a01e497e6a59d0eabcf76/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7d07bb50f0089bb00f8fff388fb17e15b4712b50a1729d3784caae4d8cc204c1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e47b94a6d31fe5d8453c2e374e3afdc3065fa46e90bc89f5a4f96d883a93dd43/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6ed0726a7d93c189d9aed6188b78b58fa811fa58b7e1f8c81b8e49d6c9ca75ec/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a07f898807f0f052cbd08e618cb0ef680a9e30bbe13dd558f7bf865bf70e1160/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c102b49b0b44658a4d53b1c52bdcc5bb9a2bab7163749b889a316632374f2ccf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b3f45407a161bc1eb1dfcf9e159b888249daa6d69ee76b08fd3001da92778c44/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e37b8507abada326e15295733849d95882f0b2928e147d91cdc195c3ce576964/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5dac2d534835b5d2d7b107532c900df60b6b9e4d624a66b8526ade2fefa05ff2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5be2d2fb905418e620866767a44c03f4ea1b6a1e079079a115350ec61b0ffbe9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aab20344aaf4217e2c3b49833f274bb4d1fed08a188f03ea36fd434858e5bef3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5a25ada48ee81e1f7a338a8e2f4de341ae2dfc4bc18ea45ca4f00a4955356537/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4158031d60079145349167b3da6aa0f0f784c49306c3bfcb8d4df00e9a6b0896/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "12/49-53 Bronte Street",
+    "locality": "East Perth",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "postCode": "6004",
+    "location": {
+      "latitude": -31.95566703,
+      "longitude": 115.87414207
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://propertyexperience.ljhooker.com.au",
+    "address": {
+      "streetAddress": "30/82 Royal Street",
+      "postcode": "6004",
+      "suburb": "East Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9325 0700",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#FFFAEB"
+    },
+    "name": "LJ Hooker - Property Experience",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/c430379e1d0cada54522a041586ec8b4f3a747ca89576b74d29b1df855e77258/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/c430379e1d0cada54522a041586ec8b4f3a747ca89576b74d29b1df855e77258/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/c430379e1d0cada54522a041586ec8b4f3a747ca89576b74d29b1df855e77258/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/3da10abcbe701eac71ba3af6eff32a5023a03af5279ff8ab58637f151b604639/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/c430379e1d0cada54522a041586ec8b4f3a747ca89576b74d29b1df855e77258/logo.jpg",
+        "hero image": "/1536x800/3da10abcbe701eac71ba3af6eff32a5023a03af5279ff8ab58637f151b604639/main.jpg",
+        "default": "/160x30/c430379e1d0cada54522a041586ec8b4f3a747ca89576b74d29b1df855e77258/logo.jpg",
+        "large": "/170x32/c430379e1d0cada54522a041586ec8b4f3a747ca89576b74d29b1df855e77258/logo.jpg"
+      }
+    },
+    "agencyId": "RYKWCH",
+    "email": "hello@ljhpxp.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R2-5124098",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Carport: 1",
+        "Outdoor Entertaining Area",
+        "Remote Garage",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Floorboards",
+        "Intercom",
+        "Living Areas: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Furnished"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444303740",
+  "bond": {
+    "display": "$2,880",
+    "value": 2880
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/d3795758b89f085b8afdf2a487f80974ef7950deaf280488e3eb96696c20c128/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "24 Jul 2026",
+    "dateDisplay": "24 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

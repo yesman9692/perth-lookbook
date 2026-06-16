@@ -1,0 +1,241 @@
+{
+  "prettyUrl": "property-house-wa-west+perth-436411272",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0488849770",
+    "phoneNumber": "0488849770",
+    "powerProfile": false,
+    "name": "For Rent (Property Listings)",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3798584",
+    "email": "leads@forsalebyagent.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "The Phone Code for this property is: 52272. Please quote this number when phoning or texting.<br/><br/>This charming brick home features high ceilings, two spacious double bedrooms, and a large living area, offering comfort and character throughout. The home has been renovated throughout with new paint, new carpets, and includes a renovated kitchen and modernised bathroom.<br/><br/>Additional features include full security screens throughout, both internal and external toilets, and a secure external laundry for added convenience.<br/><br/>The rear yard is fully paved for easy maintenance (pot plants welcome) and includes double gate access with secure parking for up to two vehicles, with ample space for larger vehicles if required. And is a perfect lock up and leave to suit FIFOs<br/><br/>Ideally located within walking distance to the city centre and vibrant Leederville, this home offers both convenience and lifestyle.",
+  "showAgencyLogo": false,
+  "title": "CITY, LEEDERVILLE OR FIFO WORKERS REJOICE !!!!!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0488849770",
+      "phoneNumber": "0488849770",
+      "powerProfile": false,
+      "name": "For Rent (Property Listings)",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3798584",
+      "email": "leads@forsalebyagent.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$675 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/542f7d5ca8ef55d5b5ceb9e57aa0d9ea638333435918baf38416c6c6d57ce036/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4bd46544c85bcf8efcde5979ff2a38f11ef2890c53f0e65ee0cc09836b7dae67/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5d89cf5547ffb27ae0d3131b658dd17c28d9ce335ca0404c0d485c8be9bf9b3d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ba264f7a349fdaa61ae98b9fd2dd4ee98adfdfefc33c0c48d7d175e166f60c3c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f6dd6931a7abf36cabd5f397b44f555a1998d92da3e080a029bf83ae29339d47/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/faf81468a446fcfdd378c81a300fc74bf85b75470e3cd7a939b8231f7d062506/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7f185822f1ab3cf15d90a42801c35f7c584912ab57baeb43e13f09606d5b1a5c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5416bc90b5e55b5ee410ed29a15c3cfbc1af357269bebebdd4da954cd9963ac2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/05bdd295728bef0ba434e7b572eaba98c9e37a505a13ba8db8eb606c03ebd35e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f093f001910927438e1a2da3be56ccae266854b79e2e0b09d751221c2ce94198/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/791d832646b9c730c4abe392339741272e9e8a902f16ee4bb880822d101a25f4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/73501323c542f84429fbb1f494c7f5a101d664954abc841e52f5f0c81bb93191/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b49c6860364eb0351cfa560063c13b5bd6a70963ee04a0f87ec46c83e838e009/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d69a79b8cbe45d0e98607c777df06ed2b3d28c188b120c8d43be85d3cb99916b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8ab1c10cd3f1ebec87f15651ba3be2e63d4cfaeb635bc82513a5d1e341d7d68e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7ab731a1542cb16285d49c808e9b17ba91902aa41348765c35c4369751294931/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/23f76f726327438915bb4de702bd73ae139e0a3430987949f5e9cd52f0645593/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5b95e5ab9a8050a9b48be816b26bd995233fae5b2cfedf0dc6b88ac19c8aa96f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/acfaa737b2a523acac72ddbd22c429140e7458772040a89a940dcf8904296afa/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "530 Newcastle Street",
+    "locality": "West Perth",
+    "postcode": "6005",
+    "suburb": "West Perth",
+    "postCode": "6005",
+    "location": {
+      "latitude": -31.94053589,
+      "longitude": 115.84922853
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "1/19 William St",
+      "postcode": "3183",
+      "suburb": "Balaclava",
+      "state": "VIC"
+    },
+    "phoneNumber": "1300 831 940",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#cd1421"
+    },
+    "name": "Property Listings -                         Australia                                               ",
+    "logo": {
+      "images": []
+    },
+    "agencyId": "ETAQUI",
+    "email": "info@forsalebyagent.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "118232093",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "436411272",
+  "bond": {
+    "display": "$2,700",
+    "value": 2700
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/f537052d8f7a98741e4809a0b8eb81a2fff21e4cbdaecec19d306e9195d39242/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "13 May 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

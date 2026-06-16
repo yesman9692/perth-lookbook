@@ -1,0 +1,263 @@
+{
+  "prettyUrl": "property-house-wa-victoria+park-441619272",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9361 6888",
+    "website": "http://https://carlisle.century21.com.au/",
+    "phoneNumber": "08 9361 6888",
+    "powerProfile": false,
+    "name": "Century 21 Jones Property Group Leasing",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/7f2f82eeae7706ebcf18c6a5536d04652f2b4156eb183a922b57d7758f0afaa2/main.jpg"
+    },
+    "id": "1975446",
+    "email": "leasing@c21jonesproperty.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "3 month only lease! If location is the key, then this street front duplex is for you! Featuring an open plan living and dining area, 2 good sized bedrooms, plus study and spacious backyard with an undercover patio. Conveniently located close to the CBD, Victoria Park café strip, walking distance to public transport, parks & local primary schools.<br/><br/>Key Features Include:<br/>* 2 Bedrooms, both freestanding robes <br/>* Additional room perfect for a study or activity area/storage <br/>* 1 Bathroom with shower, bath & vanity<br/>* Open plan living and dining area with raked ceilings <br/>* Good size kitchen with cupboards galore & ample bench space<br/>* Undercover paved patio area overlooking spacious backyard<br/>* Single undercover carport with additional driveway space for extra parking",
+  "showAgencyLogo": true,
+  "title": "3 month only lease! LOCATION, LOCATION!!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9361 6888",
+      "website": "http://https://carlisle.century21.com.au/",
+      "phoneNumber": "08 9361 6888",
+      "powerProfile": false,
+      "name": "Century 21 Jones Property Group Leasing",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/7f2f82eeae7706ebcf18c6a5536d04652f2b4156eb183a922b57d7758f0afaa2/main.jpg"
+      },
+      "id": "1975446",
+      "email": "leasing@c21jonesproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6e811f85d037cb47c23e2c9f72b05a5babd4d47a0fe6c09ec4d5713031f039e1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e2bd96aedfd0ea74642bf834238869937b4126dba9e595494c260cccf35f4acb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3af6c9d7acd5f7ab020acff3fd2e4ce1f3cfce1438d8749501bb573976a6bb84/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e4be330730219f02f7ce00783c2550c7b989394f13e67d6fe3c94b5d76f40238/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/389c256d54eea355f6cb922e635f295dd1feaebc7bc085787cfd82434364f8e0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0648d856589db338b7d1124022327725a130e7ccae61cb8889506c6a62754ecb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1629a36cfba26a3c52901ad4aef8545faeffb0447d467011d1d4d870d83bc657/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ecdb0237dcd71832495ea3203599985f8c7a144c72e59d8ff46fae2d53283c64/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4427c5abfee185741519862126d758240a0f786af3d7f1ac525b5dc7bb0066c3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/05a3d274864174d60975dcf8753b8b514ced798d05c440199c20c7efa21a3a87/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6f1d919e67474ef82734908e9217ee5bff46e156ca210bc6a9c80c634bbd5198/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/db30b12c86072081b65eba20367c55628afbd579d69ae41c692fac37f4665bf1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3be1b36eace8134f0b8894fbc072bd0125a4a2ecf4d1c1e5cdb07dc8fe05b272/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/73fd8f93b28ac9566064dbdf805e3457369c1d8041348075a9a59bdb974e3f61/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ea4fbe5f5d26ed54cfae1ee316c035b55ae6f2165adc7e674e31d452e63ad186/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/086f82aba5b488c93fc8b4705a2968179f1d6cb086ef931ba462757f9fa4c301/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/086f82aba5b488c93fc8b4705a2968179f1d6cb086ef931ba462757f9fa4c301/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "50A Colombo Street",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97492,
+      "longitude": 115.88566
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://https://carlisle.century21.com.au/",
+    "address": {
+      "streetAddress": "4/55 Archer St",
+      "postcode": "6101",
+      "suburb": "Carlisle",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9361 6888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#252526"
+    },
+    "name": "Century 21 Jones Property Group - Carlisle ",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif",
+        "default": "/160x30/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif",
+        "large": "/170x32/1729626b45093386ea4e76923164c19a9410572e9e9eda7b19e04aaaa75ad538/logo.gif"
+      }
+    },
+    "agencyId": "JQVCAR",
+    "email": "matt@c21jonesproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "WA88423601",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1",
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Study"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "441619272",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/ca34af623265f56734fe9a95c5a80931a361bb6ff7225ffcb5465a7b1dcf440b/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "09 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

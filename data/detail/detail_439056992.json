@@ -1,0 +1,328 @@
+{
+  "prettyUrl": "property-apartment-wa-east+perth-439056992",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0416933623",
+    "website": "http://www.crashrealty.com.au",
+    "phoneNumber": "0416933623",
+    "powerProfile": false,
+    "name": "David Crash - Rent",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3694372",
+    "email": "rentals@davidcrash.com"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "✨Charming East Perth Apartment – Elegant, Furnished & Central!<br/><br/>Positioned in one of Perth’s most sought-after locations, this East Perth apartment blends timeless elegance with modern comfort. From styled French doors and a manicured garden to two spacious courtyards and a character-rich brick façade — every detail whispers charm.<br/><br/>Step inside and you’ll find timber-style flooring and a fresh, airy interior that feels like your own peaceful retreat. Nestled in a serene, waterside village just 2 km from the heart of the city, this home is perfect for professionals or anyone who loves the perks of city living with a tranquil twist.<br/><br/>🏡 Features You'll Love:<br/>🛏️ 2 Bedrooms – Cozy and stylish<br/>🛁 1 Bathroom – Fresh and functional<br/>🛋️ Furnished – As pictured, ready to move in!<br/>🚗 Secure Parking Bay – Peace of mind for your car<br/>❄️ Air Conditioning – Stay cool year-round<br/>🚪 French Doors – Opening to a charming front courtyard<br/>🌿 Private Rear Courtyard – Your own outdoor escape<br/><br/>📍 Prime Location Highlights: Just 2 km to Perth CBD<br/>🛍️ Close to Perth City shops & Trinity College<br/>🚌 Near Perth Bus Depot<br/>🚆 Easy access to Claisebrook & McIver Train Stations<br/><br/>📩 Important: Home Open & Application Process<br/>* Send an enquiry to receive home open notifications and application links<br/>* Applications accepted \"after viewing\" or \"without viewing\"<br/>* Applications subject to viewing after approval will not be accepted<br/>🔑 Enquire today to secure this fantastic rental!",
+  "showAgencyLogo": true,
+  "title": "Furnished - 2x1 Apartment in East Perth with 2 Courtyards",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0416933623",
+      "website": "http://www.crashrealty.com.au",
+      "phoneNumber": "0416933623",
+      "powerProfile": false,
+      "name": "David Crash - Rent",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3694372",
+      "email": "rentals@davidcrash.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$735 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/493691eb6809a978e8f09fa7c0be4db11645e7f4a73aff4e62249244a9451753/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b33f2571ecb4f0b4bd5c8d8a7d28fc827747fef45c5bb71646ac72708a85bd54/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e266ee7d8f0206d11f0fca3eb577036faf36b380a5efceb78397db30e8bb6618/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c531b86be70cf4feb8915be1360a37b786daa68c852a7487b6dfa4bd06f03621/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/982ca7d03af4673eca04d49f860cdd928735ff231cea454b92345883ce8edd0b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8007ef681a1d74cf989e3d004f9ba0c26a8d02e0491cac18f34104b0f721e678/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2283056de45a5cdff45a9dd5fe96aecf33065f1e61171b7ae18b1f3b617a056e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fb894bb2ed69c10b9f1988e9815fcc240bb8a0a5748db3c3659a0c854bd48b70/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5dbff87d8b3ed9aaae9c67b810107ec0e59356fab829b2f5b1ead40fd3cce148/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/37c314dd54669808b176e1a9e728b6e65dca71ba7f87f0e51412b3e8b22f789e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7350d8b4d6fd3386c62c513017afdf27bab22c46401f299e35679b9c4caf28b3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/09c97a12f262e586f1ad992ed0a8cb246208c03bce8ec551254feb9e21fc2f6b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a97395abce55320778d47718886f2c83f8387473cbc7a29af08b12d330ae2201/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d38c770574f8d9de6198c2cf4af15525a57b237c8723f24545c1e27f34ff2abf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/040dce12015ea9a469e0fcdf7f28e94b6c665d0c6de8b49300d923cbed3480e1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b0bce093e4527bfdacf88d58a70badee426a449139d6f9738a313733467c7840/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f12435a3f0f64f436796ffb8dfd888c6ddab79ef06d36be18d3bf78298688a99/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5ca145bf964edaee4690f530159d03b9f6e1e7ceca4661ed9d63f68244a4ea8b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/67521bf72a02b02b2a544d88b9fd8e739137477e7d4dc4283a20d49afb977ad1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1de5c8e2cc114923a31f289f4a866047f88ce6626cbf7f9556d30981f7179746/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dfde22b1c3b83beae609fefb55905e453910a4f61380490554b58c44101b1001/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e6087d92efe16ca807328ede24ef794a4cffeaf216786dcdd1eb4f2849ddd73a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4c844248c1a92aba87fe18aee2736328f6c80b8453124724b6a865505352511f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/be51ff9807524fe6aa008e367bd1748b6b4b024c385dfe109d8b05d457807764/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cc9016773bcc0b783ac98fdea458661cf107333123b1ed42733aa8f34d63f954/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/75266068d31f462a4a5ed17f7103ce914ae7305253668d626ccc19885dc5674b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d6997593f58b71f7d88e5bda6a3098576bafd0ca9ba70d0893b778ccee84e2eb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5760b5ab6507c2b6c9c94ec299a2ab3a3216ed26d1e3767d93c71e44db1d8be0/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "25/99-105 Wellington Street",
+    "locality": "East Perth",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "postCode": "6004",
+    "location": {
+      "latitude": -31.95622719,
+      "longitude": 115.87205425
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.crashrealty.com.au",
+    "address": {
+      "streetAddress": "191 Mirrabooka Avenue",
+      "postcode": "6061",
+      "suburb": "Balga",
+      "state": "WA"
+    },
+    "phoneNumber": "0416 933 623",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#000000"
+    },
+    "name": "David Crash",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/f9f003748a369746923e71f993f0c4cef510755dec09798c38a5c2576709e8b2/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg",
+        "hero image": "/1536x800/f9f003748a369746923e71f993f0c4cef510755dec09798c38a5c2576709e8b2/main.gif",
+        "default": "/160x30/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg",
+        "large": "/170x32/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+      }
+    },
+    "agencyId": "EZCMGT",
+    "email": "support@crashrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "1316664",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Courtyard",
+        "Garage: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Furnished"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "439056992",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/aa60cee8d2252571e9c47afb123e7621e530ae8012677ed34410afec07ce5fb7/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Jun 2026",
+    "dateDisplay": "16 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

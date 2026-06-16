@@ -1,0 +1,275 @@
+{
+  "prettyUrl": "property-unit-wa-victoria+park-444292312",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0497222880",
+    "website": "http://www.sdre.com.au",
+    "phoneNumber": "0497222880",
+    "powerProfile": false,
+    "jobTitle": "Sales Agent",
+    "name": "Ethan Davis",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/69c98997c75d312d4a83c6af1275ba97213a468ec886bf6d80e95487bf31a8a9/main.jpg"
+    },
+    "id": "3921736",
+    "email": "ethan@sdre.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "3 / 76 King George Street offers a great location in the heart of Victoria Park.<br/><br/>Tenants will have the pleasure of enjoying:<br/>- 61sqm of internal living area<br/>- 2 generous bedrooms with built-in wardrobes<br/>- Split system air conditioning unit<br/>- Small number of units in the complex<br/>- Secure complex <br/>- Courtyard<br/><br/>Take advantage of the location with Victoria Park's amenities:<br/>- Cafe and restaurant strip<br/>- public transport network<br/>- Close to ECU CBD Campus & Curtin University <br/>- Optus Stadium<br/>- Perth CBD<br/>- Multiple schools, including Victoria Park Primary School & Kent Street Senior High School<br/><br/>Avaliable from the 25/06/2026",
+  "showAgencyLogo": true,
+  "title": "Introduction to Victoria Park Life",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0497222880",
+      "website": "http://www.sdre.com.au",
+      "phoneNumber": "0497222880",
+      "powerProfile": false,
+      "jobTitle": "Sales Agent",
+      "name": "Ethan Davis",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/69c98997c75d312d4a83c6af1275ba97213a468ec886bf6d80e95487bf31a8a9/main.jpg"
+      },
+      "id": "3921736",
+      "email": "ethan@sdre.com.au"
+    },
+    {
+      "mobilePhoneNumber": "0418904657",
+      "website": "http://www.sdre.com.au",
+      "phoneNumber": "0418904657",
+      "powerProfile": false,
+      "jobTitle": "Licensee/Director",
+      "name": "Steven Davis",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/b596c5a1725a484f6d88d3a68444e81e6f11cab4ce2c36d0d943b092df4d0652/main.jpg"
+      },
+      "id": "268551",
+      "email": "steven@sdre.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$610 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c4753b8a2cfa65f960ff6bf4ffb908ce193dbf5a80d9e9ce070d4fc91ef30522/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6d98e0e018a0638191ceeb2ff4aeb7134d02f82d500c7ec5d66f5e5973f090a9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2f7d187a9c4844952fced1acba6019f3feddde2583f9d8fa558736872a40916b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/64a6ba9a7e33dde73d41c02c6d6fe05d2855b7d561aa645d9309a9af92d12b8e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a5254cbb9a65007a65fd1fa8464da024093f08f2b8f91109fd39e1ac267b7f27/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6c922e24ac98fa6b8813dab30592083fbfb52b6f5fb64d958e18e04b3d4dd4bb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ef679cf31503a6921714a493e0c0a8a4d5ddffa5f1889d9360734eb2799481f1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/83fc98eeda632182d600bd9d0fb7af08842a95d6c5997e2da856765ffd29c427/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bf854ab05ed5b3447640800eb9fc5e5d5e780f716868f13e75f288b447f1e2c4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/196eb8361250425e2bbf93cd90902d2e416c589d34ef52308ec637aea2035e63/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ea802d4bd88156557168fc9b356da4627eab36e85ebb14eaeb9e849e8bf911e1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3c9519b38db1004ff8853911b38d9b12de96d9e75951708fdf147e99c434dfdf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d7c48170fd7a99cb73f71f3575bbb6916c45d47bd90abb100fd4b8bc2ea10267/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c65ddcc13a2e5dbee23e89357c25bfbc8824098d2a320aee86be3ae5e519ec85/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "3/76 King George Street",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97886,
+      "longitude": 115.89008
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.sdre.com.au",
+    "address": {
+      "streetAddress": "53 George Street",
+      "postcode": "6151",
+      "suburb": "Kensington",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9474 9909",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#7ac243"
+    },
+    "name": "Steven Davis Real Estate - Kensington",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/60b83981e64e298c4be4843fcb7209c7b94a16fc291ee7406974991f8aa58fc6/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/60b83981e64e298c4be4843fcb7209c7b94a16fc291ee7406974991f8aa58fc6/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/60b83981e64e298c4be4843fcb7209c7b94a16fc291ee7406974991f8aa58fc6/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/4016fc6d9b623a88fd790088c05ba1f005700d9de2d0dabf0cc4613c5176546d/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/60b83981e64e298c4be4843fcb7209c7b94a16fc291ee7406974991f8aa58fc6/logo.gif",
+        "hero image": "/1536x800/4016fc6d9b623a88fd790088c05ba1f005700d9de2d0dabf0cc4613c5176546d/main.jpg",
+        "default": "/160x30/60b83981e64e298c4be4843fcb7209c7b94a16fc291ee7406974991f8aa58fc6/logo.gif",
+        "large": "/170x32/60b83981e64e298c4be4843fcb7209c7b94a16fc291ee7406974991f8aa58fc6/logo.gif"
+      }
+    },
+    "agencyId": "YAPWJL",
+    "email": "steven@sdre.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "b76ef307-8cd6-4ef8-98f0-c2dc3fcb27ab",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1",
+        "Courtyard",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Broadband Internet Available",
+        "Built-in Wardrobes",
+        "Living Areas: 1",
+        "Split-system Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444292312",
+  "bond": {
+    "display": "$2,440",
+    "value": 2440
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/1f98e44ef5df6227c9ff2ad3c03af2fe965981f50359334ec1d616ef69c1fc4a/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "25 Jun 2026",
+    "dateDisplay": "25 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

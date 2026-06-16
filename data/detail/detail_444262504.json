@@ -1,0 +1,210 @@
+{
+  "prettyUrl": "property-villa-wa-maylands-444262504",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0411073773",
+    "website": "http://www.timeconti.com.au",
+    "phoneNumber": "0411073773",
+    "powerProfile": false,
+    "name": "Yong Kee Yawm",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "4008352",
+    "email": "rentals@timeconti.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "This spacious three bedroom, one bathroom features a large separate lounge room with reverse cycle air conditioner, good size kitchen/dining with electric cooking, separate laundry, three good size bedrooms, easy maintenance private courtyard to back, single carport.<br/><br/>Ideal location walking distance to local shops, close proximity to public transport, beautiful city and river views. Pets negotiable. 12 month lease only.<br/><br/>* ****************************** ****************************** ******************************<br/><br/>Important notice:<br/><br/>In order that we can provide you with personalised communication as to viewing times, cancellations and other notifications register your details through the “Book a Viewing” button above.<br/><br/>This will ensure that you will be notified if a viewing time has been changed or is cancelled. Thank you.<br/><br/>* ****************************** ****************************** ******************************",
+  "showAgencyLogo": false,
+  "title": "AMAZING VIEWS!!!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0411073773",
+      "website": "http://www.timeconti.com.au",
+      "phoneNumber": "0411073773",
+      "powerProfile": false,
+      "name": "Yong Kee Yawm",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "4008352",
+      "email": "rentals@timeconti.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$610 per week"
+  },
+  "propertyType": "villa",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6496009968fade2387b40be453dc42a03ac3ac934ee9b0a6c7d5e31f3bc6aef6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fd20ab398c471910a9089a064ae6897070823dd9e207113fb4c66e284a91d383/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0f4879d77e87fdb8c2fbcfbfb198967058b14b5170ddaf3de3427e51b8ffb691/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/83387d1109d86b6a501d9653e705f0fc8d0e206d2a29408f0ea5c132c0d00530/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dbb9ecd1230cc4d183cde9cfb8f182c167c3311c0c702d4a5d5b84ddc8c2b2df/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "6/9 Kirkham Hill Terrace",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93700409,
+      "longitude": 115.89374615
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.timeconti.com.au",
+    "address": {
+      "streetAddress": "338 Albany Hwy",
+      "postcode": "6100",
+      "suburb": "Victoria Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9362 5333",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#882345"
+    },
+    "name": "Time Conti Sheffield - VICTORIA PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/ed62e7d54ad7df7f384dcbc769a78a148336cbcde8b50f7a736ea2c5d6e0d294/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif",
+        "hero image": "/1536x800/ed62e7d54ad7df7f384dcbc769a78a148336cbcde8b50f7a736ea2c5d6e0d294/main.gif",
+        "default": "/160x30/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif",
+        "large": "/170x32/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+      }
+    },
+    "agencyId": "ZWQVTU",
+    "email": "cknight@timeconti.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6612289",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444262504",
+  "bond": {
+    "display": "$2,440",
+    "value": 2440
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/eb8faceb7e6aaafe5d5f9f3c56beb625fbda405647e421de1105d98d7d24585b/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "24 Jun 2026",
+    "dateDisplay": "24 Jun 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

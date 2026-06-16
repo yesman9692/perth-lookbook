@@ -1,0 +1,345 @@
+{
+  "prettyUrl": "property-house-wa-south+perth-437016484",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "08 9474 2200",
+    "website": "http://www.lally.com.au",
+    "phoneNumber": "08 9474 2200",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Mari Baseley",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/bcb0d2c3bd69739633a8351b53a172f74b3b22ca22875f84e203e7489d3e7251/main.jpg"
+    },
+    "id": "1399606",
+    "email": "mari@ianhutch.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "This unfurnished, two bedroom 1 bathroom unit is located in an ideal spot just off Angelo street in a small block of only 4 units. <br/>This property has been freshly painted, with near new flooring throughout.<br/>Situated close to schools, Angelo Street shopping and cafe strip, public transport and Perth Zoo.<br/>Property features:<br/>- Spacious kitchen/dining area with reverse cycle air conditioner in kitchen/dining area, <br/>- large separate living room,<br/>- huge bathroom/laundry combined<br/>- Two double sized bedrooms, with one room containing built in robes<br/><br/>For all inquiries regarding this property or any similar properties please call Mari on 08 9474 2200 or email mari@lally.com.au or to arrange a viewing please register: <br/>**To ensure your inspection of this property, you must register. If you do not register, the inspection may not be confirmed. By registering you will be automatically advised of any changes, updates or future inspections.** **Please follow the steps below:**<br/>Step 1: Click on Book Inspection button above,<br/>Step 2: Fill in your details,<br/>Step 3: Click 'Register Details<br/>Step 4: You will receive immediate confirmation by Email/SMS.<br/><br/>",
+  "showAgencyLogo": true,
+  "title": "UNFURNISHED Two bedroom 1 bathroom Partially Renovated!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9474 2200",
+      "website": "http://www.lally.com.au",
+      "phoneNumber": "08 9474 2200",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Mari Baseley",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/bcb0d2c3bd69739633a8351b53a172f74b3b22ca22875f84e203e7489d3e7251/main.jpg"
+      },
+      "id": "1399606",
+      "email": "mari@ianhutch.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$680 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a4025c6f09357a74f52352182e505755265e829f8c467b0585b8fdd24a445a68/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6457e6f5db02c79e6ef06abc743eff48ef4e5430c26adcb1c582cfa44bf53654/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1e177d5890f2d6fae37abe8be56e6238f0931cb776944bd964b1bbfcbc953b89/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/54457eb548f4afcf06500a8125146d1d16f2bdce71ccd387a13b779f8c00cea0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/58a4818b75118400d34f388627e1fff541fe0a53adcc29f109b839d80ae601a3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aef5e0d93699577943a238e4359fb52490da8de1b82e04b42b2a342495c6d206/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f3a7c4ca68b0847b59a10051e20863524b0b1c705a0000fc3cc69e2c2e250e5c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4e339978d8bac50cdf09490bd1c98df3a35dd2659aa39e723f8496d078106766/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bda7c2ad9fd80415037a9f26950f16abf362f6b751898d2c1c130ff558a6ca2b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/309ba2eac978fde8ac6ee19cfc5e2d9d88199718a583b37c99898e3e9fcee2f3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/56136121e6641b12a42b49088447ef304bb1314c1b5a033bca193f8ca2b17993/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a4d45cd66bbd11e411948fadfca24f1a98f1aee66a7860780618b35c5e898513/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/36043da9ee79f7deee1b6e61f28a4782f8dea0608435c7fb913a34a1b8f71dcf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1e4002f2bc5d6a95b78f3a1218a6b3c745bb87855e9939f314aa1242515571ff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/04c4664df372d9cd508de43a379dc68f71ca64b79e2f8a9632330630a57b82e4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/366ba5f3076ac5075d93df2db4b1f5e3e7726ce4135883330008a462a66737d9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/310595236b875e68ba517da1c20f04d067e53813312665538f547ec3de371590/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/886889947955b219b6f01e1e04aec474adcabd70a38158d30e6b5c57dd63de03/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cbc69afa02fcebbb1a1d956df17b29f7fbab6b47fb43f025b62c320d2ce580e5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0745a6b6a93da9a5f00af2d24576262e4b2fbe0e9ab031bfe3756b74bdab7220/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b88e24af201462e365add8431904254c1373e92ad5fd448cc4cf10cb96762f06/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fe77608e812945c9e8e53e41a67de3e431fe34d167fc9f87990a1d710a2fc7a9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/47af085db46eb92cd2b4dd0cddc6db71a92e8c5530eb1ee55d1cd8b5d3dc388b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8a1bea5de196df426c5dbf72950d9a1ea606ec6e0e6af379055e657ab57c3c33/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/433600983b66464c65c632ddc53a2561baac81dbde73b14fe40f988d9aa0047c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0bd1bb7fa4c1f3c07a31606615faca96de9a87168785f416b42362f867f7ff40/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2950e2212e86464796284df5e247cf513d55982d0b41aa123ce6d06311788b1c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/934a3607ac056c1f9762105bedeb78be9c7b54df60baf974b89241d949a05244/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e843835eb19f2f28601e55260558ce298999b3dd67b90e6a6e7331637ac1d1e3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/25a2f31b8598dbd51d25993ad826414bf997acc730346f9b7a68ae1a7c8d3d36/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/70cc5fe6cca2d299a378a2c131f099610d7aab9bf6d37f154b04beb4af2ef85d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5e3f3c541545565d70e704181ec1f57e7353ad251eec30b38a24710b0b3a3569/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/27 Wattle Street",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.9836849,
+      "longitude": 115.86620762
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.lally.com.au",
+    "address": {
+      "streetAddress": "South Shore Centre 2, 3 & 4, 85 South Perth Esplanade (Enter off Mends St)",
+      "postcode": "6151",
+      "suburb": "South Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9474 2200",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#cf4520"
+    },
+    "name": "Lally Real Estate",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/4e98e07ccc5d0953c8d3dab5321577ac6a7642295382080621bc5e82017d4ded/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg",
+        "hero image": "/1536x800/4e98e07ccc5d0953c8d3dab5321577ac6a7642295382080621bc5e82017d4ded/main.jpg",
+        "default": "/160x30/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg",
+        "large": "/170x32/7e169374995346a833b0749958b3c0adf5cafc21771cd1ec14ba3619ae460e03/logo.jpg"
+      }
+    },
+    "agencyId": "IARSOU",
+    "email": "sales@ianhutch.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3107424",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "437016484",
+  "bond": {
+    "display": "$2,720",
+    "value": 2720
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/ef99a20257572b1948b963a84b086364cfdde4502c2890f245e6ee65f2af4324/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "09 Jul 2026",
+    "dateDisplay": "09 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}
