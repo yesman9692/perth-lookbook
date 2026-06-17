@@ -101,6 +101,28 @@ NO_CAP = "--no-cap" in extra
 manifest = json.load(open(manifest_path, encoding="utf-8"))
 VERDICTS = json.load(open(verdicts_path, encoding="utf-8")) if verdicts_path else {}
 
+def compute_zone_reason(e):
+    """존 분류 + 제외 사유 단일화 — pre-pass(순위 재번호)와 본 루프가 동일 기준을 쓰게 함."""
+    c = e.get("commute", "")
+    m, w = parse_commute(c)
+    p = int(re.sub(r'[^\d]', '', str(e.get("price", "0"))) or 0)
+    z = classify_zone(c, e.get("_src", ""))
+    r = exclusion_reason(e.get("flag", ""), m, w)
+    if (not r) and (not NO_CAP) and (p > ZONE_HARDCAP[z]):
+        r = "존 하드캡 초과 ($%d > %s존 $%d)" % (p, z, ZONE_HARDCAP[z])
+    return z, r
+
+# ── 표시 순위 사전계산 ──
+# perth_score는 manifest 전건에 1..N 순위를 매기지만 perth_pdf가 제외하면 그 번호가 비어 #2 같은 구멍이 생김.
+# → "실제 카드로 표시될 매물"만 stored rank 순서대로 1..N 연속 재번호 (제외 매물은 번호를 소비하지 않음).
+_disp = []
+for _e in manifest:
+    if compute_zone_reason(_e)[1]:
+        continue
+    _disp.append((VERDICTS.get(_e["id"], {}).get("rank", 999), _e["id"]))
+_disp.sort()
+DISPLAY_RANK = {_lid: _i for _i, (_sr, _lid) in enumerate(_disp, 1)}
+
 # ---------------------------------------------------------------------------
 # Build card data
 # ---------------------------------------------------------------------------
@@ -127,7 +149,7 @@ for e in manifest:
     condition = v.get("condition", "")
     notes = v.get("notes", "")
     tags = v.get("tags", [])
-    rank = v.get("rank", 999)
+    rank = DISPLAY_RANK.get(lid, 999)
     score_detail = v.get("score_detail", {})
     score_total = v.get("score_total", 0)
     score_dq = v.get("score_dq", False)
@@ -143,14 +165,9 @@ for e in manifest:
     region = e.get("region", "")
     rea_url = "https://www.realestate.com.au/" + (d.get("prettyUrl", "") or "")
 
-    # ── 존 분류 + 제외 판정 (규칙 자동) ──
-    zone = classify_zone(commute_str, e.get("_src", ""))
+    # ── 존 분류 + 제외 판정 (compute_zone_reason로 pre-pass와 단일 기준) ──
+    zone, reason = compute_zone_reason(e)
     zlo, zhi = ZONE_CAPS[zone]
-    reason = exclusion_reason(e.get("flag", ""), mins, walk)
-
-    # 하드캡 제외 — --no-cap이면 무효
-    if (not reason) and (not NO_CAP) and (price_int > ZONE_HARDCAP[zone]):
-        reason = "존 하드캡 초과 ($%d > %s존 $%d)" % (price_int, zone, ZONE_HARDCAP[zone])
 
     if reason:
         excluded_rows.append(
