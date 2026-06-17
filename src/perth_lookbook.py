@@ -473,9 +473,10 @@ else:
 print("\n[7/7] merge+score+pdf(2차) ... (%s)" % _elapsed(t0))
 sys.stdout.flush()
 
-# 7a. merge
+# 7a. merge — slug 한정 partial만 명시 머지(blind glob 금지: 다른 run/배치 stale partial 오염 차단)
 _run("[7/7a] merge", [
     sys.executable, str(TOOLS / "perth_merge_verdicts.py"),
+    str(partial_path),
 ], t0, fatal=True)
 
 # 7b. score — 실패해도 파이프라인 계속 (판정 키 없는 매물은 score가 자동 skip)
