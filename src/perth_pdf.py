@@ -86,6 +86,74 @@ TAG_BADGE = {
 def badge(cls, lbl):
     return '<span class="badge %s">%s</span>' % (cls, esc.escape(lbl))
 
+# ── 항목별 루브릭 (v4 2026-06-17) — 카드 상세에 "루브릭 전체 + 기본점수 + 매칭 단계" 표시 ──
+# levels = 이산 단계(라벨, 점수) → 매물 점수와 일치하는 단계 하이라이트. base = 기본점수 설명. note = 공식·캡션.
+RUBRIC = {
+    "가격":   {"note": "공식 3 + (700−가격)/40  ($500→8 · $600→5.5 · $700→3)"},
+    "통근":   {"note": "10 − 통근분/10 − 환승 − (버스 −1) − 역도보m/300 · 대중교통 기준"},
+    "자전거": {"note": "10분 이하 5 · 10분 초과 1분당 −0.1 · 30분 초과 0"},
+    "편의":   {"note": "TIER 기본 A=5·B=3.5·C=2·D=0.5 (슈퍼·카페 600m내 밀집도) · 도보 100m당 −0.1"},
+    "소음":   {"levels": [("낮음·보통", 2), ("약간·높음", 1), ("심함", 0)]},
+    "주차":   {"levels": [("1대 이상", 1), ("없음", 0)]},
+    "인테리어": {"note": "밝기·개방감 0–3.5 + 마감 품질 0–1.5 (합산 0–5)"},
+    "카펫":   {"levels": [("BARE 전체 맨바닥", 5), ("MIX 일부 카펫", 3.5), ("CARP 밝고 깨끗", 2.5), ("CARP 짙음·오염", 1.5)]},
+    "detached": {"levels": [("villa+전용마당", 5), ("전용마당+사생활우려", 4), ("마당+집붙음", 3), ("1층 전용마당", 2), ("발코니·코트야드만", 1), ("없음", 0)]},
+    "감성":   {"note": "2개 트리거(외관 특출 / 시티·리버 뷰) 중 하나라도 있으면 1", "levels": [("해당 있음", 1), ("해당 없음", 0)]},
+    "안전":   {"base": "기본 1 (일반 잠금)", "levels": [("보안게이트·gated +1", 2), ("보통", 1), ("쇠창살 등 우범신호 −1", 0)]},
+    "수납":   {"levels": [("WIR·BIR+별도수납 다수", 3), ("BIR+부가수납 1종", 2.5), ("붙박이장 BIR", 2), ("부엌장 위주", 1.5), ("빌트인 거의 없음", 1)]},
+    "동네":   {"base": "기본 1 (보통)", "levels": [("leafy 확립동네 +1", 2), ("보통", 1), ("우범 −1", 0)]},
+    "면적":   {"levels": [("넓음", 3), ("표준", 2.5), ("보통", 2), ("작음", 1.5), ("협소", 1)], "note": "실내 면적만 (마당·파티오는 detached)"},
+}
+def _rubric_html(k, s):
+    r = RUBRIC.get(k)
+    if not r:
+        return ""
+    out = ""
+    if r.get("base"):
+        out += '<div class="rbase">%s</div>' % esc.escape(r["base"])
+    if r.get("levels"):
+        chips = []
+        for lbl, pts in r["levels"]:
+            try:
+                on = abs(float(s) - float(pts)) < 0.01
+            except (TypeError, ValueError):
+                on = False
+            chips.append('<span class="lv%s">%s <b>%s</b></span>'
+                         % (" on" if on else "", esc.escape(lbl), pts))
+        out += '<div class="rlv">%s</div>' % "".join(chips)
+    if r.get("note"):
+        out += '<div class="rnote">%s</div>' % esc.escape(r["note"])
+    return '<div class="rubric"><span class="rlbl">루브릭</span>%s</div>' % out if out else ""
+
+# 인테리어 = 유일한 2-성분 항목. 성분별 막대 + 정적 기준 + (있으면) 성분별 근거.
+# parts 3-tuple([라벨, 점수, 근거])이면 B-full(성분별 근거), 2-tuple이면 B-lite(합본 why 1회).
+ICRIT = {"밝기·개방감": ("밝고 트인 느낌↑ · 어둡고 답답하면↓", 3.5),
+         "마감 품질":   ("리노베이션·고급 마감↑ · 낡으면↓", 1.5)}
+def _interior_blocks(parts, why):
+    out = ""
+    has_reason = False
+    for p in (parts or []):
+        lbl = p[0]
+        val = p[1] if len(p) > 1 else 0
+        rsn = p[2] if len(p) > 2 else ""
+        crit, mx = ICRIT.get(lbl, ("", 5))
+        try:
+            pct = max(0, min(100, round(float(val) / float(mx) * 100)))
+        except (TypeError, ValueError, ZeroDivisionError):
+            pct = 0
+        out += ('<div class="icmp"><div class="ichd"><span>%s</span><span class="icsc">%s<i>/%s</i></span></div>'
+                '<div class="icbar"><div class="icfl" style="width:%d%%"></div></div>'
+                % (esc.escape(str(lbl)), val, mx, pct))
+        if crit:
+            out += '<div class="icrit">기준: %s</div>' % esc.escape(crit)
+        if rsn:
+            out += '<div class="why">%s</div>' % esc.escape(rsn); has_reason = True
+        out += '</div>'
+    if (not has_reason) and why:        # B-lite 폴백 — 합본 reason 1회
+        out += '<div class="why">%s</div>' % esc.escape(why)
+    out += '<div class="rnote">⚠️ 가상 스테이징 주의 — 주방·욕실 실제 마감 기준</div>'
+    return out
+
 # ---------------------------------------------------------------------------
 # Args: manifest(필수) + verdicts.json(opt) + out.html(opt) — 확장자로 판별
 # ---------------------------------------------------------------------------
@@ -191,7 +259,7 @@ for e in manifest:
     # 만점: score_detail의 max_score 기반이 가장 정확하나, 없을 때 폴백으로 사용
     # v3: 편의5·소음2·주차1·안전2·동네2·감성1·면적5 (perth_score score_detail 키 "편의"와 일치)
     _MAXP = {"가격": 10, "통근": 10, "자전거": 5, "편의": 5, "소음": 2, "주차": 1, "동네": 2, "안전": 2,
-             "면적": 5, "인테리어": 5, "카펫": 5, "detached": 5, "감성": 1, "수납": 3}
+             "면적": 3, "인테리어": 5, "카펫": 5, "detached": 5, "감성": 1, "수납": 3}   # v4(2026-06-17): 면적 5→3 → 만점 59
     # score_detail에 max_score 있으면 그걸 우선 사용, 없으면 _MAXP 폴백
     def _maxp(k):
         sd = score_detail.get(k, {})
@@ -205,10 +273,18 @@ for e in manifest:
     for _k in _ORDER:
         if _k not in score_detail: continue
         sdk = score_detail[_k]; inner = ""
-        # parts 있으면 자동항목과 동일 렌더, 없으면 why 폴백
-        if sdk.get("parts"): inner += '<div class="bd">%s</div>' % _pph(sdk["parts"])
-        if sdk.get("route"): inner += '<div class="route">%s</div>' % esc.escape(sdk["route"])
-        if sdk.get("why"):   inner += '<div class="why">%s</div>' % esc.escape(sdk["why"])
+        # ① 루브릭(단계+기본점수, 매칭 단계 하이라이트) → ② 이 매물 분해(parts) → ③ route → ④ why
+        inner += _rubric_html(_k, sdk.get("s"))
+        if _k == "인테리어":
+            # 2-성분 특별 렌더 (밝기·마감 막대 + 기준 + 근거)
+            inner += _interior_blocks(sdk.get("parts"), sdk.get("why", ""))
+        else:
+            if sdk.get("parts"): inner += '<div class="bd">%s</div>' % _pph(sdk["parts"])
+            if sdk.get("route"): inner += '<div class="route">%s</div>' % esc.escape(sdk["route"])
+            # why는 parts 라벨과 중복이면 생략 (판정항목 reason이 parts에 이미 노출됨)
+            _plabels = {str(_l) for _l, _ in sdk.get("parts", [])}
+            if sdk.get("why") and sdk["why"] not in _plabels:
+                inner += '<div class="why">%s</div>' % esc.escape(sdk["why"])
         _items += ('<div class="item"><div class="ihead"><b>%s</b><span class="iscore">%s<i>/%s</i></span></div>%s</div>'
                    % (_k, sdk["s"], _maxp(_k), inner))
     _dq = '<span class="sd-dq">❌ 단기계약 탈락</span>' if score_dq else ""
@@ -322,6 +398,20 @@ summary:hover{background:#eef1f6}
 .bd{margin-top:5px;background:#fafbfc;border-radius:6px;padding:5px 9px}
 .pp{display:flex;justify-content:space-between;font-size:.77rem;padding:1.5px 0}
 .ppl{color:#555}.ppv{font-weight:700;font-variant-numeric:tabular-nums}.ppv.neg{color:#c0392b}.ppv.pos{color:#2e7d32}
+.rubric{margin:6px 0 7px;padding:6px 9px;background:#f9fafb;border-radius:6px}
+.rlbl{display:block;font-size:.64rem;font-weight:800;color:#aab;letter-spacing:.6px;margin-bottom:4px}
+.rbase{font-size:.74rem;color:#666;margin-bottom:4px}
+.rlv{display:flex;flex-wrap:wrap;gap:4px}
+.lv{font-size:.71rem;color:#999;background:#fff;border:1px solid #e6e8eb;border-radius:5px;padding:2px 7px;white-space:nowrap}
+.lv b{font-weight:700;color:#bbb;margin-left:2px}
+.lv.on{background:#e8f0fe;border-color:#1a73e8;color:#1a56c4;font-weight:700}.lv.on b{color:#1a56c4}
+.rnote{font-size:.71rem;color:#999;margin-top:5px;line-height:1.5}
+.icmp{border:1px solid #eceef1;border-radius:6px;padding:7px 9px;margin-top:6px}
+.ichd{display:flex;justify-content:space-between;align-items:baseline;font-size:.79rem;font-weight:700}
+.icsc{color:#1a73e8}.icsc i{font-size:.64rem;color:#bbb;font-style:normal;font-weight:400}
+.icbar{height:4px;background:#eef0f3;border-radius:4px;overflow:hidden;margin:5px 0}
+.icfl{height:100%;background:#1a73e8}
+.icrit{font-size:.72rem;color:#999;line-height:1.5}
 .route{margin-top:5px;font-size:.72rem;color:#999;line-height:1.5}
 .why{margin-top:4px;font-size:.79rem;color:#444;line-height:1.5}
 .compare{font-size:.83rem;line-height:1.65;color:#333}

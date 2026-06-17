@@ -65,7 +65,7 @@ def score_convenience(amenity_str):
         return 0.0
     tier, N, M = tm.group(1), int(tm.group(2)), int(tm.group(3))
     base = {"A": 5.0, "B": 3.5, "C": 2.0, "D": 0.5}[tier]
-    penalty = min(base, M / 100 * 0.5)
+    penalty = min(base, M / 100 * 0.1)   # v4(2026-06-17): 100m당 0.1 (기존 0.5 — 도심 매물 과다감점 교정)
     return round(max(0.0, min(5.0, base - penalty)), 2)
 
 def score_parking(park):
@@ -125,10 +125,10 @@ def main():
         if am_tm:
             am_tier, am_N, am_M = am_tm.group(1), int(am_tm.group(2)), int(am_tm.group(3))
             am_base = {"A": 5.0, "B": 3.5, "C": 2.0, "D": 0.5}[am_tier]
-            am_pen = min(am_base, am_M / 100 * 0.5)
+            am_pen = min(am_base, am_M / 100 * 0.1)   # v4: 100m당 0.1
             conv_parts = [
                 ("TIER %s 기본" % am_tier, am_base),
-                ("최근접 %dm 도보 페널티" % am_M, -round(am_pen, 2)),
+                ("최근접 %dm 도보 페널티 (100m당 −0.1)" % am_M, -round(am_pen, 2)),
             ]
         else:
             conv_parts = [("amenity 정보 없음", 0.0)]
