@@ -11,7 +11,7 @@
 ```
 python perth_lookbook.py <group> [--beds 2,3] [--type ...] [--floor ...] [--no-red]
     [--no-cap] [--deploy] [--slug NAME] [--no-sync]
-    [--workers 6] [--cap 14] [--judge-workers 3] [--judge-cap 8] [--skip-judge]
+    [--workers 6] [--cap 14] [--judge-workers 3] [--judge-cap 14] [--judge-model opus] [--skip-judge]
 ```
 예: `python perth_lookbook.py all --beds 2,3 --deploy --slug cat-inner`
 
@@ -19,7 +19,13 @@ python perth_lookbook.py <group> [--beds 2,3] [--type ...] [--floor ...] [--no-r
 
 - **배포·백업 = GitHub 단일(Drive 폐기)**: 서브페이지 `_deploy/<slug>/index.html`(+자체 `imgs_detail/`) + 데이터 자산 `_deploy/data/`(verdicts·detail·manifest·micro)를 **공개 repo에 커밋**. cross-PC = git pull/push. **메인 `_deploy/index.html`(마당 룩북) 무영향** — git add는 슬러그+data/ 한정. (`perth_drive_cache.py`/`perth_upload.py`는 레거시, 호출 안 함.)
 - **예산초과 토글**: 존캡(A700/B650/C600) 초과 매물은 제외표가 아니라 **카드+💸배지**로 노출, "예산 초과 제외" 체크박스로 숨김(기본 표시). RED·단기·통근초과만 제외표.
-- **범위 주의**: `perth_judge`(claude -p)는 `floor_photo`/`tags`(빌라·아파트)만. 8항목 주관채점(인테리어·카펫·detached 등)은 **별도 채점 서브에이전트**(9건씩 배치, SCORING.md, 백그라운드) → partial은 **controlled merge**(타깃 id만; `perth_merge_verdicts` blind glob은 stale partial 오염 주의, 쓰기 전 `_deprecated_partials/`로 비켜놓기).
+- **judge가 8항목까지 자동 (2026-06-17 통합, 갭 해소)**: `perth_judge`(claude -p)가 floor 4키 **+ 주관 8항목**(인테리어·카펫·detached·감성·안전·수납·동네·면적)을 사진 직접 보고 verdicts에 기록. **수동 채점 서브에이전트 폐지** — 단일 명령으로 채점까지 끝남.
+  - **격리 스폰**: 매 spawn을 중립 cwd(cowork 밖) + `--strict-mcp-config`(MCP 0) + `--setting-sources project,local`(user 훅 제외) + `--exclude-dynamic-system-prompt-sections` + `--add-dir tools`(Read용) + `--permission-mode bypassPermissions`로. cowork `CLAUDE.md`(⛔BLOCKING)·SessionStart 훅·MCP 오염 제거 → **-32% 비용·-38% 시간**(1스폰 벤치, Read 정상).
+  - **모델 핀 필수(`--judge-model`, 기본 opus)**: 격리가 user settings의 모델 기본을 떨구므로 명시 핀. (Sonnet은 14사진 판정서 2/5 실패·2-3x 느림·verifiable 축 오류로 기각 — 프로토타입 측정. 품질 부족시에만 격하.)
+  - **adaptive 패스(비용 최적)**: 신규 매물 = floor+8 **full 1스폰**, 루브릭 bump = **subj-only 1스폰**(floor 캐시 유지). `rubric_version`(SCORING.md 첫줄 vN) 불일치/누락이면 8항목 강제 재판정.
+  - **JSON 견고화**: 항목별 스키마 검증 + 허용값 coerce + 실패 모드만 retry(2회). 출력 listingId 키잉.
+  - partial 머지는 여전히 **controlled merge**(slug 한정 경로 명시; `perth_merge_verdicts` 인자 없는 blind glob은 stale 오염 주의).
+  - ⚠️ **`perth_rubric_v4.py` 졸업(레거시)**: 면적 remap·텍스트전용 수납은 judge가 사진 기반으로 직접 처리 → 더 이상 호출 안 함. v3→v4 같은 과거 일회성 마이그레이션 기록용으로만 보존.
 - `--skip-judge`(claude -p 없이 빠른 룩북), `--no-sync`(git sync 끄기), `--no-deploy`(로컬만): 실험·디버그용. 실 운영 judge 멀티분이면 명령 자체를 `run_in_background`로.
 
 ## 사전 준비 (이미 셋업됨, 키는 로컬 전용·동기화 X)

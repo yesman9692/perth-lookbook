@@ -294,7 +294,8 @@ ap.add_argument("--slug",   default="",            help="배포 슬러그 (미�
 ap.add_argument("--workers",      type=int, default=6, help="perth_download workers")
 ap.add_argument("--cap",          type=int, default=14, help="매물당 사진 장수 cap")
 ap.add_argument("--judge-workers", type=int, default=3)
-ap.add_argument("--judge-cap",    type=int, default=8)
+ap.add_argument("--judge-cap",    type=int, default=14)   # B: 전수 사진(침실·카펫은 9-14번 사진에 있음)
+ap.add_argument("--judge-model",  default="opus")          # G: 격리가 user settings의 모델 기본을 떨구므로 핀 필수
 # skip 플래그
 ap.add_argument("--skip-judge",  action="store_true", help="judge 단계 스킵 (claude -p 미호출)")
 ap.add_argument("--no-sync",     action="store_true", help="git sync pull/push 끄기 (오프라인/빠른 로컬 실행용)")
@@ -459,6 +460,7 @@ if not args.skip_judge:
         "--out", str(partial_path),
         "--workers", str(args.judge_workers),
         "--cap", str(args.judge_cap),
+        "--model", args.judge_model,
     ]
     if cache_paths:
         judge_cmd += ["--cache", cache_paths]

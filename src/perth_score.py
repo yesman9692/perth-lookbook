@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# perth_score.py — 매물 61점 종합 채점 + 순위 (2026-06-16 v3).
+# perth_score.py — 매물 59점 종합 채점 + 순위 (2026-06-17 v4; v3=61점에서 면적 5→3로 -2).
 # 자동 6항목(가격·통근·자전거·편의·소음·주차)은 여기서 계산, 판정 8항목(인테리어·카펫·detached·
 # 감성·안전·수납·동네·면적)은 사진판정 서브에이전트가 verdicts.json에 미리 채워둔 값을 읽어 합산한다.
 # 루브릭 명세 = SCORING.md. 서브에이전트 프롬프트 템플릿도 SCORING.md에 있음.
@@ -79,7 +79,7 @@ def main():
     v = json.load(open(sys.argv[2], encoding="utf-8"))
     micro = json.load(open(sys.argv[3], encoding="utf-8"))
 
-    # 자동 6항목(가격·통근·자전거·편의·소음·주차) + 판정 8항목(인테리어·카펫·detached·감성·안전·수납·동네·면적) = 61점 (v3 2026-06-16).
+    # 자동 6항목(가격·통근·자전거·편의·소음·주차) + 판정 8항목(인테리어·카펫·detached·감성·안전·수납·동네·면적) = 59점 (v4 2026-06-17).
     JUDGE_KEYS = ["interior", "carpet", "detached", "emotion", "safety", "storage", "hood", "area"]
     LABEL = {"interior": "인테리어", "carpet": "카펫", "detached": "detached",
              "emotion": "감성", "safety": "안전", "storage": "수납", "hood": "동네", "area": "면적"}
@@ -173,7 +173,7 @@ def main():
     for rank, (total, dq, lid) in enumerate(rows, 1):
         bd = v[lid]["score_breakdown"]
         v[lid]["rank"] = rank
-        base = ("종합 %s/61 = 가격 %s · 통근 %s · 자전거 %s · 편의 %s · 소음 %s · 주차 %s · 인테리어 %s · 카펫 %s · detached %s · 감성 %s · 안전 %s · 수납 %s · 동네 %s · 면적 %s" %
+        base = ("종합 %s/59 = 가격 %s · 통근 %s · 자전거 %s · 편의 %s · 소음 %s · 주차 %s · 인테리어 %s · 카펫 %s · detached %s · 감성 %s · 안전 %s · 수납 %s · 동네 %s · 면적 %s" %
                 (total, bd["가격"], bd["통근"], bd["자전거"], bd["편의"], bd["소음"], bd["주차"],
                  bd["인테리어"], bd["카펫"], bd["detached"], bd["감성"], bd["안전"], bd["수납"],
                  bd["동네"], bd["면적"]))

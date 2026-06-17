@@ -264,7 +264,7 @@ for e in manifest:
     def _maxp(k):
         sd = score_detail.get(k, {})
         return sd.get("max_score", _MAXP.get(k, "?"))
-    # 총점 만점: score_detail의 max_score 합 (없으면 _MAXP 합 = 61)
+    # 총점 만점: score_detail의 max_score 합 (없으면 _MAXP 합 = 59, v4)
     _MAXT = sum(_maxp(k) for k in _MAXP if isinstance(_maxp(k), int))
     def _pph(parts):
         return "".join('<div class="pp"><span class="ppl">%s</span><span class="ppv %s">%s%s</span></div>'
