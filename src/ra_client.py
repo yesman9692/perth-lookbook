@@ -18,6 +18,9 @@ STATE_FILE = r"D:\my\cowork\tools\.ra_key_state.json"
 HOST = "realty-in-au.p.rapidapi.com"
 BASE = "https://realty-in-au.p.rapidapi.com"
 RPM_RESET_MAX = 3600          # reset가 이 값(초) 이하면 RPM(짧음), 초과면 월 한도로 간주
+TRANSIENT = (500, 502, 503, 504)  # 공급자측 일시 오류 → 키 죽이지 말고 재시도(2026-06-23 502 폭풍 대응)
+TRANSIENT_RETRIES = 3             # 키당 5xx/예외 재시도 횟수
+TRANSIENT_BACKOFF = 1.5           # 백오프 기준초(시도마다 ×n: 1.5/3.0/4.5s)
 _DEAD = set()                 # 이번 실행에서만 회피할 키(RPM·degraded 일시)
 
 def load_keys():
@@ -64,10 +67,22 @@ def ra_get(path, params, validate=None, timeout=40, verbose=True):
     for k in avail:
         m = _mask(k)
         h = {"x-rapidapi-key": k, "x-rapidapi-host": HOST}
-        try:
-            r = requests.get(BASE + path, headers=h, params=params, timeout=timeout)
-        except Exception as e:
-            last = ("ERR", m, str(e)[:60]); continue
+        r = None
+        for attempt in range(TRANSIENT_RETRIES + 1):
+            try:
+                r = requests.get(BASE + path, headers=h, params=params, timeout=timeout)
+            except Exception as e:
+                last = ("ERR", m, str(e)[:60]); r = None
+            # 공급자측 일시 5xx 또는 요청 예외 → 키를 죽이지 말고 짧은 백오프로 재시도
+            if (r is None or r.status_code in TRANSIENT) and attempt < TRANSIENT_RETRIES:
+                wait = TRANSIENT_BACKOFF * (attempt + 1)
+                if verbose:
+                    code = "EXC" if r is None else r.status_code
+                    print("  ↻ 키 %s 일시오류(%s) → %.1fs 후 재시도(%d/%d)" % (m, code, wait, attempt + 1, TRANSIENT_RETRIES))
+                time.sleep(wait); continue
+            break
+        if r is None:
+            continue   # 재시도 후에도 요청 자체 실패 → 다음 키
         rem = r.headers.get("x-ratelimit-requests-remaining")
         rst = r.headers.get("x-ratelimit-requests-reset")
         remn = int(rem) if (rem and rem.lstrip("-").isdigit()) else None
@@ -84,7 +99,10 @@ def ra_get(path, params, validate=None, timeout=40, verbose=True):
                 if verbose: print("  ⏳ 키 %s 429 RPM(짧음) → 이번만 회피" % m)
             last = ("429", m, rst); continue
         if r.status_code != 200:
-            _DEAD.add(k); last = (r.status_code, m, rem); continue
+            # 5xx(공급자측 일시장애)는 키 문제 아님 → _DEAD 안 함(다음 콜에서 재시도). 그 외(403 등)만 이번 실행 제외
+            if r.status_code not in TRANSIENT:
+                _DEAD.add(k)
+            last = (r.status_code, m, rem); continue
 
         # 월 한도 소진(잔여 0 이하) → 이번 응답이 valid여도 다음 실행 위해 park
         if remn is not None and remn <= 0 and rsec:
