@@ -21,6 +21,17 @@ sys.stdout.reconfigure(encoding="utf-8")
 TOOLS  = Path(__file__).parent.resolve()       # D:\my\cowork\tools
 DEPLOY = TOOLS / "_deploy"
 
+# ── 도서관 허브(대문) 자동갱신 + Pages 리빌드 (같은 폴더 perth_hub.py) ──────────
+# deploy() 가 라운드를 slug 폴더에 배포한 뒤 허브(_deploy/index.html)를 재생성해
+# 새 라운드가 도서관 목록에 자동으로 올라가게 하고, push 후 Pages 빌드를 강제 요청해
+# "building 멈춤 → 옛 화면 서빙" 문제를 회피한다. best-effort(import 실패해도 계속).
+try:
+    from perth_hub import build_hub as _build_hub, trigger_pages_build as _trigger_pages_build
+except Exception as _hub_e:  # pragma: no cover
+    _build_hub = _trigger_pages_build = None
+    print("  [deploy] WARN: perth_hub import 실패 — 허브 자동갱신/리빌드 비활성:",
+          _hub_e, file=sys.stderr)
+
 # ── 존별 검색 캡 (원래캡 +$50 넉넉히) ────────────────────────────────────────
 # all 그룹은 cat+inner 각각 이 캡으로 검색 후 id 기준 dedup 병합
 ZONE_SEARCH = {"cat": 750, "inner": 700, "river": 650}
@@ -232,6 +243,13 @@ def deploy(slug: str, html_path: Path, label: str, manifest_path: Path) -> str |
             shutil.copy2(src, dst); copied += 1
     print("  [deploy] 사진 복사: %d 신규 / %d skip(이미 있음)" % (copied, skipped))
 
+    # 라운드를 도서관 허브(대문 _deploy/index.html)에 자동 반영 — best-effort
+    if _build_hub:
+        try:
+            _build_hub(DEPLOY)
+        except Exception as e:
+            print("  [deploy] WARN: 허브 재생성 실패(계속):", e, file=sys.stderr)
+
     # git 배포
     date_str = datetime.now().strftime("%Y-%m-%d")
     commit_msg = "auto: %s 룩북 %s %s" % (slug, label, date_str)
@@ -241,9 +259,13 @@ def deploy(slug: str, html_path: Path, label: str, manifest_path: Path) -> str |
         return r.returncode, r.stdout.strip(), r.stderr.strip()
 
     try:
-        # [C-1] 슬러그 하위만 staging — 메인 index.html 등 보호
+        # 슬러그 하위 + 허브(index.html) staging.
+        # ([C-1] 원래는 메인 index.html 을 "완성된 룩북" 보호 차원에서 제외했으나,
+        #  이제 루트 index.html 은 룩북이 아니라 slug 폴더 목록만 나열하는 허브다.
+        #  축소/깨진 라운드여도 허브는 그 slug 를 "있는 그대로의 건수"로 나열할 뿐이라
+        #  라이브 룩북을 훼손하지 않는다. 따라서 index.html 도 함께 커밋한다.)
         # resolve() 사용: symlink 환경에서 relative_to ValueError 방지
-        _git(["add", "--", str(slug_dir.resolve().relative_to(DEPLOY.resolve()))])
+        _git(["add", "--", str(slug_dir.resolve().relative_to(DEPLOY.resolve())), "index.html"])
         rc, out, err = _git(["status", "--porcelain"])
         if not out.strip():
             print("  [deploy] 변경사항 없음 — commit skip")
@@ -267,6 +289,12 @@ def deploy(slug: str, html_path: Path, label: str, manifest_path: Path) -> str |
             print("  [deploy] WARN: push 실패:", err, file=sys.stderr)
             return None
         print("  [deploy] push 완료")
+        # Pages 빌드 정체("building" 멈춤 → 옛 화면 서빙) 회피 — 강제 리빌드 요청(best-effort)
+        if _trigger_pages_build:
+            try:
+                _trigger_pages_build()
+            except Exception as e:
+                print("  [deploy] WARN: Pages 리빌드 요청 실패:", e, file=sys.stderr)
         url = "https://yesman9692.github.io/perth-lookbook/%s/" % slug
         print("  [deploy] URL:", url)
         return url
