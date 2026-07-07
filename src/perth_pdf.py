@@ -316,7 +316,7 @@ for e in manifest:
 
     # photo img tags — try 01-40, remove on error (캡 없음; 40은 안전 상한)
     photo_tags = "".join(
-        '<img src="%s/%s_%02d.jpg" onerror="this.remove()" alt="">' % (IMGDIR, lid, i)
+        '<img src="%s/%s_%02d.jpg" loading="lazy" onerror="this.remove()" alt="">' % (IMGDIR, lid, i)
         for i in range(1, 41))
 
     included.append({
