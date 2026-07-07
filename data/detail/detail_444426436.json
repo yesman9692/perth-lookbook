@@ -1,0 +1,252 @@
+{
+  "prettyUrl": "property-unit-wa-como-444426436",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0419536954",
+    "website": "http://www.bourkes.com.au",
+    "phoneNumber": "0419536954",
+    "powerProfile": false,
+    "name": "Leasing Manager",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/b1a47c6f48b40e5593f8037eae55822127ca2f2cb8b2a844dba7725dd2b783e1/main.jpg"
+    },
+    "id": "3544300",
+    "email": "leasing@bourkes.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "A lovely ground floor two bed unfurnished unit offers a convenient and comfortable living space. This unit is set in a fantastic sort after location within walking distance to shops, cafes, medical centres, schools and parks.<br/><br/>Features include:<br/>Light filled open plan living, dining and kitchen area<br/>Master bedroom is a great size with floor to ceiling built in robes which provided ample storage<br/>Boasting a second bedroom with built in robe complete with shelves and drawers <br/>Kitchen with gas cooktop, dishwasher, plenty of storage and reverse cycle air conditioner.<br/>Separate laundry/storage stage at the end of the corridor<br/>Single open Car Bay<br/><br/>This unit is only minutes from the city and also public transport.<br/><br/>Please register your details by clicking the button to \"book an inspection\" or \"register for an inspection\". You will then receive an email with a link to apply.",
+  "showAgencyLogo": true,
+  "title": "IDEAL LOCATION",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0419536954",
+      "website": "http://www.bourkes.com.au",
+      "phoneNumber": "0419536954",
+      "powerProfile": false,
+      "name": "Leasing Manager",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/b1a47c6f48b40e5593f8037eae55822127ca2f2cb8b2a844dba7725dd2b783e1/main.jpg"
+      },
+      "id": "3544300",
+      "email": "leasing@bourkes.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dafdb98228dabcc7c20e0edfea2717527d96abb3d37d6a270531efa1d6f99eec/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4d281ab1ef3a789e688145b6437a02bd5a2546662b02a2cb58866d7ddbb95ca8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/336ba8f8cda1b9080d5e4bb60e788c8ab54e13601fa23c82ed678e3229ee5f0f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e8ef1806730518b2dddb1a76bdccb5e58ea6eb22604d8a2789aa08a06e0c668f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/44d0c295f23943bcd4c5c1a69bb9f3c0fbed69277532a0332ffcbbe3515d7da4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a664b5b97ebff0c63111d3a421e76c0e9baccb0852ac700da03d6d7fe9f586fe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/adf96293191e451dad8fdcebe89fae456b8c89e7803837004acf28cc8bbf6929/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/eac303dc0b8e55f56fb9b0e439cea7671f5a2af68ea12f86f5a30a92cc7e4def/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/41112ea25aa71784b2c6365ff89ba29b81e96eaaed45d0b18330efd032e15af7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/97e5c40b57837f0f4f0ce833f9b5f62d287d4ccec5776f79b3e737385e79d929/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/78b82d710090e579258b06eef8db21fa350ba76490d9911ed1d60634f1e0eec3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/55912a1cd048bc37754efd051a84a856bb81005a9305892c221dfbf06ff91762/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2a20bffd29950052e89a62a91e720236b3c4fa6a0e6f8c8089bf535b07811c83/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "6/79 South Terrace",
+    "locality": "Como",
+    "postcode": "6152",
+    "suburb": "Como",
+    "postCode": "6152",
+    "location": {
+      "latitude": -31.98893,
+      "longitude": 115.8631
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.bourkes.com.au",
+    "address": {
+      "streetAddress": "272 Canning Highway",
+      "postcode": "6152",
+      "suburb": "Como",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9474 2000",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#383839"
+    },
+    "name": "Bourkes - South Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/ed80db0ba89a6f13e27449fea7db47fd3cc8db75b0aa1bd67e79a3f750a58895/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/ed80db0ba89a6f13e27449fea7db47fd3cc8db75b0aa1bd67e79a3f750a58895/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/ed80db0ba89a6f13e27449fea7db47fd3cc8db75b0aa1bd67e79a3f750a58895/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/56565f750bdb3cabea2662a058ca9d3640488f7a9c50fdb3c645c8be25ee4a1a/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/ed80db0ba89a6f13e27449fea7db47fd3cc8db75b0aa1bd67e79a3f750a58895/logo.jpg",
+        "hero image": "/1536x800/56565f750bdb3cabea2662a058ca9d3640488f7a9c50fdb3c645c8be25ee4a1a/main.jpg",
+        "default": "/160x30/ed80db0ba89a6f13e27449fea7db47fd3cc8db75b0aa1bd67e79a3f750a58895/logo.jpg",
+        "large": "/170x32/ed80db0ba89a6f13e27449fea7db47fd3cc8db75b0aa1bd67e79a3f750a58895/logo.jpg"
+      }
+    },
+    "agencyId": "OPRVGJ",
+    "email": "sales.admin@bourkes.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6649776",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444426436",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/2be5c48706c118af5132f500fbce0ed88f9b3e854f7e5dad7ed2897465bec414/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "10 Jul 2026",
+    "dateDisplay": "10 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

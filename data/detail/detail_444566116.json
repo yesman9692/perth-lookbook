@@ -1,0 +1,245 @@
+{
+  "prettyUrl": "property-townhouse-wa-victoria+park-444566116",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0402615981",
+    "website": "http://www.urbanresidential.net.au",
+    "phoneNumber": "0402615981",
+    "powerProfile": false,
+    "jobTitle": "Licensee",
+    "name": "Amanda Dorn",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/ca28c10a569695f55a1983e671f1b90984ec070ce7263e7e9a58e9f973761945/main.jpg"
+    },
+    "id": "784731",
+    "email": "amanda@urbanresidential.net.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Time to ditch the car your weekend is sorted with a short stroll to Albany Hwy for cafes, shopping & transport<br/>3 bedroom (bir) x 1 bathroom (2wc's) townhouse is available now!<br/>Separate living and dining areas, gas connected, gas bayonet for heating. Super-fast NBN available.<br/>Large private courtyard will welcome your plants!<br/>Additional storeroom under carport.<br/>Call Anna to View",
+  "showAgencyLogo": false,
+  "title": "Walk to cafe & shopping strip",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0402615981",
+      "website": "http://www.urbanresidential.net.au",
+      "phoneNumber": "0402615981",
+      "powerProfile": false,
+      "jobTitle": "Licensee",
+      "name": "Amanda Dorn",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/ca28c10a569695f55a1983e671f1b90984ec070ce7263e7e9a58e9f973761945/main.jpg"
+      },
+      "id": "784731",
+      "email": "amanda@urbanresidential.net.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "townhouse",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/96d80ea016ee60cdcb7d797eff7afaec3ca4adc46da2460871a1b6fe77e569dc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0d891244cac1b4677cddb31322dfc21b1dd707066918b577e718e977f1d26533/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0684a5c4350bb015d962b79d52de2f2e9c527ed0c4d2dad535c975baf4464f0a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a215ba4550ff634e87715631df49d167ab7c402ba6cf7f08c23414210976704d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/563650b11e4509514af1a5cac592dac22ef601558a46ee3bffc00eea46fbc021/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4f4711abc5a7fc1aded2dd8cad20e2f7cc16789fc8abf25495f577442cfc71ab/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b460eb0c5d4f3a68aa49c295c6f3bb2db5566501b61b20d350bcf7a7fd940c79/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ec9820234e92a4e3fec3de11c785e7baef40d11c6440f4f0a3128eeca9343a89/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f0648b6a456b0fcef869253b64c12199d3258e1709fd103cb5153b065153ff53/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b223e05857e5351758ffb2476d9b371a7e381fd83bd029a3576699f92c76ef43/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/78402bd47e56c02cfd65a1ac91f655925379472b4bbf73d4cfbe7dd0a22d94f5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/63cd0c243bc24ac6347d9df9dcb1bc31c9aa5d1a0854ed1f796f4048dc565ae4/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/21 Mcmillan St",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.97619,
+      "longitude": 115.89582
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.urbanresidential.net.au",
+    "address": {
+      "streetAddress": "PO Box 547",
+      "postcode": "6100",
+      "suburb": "Victoria Park",
+      "state": "WA"
+    },
+    "phoneNumber": "0402 615 981",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#0167b1"
+    },
+    "name": "Urban Residential - VICTORIA PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/b1e920e59ca77b8502ae844d40c6cffca6a5868eb0bb745b4d004b65de068cd5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/b1e920e59ca77b8502ae844d40c6cffca6a5868eb0bb745b4d004b65de068cd5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/b1e920e59ca77b8502ae844d40c6cffca6a5868eb0bb745b4d004b65de068cd5/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/b1e920e59ca77b8502ae844d40c6cffca6a5868eb0bb745b4d004b65de068cd5/logo.jpg",
+        "default": "/160x30/b1e920e59ca77b8502ae844d40c6cffca6a5868eb0bb745b4d004b65de068cd5/logo.jpg",
+        "large": "/170x32/b1e920e59ca77b8502ae844d40c6cffca6a5868eb0bb745b4d004b65de068cd5/logo.jpg"
+      }
+    },
+    "agencyId": "EJGJIK",
+    "email": "amanda@urbanresidential.net.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "b480001bf6b24c0d907828a6d5ca444b",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444566116",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/02dcb4c5fe85a0bc64f45b5e9d06d2933a5948d3a2460598208bd73a22d4b122/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "10 Jul 2026",
+    "dateDisplay": "10 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Sat 11 Jul",
+      "startTimeDisplay": "2:00 PM",
+      "endTimeDisplay": "2:15 PM",
+      "startTime": "2026-07-11T14:00:00",
+      "endTime": "2026-07-11T14:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

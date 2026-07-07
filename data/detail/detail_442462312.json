@@ -1,0 +1,314 @@
+{
+  "prettyUrl": "property-apartment-wa-west+perth-442462312",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0424302403",
+    "website": "http://www.networkexchange.com.au",
+    "phoneNumber": "0424302403",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Alison Travers",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/275ce3d55fb12f4d69cdd19e7ac6a01d9aad651dd78bdedac7f2cb0be077df58/main.jpg"
+    },
+    "id": "2572330",
+    "email": "rentals@networkexchange.com.au,capture@networkexchange.agentboxmail.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Ideally positioned at the Subiaco end of West Perth, this spacious 2-bedroom, 2-bathroom apartment delivers the perfect blend of convenience, lifestyle, and city living.<br/><br/>Step outside your door to enjoy the best of Perth, with Kings Park, Harold Boas Gardens, Watertown Outlet, Perth Arena, and the CBD all within easy walking distance. The City West Train Station and free CAT Bus are also close by, providing effortless connections across the city.<br/><br/>With cafés, restaurants, and shopping precincts right on your doorstep, everything you need is within easy reach. Whether it's a stroll through the parklands, an evening at the Arena, or a quick trip into the city for work or leisure, this location truly offers it all.<br/><br/><br/>ACCOMMODATION<br/>Two spacious Bedrooms with built in robes <br/>Ensuite<br/>One Bathroom with bath/laundry<br/>Open plan kitchen/living/dining<br/>Two WC<br/><br/>FEATURES<br/>Solid timber floors to living areas<br/>Split system reverse cycle air conditioning to living <br/>Kitchen with ample cupboards and stone bench tops<br/>Gas cooktop/electric oven <br/>Open plan layout and large balcony <br/>Carpeted bedrooms <br/>Window treatments<br/>Own laundry facilities<br/>Linen cupboard <br/>Large paved courtyard <br/>BBQ/Entertaining area<br/>Intercom<br/>External store room<br/><br/>PARKING<br/>Undercover parking for 1 car<br/><br/>LOCATION<br/>0.5 km - Perth Eye Hospital <br/>0.5 km - Kings Park Day Hospital<br/>0.9 km - Mount Hospital<br/>1.0 km - Perth Arena <br/>1.6 km - Kings Park<br/>1.6 km - Perth Station<br/>2.0 km - Boas (Harold Boas) Gardens<br/>2.0 km - Watertown Outlet (Watertown Brand Outlet Centre)<br/>2.7 km - Royal Perth Hospital <br/>4.6 km - Sir Charles Gairdner Hospital <br/>5.0 km - Perth CBD<br/>16. km - Perth Airport<br/><br/>SCHOOLS<br/>0.4 km - Perth Modern School <br/>0.8 km - Bob Hawke College <br/>1.0 km - West Leederville Primary School <br/>1.1 km - School of Isolated & Distance Education <br/>1.9 km - Subiaco Primary School <br/><br/>To view by appointment contact:<br/>Alison Travers 0424 302 403<br/>Office (08) 9388 3335<br/>Email rentals@networkexchange.com.au <br/>Harith Danish Mobile: 0415 115 377<br/>Email: hello@networkexchange.com.au",
+  "showAgencyLogo": true,
+  "title": "Walk To The City.",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0424302403",
+      "website": "http://www.networkexchange.com.au",
+      "phoneNumber": "0424302403",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Alison Travers",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/275ce3d55fb12f4d69cdd19e7ac6a01d9aad651dd78bdedac7f2cb0be077df58/main.jpg"
+      },
+      "id": "2572330",
+      "email": "rentals@networkexchange.com.au,capture@networkexchange.agentboxmail.com.au"
+    },
+    {
+      "mobilePhoneNumber": "0415115377",
+      "website": "http://www.networkexchange.com.au",
+      "phoneNumber": "0415115377",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Harith Danish",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/eed60d49b3c7dbb33a44b658c665abccb9bba3bd6a407ba2d5c122d7cb1d3c65/main.jpg"
+      },
+      "id": "3944432",
+      "email": "NetworkExchange@mail.inspectrealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$750 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/042f15e959567058cad584db442a406e62926826f10564958918e4e6146f0b91/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ebdc3b4e77b4d05d15efc2c0b1985b96906f1b0f8a080dfa4c26751858f0ebe4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ae6222b24bdeaf6c8f52a5ae99010f6064f7ccef0e32e6de444ad5f386232087/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a14cbcadc2fd4739f2fcf5974f3bc0671282e6790f28be2f3082e0fe6e249b6d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f4abff0d66585f18dbd14e0339dc61a333a982860192bed60ea207d9bdbfe0a7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c239ae7d3ddb1ed22042f48458d02f0fa15cc950b9df69ea0b80bcc354441e4a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fbee92b0f8b0faaa2d44bf0a8461ada847f7e0a781c875359067d198529adb38/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3960adccc303df0e6d9f05c3e74c0587dfe70ef3f38e1e1141087aebcd07c148/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5a7504f2d0f7e9e2a40cf0cb746a42a74d4c53fbb1d4c55a43bccfc33a3a520f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f27b8341dbbb09fcb980d7661dbc4f6e7ece6e7bd2e238fbe151858053fe994e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bcbc73e62e49c5ea4fb583194b46390203ed864711f27c8a4c1524e6b49ffbc8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4e6da2570f5c2d9a61e36a9890b433c6b7dcb169dd1c7fc4b4d51f22d840481a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/112581af419502a685be1942f0464b349bddbf786dc1c82dc164acb8b5b45f00/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1a23e5b2f0a2c38cafebd68009e44c70af213a5c220a145d5f4f30c9a2856390/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/23d49ed34ce459bd3d916d92dcc189f521a7d7bce5af4eb122bdfbb6acff39d7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8488324c63f5d0d03bdbdfb3fcba123436e58c237bba173b38d3509aa209b4ba/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2df9d6cc0f3067ed2f0df894e8add7423ff3e4303d96425a52e48e4878f6cae0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/94073ce3343415a4d8dd69eca9e4e258c3b2bfe6b2f4e2f5c1f1e5d17dd12156/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "floorplan",
+      "resize": true,
+      "uri": "/05d27a691801222333e2e1aa082d142085a9ea27814c7387f262dddc1d9782f7/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "12/1020 Wellington Street",
+    "locality": "West Perth",
+    "postcode": "6005",
+    "suburb": "West Perth",
+    "postCode": "6005",
+    "location": {
+      "latitude": -31.94532,
+      "longitude": 115.84058
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.networkexchange.com.au",
+    "address": {
+      "streetAddress": "4 Sheen Street",
+      "postcode": "6008",
+      "suburb": "Subiaco",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9388 3335",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#000000"
+    },
+    "name": "Network Exchange Realty - Subiaco",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/bb14de3a3eca2e6d8cd7af33c6f4c2cd7b075673881c75ae2f86e395810ec669/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/bb14de3a3eca2e6d8cd7af33c6f4c2cd7b075673881c75ae2f86e395810ec669/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/bb14de3a3eca2e6d8cd7af33c6f4c2cd7b075673881c75ae2f86e395810ec669/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/14ccc14184dadc7425a1b82cb419c51dad955c490223f98c889457d538726c31/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/bb14de3a3eca2e6d8cd7af33c6f4c2cd7b075673881c75ae2f86e395810ec669/logo.jpg",
+        "hero image": "/1536x800/14ccc14184dadc7425a1b82cb419c51dad955c490223f98c889457d538726c31/main.jpg",
+        "default": "/160x30/bb14de3a3eca2e6d8cd7af33c6f4c2cd7b075673881c75ae2f86e395810ec669/logo.jpg",
+        "large": "/170x32/bb14de3a3eca2e6d8cd7af33c6f4c2cd7b075673881c75ae2f86e395810ec669/logo.jpg"
+      }
+    },
+    "agencyId": "DFTAEN",
+    "email": "mimma@networkexchange.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "1P1321",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Ensuite: 1",
+        "Intercom",
+        "Living Areas: 1",
+        "Toilets: 2"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "442462312",
+  "bond": {
+    "display": "$3,000",
+    "value": 3000
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/b585250df4a93bc5a34d06b4d22563be63e5eeaf07cd59b57fd1d193e06fd3cc/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "05 Aug 2026",
+    "dateDisplay": "05 Aug 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Tomorrow",
+      "startTimeDisplay": "1:00 PM",
+      "endTimeDisplay": "1:15 PM",
+      "startTime": "2026-06-24T13:00:00",
+      "endTime": "2026-06-24T13:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

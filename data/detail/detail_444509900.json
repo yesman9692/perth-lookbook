@@ -1,0 +1,243 @@
+{
+  "prettyUrl": "property-apartment-wa-east+perth-444509900",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 6192 3023",
+    "website": "http://www.modpropertygroup.com.au",
+    "phoneNumber": "08 6192 3023",
+    "powerProfile": false,
+    "jobTitle": "",
+    "name": "Mod Leasing Team",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/aafe3703612c97f8ee72df293be8915727ea588d20024fdaddce194c35cd1f3a/main.jpg"
+    },
+    "id": "1824830",
+    "email": "leasing@modpropertygroup.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This well presented 2x2 apartment offers quality living so close to the beautiful Swan River and the heart of the CBD, with shops, restaurants, entertainment and amenities all at its doorstep. <br/><br/>Lease conditions: <br/>$650 per week <br/>Fully furnished <br/>No pets <br/><br/>The property: <br/>2 bedroom and 2 bathroom unit, plus additional study / activity room <br/>Located on the second floor of a boutique complex of 27 units <br/>1 secure undercover car bay provided <br/><br/>Key features: <br/>Master bedroom has sliding built in mirrored robes and its own ensuite <br/>Spacious kitchen is appointed with engineered stone benchtops, tiled splashback, gas burner cooktop, wide stainless steel oven, rangehood and dishwasher <br/>Kitchen overlooks open plan meals and living area <br/>Laundry located within main bathroom <br/>Wall mounted reverse cycle air conditioning to the open plan living <br/>Common facilities include resort style swimming pool and spa, BBQ area and putting green <br/>Lockable store room provided <br/><br/>Location: <br/>A short walk to Langley Park, Queens Gardens and Victoria Gardens <br/>Only 1km to fabulous restaurants at Point Fraser <br/>Get around the Perth CBD using the red and yellow CAT buses <br/>Within a 2.5km walk to the impressive Optus Stadium and the Crown Perth complex <br/><br/>Contact Mod Leasing Team on (08) 6192 3023 or email leasing@modpropertygroup.com.au to arrange a time to inspect this home today! <br/> <br/>Mod Property Group is a Perth Property Management Specialist assisting landlords with their rental properties in Perth and surrounding metro suburbs.",
+  "showAgencyLogo": true,
+  "title": "SPACIOUS APARTMENT CLOSE TO THE RIVER AND THE HEART OF THE CBD",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 6192 3023",
+      "website": "http://www.modpropertygroup.com.au",
+      "phoneNumber": "08 6192 3023",
+      "powerProfile": false,
+      "jobTitle": "",
+      "name": "Mod Leasing Team",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/aafe3703612c97f8ee72df293be8915727ea588d20024fdaddce194c35cd1f3a/main.jpg"
+      },
+      "id": "1824830",
+      "email": "leasing@modpropertygroup.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c3d7dc41160ebc1443c43318d7f59859b6c3c76a06a36a8acfc1fa42cdbbd66d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/64956676912c38331c924f2e7f6e41affcc55f3fbccb3cf5f4f76309afcf3e76/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d70bea13164611f70921f61dfa0962a0e38eb5ce799270005db6a6eeee50aabe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4ed8a0d0e69870f92a8f58e57645dbc5779f43a20a67865ecbaf94d47ab25e19/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4fd387cc33344ea1f94f60a08fb777ddc59496c25c3c9be1306e58aaba0d4015/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/858e11360365a3735ad189fbcc7e231bc1cc76bce0c05d0166085d628425ed73/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aa5114c48c69087a86d531e1c5b0d00c74bca06dea01575aeb33f8482d0d61bd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e94aad6b709f193d5ec59949f906c37b563882d90b3ab0302164e8cb605bacd7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5b86e374e8cb80c61a2607a275ce480347941445a72ba836d08a92c3979d5d31/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ea9809e9636eb7d61f8aa5c09819604db2514f9934c24ff2005fc2cdf5e662a3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b885f252208d41eb27fd85761c92576f87af8886bc1eaa122082030d6ee0006c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/11d861958d4f25835880e8090ef0dc0dffeee59fc420bffb2a2be064d5f34dc0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/017240201be10de6c12f2499e3b0a0fed66e730d9bd790c4c1e382c7bf9503eb/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "16/7 Bronte St",
+    "locality": "East Perth",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "postCode": "6004",
+    "location": {
+      "latitude": -31.95695,
+      "longitude": 115.87814
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.modpropertygroup.com.au",
+    "address": {
+      "streetAddress": "37/328 Albany Hwy",
+      "postcode": "6100",
+      "suburb": "Victoria Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6192 3023",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#081C2A"
+    },
+    "name": "Mod Property Group - Victoria Park",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/90c682250a82400d1e6f37fd4efc2ab4b30308073fb4fab7050c33c086ccb39a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/90c682250a82400d1e6f37fd4efc2ab4b30308073fb4fab7050c33c086ccb39a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/90c682250a82400d1e6f37fd4efc2ab4b30308073fb4fab7050c33c086ccb39a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/0b47d63305d5c5f528ade14e297ab16871c6d51047e64b1bfecb01e295680588/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/90c682250a82400d1e6f37fd4efc2ab4b30308073fb4fab7050c33c086ccb39a/logo.jpg",
+        "hero image": "/1536x800/0b47d63305d5c5f528ade14e297ab16871c6d51047e64b1bfecb01e295680588/main.jpg",
+        "default": "/160x30/90c682250a82400d1e6f37fd4efc2ab4b30308073fb4fab7050c33c086ccb39a/logo.jpg",
+        "large": "/170x32/90c682250a82400d1e6f37fd4efc2ab4b30308073fb4fab7050c33c086ccb39a/logo.jpg"
+      }
+    },
+    "agencyId": "FGIJZX",
+    "email": "info@modpropertygroup.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "b4780100c065498498c74ef8f18da7bd",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444509900",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/1a973ae8d36d8f760f5f7155b1256ca384ddd7d5445e6445c98d07ed3d2e5777/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "28 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

@@ -1,0 +1,244 @@
+{
+  "prettyUrl": "property-apartment-wa-maylands-444490260",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9314 9888",
+    "website": "http://www.rentwest.com.au",
+    "phoneNumber": "08 9314 9888",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Ciera Bayley",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/4794c60b3738978f9da2baefa08b057952a8aac379c58f7075352d5f33f356b7/main.jpg"
+    },
+    "id": "3349108",
+    "email": "leasing@rentwest.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Enjoy the perfect combination of comfort, convenience and lifestyle in this spacious two-bedroom apartment, ideally located in the vibrant heart of Maylands. With generous open plan living, a private covered alfresco and easy access to cafés, shops, public transport and the Swan River, this home is perfect for those seeking low maintenance living in a fantastic location.<br/><br/>FEATURES YOU WILL LOVE:<br/><br/>TWO SPACIOUS BEDROOMS<br/>MASTER BEDROOM WITH WALK-IN ROBE<br/>LIGHT FILLED OPEN PLAN LIVING AND DINING AREA<br/>WELL-APPOINTED KITCHEN WITH AMPLE CUPBOARD SPACE<br/>COVERED COURTYARD <br/>SPLIT SYSTEM AIR CONDITIONING IN LIVING AREA<br/>BEAUTIFULLY RENNOVATED BATHROOM AND LAUNDRY<br/>SEPARATE WC<br/>CAR BAY<br/><br/>Conveniently located just moments from the Maylands café strip, Maylands Train Station and the Swan River, you'll also enjoy easy access to local shopping, parklands and Perth CBD.<br/><br/>If you would love to call this house your home, please call 9314 9888 or go to www.rentwest.com.au to register for the Home Open or pre apply.",
+  "showAgencyLogo": true,
+  "title": "SUNLIT SPACE IN THE HEART OF MAYLANDS",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9314 9888",
+      "website": "http://www.rentwest.com.au",
+      "phoneNumber": "08 9314 9888",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Ciera Bayley",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/4794c60b3738978f9da2baefa08b057952a8aac379c58f7075352d5f33f356b7/main.jpg"
+      },
+      "id": "3349108",
+      "email": "leasing@rentwest.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2de178e62efbb42ba01eb1bd3d40b45d9c006269e8ec28411af0898bdf64ec89/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/447e7c688c36e62b14d84d3513d6a72cd1d07660e467e1a32dc8f065aec8a48d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0e132f5eca91673f7983c20e32971a6e8416393550b9785b40b518d4f6496e7f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d6044be708bd18e23fd76955b9d951a4910c04e5df724bd21d49d8b0fd7a2639/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e40e833f1bc51ed25401beaf373ddc416ea52ccec1f270ed612727c574cb50f6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/22585358c9bb4b42490d338acb9add8c2d3a23658fcdd7e71f3ea4ac6808bbd6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a55689eef224d3d297097cb99eb551b45d19234500f5c32485c6ff6856fd9961/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4aefc96ed5cee16cf7db2dfd554bc50c37a8d23f18016e99ed8f305f3d7b4aa7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/92dfc9a8b7acf6b3128c4a945d1f2d1d373573488702a2f15a7a11d5b6b9b892/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c2ce469e1b905e72cc5d61e9225b2858ab8478ef52e828899e55bb9dab4bb278/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3e1ae8b15853bad6f3fb5d5449b1ea2d35c4494946fdef4568ed02e8a8cd8a9e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f8e3125dd93e926fc89ec735f03c26bc9130c450fadeafc9ececbe526f18cc97/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "floorplan",
+      "resize": true,
+      "uri": "/a16c9824b711c79fd089de9cfb540bc5c050057d6f7c9de59fef65fa9d8af56a/image.gif"
+    }
+  ],
+  "address": {
+    "streetAddress": "111/12 Wall St",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.94123126,
+      "longitude": 115.9074318
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rentwest.com.au",
+    "address": {
+      "streetAddress": "Level 2, 42 Kishorn Road",
+      "postcode": "6153",
+      "suburb": "Applecross",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9314 9888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#3a153d"
+    },
+    "name": "Rentwest Solutions - Applecross",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/37b1f2d46c76b96c538bbbaca0d8d88de8a0de6aa40b3a395b92556e4983b6c8/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg",
+        "hero image": "/1536x800/37b1f2d46c76b96c538bbbaca0d8d88de8a0de6aa40b3a395b92556e4983b6c8/main.jpg",
+        "default": "/160x30/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg",
+        "large": "/170x32/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+      }
+    },
+    "agencyId": "UGJNKI",
+    "email": "leasing@rentwest.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "1922985",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444490260",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/f29b4cc3b71321f4b190d3c3ebc7f109c1ff0f5bf5992e40e568459dbe94b0a8/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "29 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

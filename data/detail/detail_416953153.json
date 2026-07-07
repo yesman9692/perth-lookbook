@@ -1,0 +1,221 @@
+{
+  "prettyUrl": "property-house-wa-south+perth-416953153",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "powerProfile": false,
+    "name": "Nicole",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3321636",
+    "email": "nicole.mcmanus@dplh.wa.gov.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Step into a home full of charm and history, where original features and warm textures create a cosy, lived-in feel. This older-style home offers a relaxed, rustic lifestyle in a prime South Perth location — perfect for those who appreciate character over modern polish.<br/><br/>Property Features: <br/>- Two comfortable bedrooms with high ceilings and natural light<br/>- Timber floors that bring warmth throughout the home<br/>- Spacious living area <br/>- Vintage-style kitchen with functional layout and garden outlook<br/>- Bathroom with Bath/shower <br/>- Covered outdoor area and leafy backyard with a natural, established feel<br/>- Off-street parking and garage/storage space<br/><br/>The Property location offers, quick access to the Perth CBD, close to the South Perth foreshore and riverside walks, nearby cafés, local shops and public transport and easy access to major roads while still offering a sense of privacy<br/><br/>Move in costs:<br/>Rent up front: $1,100 (2 weeks rent)<br/>Bond: $2,200<br/>Pet bond if applicable: $350.00<br/><br/>This property is owned by the Western Australian Planning Commission. To view this property, please click on the \"Get in touch\" icon to register your interest.",
+  "showAgencyLogo": false,
+  "title": "2-Bedroom Home in Prime South Perth Location",
+  "listers": [
+    {
+      "powerProfile": false,
+      "name": "Nicole",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3321636",
+      "email": "nicole.mcmanus@dplh.wa.gov.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$550 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/09c4942b6e6d1ee29202e9cbd498aa0d31e78913a7841a82fdc4f68c3c1f69dc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ba3c81c7f62f9e3b0e0bdaab08348ce7d5371b464d3ffa014298316c8a753e0e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f81afccf852961e10cc399046af6bcb967a94c9ec47273879bbcbcf9fe300522/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4eb6a127e0ff68e0299cbba14dfffb1fcbc5ddabd152d76338242ad180d80102/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c55e309b77e4fc4f73ba95f33c29d9281f27009a9f3711cd7c0685a877b21408/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c47d8043eb61caf8bfebd283bfb074eeaba6df7a141086cbc0c5f87130aac669/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c1f8f9d978372868d8e8d15d5502cb80db5f337400f58d568a7bbf0c37573463/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ebf611c8315fc429fae9479cc74dd73e165b3e897563ae1e9674dfb2d2f39391/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5e7dcec38603c2468c5ffa7889f58ceb13689cd63f5a32cf3cffd8c0f517439f/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "198 Canning Highway",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.98638,
+      "longitude": 115.87311
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "511 Church St",
+      "postcode": "3121",
+      "suburb": "Richmond",
+      "state": "VIC"
+    },
+    "phoneNumber": "1300134174",
+    "branded": false,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#333F48"
+    },
+    "name": "Property Owner",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg",
+        "default": "/160x30/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg",
+        "large": "/170x32/ccbb1a538d37569e9b93e0c40ddf0e097e82829a98f1f3c1e546e3c44aea0e49/logo.jpg"
+      }
+    },
+    "agencyId": "TFKZUA",
+    "email": "customercare@reasupport.zendesk.com"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "4417eb7a-7e4b-472a-8d2d-f1164de6e3e7",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "416953153",
+  "bond": {
+    "display": "$2,200",
+    "value": 2200
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/d5059f71b45398ac61f3cf9f261608d70279647ad551d7c505ee008b359b2975/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "08 Jul 2026",
+    "dateDisplay": "08 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Tomorrow",
+      "startTimeDisplay": "3:00 PM",
+      "endTimeDisplay": "3:15 PM",
+      "startTime": "2026-07-08T15:00:00",
+      "endTime": "2026-07-08T15:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

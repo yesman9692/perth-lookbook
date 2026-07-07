@@ -1,0 +1,287 @@
+{
+  "prettyUrl": "property-apartment-wa-maylands-444528288",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0439864166",
+    "website": "http://www.sherlockhg.com.au",
+    "phoneNumber": "0439864166",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Sophie Burnett",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/540843b91016373a12dbd62df086199c81bf1d34573ca3c4596fd3f0424fe19c/main.jpg"
+    },
+    "id": "3940164",
+    "email": "pm@sherlockhg.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Step into this beautifully renovated ground-floor apartment, where contemporary finishes and thoughtful design combine to create a stylish and low-maintenance home. Perfectly suited to professionals, couples, or small families, this light-filled residence offers comfort, convenience, and modern living throughout.<br/><br/>Features you'll love include:<br/>• Two spacious bedrooms, with a built-in robe to the main bedroom.<br/>• Fully renovated bathroom featuring floor-to-ceiling tiling and a sleek glass shower screen.<br/>• Contemporary kitchen with engineered stone benchtops, ample cabinetry, and quality stainless steel freestanding cooker with gas cooktop and rangehood.<br/>• Stylish breakfast bar overlooking the open-plan living space.<br/>• Warm wide-plank hybrid timber-look flooring throughout the living areas and bedrooms.<br/>• Light-filled open-plan living and dining area enhanced by feature wall panelling, lined ceilings, and flush-mounted downlights.<br/>• Split-system air conditioning for year-round comfort.<br/>• Fully renovated laundry with built-in cabinetry and additional storage.<br/>• Secure ground-floor position with an allocated car bay and gated complex entry.<br/><br/>Experience a rare opportunity to lease one of the few fully renovated residences within this established complex. Combining contemporary design, quality finishes, and effortless comfort, this exceptional apartment stands apart from the rest. Enquire today and secure your chance to enjoy a truly elevated lifestyle.<br/><br/>PLEASE NOTE - Property will be unfurnished. Furniture in photos are for illustration purposes only. Applicants are to do view to make their own observations.",
+  "showAgencyLogo": true,
+  "title": "Stylishly Renovated Ground-Floor Apartment Offering Modern Comfort & Convenience",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0439864166",
+      "website": "http://www.sherlockhg.com.au",
+      "phoneNumber": "0439864166",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Sophie Burnett",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/540843b91016373a12dbd62df086199c81bf1d34573ca3c4596fd3f0424fe19c/main.jpg"
+      },
+      "id": "3940164",
+      "email": "pm@sherlockhg.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$680 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://img.youtube.com",
+      "name": "video",
+      "id": "W9bIj4iSyso",
+      "video": true,
+      "uri": "/vi/W9bIj4iSyso/0.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7a1eb6f15cbaf3001e19432c550ae3932a953d64a063c064aa295e42af0d0024/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/94948887ce6532301119706a8bdcb549f4411c8b395b5ecf688233db99e395bc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/12caeb643b15cae7e49eca07b6400e6df4e0021c2550bc2d9e40d0a220bec5ef/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/16db8b8b601abb571f8fb918cd568eb7a78c3d27be08d4a4c5c4c5e0b82e3678/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c33a1965ab6ff2c643f562e464827c3fac2f60069ea2e5e5f13c3e33ac53069b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/520f5792dc5775d195f233d3d72797ee6040418e888ea6fef4bad1d819c7b1de/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4fc771e7fc7ad75216c7be4c33e394ca8e9590f5fa53e9ca8a46ea992568b0f6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b7a9668202c7d19f877a2e245420ebed35c2a6e0333619944ba06431b80113a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d255de2071b18323b1115a01e4de4f239869c6c1c280b6a73d2fd2022c291766/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/42a6f07eae72fc06e6e7491c68dc5023f7bd416e4d4101a4fc9de91c0fa973b9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ec803350960ef9d77928970dd5d7844eaaf65c3309fd54541869cfcadf77c538/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/01e43d6c0e0fab2658ebb11e5ff0ba5097252c70f8653379d1879c47c7b9cffe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6872451fcf0592c04ca0abda0b5bfe06aebf9e36639845949f1c7c973ea2bc17/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c6a64498d64a22b987648fc10ffd2cd754ed765be27e2e5cb8a196d126498357/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/683e37b75096cb1a25515854d5152c0036ee298756316426a69bcbe6f076bfd4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/99ff868a71ec3f19dea2bb8898ee34c0f84f1c4d9ab87c0b05d758d500ae8343/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "floorplan",
+      "resize": true,
+      "uri": "/bebf0cbea7c9126a48b524116cb3e433806e89ce2947674d0ba192fd05f3edc6/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/19 Joseph Street",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93475205,
+      "longitude": 115.90038961
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.sherlockhg.com.au",
+    "address": {
+      "streetAddress": "104/34 Charles Street",
+      "postcode": "6151",
+      "suburb": "South Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "0428884592",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "SHERLOCK Homes Group",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/497e1136dec11c975ad7bb5f45c172efd5042a219decd7dc810a9acea6a179e5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/497e1136dec11c975ad7bb5f45c172efd5042a219decd7dc810a9acea6a179e5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/497e1136dec11c975ad7bb5f45c172efd5042a219decd7dc810a9acea6a179e5/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/d9611f4f64e344f9c78bb0753d338d798a72ac45b35ae705f577258e0d13004b/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/497e1136dec11c975ad7bb5f45c172efd5042a219decd7dc810a9acea6a179e5/logo.jpg",
+        "hero image": "/1536x800/d9611f4f64e344f9c78bb0753d338d798a72ac45b35ae705f577258e0d13004b/main.jpg",
+        "default": "/160x30/497e1136dec11c975ad7bb5f45c172efd5042a219decd7dc810a9acea6a179e5/logo.jpg",
+        "large": "/170x32/497e1136dec11c975ad7bb5f45c172efd5042a219decd7dc810a9acea6a179e5/logo.jpg"
+      }
+    },
+    "agencyId": "WVHSLR",
+    "email": "tim@sherlockhg.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4362185",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Open Spaces: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Floorboards",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444528288",
+  "bond": {
+    "display": "$2,720",
+    "value": 2720
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/74957a3dd0c24e12b6ff7da3bc66c9e8cfd338c64d528702b3a5dd4c551bbd81/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "25 Jul 2026",
+    "dateDisplay": "25 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

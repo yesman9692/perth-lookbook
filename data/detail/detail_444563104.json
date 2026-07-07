@@ -1,0 +1,188 @@
+{
+  "prettyUrl": "property-apartment-wa-victoria+park-444563104",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "1300 577 298",
+    "website": "http://www.certaintyproperty.com.au",
+    "phoneNumber": "1300 577 298",
+    "powerProfile": false,
+    "name": "Certainty Property WA",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/7ef949311a0e409e243b2a7ef8a1508fe841059e951080238dbe80177825066e/main.jpg"
+    },
+    "id": "3788048",
+    "email": "inspectrealestate@certaintyproperty.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Welcome to this well-presented 2-bedroom, 1-bathroom apartment, ideally located in the heart of Victoria Park. Offering a comfortable and low-maintenance lifestyle, this residence combines convenience, practicality, and a sought-after location.<br/><br/>Upon entry, you are welcomed into a light-filled living area that provides plenty of space to relax and unwind. The adjoining kitchen offers ample storage and bench space, making everyday meal preparation easy and convenient.<br/><br/>Both bedrooms are generously sized and feature built-in robes, while the master bedroom is equipped with a ceiling fan for added comfort. The central bathroom includes a shower, vanity, and WC, with a built-in laundry area enhancing the functionality of the home.<br/><br/>Property Features:<br/><br/>2 spacious bedrooms with built-in robes<br/>1 well-appointed bathroom<br/>Light and bright living area<br/>Functional kitchen with ample storage<br/>Ceiling fan to master bedroom<br/>Built-in laundry<br/>Secure and low-maintenance living<br/>Convenient location close to amenities<br/><br/>Situated in the vibrant Victoria Park precinct, you'll enjoy easy access to popular cafés, restaurants, shopping centers, parks, and public transport. With Perth CBD just a short commute away, this property offers an excellent balance of lifestyle and convenience.<br/><br/>Don't miss this opportunity to secure a comfortable home in one of Perth's most desirable suburbs. Contact us today to arrange a viewing.",
+  "showAgencyLogo": true,
+  "title": "Well-Maintained & Secure 2x1 apartment– Ideal Lock-and-Leave Lifestyle in heart of Victoria Park",
+  "listers": [
+    {
+      "mobilePhoneNumber": "1300 577 298",
+      "website": "http://www.certaintyproperty.com.au",
+      "phoneNumber": "1300 577 298",
+      "powerProfile": false,
+      "name": "Certainty Property WA",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/7ef949311a0e409e243b2a7ef8a1508fe841059e951080238dbe80177825066e/main.jpg"
+      },
+      "id": "3788048",
+      "email": "inspectrealestate@certaintyproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [],
+  "address": {
+    "streetAddress": "8/151 Hubert Street East",
+    "locality": "Victoria Park",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "postCode": "6100",
+    "location": {
+      "latitude": -31.99025,
+      "longitude": 115.90933
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.certaintyproperty.com.au",
+    "address": {
+      "streetAddress": "9 GEORGE ST",
+      "postcode": "2137",
+      "suburb": "North Strathfield",
+      "state": "NSW"
+    },
+    "phoneNumber": "1300 577 298",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#000000"
+    },
+    "name": "Certainty Property",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/d9c21f00f037162f12c0c2524b7a51c0ad3eadf5817d0e77819ce76d4e5efcfe/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/d9c21f00f037162f12c0c2524b7a51c0ad3eadf5817d0e77819ce76d4e5efcfe/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/d9c21f00f037162f12c0c2524b7a51c0ad3eadf5817d0e77819ce76d4e5efcfe/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/191287d7d354df156d15fd2a4b05510c04173fc0e9944d9cffdd66e471b43e6b/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/d9c21f00f037162f12c0c2524b7a51c0ad3eadf5817d0e77819ce76d4e5efcfe/logo.jpg",
+        "hero image": "/1536x800/191287d7d354df156d15fd2a4b05510c04173fc0e9944d9cffdd66e471b43e6b/main.jpg",
+        "default": "/160x30/d9c21f00f037162f12c0c2524b7a51c0ad3eadf5817d0e77819ce76d4e5efcfe/logo.jpg",
+        "large": "/170x32/d9c21f00f037162f12c0c2524b7a51c0ad3eadf5817d0e77819ce76d4e5efcfe/logo.jpg"
+      }
+    },
+    "agencyId": "RZJNWA",
+    "email": "leasing@certaintyproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE6107551",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444563104",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/e1fe120f1eb4e2d1375be8d3c7f655a799a427a624e49942a83abe5837ffdf00/image.png"
+  },
+  "dateAvailable": {
+    "date": "15 Jul 2026",
+    "dateDisplay": "15 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Sat 11 Jul",
+      "startTimeDisplay": "2:10 PM",
+      "endTimeDisplay": "2:25 PM",
+      "startTime": "2026-07-11T14:10:00",
+      "endTime": "2026-07-11T14:25:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "prettyUrl": "property-house-wa-west+perth-444519648",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0405858773",
+    "phoneNumber": "0405858773",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Sara Anne Mulrennan",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/cc06df8063534e6aaf73be9c7f24957c0c640f27cbefe384a26db0f6e736e790/main.jpg"
+    },
+    "id": "3011987",
+    "email": "sara@agencia.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "This unfurnished 2-bedroom, 1-bathroom home offers convenience, an abundance of outdoor space. <br/><br/>Located on a large corner block in West Perth, with public transport on your doorstep for easy commuting to the city and all amenities. <br/><br/>This property offers ample parking with garage, front parking and rear access to large secure yard.",
+  "showAgencyLogo": false,
+  "title": "Central Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0405858773",
+      "phoneNumber": "0405858773",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Sara Anne Mulrennan",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/cc06df8063534e6aaf73be9c7f24957c0c640f27cbefe384a26db0f6e736e790/main.jpg"
+      },
+      "id": "3011987",
+      "email": "sara@agencia.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 8
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/419e595b1e5e0044fb209a6cd35b932168fda0798eb21d19cf793363e88ec278/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/03f868481bba7514b895e4848f31e7f348b9a2a47e90f12352d55df11087b0c9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/21d7f7a7b14db1d39945abfda2707350a1896bcc547029c1323020d9e5c462de/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ba4ab652573b63ce5ba96faf561cc24c5699c114e9486d6abf96034ec6bc2e06/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d9ce414e462d45a42299c14538e1d0a2b1d274064d952600822008a1ddc8b23b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d5fb1a754da3f29db3434cb5700eadf199f26a1dcfc06bc59392addb66d89497/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d2e0f54cf55d47baabb5b370d3e5fbc8a2a31c0962be5c47fd0bd367e13545b9/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "498 Newcastle Street",
+    "locality": "West Perth",
+    "postcode": "6005",
+    "suburb": "West Perth",
+    "postCode": "6005",
+    "location": {
+      "latitude": -31.94069,
+      "longitude": 115.84957
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "Ground Floor, 168 St Georges Terrace",
+      "postcode": "6000",
+      "suburb": "Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6255 6000",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#614B79"
+    },
+    "name": "Agencia Property",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/7ee2141acf5da9478d2bb324e4654e47437424d0fa82dbdf261ef0af8cd90edb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/7ee2141acf5da9478d2bb324e4654e47437424d0fa82dbdf261ef0af8cd90edb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/7ee2141acf5da9478d2bb324e4654e47437424d0fa82dbdf261ef0af8cd90edb/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/7ee2141acf5da9478d2bb324e4654e47437424d0fa82dbdf261ef0af8cd90edb/logo.jpg",
+        "default": "/160x30/7ee2141acf5da9478d2bb324e4654e47437424d0fa82dbdf261ef0af8cd90edb/logo.jpg",
+        "large": "/170x32/7ee2141acf5da9478d2bb324e4654e47437424d0fa82dbdf261ef0af8cd90edb/logo.jpg"
+      }
+    },
+    "agencyId": "MPILTH",
+    "email": "tom@agencia.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "9ddaf2b7-0e28-4d61-950c-8fce192ac477",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Fully Fenced",
+        "Garage: 2",
+        "Open Spaces: 6",
+        "Outdoor Entertaining Area",
+        "Remote Garage",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Floorboards",
+        "Living Areas: 1",
+        "Split-system Air Conditioning",
+        "Split-system Heating"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444519648",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/91574125a6dfb19ac11123bf9a3c5b2bfe50c2b7e4f226ee623c61f2fc71581b/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "06 Jul 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 8",
+      "type": "parkingSpaces",
+      "value": 8
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

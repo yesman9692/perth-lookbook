@@ -1,0 +1,304 @@
+{
+  "prettyUrl": "property-apartment-wa-south+perth-444500880",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0421496786",
+    "website": "http://www.thinkpinkrealty.com.au",
+    "phoneNumber": "0421496786",
+    "powerProfile": false,
+    "jobTitle": "Business Development / Senior Property Manager",
+    "name": "Mellissa Magee",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/bf53df0ab064ce88017bc414af38bc37cfa3eb99ad3d3f87bd66283f53937b18/main.jpg"
+    },
+    "id": "2239878",
+    "email": "pm.manager@thinkpinkrealty.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Discover your new home at 1/55 Elizabeth Street, South Perth. This charming 2-bedroom, 1-bathroom apartment is available for lease at $700 per week, fully furnished for your convenience.<br/><br/>Step inside to find a beautifully designed interior that combines comfort and style. The spacious living room features modern furniture, including a cozy couch and a dining table perfect for entertaining. The open layout allows for seamless flow between the living spaces, making it ideal for both relaxation and gatherings.<br/><br/>The well-equipped kitchen comes with essential appliances, ensuring you have everything you need to whip up delicious meals. Enjoy your morning coffee on the patio or take a stroll in the garden, where nature meets urban living.<br/><br/>This apartment also offers an open parking space, providing you with easy access to your vehicle. The outdoor area features a lovely pergola and a yard, perfect for enjoying the fresh air or hosting barbecues with friends. Communal pool to the complex for all occupiers to use on those warmer days.<br/><br/>Located in the heart of South Perth, this property is just moments away from local amenities, parks, buss stop on canning hwy and the vibrant city life. Don't miss the opportunity to make this beautiful apartment your new home. <br/><br/>This property is available for 6 months only to begin with.<br/>Please click on the enquire now button to express your interest and for viewing times.",
+  "showAgencyLogo": true,
+  "title": "Furnished & Ready Right Now",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0421496786",
+      "website": "http://www.thinkpinkrealty.com.au",
+      "phoneNumber": "0421496786",
+      "powerProfile": false,
+      "jobTitle": "Business Development / Senior Property Manager",
+      "name": "Mellissa Magee",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/bf53df0ab064ce88017bc414af38bc37cfa3eb99ad3d3f87bd66283f53937b18/main.jpg"
+      },
+      "id": "2239878",
+      "email": "pm.manager@thinkpinkrealty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/25325f4ada2fd2ff12e99eca2d8d82f15badf2f0a505f5bdf7dcae6f1db1d34c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b6dee205eae972b971dfb986f8413d909ce32c667cf08de24ab161a0726593f7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2ec51cf2457040468bda9f59e529c4343eb09816732308c6006855a0e8d80198/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e2eeb10b54f01b7372671d3c31538dd4df3de4c809bfccbf4c8092f4288f20bd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4e9be938adf2fb33d82aca15b38c03d5628d625f2400496b468549b294b04a9f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/26a4eaed11369b8ee6527fcf19587b71b6cc0c849be07be897af5f0209760ca6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/41f1247152c1a517d08c34c88bc5e8d66d55184286903f58ff79839957b490c9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/38f9e690f4d6669a855b7e8a1254ddbf12c08b87cd6b18a5c0d2a041818eff6b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e4ea903c277dfddf1b2005c5bd908817f4fad60c52f3e17333a6335a93f3a9d1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d71ac72158982e4fcb9ad50b4005eee2b387ff6ea7ed2a31823406e15968ad5b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dd5d32a467365fbdfbc87eed38fd1f4467bd4684e50caf3fb8c42dbce88a757b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d321114b4f1b1fee78b64f6b2ead45aeb36abdfde294a800d16aba291d56156e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/82122aa214f37c5346ea8b2de6f1e8fbaaa73d8ada8a0ac6b9bfb6646fbd402d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/29e726c6327ebb53d59db42bdde20444c0e6ff8610c4a6e4be8e1a9e4a8c1565/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/176605a8d701bcaee67f5fbbb62d7d5043916f81b4a4875c66e914e22701c6c7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8c47e6b69533b5765b767db0446722311cf92bd0ea145b38119cfd505bdf6b95/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5ead86039dac1a4b4c86cc84f3abd094d3246e5ed7539c45afe576f05284614d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d86f06ec96d16de29c8b4224b48de1a2f7279b5d6a63ed7023daf773ca482f4b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/73f6758d3eea8352d3329e1b93ec9706d5591b74c72ad980dc06fbe378309b12/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4d5143c72e1a508aae32c0f70aea1a2d101a21ffb942b57f436caf1efd197c4e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d747008a4015b7622fff8c9b748f05ec0ab35f60296bf9c448c400adc085ba07/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2b48d62208e7c62e8a81cb43c6dfbc54a3f97cf1654ab6ee43e3d31b797e2d2a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bd539b50e58ef54c4cb7eb4b4282bcf28c41b17a2da687ee45ba011747802775/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cf41285b123b9653ca48a5609db0ff365dc9dbd5610b40d97151cb83a07ecafe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9fddc24896f803557a643603480d189d19ed5015df216b098b58cbded8a52841/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6d5409623b31a7fa828068d9f7b7934d86f6d4d5f9925e7ee7a6b80919b55001/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/55 Elizabeth Street",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.98399,
+      "longitude": 115.87375
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.thinkpinkrealty.com.au",
+    "address": {
+      "streetAddress": "12A Archer Street",
+      "postcode": "6101",
+      "suburb": "Carlisle",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9362 4489",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#eb2c93"
+    },
+    "name": "Think Pink Realty - Carlisle",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/1a001f38ff6b59d2131646235aa9c72aea5ed726abfd038b0410b0ae49f6017e/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/1a001f38ff6b59d2131646235aa9c72aea5ed726abfd038b0410b0ae49f6017e/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/1a001f38ff6b59d2131646235aa9c72aea5ed726abfd038b0410b0ae49f6017e/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/edcf7abbe1fc0b391e43ca259272d20a518048020005913cf0d9092a46646dd6/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/1a001f38ff6b59d2131646235aa9c72aea5ed726abfd038b0410b0ae49f6017e/logo.jpg",
+        "hero image": "/1536x800/edcf7abbe1fc0b391e43ca259272d20a518048020005913cf0d9092a46646dd6/main.jpg",
+        "default": "/160x30/1a001f38ff6b59d2131646235aa9c72aea5ed726abfd038b0410b0ae49f6017e/logo.jpg",
+        "large": "/170x32/1a001f38ff6b59d2131646235aa9c72aea5ed726abfd038b0410b0ae49f6017e/logo.jpg"
+      }
+    },
+    "agencyId": "BVICAR",
+    "email": "sales@thinkpinkrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4342629",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444500880",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/47ae889ffa2bcf435d138d562204c1ce1aabdca207f089ddcba383d014bffba8/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "26 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

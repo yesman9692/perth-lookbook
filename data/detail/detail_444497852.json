@@ -1,0 +1,230 @@
+{
+  "prettyUrl": "property-apartment-wa-east+perth-444497852",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "08 9225 7000",
+    "website": "http://www.markhay.com.au",
+    "phoneNumber": "08 9225 7000",
+    "powerProfile": false,
+    "name": "Property Management Team",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/7cc4b75f3ecd478df1d6918394d6e885d759cdf64dba6544d410655299fe5e68/main.jpg"
+    },
+    "id": "1706686",
+    "email": "leasing@markhay.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Be the first to view this two bedroom property located in the stunning East Perth area with just a short walk to Claisebrook Cove and Royal Street café precinct, this property is also just a few steps from banks, Post Office, supermarkets, cafes, St Georges Terrace business district and the Hay and Murray Street shopping malls. Free public transport at your door step, secure building, Club Med facilities and parking for one.<br/><br/>- Two large bedrooms with built in rooms<br/>- Bathroom with internal laundry<br/>- Fully furnished and equipped<br/>- Balcony – perfect for entertaining<br/>- Secure complex<br/>- Ideal inner city location<br/><br/>We would love to see you at our next home open or you can call us to arrange a private viewing of this property. Check out our other properties at www.markhay.com.au <br/><br/>As we're proactive at leasing property, a home open may be subject to cancellation due to the property leasing quickly. Please check the website just prior to attending a home open. <br/><br/>We would love to help you secure a rental property and welcome you to complete our rental application form, however we don't accept 1Form applications. Thank you.",
+  "showAgencyLogo": true,
+  "title": "Inner City Dream",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9225 7000",
+      "website": "http://www.markhay.com.au",
+      "phoneNumber": "08 9225 7000",
+      "powerProfile": false,
+      "name": "Property Management Team",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/7cc4b75f3ecd478df1d6918394d6e885d759cdf64dba6544d410655299fe5e68/main.jpg"
+      },
+      "id": "1706686",
+      "email": "leasing@markhay.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$640 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3eaccfe149738c95c770c8b66bd0466567851735837a6e240bb882402680db84/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/301595ecee281815afd62d7428e45e0406dfde0394265a548bee883c66ba9d4c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8a4942c528f9aed43dad575cbd6a5493acafd65f3fbe2f5103c67d6a29b0f84f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/944f4040305a5e87f053727c008ac55a4f8b9236548ebce00f3770624e25f008/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8fb02216756c82ed858bb5cfa58fc67bf921f4e1df6bdcfbd4def2047d232451/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ab690ffbd5bee0a318b163a6cdf112e9cbfd1e5d48a5c5b4d0487627459e1e57/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ec98d47f0950ca8341ace923c7018ecbcf116c7c0ed752c9becb0f08d4117ee6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d73ec068006b96e6a4a251a30582507af9b066ee7aa2aaca76809540da7f11a9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2ee8abc4afb75407b259437c3fe1901b63252338c56c47b28dd4e6ffe2432c3c/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "35/273 Hay Street",
+    "locality": "East Perth",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "postCode": "6004",
+    "location": {
+      "latitude": -31.95830704,
+      "longitude": 115.87026438
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.markhay.com.au",
+    "address": {
+      "streetAddress": "28/118 Royal Street",
+      "postcode": "6004",
+      "suburb": "East Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9225 7000",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#1ab7ea"
+    },
+    "name": "Mark Hay - East Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/642750df3679d327c833c767e348a18705ac94a351c1c7b8d113a321e7760e6d/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif",
+        "hero image": "/1536x800/642750df3679d327c833c767e348a18705ac94a351c1c7b8d113a321e7760e6d/main.gif",
+        "default": "/160x30/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif",
+        "large": "/170x32/75aad0a2b7ff6e92068ba7fcf2e4396fe096d6263778cb0858f4c7a3ee3aceed/logo.gif"
+      }
+    },
+    "agencyId": "MAHEAA",
+    "email": "salesadmin1@markhay.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R2-5162228",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Garage: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Built-in Wardrobes"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444497852",
+  "bond": {
+    "display": "$2,560",
+    "value": 2560
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/f3292c62729cb32b053937d0bead955e7c113cbcb33def2de8a88fbf6abf1984/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "13 Jul 2026",
+    "dateDisplay": "13 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

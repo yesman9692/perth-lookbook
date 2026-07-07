@@ -1,0 +1,258 @@
+{
+  "prettyUrl": "property-unit-wa-maylands-442005616",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0433506800",
+    "website": "http://www.perthrealty.com.au",
+    "phoneNumber": "0433506800",
+    "powerProfile": false,
+    "jobTitle": "Leasing Department",
+    "name": "Leasing Department",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/4bb1d7557818c7093fba997170ecc9fad783c1bc20a8ca5be4097f01c88f18fe/main.jpg"
+    },
+    "id": "2573574",
+    "email": "viewings@perthrealty.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Discover comfortable living at 3/33 Kathleen Avenue, Maylands. This well-maintained 2-bedroom, 1-bathroom unit offers a great balance of style, functionality, and location-ideal for professionals, couples, or small families.<br/><br/>Property Highlights:<br/><br/>2 Bedrooms - Generously sized with plenty of natural light<br/><br/>1 Bathroom - Neat and functional with modern fittings<br/><br/>2 Carports - Dedicated off-street parking for added convenience<br/><br/>Interior Features:<br/>Step into a warm and welcoming living area designed for both relaxation and practicality. The home comes partially furnished with essential pieces perfect for those looking to move in with ease.<br/><br/>Prime Location:<br/>Enjoy the vibrant lifestyle Maylands has to offer-just minutes from local shops, cafés, parks, and public transport. You'll also be within easy reach of the Perth CBD, making your commute a breeze.<br/><br/>Lease Details:<br/><br/>Rent: $570 per week<br/><br/>Available: Now<br/><br/>Type: Residential Unit<br/><br/>Don't miss this fantastic opportunity to lease a charming home in one of Maylands' most sought-after streets. Contact us today to arrange a viewing!<br/><br/>HOW TO APPLY: Please note that you must inspect property prior to applying.<br/>Just to hit the APPLY button<br/><br/>HOW TO VIEW THIS PROPERTY: arranging inspections is easy! Simply click on contact agent and you can register your details on any of our properties to book an inspection<br/><br/>You must register for the inspection so that you are informed of any updates, changes, or cancellations to the scheduled viewing time.<br/>If no one registers for the inspection time - then that inspection time may not proceed.<br/><br/>*Information Disclaimer: This advertisement has been prepared for marketing purposes only. It is believed to be reliable and accurate, but clients must make their own independent enquiries about the information included in this document.<br/><br/>Perth Realty Group provides this information without any express or implied warranty as to its accuracy or currency. Perth Realty Group accepts no responsibility for the results of any actions taken, or reliance placed upon this document by a client.<br/>SCAM ALERT - Perth Realty Group is managing this property on behalf of the owner. Be aware that a scammer may act as if they are the owner of this property. Be careful - do NOT pay any money unless a lease has been signed and everything has been verified with our office. If you have any concerns, please call us on 08 9473 4888.",
+  "showAgencyLogo": true,
+  "title": "Stylish & Convenient 2-Bedroom Unit in Maylands",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0433506800",
+      "website": "http://www.perthrealty.com.au",
+      "phoneNumber": "0433506800",
+      "powerProfile": false,
+      "jobTitle": "Leasing Department",
+      "name": "Leasing Department",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/4bb1d7557818c7093fba997170ecc9fad783c1bc20a8ca5be4097f01c88f18fe/main.jpg"
+      },
+      "id": "2573574",
+      "email": "viewings@perthrealty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$570 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c7a05ac62dbd1f70cc23ed05d8284734d4236be41dc5716f70add923375f0bb3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9a998e6939604ecca8c3bc4b13668908b25772dee47936e61e995f8207592ead/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b798e8b231e2280b61c8fe3696bb0a672584063afc26e419292c823113871b92/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3e4ee6bf87474030c3ae33bfb6d6c77922d3f7cf8f59266c39136b3365753c71/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0b85b72ce4c9d9b8462f6cdd6af3a1c6a9e7c4f0aaaf4a7b360cf68b3536fa54/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/134c69258e18ae6c7816c13ebea57b1b8952772a4b51a8722364dfb87c6eed4c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/32dd33a38d7b7e9ba1597d348ba6acea4a91d83797954b0365425299ad93517a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/74211393d5affc9b8af41e1dbf5565fbe77d5cdd7002655cff88f613c35d7ce7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/90aa2ad49ac2b1a89acdda0a6f6670956473e3074d0754ba5aebb6777c690f9e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ea729cdc7e66a5d64bae899ab4cf7253f8683849a0a174cb2148043bed995833/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a7c380b47b78c7bccc2a1cfbec6252022ea0d10ada0ab71c51cbea9e11059ee2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6fceac18205290a0fa7e15c6f538b3e966f706f26b4763d93d5eb16f116c0fa8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dad559503832f34d73a8e70c7c52df802c5a5c392bf0999666f3adbd1bf37c93/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3ad493c86724a261f7a48652f4aa877aa271ee54bd0a627b8c156364f6561fa4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3aaa90ebdbf0f18b214a0f1625ef41f7aa611701201542f8170a4ed7de647b1e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f8f0d1645bcde5e103ea70c174961eb17b4f2b724ab30c13df989ce91c6ddfdd/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "3/33 Kathleen Avenue",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93484999,
+      "longitude": 115.89757564
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.perthrealty.com.au",
+    "address": {
+      "streetAddress": "28/168 Guildford Road",
+      "postcode": "6051",
+      "suburb": "Maylands",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9473 4888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#fefefe"
+    },
+    "name": "Perth Realty Group - Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/5e619d501d8204c9ae5a8dc6a81e1309824edff14e64faa96f05609d1131e9c1/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg",
+        "hero image": "/1536x800/5e619d501d8204c9ae5a8dc6a81e1309824edff14e64faa96f05609d1131e9c1/main.jpg",
+        "default": "/160x30/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg",
+        "large": "/170x32/101dde841b5d49fcb8b259315d5d776e7e3a5cceb0b49e8fbcff51defc689950/logo.jpg"
+      }
+    },
+    "agencyId": "ROYMAY",
+    "email": "admin@perthrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3932558",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "442005616",
+  "bond": {
+    "display": "$2,280",
+    "value": 2280
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/1ca498b2b58ac8068d49d03f05e833d465281abe460e593fce780322ca976a00/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "17 Jul 2026",
+    "dateDisplay": "17 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

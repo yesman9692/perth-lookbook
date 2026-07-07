@@ -1,0 +1,233 @@
+{
+  "prettyUrl": "property-unit-wa-maylands-444481836",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0422588800",
+    "website": "http://www.radiestates.com",
+    "phoneNumber": "0422588800",
+    "powerProfile": false,
+    "name": "Carmen Nguyen",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3995524",
+    "email": "viewings@radiestates.com"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Discover easy, low-maintenance living in this well-located 2-bedroom, 1-bathroom unit situated in the highly sought-after suburb of Maylands.<br/><br/>Perfectly positioned in a quiet and established complex, this home offers the ideal balance of comfort, lifestyle, and convenience - just moments from the Swan River, vibrant café strips, public transport, and Perth CBD.<br/><br/>Highlights Include:<br/>-Spacious 2 bedrooms with natural light<br/>-1 well-maintained bathroom<br/>-Open-plan living and dining area<br/>-Air-conditioning<br/>-Functional kitchen with ample storage<br/>-Dedicated parking space<br/>-Quiet, secure complex<br/>-Low-maintenance lifestyle",
+  "showAgencyLogo": true,
+  "title": "Comfortable & Convenient Living in the Heart of Maylands",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0422588800",
+      "website": "http://www.radiestates.com",
+      "phoneNumber": "0422588800",
+      "powerProfile": false,
+      "name": "Carmen Nguyen",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3995524",
+      "email": "viewings@radiestates.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/30ef37684b2dba3bff0681aa58f9cf7c93797e9d50f6ba2d8d1c7add4b930cc9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/587d73cf28399f05af7f2ae83dbe24f0e5f528199d256281e2d72d2ccf774a4e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6e5d53be46407f59624c432e64668095308ae9ca5c6e602a3e932a3acbafd0f6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/79f7c3de47ef41503bb2483df2a24af85c2b9b8e53503577383bcd8e7ba13556/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/552a0a4c102d7369c8251e74c1e4ad803f6f1590e3528adc7a96caeffdb5a7c0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7d9389284e1efb06c1225b5f7f04e0cc0eb16d52aa1f92d8d0c3083ea8d75c5d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7a5c01728c8525886ef0ea41859737c69e071778cf1c3ef5251afd02574b5080/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/905212b5aea7bd4f64f8d0d2bef83a65da60b1e5376cbc1638fcfec4b23a56c9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9ae813346afde86f1afaf78a87b5cc1524e5319544fbb49bc389b5927b9d2a53/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/21df676ee0d4b10421318ffa99aaae71b906a7fb0e4c502f3e6b7dfbfb2f812d/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "8/68 East St",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93179423,
+      "longitude": 115.89780923
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.radiestates.com",
+    "address": {
+      "streetAddress": "909A Beaufort St",
+      "postcode": "6052",
+      "suburb": "Inglewood",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9275 2945",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#F7e9D0"
+    },
+    "name": "Radi Estates - INGLEWOOD",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/4b9070eb57a3dc0829560b3dd5b0681c555ac164fb1079c5269b4051e057b50a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/4b9070eb57a3dc0829560b3dd5b0681c555ac164fb1079c5269b4051e057b50a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/4b9070eb57a3dc0829560b3dd5b0681c555ac164fb1079c5269b4051e057b50a/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/ccf8ed0214631a41b23cb4a51cf5d770f0b399d67f067876c1c923139387b6da/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/4b9070eb57a3dc0829560b3dd5b0681c555ac164fb1079c5269b4051e057b50a/logo.jpg",
+        "hero image": "/1536x800/ccf8ed0214631a41b23cb4a51cf5d770f0b399d67f067876c1c923139387b6da/main.jpg",
+        "default": "/160x30/4b9070eb57a3dc0829560b3dd5b0681c555ac164fb1079c5269b4051e057b50a/logo.jpg",
+        "large": "/170x32/4b9070eb57a3dc0829560b3dd5b0681c555ac164fb1079c5269b4051e057b50a/logo.jpg"
+      }
+    },
+    "agencyId": "RNPXPH",
+    "email": "info@radiestates.com"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "690833e6-f233-4b15-aa14-e53817ff1e52",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444481836",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/3a795869568df8f16be5db3203d5056fe9e7971bf78d13755bb62309c2318b06/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "30 Jun 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

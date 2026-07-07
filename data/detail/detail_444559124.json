@@ -1,0 +1,256 @@
+{
+  "prettyUrl": "property-apartment-wa-perth-444559124",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0439333409",
+    "website": "http://www.housesmart.com.au",
+    "phoneNumber": "0439333409",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Ceilidh Smith",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/2d5c9b0591f78a9de94224661c82eb2e10177337149dc6001cea2b6aef4f9321/main.jpg"
+    },
+    "id": "3652460",
+    "email": "pm2@housesmart.com.au,leasing@housesmart.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Step into this beautifully updated, 2 bedroom, 1 bathroom apartment offering the perfect blend of modern convenience and vibrant urban living. Situated in a secure, gated complex on the edge of the Perth CBD, this property is ideal for professionals, couples, or anyone looking for a stylish, low-maintenance lifestyle. <br/><br/>Features include: <br/><br/>- Brand new, fully renovated kitchen maximised for efficiency. It comes fully equipped with premium appliances including a dishwasher, washing machine, gas cooktop, and a cutting-edge combination microwave/oven/airfryer.<br/>- The entire apartment has been freshly painted throughout, offering a crisp, clean canvas ready for you to make it your own. <br/>- Stylish floorboards throughout, making cleaning and overall upkeep a breeze! <br/>- Enjoy a seamless flow through the light-filled open-plan living, dining and kitchen area- perfect for entertaining or relaxing. <br/>- Stay comfortable year-round with a split system AC located in the open living area. <br/>- Located within a secure, gated complex and includes one dedicated car space. <br/><br/>Location, Location, Location! <br/>Nestled on Bulwer Street, you are just moments away from Perth's best cafes, restaurants, parks, and public transport. <br/>Walk to the CBD, explore the nightlife of Northbridge, or grab a coffee in Highgate- everything you need is right on your doorstep. <br/><br/>Don't miss out on this inner-city gem! <br/>Please register to inspect under the available home open times or if you have any further inquiries please contact- pm2@housesmart.com.au",
+  "showAgencyLogo": true,
+  "title": "Stylish Inner-City Living- 2 by 1 Apartment",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0439333409",
+      "website": "http://www.housesmart.com.au",
+      "phoneNumber": "0439333409",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Ceilidh Smith",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/2d5c9b0591f78a9de94224661c82eb2e10177337149dc6001cea2b6aef4f9321/main.jpg"
+      },
+      "id": "3652460",
+      "email": "pm2@housesmart.com.au,leasing@housesmart.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$690 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/22cb8541771eceb5f14aff2dfef1b6309b7d9044f4cc08cf5274b83d9446c4ac/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4c7e11e945dbcb509d222dc6002441c56b91c4a5edc4a6abd47cfc4411eeba39/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4832f3756390dcb5809c99da5164967608504030ca4412ba3a852d7aa91abd09/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fa2a3ed873a4a27f9e0f4da0775c7c2ff7bdd2b9ab52f985cecc9ad8c0a292bf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/46b97cd624733c6e3ba0b98e93cb367523e9c608ba18bf4147ac400513cf54b8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/468db7f558e23aee1f347cde0955a020525ad390fe0a68cdc75faff7e4b29820/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8eb4db4b6496af376688c71e5647df8138bf454385be4c3da83ec268ee04e422/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c9e6a075a8f6017f3ca1f992183ac0ab3851a31261a990c6ea423f831d05180c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f9f3808c1826a187997d71de55ab3d39def89711307dd90e27b9f1d34ea52cf7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/afee79c163915bfb7e7b6e27a29103934777c0213aefc06584b3ad91adf252bd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8fadc63aaa73125e0411b3380440fe1dc54f3655c3da6a310891bad1d3cc69c8/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "33/4 Bulwer Street",
+    "locality": "Perth",
+    "postcode": "6000",
+    "suburb": "Perth",
+    "postCode": "6000",
+    "location": {
+      "latitude": -31.94441732,
+      "longitude": 115.87224741
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.housesmart.com.au",
+    "address": {
+      "streetAddress": "Shop 18 & 19, 222-226 Belmont Avenue",
+      "postcode": "6105",
+      "suburb": "Cloverdale",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9378 2555",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#01AEEF"
+    },
+    "name": "HouseSmart Real Estate Pty Ltd - CLOVERDALE",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "hero image": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif",
+        "default": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "large": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+      }
+    },
+    "agencyId": "GRRBEE",
+    "email": "enquiries@housesmart.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE6108013",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Garage: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Dishwasher",
+        "Floorboards"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444559124",
+  "bond": {
+    "display": "$2,760",
+    "value": 2760
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/87479e2018850371ebb8eee89e853942612917242d1a11ec449154bf17bb1465/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "06 Jul 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Sat 11 Jul",
+      "startTimeDisplay": "9:30 AM",
+      "endTimeDisplay": "9:45 AM",
+      "startTime": "2026-07-11T09:30:00",
+      "endTime": "2026-07-11T09:45:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

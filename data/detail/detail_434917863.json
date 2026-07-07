@@ -1,0 +1,253 @@
+{
+  "prettyUrl": "property-unit-wa-south+perth-434917863",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0414325700",
+    "website": "http://www.impelpropertygroup.com.au",
+    "phoneNumber": "0414325700",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Lisa Parthezius",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/cdd61cff455912b6175a4aff5bb70b8d4e57056882dab0fe6a48467c5b808aba/main.jpg"
+    },
+    "id": "3006871",
+    "email": "leasing@impelpropertygroup.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "If location and convenience is important for you then look no further. <br/><br/>This 2 bedroom, 1 bathroom unit is a little gem!<br/><br/>Situated in a complex of 18 units, just a stones throw from the South Perth foreshore and close to everything that speaks convenience this neat & tidy apartment will surely please.<br/><br/>Undercover parking, laundry facilities, loads of trees, birds and greenery abound this recently renovated complex and is very affordable.<br/><br/>Quiet, convenient and available immediately. Be quick as this wont last.<br/><br/>Please register via email to inspect.<br/><br/>",
+  "showAgencyLogo": true,
+  "title": "Fancy starting your day with a stroll along the South Perth Foreshore?",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0414325700",
+      "website": "http://www.impelpropertygroup.com.au",
+      "phoneNumber": "0414325700",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Lisa Parthezius",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/cdd61cff455912b6175a4aff5bb70b8d4e57056882dab0fe6a48467c5b808aba/main.jpg"
+      },
+      "id": "3006871",
+      "email": "leasing@impelpropertygroup.com.au"
+    },
+    {
+      "mobilePhoneNumber": "0417926385",
+      "website": "http://www.impelpropertygroup.com.au",
+      "phoneNumber": "0417926385",
+      "powerProfile": false,
+      "jobTitle": "Sales & Business Director",
+      "name": "Sharon Grey",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/e7a65fb4334c5ec81e99f36e6067317a5fc82922326c7de2142163c25db7968f/main.jpg"
+      },
+      "id": "2494918",
+      "email": "sharonj@impelpropertygroup.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$630 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/74c6a0a87b0ed5b023f8b9350272d684d5b95283c8ea3453f6d5cf4935d82e21/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/90d530f36e9f2f75a85a31f9819673667b00ef0b3a1b0250c7b85675f3a59c7d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2a2405919abbedca5c14cd673c8fa63e133785b740ccd64b6fa87606c788cb44/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0fb4239e508cfeb08dca058dabd7ef5093b5de9dcf7a3aeac68f17ecb14751ff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/52d6302fd6f396e85de17e9813e4536173b2917b6d1e5d7a97b443d24fc6430e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/10013c440c06b0ab1683ba421108e36621e71a80ca0f7a4710ae6ccd2cd80204/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "2/1 heppingstone street",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.97480422,
+      "longitude": 115.88015488
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.impelpropertygroup.com.au",
+    "address": {
+      "streetAddress": "PO Box 586",
+      "postcode": "6009",
+      "suburb": "Nedlands",
+      "state": "WA"
+    },
+    "phoneNumber": "0417 926 385",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#9f7fb1"
+    },
+    "name": "Impel Property Group - NEDLANDS",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/205ee7c57d0ffc042360b07adb15480173ae7cae06684bef32cb238dc905f7b4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/205ee7c57d0ffc042360b07adb15480173ae7cae06684bef32cb238dc905f7b4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/205ee7c57d0ffc042360b07adb15480173ae7cae06684bef32cb238dc905f7b4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/894a64c1b85a4b2319b80b8a05d7220bf5543c61a97a23d834bf46739cb96a55/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/205ee7c57d0ffc042360b07adb15480173ae7cae06684bef32cb238dc905f7b4/logo.jpg",
+        "hero image": "/1536x800/894a64c1b85a4b2319b80b8a05d7220bf5543c61a97a23d834bf46739cb96a55/main.jpg",
+        "default": "/160x30/205ee7c57d0ffc042360b07adb15480173ae7cae06684bef32cb238dc905f7b4/logo.jpg",
+        "large": "/170x32/205ee7c57d0ffc042360b07adb15480173ae7cae06684bef32cb238dc905f7b4/logo.jpg"
+      }
+    },
+    "agencyId": "PXFWBZ",
+    "email": "sharonj@impelpropertygroup.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "68793a00-0ed0-48a0-b514-347605b812f3",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1",
+        "Courtyard",
+        "Fully Fenced",
+        "Outdoor Entertaining Area",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Broadband Internet Available",
+        "Living Areas: 1",
+        "Reverse-cycle Air Conditioning",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "434917863",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/cd947ee459aeac6d688b55d57f29f693246334b812fe422fded281761cdc4ac1/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "14 Jul 2026",
+    "dateDisplay": "14 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Mon 13 Jul",
+      "startTimeDisplay": "1:00 PM",
+      "endTimeDisplay": "1:20 PM",
+      "startTime": "2026-07-13T13:00:00",
+      "endTime": "2026-07-13T13:20:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

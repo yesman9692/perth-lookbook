@@ -1,0 +1,276 @@
+{
+  "prettyUrl": "property-apartment-wa-south+perth-422624378",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0423777438",
+    "website": "http://www.accessproperty.com.au/",
+    "phoneNumber": "0423777438",
+    "powerProfile": false,
+    "jobTitle": "Senior Property Manager",
+    "name": "Anne Clampett",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/0702dda28f7d65c22792042776aa0013590fb58ca33bd1f0d5b4b2497badbd5b/main.jpg"
+    },
+    "id": "2895698",
+    "email": "anne@accessproperty.com.au"
+  },
+  "featured": true,
+  "signature": false,
+  "channel": "rent",
+  "description": "This light and bright ground floor unfurnished two bedroom, one bathroom unit is located close to the Swan River, local shops and has a lot to offer.<br/> <br/>Please view our walk through video tour to gain a better understanding of this home.<br/> <br/>Here are some of the things you will love about this property:<br/> <br/>- Air conditioning in the open plan living area and the master bedroom<br/>- Fresh carpet<br/>- Ground floor convenience with small outside area<br/>- Electric cooktop and oven.<br/>- Built in robes in both bedrooms<br/>- Semi ensuite bathroom from the main bedroom<br/>- Private laundry<br/>- Well maintained secure complex with swimming pool<br/>- Undercover parking for 1 car<br/><br/>This lovely home has many features and benefits that we would love to show you, please book in a time to come and see for yourself. <br/> <br/>This property is proudly marketed by Access Property Management",
+  "showAgencyLogo": true,
+  "title": "Ground Floor Unit For Rent in South Perth",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0423777438",
+      "website": "http://www.accessproperty.com.au/",
+      "phoneNumber": "0423777438",
+      "powerProfile": false,
+      "jobTitle": "Senior Property Manager",
+      "name": "Anne Clampett",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/0702dda28f7d65c22792042776aa0013590fb58ca33bd1f0d5b4b2497badbd5b/main.jpg"
+      },
+      "id": "2895698",
+      "email": "anne@accessproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$620 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "featured",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://img.youtube.com",
+      "name": "video",
+      "id": "YrbvsDUoMDY",
+      "video": true,
+      "uri": "/vi/YrbvsDUoMDY/0.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f379a79e9192e103a7522ad64691939cb70e2e43f83c2a189c915414b9e9b2f2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4e599ad76e96f3884227aad41dc0d15ccec863e4b046bb38a1e5ff1c3088887c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7d37063c919ade2365528afb9e431f3046b418ee359d9832db01248aaa7886b1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/816aec8a17186abc07c135789ab93a90802b9a1365022404e1538bc6370208a5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2b932fe0009a55d683a813972cff48247be6b701cf7c1b6bdd22bb252f2610f4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/582f588192274a584a36bb22d77e061e85c2b8dc349dc629ad73fde7b909426f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1893e812a3bdda5a2421f300568b4d387f2534396ac5e15b3b6fc49dddb82b14/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d2a46b2e18fb8fc1a14c02ba5615da98654f7bf291971ee49be02786e895591e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/976854c035f7ea2dc38a00f997a3383a851dbd72fd352ad7a7bb00c1f8de4a07/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b543b2b8e96230df6e2b1b34426668a96da3f2d5e73306397d42ea96f5b73f42/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b9e7b104f8c1eff324311a5f4e0c14b3dc7cb32062c38b7708e690dc0cbbc252/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/61092a959442817c5032c0f42627137dc24759d044309362c9dbbcc228c375d6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2353ede3f194a2620ca1dc608ad88e94e504b3548e5b246d7f84f441b7a9dcb2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/30173dd94f3fcfcdc37681b04fe4ff7b35ac58d04c134a86f8ca94485393ba8b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ac4500e2e2b4512c39945797d2f25041753b6578cfbf2558211ed1ef565ea015/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2dfe7f33d2f9fc35fd168679e561bcbd82593d6d9f70aee1a6042a9aab6bb1e9/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "2/19 Delamere Avenue",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.975238,
+      "longitude": 115.87763
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.accessproperty.com.au/",
+    "address": {
+      "streetAddress": "Suite 6, 83 Mill Point Road",
+      "postcode": "6151",
+      "suburb": "South Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9367 1077",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#333D47"
+    },
+    "name": "Access Property Management - South Perth",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/2d8885034343d17ae3f3f67dd4edc746d6357d267b9fe6fb34bc0901a6f0b756/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/2d8885034343d17ae3f3f67dd4edc746d6357d267b9fe6fb34bc0901a6f0b756/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/2d8885034343d17ae3f3f67dd4edc746d6357d267b9fe6fb34bc0901a6f0b756/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/9faf58daad7850676565f6f3aec77195b887722bf55168938010fb2504df5a43/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/2d8885034343d17ae3f3f67dd4edc746d6357d267b9fe6fb34bc0901a6f0b756/logo.gif",
+        "hero image": "/1536x800/9faf58daad7850676565f6f3aec77195b887722bf55168938010fb2504df5a43/main.jpg",
+        "default": "/160x30/2d8885034343d17ae3f3f67dd4edc746d6357d267b9fe6fb34bc0901a6f0b756/logo.gif",
+        "large": "/170x32/2d8885034343d17ae3f3f67dd4edc746d6357d267b9fe6fb34bc0901a6f0b756/logo.gif"
+      }
+    },
+    "agencyId": "ACJSOU",
+    "email": "info@accessproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "77205334-95c0-4105-9472-eb9e24680ac7",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1",
+        "Swimming Pool - Inground"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Built-in Wardrobes",
+        "Ensuite: 1",
+        "Living Areas: 1",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "422624378",
+  "bond": {
+    "display": "$2,480",
+    "value": 2480
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/78f3bb6c4f2e79638c9fcf3437ef6cbddcae865a5b4e09160d79412f5b3f2b6f/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "03 Jul 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

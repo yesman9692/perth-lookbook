@@ -1,0 +1,243 @@
+{
+  "prettyUrl": "property-unit-wa-maylands-444482096",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0411073773",
+    "website": "http://www.timeconti.com.au",
+    "phoneNumber": "0411073773",
+    "powerProfile": false,
+    "name": "Yong Kee Yawm",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "4008352",
+    "email": "rentals@timeconti.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Ideally located three bedroom, one bathroom unfurnished apartment. Large combined lounge/dining area with ceiling fan, separate kitchen with electric cooking and ample cupboard space.<br/><br/>All three bedrooms are a good size, the master bedroom with a ceiling fan, the third bedroom comes off the kitchen and can be used as a formal dining area however it is completely closed off from the other rooms. Combined bathroom/laundry shower over bath.<br/><br/>Well located off Guildford Road and only minutes away from City Centre and the river. Coles supermarket across the road as well as fast food outlets and public transport only a short walk away.<br/><br/>* ****************************** ****************************** ************************<br/><br/>Important notice:<br/><br/>In order that we can provide you with personalised communication as to viewing times, cancellations and other notifications register your details through the “Book a Viewing” button above.<br/><br/>This will ensure that you will be notified if a viewing time has been changed or is cancelled. Thank you.<br/><br/>* ****************************** ****************************** ***********************",
+  "showAgencyLogo": false,
+  "title": "WELL LOCATED APARTMENT!!!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0411073773",
+      "website": "http://www.timeconti.com.au",
+      "phoneNumber": "0411073773",
+      "powerProfile": false,
+      "name": "Yong Kee Yawm",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "4008352",
+      "email": "rentals@timeconti.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b94efa3aa97e1d03ee9c7cd60da5a89512b174d333d6827260e94616183dadf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/35aca3e65570f0007dc6bd5e3b8c7473733c3fedf8352fca92f902141dbd19f1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dbea973d49e8cd771b9904fed1441b497e38de94d75779fa9013f07e67e59d5a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e1fff021cbd96a85e04bc23f3133096c5eb2029ef86c05060f15c147d5403059/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e78f3753a50699e40fe141847fbd8fde3ec6c6058f2c47fd0f325cbf52d49de2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9d3c9081974106918120c1ddbd9e4fab8d3581055752537a1f8cc56d75c18ae5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a982cc295874a6f83587f366524e1a48bbcae1e4df238918996c3ec167fd16bd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/925a1b5e05c1b0f1e4df4bd2cbc7d4ba1444f45c2598bd60d6d14e91219fe01f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/97086e684c9a5fe42a6ad6c12f636e71e9af0b291287e655a7370fd1b517bc48/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/10f7861db2c1a04fb710d2b3c5fc9a4bf1c1bdf6553717e69d5a912c9b25b4eb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/84ceeb834bbfedbc813c01391af2a160be9fdde4192dc18d677021286d84e11b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d84b04bcf9c465a2309450185de83804e04964209ddf0fe7de937ed7f811987c/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "14/25 Falkirk Avenue",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93076695,
+      "longitude": 115.89742814
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.timeconti.com.au",
+    "address": {
+      "streetAddress": "338 Albany Hwy",
+      "postcode": "6100",
+      "suburb": "Victoria Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9362 5333",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#882345"
+    },
+    "name": "Time Conti Sheffield - VICTORIA PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/ed62e7d54ad7df7f384dcbc769a78a148336cbcde8b50f7a736ea2c5d6e0d294/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif",
+        "hero image": "/1536x800/ed62e7d54ad7df7f384dcbc769a78a148336cbcde8b50f7a736ea2c5d6e0d294/main.gif",
+        "default": "/160x30/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif",
+        "large": "/170x32/2d6717de842a09d548eeb68e1fbfc33eebf5a34f6925f1c25e5e65ad2ecb91ef/logo.gif"
+      }
+    },
+    "agencyId": "ZWQVTU",
+    "email": "cknight@timeconti.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6665681",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Broadband Internet Available"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444482096",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/f6e13e4dd4f8ffffcf5d5bcd9bce767efd512cc9f71ec789c05a362be78fa011/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "07 Jul 2026",
+    "dateDisplay": "07 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

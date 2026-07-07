@@ -1,0 +1,229 @@
+{
+  "prettyUrl": "property-unit-wa-west+perth-444503440",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0413138847",
+    "website": "http://www.growthrealty.com.au",
+    "phoneNumber": "0413138847",
+    "powerProfile": false,
+    "jobTitle": "Managing Director/Licensee",
+    "name": "Chantelle Mammoliti",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/4bcfde43ba295a0887f551beee967dc997217dfdc26c5677fd61b197ab985399/main.jpg"
+    },
+    "id": "2950935",
+    "email": "chantelle@growthrealty.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to your new home at 1/128 Carr Street, West Perth. This fully furnished, charming ground floor unit offers a perfect blend of comfort and convenience, making it an ideal choice for those seeking a stylish and functional living space.<br/><br/>Perfectly positioned in the heart of West Perth, this neat and tidy two bedroom, secured unit offers a fantastic combination of space, comfort and convenience. Fully furnished and ready to move into, it's ideal for professionals, city workers or anyone seeking a low maintenance lifestyle close to everything Perth has to offer.<br/><br/>Inside, you'll find a beautiful open-plan living and dining area that flows seamlessly to the outdoor entertaining space, creating a welcoming environment for both relaxing and hosting guests. The well-appointed kitchen includes ample storage, every appliance you need.<br/><br/>The main bedroom features a built-in robe, while the second bedroom can be used as a home office or additional living space. The bathroom is practical and well-maintained, and year-round comfort is assured with air conditioning.<br/><br/>Step outside and enjoy the generously sized courtyard - a feature of the home and the perfect place to entertain friends, enjoy your morning coffee or unwind after a busy day.<br/><br/>Property Features:<br/>• Fully furnished<br/>• Two bedrooms<br/>• Built-in robe to main bedroom<br/>• Spacious open-plan living and dining area<br/>• Well-equipped kitchen <br/>• Air conditioning <br/>• Large tv <br/>• Large courtyard with excellent outdoor entertaining space<br/>• Secure parking <br/><br/>Location Highlights:<br/>• Approx. 500m to Harold Boas Gardens<br/>• Approx. 1.5km to RAC Arena<br/>• Easy access to the Perth CBD, public transport, cafés and restaurants<br/><br/>Don't miss out on this beautiful unit! Join us for a viewing and make 1/128 Carr Street your new home!<br/><br/>Available from the end of July. Lease term: 6 months.",
+  "showAgencyLogo": true,
+  "title": "Fully Furnished & Ready End of July - Prime West Perth Living (6 month lease only)",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0413138847",
+      "website": "http://www.growthrealty.com.au",
+      "phoneNumber": "0413138847",
+      "powerProfile": false,
+      "jobTitle": "Managing Director/Licensee",
+      "name": "Chantelle Mammoliti",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/4bcfde43ba295a0887f551beee967dc997217dfdc26c5677fd61b197ab985399/main.jpg"
+      },
+      "id": "2950935",
+      "email": "chantelle@growthrealty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$630 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b26c8e8e5096fb1560961e17c370e85443606295fc1577050c1ef4f03faf4e79/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5e59c0957b644832161cbb7feae942b654ffaa5727be025740bba2473ebecba2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b3459df3cef640ca233b78a6d1a0dfbd6de10760eef46f91e60990bb47591d51/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cdcfb5be62ad1326c4cad758b8d60ae3c923d79e7d214038b7feb765fea13b3f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6123e319761788c905803334dc4f589595a9319dbedbc5768e31e2c9772ab06a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/528f6bcbe5ec148cd093aa6599d59b0871f565e5eda87fc693aa3325fb7dd051/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "1/128 Carr Street",
+    "locality": "West Perth",
+    "postcode": "6005",
+    "suburb": "West Perth",
+    "postCode": "6005",
+    "location": {
+      "latitude": -31.93733524,
+      "longitude": 115.84826968
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.growthrealty.com.au",
+    "address": {
+      "streetAddress": "2/336 Churchill Ave",
+      "postcode": "6008",
+      "suburb": "Subiaco",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9388 3422",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#0ecdc1"
+    },
+    "name": "Growth Realty - Subiaco",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/df621cf7eb00113e03f487c34d76efc9264df2f407d1c0d87a7f7ae4ad2143c2/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/df621cf7eb00113e03f487c34d76efc9264df2f407d1c0d87a7f7ae4ad2143c2/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/df621cf7eb00113e03f487c34d76efc9264df2f407d1c0d87a7f7ae4ad2143c2/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/b3ddaf36851ee5734dedcbb3baf2a9f940cfef863ab8484e0feb5e75b0a17c65/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/df621cf7eb00113e03f487c34d76efc9264df2f407d1c0d87a7f7ae4ad2143c2/logo.jpg",
+        "hero image": "/1536x800/b3ddaf36851ee5734dedcbb3baf2a9f940cfef863ab8484e0feb5e75b0a17c65/main.jpg",
+        "default": "/160x30/df621cf7eb00113e03f487c34d76efc9264df2f407d1c0d87a7f7ae4ad2143c2/logo.jpg",
+        "large": "/170x32/df621cf7eb00113e03f487c34d76efc9264df2f407d1c0d87a7f7ae4ad2143c2/logo.jpg"
+      }
+    },
+    "agencyId": "REESUB",
+    "email": "reception@growthrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3395668",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Courtyard",
+        "Open Spaces: 1",
+        "Outdoor Entertaining Area",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Dishwasher",
+        "Gas Heating",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Furnished"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444503440",
+  "bond": {
+    "display": "$2,520",
+    "value": 2520
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/de2510f81f2025a143eabedb154b0d12021fdcf6e936e078c58800a3b06d1c02/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "27 Jul 2026",
+    "dateDisplay": "27 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

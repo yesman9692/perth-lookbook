@@ -1,0 +1,235 @@
+{
+  "prettyUrl": "property-apartment-wa-leederville-444520076",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0409411742",
+    "website": "http://www.mpropertymgt.com.au",
+    "phoneNumber": "0409411742",
+    "powerProfile": false,
+    "jobTitle": "Assistant Property Manager",
+    "name": "Amanda Gledhill",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3978504",
+    "email": "amanda.gledhill@mpropertymgt.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "2 x 2 Fully Furnished apartment with Leederville and Perth City at your doorstep.<br/><br/>Located on the 3rd floor is this near new 2 bedroom 2 bathroom furnished apartment which features:<br/><br/>* Spacious open plan living areas with tiles to wet areas and & carpet to bedrooms and living<br/>* Modern kitchen <br/>* Large bedrooms with built in robes<br/>* Air conditioning to living area<br/>* Entertainers sized balcony<br/>* Two car bays<br/>* Water included in rent<br/><br/>Boutique shopping during the day; restaurant and bar exploring through the evening. Art-house films at the Luna and some of the best coffee Perth has to offer <br/>Don't miss out on the opportunity to secure this fantastic rental apartment in Leederville. <br/><br/>Enquire today to arrange a viewing and start envisioning your life in this wonderful property! Contact information at the bottom of this listing.<br/><br/>** IMPORTANT INFO FOR ENQUIRERS **<br/><br/>To book or request an inspection, please register your details through the “Book an Inspection” button and confirm attendance when prompted.<br/><br/>Home open times are subject to change. If your details are registered, you will be notified of any changes. If you do not confirm your attendance, the viewing may not proceed.<br/><br/>If you do not receive a confirmation of registration to your inbox within 10 minutes, please kindly double check your spam inbox or junk folder before and after viewing.<br/><br/>Please ensure that you arrive to scheduled viewings at the start time to avoid disappointment, as scheduled viewing times cannot be extended and agent needs to give access to the complex and lift.<br/><br/>Twelve-month lease terms are favoured. Short term leases under six months are not accepted.<br/><br/>Applications are only submittable after the property has been viewed, and not in advance. We accept online applications via 2Apply.<br/><br/>Please contact the Leasing Agent, James Low on 0421 630 279 or at james.low@mpropertymgt.com.au for any further queries.",
+  "showAgencyLogo": true,
+  "title": "2 x 2 Fully Furnished Apartment in the Heart of Leederville",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0409411742",
+      "website": "http://www.mpropertymgt.com.au",
+      "phoneNumber": "0409411742",
+      "powerProfile": false,
+      "jobTitle": "Assistant Property Manager",
+      "name": "Amanda Gledhill",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3978504",
+      "email": "amanda.gledhill@mpropertymgt.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$750 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/394f88c2d7ade3c542cf268b2535bd95397ac1381698ba179e878b5abb10a82b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4378b83c807a812de25a5e9f59f498131c0700a60f1a128ca1e99515e534dd21/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e146da5cce8ca24c790bac20a240a53cb1e49ca76aeb8bbe5983216105bbdb00/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e7426f3cf151135909cba9742b37a52a0ce7d0acb37adee2220d11ec4c9e61a6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/865c1d4ceb3f00b515308751cfff170180ea36bafb6f8f20064f9d7e58df195e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/18b8c9a31e6c7bb93d712fcf672ea56d6c258f06ab86a1e17e8c7a8ec6e6922e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5f85f030b8f2db8fc20b0f15fad327d663ecef91e600a14af67c6bdcede5f124/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7939840435a84802d1debf353a808c6538b26de080fe54a96ca221d0ca8852a8/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "33/201 Carr Place",
+    "locality": "Leederville",
+    "postcode": "6007",
+    "suburb": "Leederville",
+    "postCode": "6007",
+    "location": {
+      "latitude": -31.93774881,
+      "longitude": 115.84341764
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.mpropertymgt.com.au",
+    "address": {
+      "streetAddress": "Suite 2/642 Albany Highway",
+      "postcode": "6100",
+      "suburb": "Victoria Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6380 0488",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "Rentals -  M Property Management",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/bc03ca6cf2854e3b5adb15ef6f3f95f45519c77bcf9a9ffefdc0ed752833ab68/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/bc03ca6cf2854e3b5adb15ef6f3f95f45519c77bcf9a9ffefdc0ed752833ab68/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/bc03ca6cf2854e3b5adb15ef6f3f95f45519c77bcf9a9ffefdc0ed752833ab68/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/e8caf4b0ef4b213487924fea67441aa8d66c6f3dd33f1933025e90d343a048b0/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/bc03ca6cf2854e3b5adb15ef6f3f95f45519c77bcf9a9ffefdc0ed752833ab68/logo.jpg",
+        "hero image": "/1536x800/e8caf4b0ef4b213487924fea67441aa8d66c6f3dd33f1933025e90d343a048b0/main.jpg",
+        "default": "/160x30/bc03ca6cf2854e3b5adb15ef6f3f95f45519c77bcf9a9ffefdc0ed752833ab68/logo.jpg",
+        "large": "/170x32/bc03ca6cf2854e3b5adb15ef6f3f95f45519c77bcf9a9ffefdc0ed752833ab68/logo.jpg"
+      }
+    },
+    "agencyId": "LRLCTZ",
+    "email": "nick.chua@mpropertymgt.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "edf010a4-2dfc-4563-9340-72c03a08a1dd",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Ensuite: 1",
+        "Living Areas: 1",
+        "Split-system Air Conditioning"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Furnished"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444520076",
+  "bond": {
+    "display": "$3,000",
+    "value": 3000
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/8adc66e122d914fe4b1dd3106938f5df6d5a77502a6ac5fcf70245848ddfc1c2/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "02 Jul 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

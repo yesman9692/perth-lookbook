@@ -1,0 +1,232 @@
+{
+  "prettyUrl": "property-unit-wa-south+perth-444463032",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0448361155",
+    "website": "http://www.housesmart.com.au",
+    "phoneNumber": "0448361155",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Samantha Kirwan",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/ff28e40e20a67a2fbb59a1d4a3c29d509bf8c140b051d4ebb48c0764f19b2edb/main.jpg"
+    },
+    "id": "2737710",
+    "email": "pm8@housesmart.com.au,leasing@housesmart.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This partially furnished, 2 bedroom, 1 bathroom apartment is located in the ‘South River Views’ complex on Mill Point Road. This 10 storey complex adjoins Sir James Mitchell Park, so the whole South Perth foreshore is here as your backdrop.<br/><br/>- 2 bedrooms <br/>- 1 bathroom <br/>- Main bedroom has robes <br/>- Split system in the living room <br/><br/>Within a few minutes walk of your home, you will find:<br/>*Public transport at your door, ferry close by<br/>*South Perth Foreshore with its wide open parkland, piazza & free seasonal events<br/>*Perth Zoological and Botanic Gardens across the road<br/>*Mends Street shopping with The Good Grocer (24 hour supermarket), the Windsor Hotel, Sopranos, Automatic, Atomic, Thai Orchid, Miss Chows, Rambla, Mister Walkers, Coco’s plus so much more!!<br/>*Old Mill Theatre & South Perth Bowling Club<br/>*Easy access to Mitchell & Kwinana Freeways north and south",
+  "showAgencyLogo": true,
+  "title": "Uninterrupted views over the Swan River and City Landscape",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0448361155",
+      "website": "http://www.housesmart.com.au",
+      "phoneNumber": "0448361155",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Samantha Kirwan",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/ff28e40e20a67a2fbb59a1d4a3c29d509bf8c140b051d4ebb48c0764f19b2edb/main.jpg"
+      },
+      "id": "2737710",
+      "email": "pm8@housesmart.com.au,leasing@housesmart.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "unit",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/66a5810a288ed7241c62cf030fccaf5098af87b9e43ad1df33b5024c8081afbb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/35b4fc842e2a182a01f562d5e6c1e1bb5bc4f8798c53e947f8578081d97eac48/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/881a37bf9d96becb8b5ae74b3f447a6a3da523692f7371b49a02aa1c5c9c81c5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7560cb618951bff426fcdb216a9cd2c0f2b6f21e8db85bc3e5e323ed9d2eef7f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bc6cecb4133cfe06e400dc82035b54ee26030dfd086a97da98454ab652e1af8d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2562f53c6ecc6158a424ee985ce16a86d56f97c757a2b35946cbfe030e1abeb5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2a391753921d3a3ba3ec6afd446fdf289c510caac99b02ee3ed69aad87b0ad83/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e175c52d17177959d761a0d06f1982b5c172fd4b4c3df94342cb2b127f3058c4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/234578370689468cee1f53524aca8acee19218ab4bd95f6414c2593128bf4079/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4fff5510a7c682fca77b59817e2a87512a533fb9f88a587b9fa30934259f3f8d/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "25/160 Mill Point Road",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.97527,
+      "longitude": 115.85703
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.housesmart.com.au",
+    "address": {
+      "streetAddress": "Shop 18 & 19, 222-226 Belmont Avenue",
+      "postcode": "6105",
+      "suburb": "Cloverdale",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9378 2555",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#01AEEF"
+    },
+    "name": "HouseSmart Real Estate Pty Ltd - CLOVERDALE",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "hero image": "/1536x800/fcdfa73cb5239930241f1b6f9e2c1656a5869bfd0a5e7ee618c94cda85446ac8/main.gif",
+        "default": "/160x30/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg",
+        "large": "/170x32/28347fe8897c4ef73b1a74e9fbe33c9583a8c641aedb9270e7630ded8b27adee/logo.jpg"
+      }
+    },
+    "agencyId": "GRRBEE",
+    "email": "enquiries@housesmart.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6659628",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444463032",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/e1269790e9eea501c2e116ca02697434047c14e579989d3e38385f7e7495a1a3/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Jul 2026",
+    "dateDisplay": "16 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

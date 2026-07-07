@@ -1,0 +1,323 @@
+{
+  "prettyUrl": "property-villa-wa-maylands-435737868",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9217 2000",
+    "website": "http://www.raywhitesouthperth.com.au",
+    "phoneNumber": "08 9217 2000",
+    "powerProfile": false,
+    "name": "Semra Buzeski",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "4023472",
+    "email": "pm1.southperth@raywhite.com"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This 2 bedroom villa is well located for easy access to the city, shops around the corner, transport easy to catch a bus and not to mention the river, walk to the Maylands Yacht Club along the jetty. <br/><br/>Features include:<br/>* Two bedrooms, main bedroom with air con unit<br/>* One bathroom with a bath<br/>* Lounge with gas point<br/>* Kitchen large meals area or split in to and have a meals/family room<br/>* Rear courtyard easy care gardens<br/>* Small complex<br/>* Single carport with room for two cars one behind the other<br/>* Storeroom<br/>* Gas cooking<br/>* Large laundry<br/>* No pets",
+  "showAgencyLogo": true,
+  "title": "RIVER WALKING DISTANCE - GREAT LOCATION",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9217 2000",
+      "website": "http://www.raywhitesouthperth.com.au",
+      "phoneNumber": "08 9217 2000",
+      "powerProfile": false,
+      "name": "Semra Buzeski",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "4023472",
+      "email": "pm1.southperth@raywhite.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$580 per week"
+  },
+  "propertyType": "villa",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6627c0896efe33953990fcbf8eec5e35566e0c58306d9aa50688f3b621cf352a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8d28730343c93fda9cac946b7ba1cb479957b3b49fbecb3e1930fbf0eb2e479b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e96711405a0c484d2e73a6dfd06ed7358ac598e454d8cabebf8f6ef52fbe5b6e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/073ae143874f8ccc8a5bbf01f6404d031f27fcc6a0b596b90fe04f6395da3c58/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/08999a7967bfd417f23c789cb112559094011f9a05964b90fdcca53da4a4555c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5efd309f35ae04a80ccaf744c8ee35b8c18f71b246377f167d461eaf7c2285f1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/737aadf7bde1c17c5feefdf0dd7b27edd83d8007eec0a0b1f4838d6b594c99a8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8091ec35ce2a481265aac5117596ccab2088a6bd3dc81b1d58d16ed99fdeea3f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8255e8aedfdd1acf670cd13f08a81206a918545ddcff6b9fe18cf1ccee056da3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/05652cff43a296b5f471096d0568bb945d6682d95249c3dce5412df4375e387d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fea338e24e5f245c1afca290ade08e4bd0e656ca7ea96b61ba13781b9a1f44b2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/60fcd51dda8c70bed051152a6fb458c9c9d0d0d501e060197e3d54e78009ace6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/df37be4c84ae7fe05d6ed1c9dbb71e5d08f5c18d03546da59527aebff9532f12/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/43045f2883b63157915d562916a6b41502ec78d4f01f1f20afb1b80c845e1506/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7829811e9b90d448f6cc0077e05295ce1bffac41b78f0d832b22ff24c280a1a3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9e885c0a3be86f372ddb437f4eb1a0c259b2257f588b8d2962ac2f35703c78b8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/041584ac638439cbeec1ffa6914669e0744d2fe479aa01ddfbe0e2d2086ca645/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/41e6e412724cf8cdee639d7e52142674c40f2eb69bdc91671e626ddd21a5f852/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9918e06d23e4753d40d04ab42a3a31110fc1f200693d975f96cf50b4b817f620/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/353ef2de7b9cfb63d333b905068cc447209b06d2a1dd92e5316eb1cbd73741bb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/02a2fd8382252de95ffbad72e03a2b5b05eb5ab5c46e5527d19284f233ef5206/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2f09609120f4c6a633856e9031dd66311d22eb859443d77acef005a35e6e8eba/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/48109d953359cb95f6d49d4f33a731958a979d5f3114fb01e198274caf943a25/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9f6b02c582c5dd57aceaf6ab0e3043542a467537e60fc778736d15961cd1d857/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1c85f35aaab08b55fe68ca5884ee1705213b8dcd3a64dcec1c28b05ee7c70d39/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "3/12 Kirkham Hill Terrace",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93656666,
+      "longitude": 115.89487771
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.raywhitesouthperth.com.au",
+    "address": {
+      "streetAddress": "78 Angelo Street",
+      "postcode": "6151",
+      "suburb": "South Perth",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9217 2000",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffe512"
+    },
+    "name": "Ray White South Perth - SOUTH PERTH",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/a06538cb0bfa9c7b3a7e5e1af52cb3ed3ebd61f873ba2bc76e6b6d2d0d203bbe/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg",
+        "hero image": "/1536x800/a06538cb0bfa9c7b3a7e5e1af52cb3ed3ebd61f873ba2bc76e6b6d2d0d203bbe/main.jpg",
+        "default": "/160x30/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg",
+        "large": "/170x32/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+      }
+    },
+    "agencyId": "AEIAIE",
+    "email": "Jannine.Blum@raywhite.com"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R1408862",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "435737868",
+  "bond": {
+    "display": "$2,320",
+    "value": 2320
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/ca74f7570797476ae724ec9abd8cb4c0b3706dd775c71b21e4b83e8ea70fa019/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "27 Jul 2026",
+    "dateDisplay": "27 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Fri 10 Jul",
+      "startTimeDisplay": "4:00 PM",
+      "endTimeDisplay": "4:15 PM",
+      "startTime": "2026-07-10T16:00:00",
+      "endTime": "2026-07-10T16:15:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

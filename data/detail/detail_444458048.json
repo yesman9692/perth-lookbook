@@ -1,0 +1,224 @@
+{
+  "prettyUrl": "property-house-wa-maylands-444458048",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9274 5000",
+    "website": "http://www.realestateplus.com.au/",
+    "phoneNumber": "08 9274 5000",
+    "powerProfile": false,
+    "name": "Debbie Marlowe",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3776964",
+    "email": "pm2@realestateplus.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Welcome to your new home at 12/156 Whatley Crescent, Maylands. This charming 2-bedroom unit offers the perfect blend of comfort and convenience in a vibrant neighborhood. <br/><br/>The spacious living area is filled with natural light, creating a warm and inviting atmosphere. The well-appointed kitchen features modern appliances and ample storage space, making it ideal for home cooking and entertaining. <br/><br/>Both bedrooms are generously sized, providing a peaceful retreat at the end of the day. The shared bathroom is stylishly designed and equipped with all the essentials. <br/><br/>Enjoy the convenience of an open parking space, ensuring easy access to your home. <br/><br/>Located in the heart of Maylands, you'll be just moments away from the Maylands train station, local shops, cafes, and parks, making this property an ideal choice for those seeking a lively community atmosphere. <br/><br/>Available for lease at $640.00 per week, this property is ready for you to move in and make it your own. Don't miss out on this fantastic opportunity!",
+  "showAgencyLogo": false,
+  "title": "Convenient location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9274 5000",
+      "website": "http://www.realestateplus.com.au/",
+      "phoneNumber": "08 9274 5000",
+      "powerProfile": false,
+      "name": "Debbie Marlowe",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3776964",
+      "email": "pm2@realestateplus.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$640 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/59cad46df9d8eac99c9c95991d3ec2bea8960ddf604998f5d8178e655333b8a7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1d2638c7b8a5a59e6cb5e0b733e6fc178f6edd524a609d9976ad46b4a9e4d8a1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fcaacccd71515d047718d92020dcafa9bbc2c87b35c38c3909c11339c4b9f8f0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4df1d6d9a08fbfa5b5cf63dad5387ed8e19d2b39cc2bdf6e0adade305f4d261a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/09e7d7bf4a3c1f19b8dc0e25df9946e4924868e32d7290c752aec4a1975c0714/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e82e5c190184b109e195c0b623eb428a4e091b720153986927931fcc349eeea7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/65fbf0f3c0a7971b1d08cd621c83eec7ba4ac2e0dc0dd8058f039ba9943e9b01/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/40aac494754af03ddbaedd4ee1b474e4c37b1637c05e2777c250ed9fb844f432/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e55cef2acd314b9fd28417f2490dedb47455ff946bcb92fb906ab65f0230d0b5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8724e9994fc41f60a3ce7d8b1699e23c4299f1beb474cfb8f02fcf5ec3868a54/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "12/156 Whatley Crescent",
+    "locality": "Maylands",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "postCode": "6051",
+    "location": {
+      "latitude": -31.93002,
+      "longitude": 115.89057
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.realestateplus.com.au/",
+    "address": {
+      "streetAddress": "Shop 2, 5 Junction Parade",
+      "postcode": "6056",
+      "suburb": "Midland",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9274 5000",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#DB1821"
+    },
+    "name": "Real Estate Plus Australia - Midland",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/968447a0877e7730be2de29732e878b43de51f2f87d2262b03ed2ed46ceb7f58/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/968447a0877e7730be2de29732e878b43de51f2f87d2262b03ed2ed46ceb7f58/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/968447a0877e7730be2de29732e878b43de51f2f87d2262b03ed2ed46ceb7f58/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/968447a0877e7730be2de29732e878b43de51f2f87d2262b03ed2ed46ceb7f58/logo.jpg",
+        "default": "/160x30/968447a0877e7730be2de29732e878b43de51f2f87d2262b03ed2ed46ceb7f58/logo.jpg",
+        "large": "/170x32/968447a0877e7730be2de29732e878b43de51f2f87d2262b03ed2ed46ceb7f58/logo.jpg"
+      }
+    },
+    "agencyId": "REFMID",
+    "email": "midland@realestateplus.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4340921",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Open Spaces: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444458048",
+  "bond": {
+    "display": "$2,560",
+    "value": 2560
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/2fa3502e3299c787a0526ae9682949b97f72ad088b52aa9e63bef81f6fc348fe/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "09 Jul 2026",
+    "dateDisplay": "09 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

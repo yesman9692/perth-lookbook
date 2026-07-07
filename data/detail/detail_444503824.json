@@ -1,0 +1,261 @@
+{
+  "prettyUrl": "property-apartment-wa-south+perth-444503824",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "1800234397",
+    "website": "http://www.rentbetter.com.au",
+    "phoneNumber": "1800234397",
+    "powerProfile": false,
+    "jobTitle": "",
+    "name": "RentBetter",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/fceac892064355b30cf5ede9ff4eaa67a2223e475c88fa9b1761929b502207ba/main.jpg"
+    },
+    "id": "1486286",
+    "email": "rea@reply.rentbetter.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "RentBetter Property ID: 429053 (quote when calling)<br/><br/>APPLY: Send through an enquiry and you'll receive the link to apply<br/><br/>This newly renovated, spacious two-bedroom, one bathroom unit is located along the gorgeous South Perth foreshore. <br/><br/>It features neutral tones throughout, spacious open plan living area and a balcony that overlooks the Swan River.<br/><br/>It is conveniently located close to bus routes and offers easy access to Mitchell and Kwinana Freeway, Mends Street shopping, Perth ferry and South Perth Foreshore. <br/><br/>Features:<br/><br/>- 2 bedrooms, both with built in robes<br/><br/>- 1 completely renovated bathroom<br/><br/>- Secure undercover parking for one car <br/><br/>- Modern, open plan kitchen/living/dining<br/><br/>- Split system air conditioning to main living<br/><br/>- Gas stove top<br/><br/>- Shared laundry facilities <br/><br/>- Secure complex<br/><br/>- BBQ & entertaining area<br/><br/>- Well kept gardens and lawns <br/><br/>- Pathway down to the foreshore from the complex<br/><br/>- No pets allowed<br/><br/>- Available from 19 Jul 2026<br/><br/>- Pre-Inspection Applications encouraged<br/><br/>- min 12 month lease",
+  "showAgencyLogo": false,
+  "title": "Spacious, newly renovated, 2 bedroom apartment right on the South Perth foreshore",
+  "listers": [
+    {
+      "mobilePhoneNumber": "1800234397",
+      "website": "http://www.rentbetter.com.au",
+      "phoneNumber": "1800234397",
+      "powerProfile": false,
+      "jobTitle": "",
+      "name": "RentBetter",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/fceac892064355b30cf5ede9ff4eaa67a2223e475c88fa9b1761929b502207ba/main.jpg"
+      },
+      "id": "1486286",
+      "email": "rea@reply.rentbetter.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7a5270ede57113998e5154ffd7565a074690bee862a2b98dd2e370c9e6fd1c16/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b927dd0d3de901d3169c4a1a6f22c25779f06c61a8b9d40b9c78d027fa79c018/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c44eecbe25d3f0e41844d1e29e1e9dd09477c5c1a4ae4ca895dacdcaf7a380c5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b629210739e1f2450ae62cc8c983ab2009969681043384999d157a82486a8ca3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1671e275931412f2aff2056560f7627702ff1e43caba7ddedd2cb63ffefe38c5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1c920dff7cf05b86d9c511efc6aa1a97be20ea8ec17667241b9cc4dd25f33563/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cbccc135a5243aeab283e6ce59afa2c76b1eb04a30150cef5111e18eb2f02b94/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/992929b1e25dc1cfb8f98d142c6a5efae773418769e8a170552e370a46490e1e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/68b9a35562514f15f98c060d18da0b570248f82e77640dfe38ccaad5b2dfa09d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/140a9e3ee283863884a008126c054ccfc8f73284857662f0d261b8507f81c04e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dd32db48d00f808dbc3b224ac9df1658390293f1a2debde3f1806050322d13d3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8b1b8f5b6e5ba91dd0a13637834ec2f6ec7b32fdd40876e53804cabddbb6508c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/16395baede2fb3945442ea08f642aa9784ab16da80ab925b3af46ca322baa6f6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3b9c91d253dbaf8897dabdf0375c457ad444d97049e6d516b6c64bb3abaf1a26/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "11/150 Mill Point Rd",
+    "locality": "South Perth",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "postCode": "6151",
+    "location": {
+      "latitude": -31.97454766,
+      "longitude": 115.85610665
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rentbetter.com.au",
+    "address": {
+      "streetAddress": "New Street",
+      "postcode": "2026",
+      "suburb": "Bondi",
+      "state": "NSW"
+    },
+    "phoneNumber": "1800 234 397",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#082642"
+    },
+    "name": "RentBetter",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2b88d73bceb509a5b7d3f0c98ea039f1cec824a07db2b98ea2f32f1e60f90d84/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg",
+        "hero image": "/1536x800/2b88d73bceb509a5b7d3f0c98ea039f1cec824a07db2b98ea2f32f1e60f90d84/main.jpg",
+        "default": "/160x30/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg",
+        "large": "/170x32/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+      }
+    },
+    "agencyId": "AWOVDV",
+    "email": "rea@reply.rentbetter.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "rb:live:004cfd59",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Fully Fenced",
+        "Garage: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Intercom",
+        "Split-system Heating"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444503824",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/6b5b17612c67afdb0192ba6040e2bde3fbe093959bc4b832f03f371e05953303/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "19 Jul 2026",
+    "dateDisplay": "19 Jul 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}
