@@ -15,7 +15,14 @@ from curl_cffi import requests
 TOOLS = r"D:\my\cowork\tools"
 KEY = open(os.path.join(TOOLS, "gmaps_key.txt"), encoding="utf-8").read().strip()
 B = "https://maps.googleapis.com/maps/api/directions/json"
-PLACES = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
+# Places API (New) Nearby Search — 필드마스크로 Basic(id·location·types·name)만 요청 →
+# "Nearby Search Pro" SKU(월 5,000콜 무료). 레거시 nearbysearch 는 Atmosphere/Contact
+# 데이터를 강제 번들해 과금(2026-06 실결제 ₩21,656)됐어서 폐기. 상세: 메모리 project_perth_maps_api_cost.
+PLACES_NEW = "https://places.googleapis.com/v1/places:searchNearby"
+CACHE_FILE = os.path.join(TOOLS, "places_cache.json")   # amenity/grocery listingId별 캐시(재실행 무과금)
+USAGE_FILE = os.path.join(TOOLS, "_deploy", "data", "places_usage.json")   # New API 월 호출 카운터(git 동기화 대상)
+MONTHLY_LIMIT = 4500    # Pro 무료 5,000 아래 안전마진. 도달 시 호출 skip→폴백, 월 바뀌면 자동 리셋
+FALLBACK_AMENITY = "🏪 amenity:D(클러스터0·최근접9999m)"   # New API 미활성/오류 시. 이 값은 캐싱 안 함.
 DEST = "500 Wellington Street, Perth WA 6000"   # ECU City Campus
 WALK_PENALTY = 2.0   # 도보 1분 체감 = 탑승 2분. ↑ 도보 더 회피 / ↓ 시간 우선
 
@@ -82,25 +89,88 @@ def commute(lat, lng):
         out.append("🚲 자전거 %s(%s)" % (bl["duration"]["text"], bl["distance"]["text"]))
     return " · ".join(out) if out else "(통근 조회 실패)"
 
+_cap_warned = [False]
+
+def _usage_ok():
+    """이번 달 New API 호출 수 확인. MONTHLY_LIMIT 미만이면 +1 후 True, 도달하면 False(호출 skip).
+    월이 바뀌면 카운트 자동 리셋. 파일 오류 시 fail-open(호출 허용) — 콘솔 일 1,000이 비용 백스톱."""
+    try:
+        month = datetime.now(AWST).strftime("%Y-%m")
+        try:
+            u = json.load(open(USAGE_FILE, encoding="utf-8"))
+        except Exception:
+            u = {}
+        if u.get("month") != month:
+            u = {"month": month, "count": 0}
+        if u["count"] >= MONTHLY_LIMIT:
+            if not _cap_warned[0]:
+                print("  !! Places New 월 한도 %d 도달 — 이후 amenity/grocery 폴백(D/빈값). 다음달 자동 리셋." % MONTHLY_LIMIT)
+                _cap_warned[0] = True
+            return False
+        u["count"] += 1
+        os.makedirs(os.path.dirname(USAGE_FILE), exist_ok=True)
+        json.dump(u, open(USAGE_FILE, "w", encoding="utf-8"))
+        return True
+    except Exception:
+        return True
+
+def _places_new(location, included_types, rank_distance=False, radius=600, max_results=20):
+    """Places API (New) Nearby Search. Basic 필드마스크만 요청 → Nearby Search Pro SKU(월 5,000 무료).
+    반환: 레거시 호환 dict 리스트 [{place_id, name, geometry.location.lat/lng, types}].
+    New API 권한거부(미활성)/월한도 도달이면 None (amenity FALLBACK 트리거용), 그 외 실패/빈결과면 []."""
+    if not _usage_ok():                  # 월 4,500 하드스톱 — 무료티어 초과 방지
+        return None
+    try:
+        lat_s, lng_s = str(location).split(",")
+        lat, lng = float(lat_s), float(lng_s)
+    except Exception:
+        return []
+    body = {
+        "includedTypes": included_types,
+        "maxResultCount": max_results,
+        "locationRestriction": {"circle": {
+            "center": {"latitude": lat, "longitude": lng}, "radius": float(radius)}},
+    }
+    if rank_distance:
+        body["rankPreference"] = "DISTANCE"
+    try:
+        r = requests.post(PLACES_NEW, headers={
+            "Content-Type": "application/json",
+            "X-Goog-Api-Key": KEY,
+            "X-Goog-FieldMask": "places.id,places.location,places.types,places.displayName",
+        }, json=body, timeout=15)
+    except Exception:
+        return []
+    if r.status_code in (401, 403):      # New API 미활성/키 제한 → None(FALLBACK)
+        return None
+    try:
+        j = r.json()
+    except Exception:
+        return []
+    if r.status_code != 200 or "error" in j:
+        return []
+    out = []
+    for p in j.get("places", []):
+        loc = p.get("location", {}) or {}
+        out.append({
+            "place_id": p.get("id"),
+            "name": (p.get("displayName", {}) or {}).get("text", "마트"),
+            "geometry": {"location": {"lat": loc.get("latitude"), "lng": loc.get("longitude")}},
+            "types": p.get("types", []),
+        })
+    return out
+
 def nearest_grocery(lat, lng):
     """Returns '🛒 도보 Xm Y분 (Name)' or '🛒 🚌 Y분 (Name, 현지도보 Xm)'.
     Walk if ≤15min; otherwise tries transit and shows whichever is better.
-    Returns '' if Places API not enabled (REQUEST_DENIED)."""
-    try:
-        r = requests.get(PLACES, params={
-            "location": "%s,%s" % (lat, lng),
-            "rankby": "distance",
-            "type": "supermarket",
-            "key": KEY
-        }, timeout=15).json()
-    except Exception:
+    Returns '' if Places API (New) not enabled."""
+    results = _places_new("%s,%s" % (lat, lng), ["supermarket"],
+                          rank_distance=True, radius=20000, max_results=1)
+    if results is None:      # New API 미활성 or 월 한도 도달 → graceful 폴백(빈값). 진단은 amenity=D + 콘솔 경고로.
         return ""
-    status = r.get("status")
-    if status == "REQUEST_DENIED":
-        return "(Places API 미활성 — GCP 콘솔에서 키 제한에 Places API 추가 필요)"
-    if status != "OK" or not r.get("results"):
+    if not results:
         return ""
-    place = r["results"][0]
+    place = results[0]
     name = place.get("name", "마트")
     dlat = place["geometry"]["location"]["lat"]
     dlng = place["geometry"]["location"]["lng"]
@@ -148,22 +218,12 @@ def amenity_profile(lat, lng):
     """Returns '🏪 amenity:<TIER>(클러스터<N>·최근접<M>m)' — perth_score 파싱용 계약 문자열.
     Tier: A=supermarket 600m내 + 음식/카페 등 unique >=10  B=supermarket 600m내
           C=supermarket 없고 convenience_store 있음  D=600m내 없음. (Places Nearby 600m)"""
-    FALLBACK = "🏪 amenity:D(클러스터0·최근접9999m)"
+    FALLBACK = FALLBACK_AMENITY
     location = "%s,%s" % (lat, lng)
 
     def _nearby(place_type):
-        try:
-            r = requests.get(PLACES, params={
-                "location": location, "radius": 600, "type": place_type, "key": KEY
-            }, timeout=15).json()
-        except Exception:
-            return []
-        status = r.get("status")
-        if status == "REQUEST_DENIED":
-            return None
-        if status != "OK":
-            return []
-        return r.get("results", [])
+        # None(권한거부) 그대로 전파 → supermarkets is None 가드가 FALLBACK 처리.
+        return _places_new(location, [place_type], radius=600, max_results=20)
 
     supermarkets = _nearby("supermarket")
     if supermarkets is None:
@@ -190,10 +250,8 @@ def amenity_profile(lat, lng):
     # rankby=distance(radius 미사용)로 진짜 최근접 슈퍼마켓(없으면 편의점) 식별 후 도보거리.
     M = 9999
     try:
-        rr = requests.get(PLACES, params={
-            "location": location, "rankby": "distance", "type": "supermarket", "key": KEY
-        }, timeout=15).json()
-        near = rr.get("results") or convenience or supermarkets
+        near = _places_new(location, ["supermarket"], rank_distance=True,
+                           radius=20000, max_results=1) or convenience or supermarkets
         if near:
             n0 = near[0]
             dlat = n0["geometry"]["location"]["lat"]
@@ -217,6 +275,17 @@ def amenity_profile(lat, lng):
         tier = "D"
     return "🏪 amenity:%s(클러스터%d·최근접%dm)" % (tier, N, M)
 
+def _load_cache():
+    if os.path.exists(CACHE_FILE):
+        try:
+            return json.load(open(CACHE_FILE, encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+def _save_cache(c):
+    json.dump(c, open(CACHE_FILE, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+
 def _coords(lid):
     fp = os.path.join(TOOLS, "detail_%s.json" % lid)
     if not os.path.exists(fp):
@@ -233,19 +302,35 @@ def main():
           "| WALK_PENALTY=%s" % WALK_PENALTY)
     if arg.endswith(".json"):
         manifest = json.load(open(arg, encoding="utf-8"))
+        refresh = "--refresh" in sys.argv     # 캐시 무시하고 amenity/grocery 강제 재조회
+        cache = _load_cache()
+        hits = 0
         for e in manifest:
             lat, lng = _coords(e["id"])
             if lat is None:
                 print("!! no coords", e["id"]); continue
-            c = commute(lat, lng)
+            c = commute(lat, lng)             # 통근은 항상 라이브(Directions 무료·신선도 중요)
             e["commute"] = c + " (Maps)"
-            g = nearest_grocery(lat, lng)
+            key = str(e["id"])
+            cached = cache.get(key)
+            if (not refresh and cached and cached.get("lat") == round(lat, 5)
+                    and cached.get("lng") == round(lng, 5)
+                    and cached.get("amenity") and "grocery" in cached):
+                g, a = cached["grocery"], cached["amenity"]   # 캐시 적중 → Places 호출 skip
+                hits += 1
+            else:
+                g = nearest_grocery(lat, lng)
+                a = amenity_profile(lat, lng)
+                if a != FALLBACK_AMENITY and not g.startswith("(Places"):   # 오류/미활성 상태는 캐싱 안 함
+                    cache[key] = {"lat": round(lat, 5), "lng": round(lng, 5),
+                                  "amenity": a, "grocery": g}
             e["grocery"] = g
-            a = amenity_profile(lat, lng)
             e["amenity"] = a
             print("%-14s $%s | %s | %s | %s" % (e.get("region", ""), e.get("price", ""), c, g, a))
+        _save_cache(cache)
         json.dump(manifest, open(arg, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-        print("\nmanifest commute updated:", len(manifest))
+        print("\nmanifest commute updated: %d (Places 캐시적중 %d, 재조회 %d)" % (
+            len(manifest), hits, len(manifest) - hits))
     else:
         lat, lng = _coords(arg)
         print(commute(lat, lng))
