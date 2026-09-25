@@ -1,6 +1,6 @@
 # 퍼스 룩북 조사 — 오케스트레이터 지침 (tools/)
 
-> 이 디렉토리(`D:/my/cowork/tools`)에서 퍼스 렌트 매물 조사·룩북 작업을 할 때 **먼저 읽는 문서.**
+> 이 디렉토리(`D:/호주/tools`)에서 퍼스 렌트 매물 조사·룩북 작업을 할 때 **먼저 읽는 문서.**
 > 목적: 오케스트레이터(`perth_lookbook.py`)의 **전체 로직과 단계간 상태 전이**를 숙지해, 한 단계의 단일 신호를 잘못 일반화하는 오판을 막는다.
 > 상세는 아래 "📚 상세 문서 참조 맵" 의 각 문서로.
 
@@ -42,6 +42,7 @@ python perth_lookbook.py <group> [--beds 2,3] [--max N] [--type ...] [--floor an
 4. **churn(주간 변동) 측정**: **다른 날** manifest와 ID diff. 같은 세션/같은 날 두 run을 비교하면 당연히 동일 → 무의미.
 5. **commute(3)에서 멈추면 GitHub 무변경.** 배포는 `[4]`와 `[7]`에서만. 중간 stop은 배포·채점 안 됨.
 6. **judge는 adaptive·캐시 게이트.** verdict 있고 `rubric_version`(SCORING.md 첫줄 vN) 일치하면 재채점 skip. SCORING.md 버전 올리면 다음 judge가 8항목 전건 자동 재판정. 토큰은 **신규/버전불일치 건수만큼만**.
+7. **commute(3) amenity/grocery = Places API (New) + 3중 비용통제 (2026-07-16 전환).** ⚠️ **amenity가 전부 D·grocery 전부 빈값이면 "동네가 나빠서"가 아니라 캐시미스+한도** 의심. ① `perth_commute.py`는 레거시 nearbysearch 폐기하고 **Places New(필드마스크 id·location·types만 → Nearby Search Pro SKU, 월 5,000 무료)** 사용. ② **listingId 캐싱**(`places_cache.json`) — 재실행 무과금, 좌표 동일 시 skip. **강제 재조회는 `--refresh`**. ③ **월 하드스톱 4,500**(`_deploy/data/places_usage.json`, git 동기화, 월 자동리셋) 도달 시 호출 skip→폴백 + 경고. ④ 콘솔 `SearchNearbyRequest per day=1,000`(폭주 백스톱). 레거시 25/일 캡은 미사용이라 방치. 상세: 메모리 `project_perth_maps_api_cost`.
 
 ---
 

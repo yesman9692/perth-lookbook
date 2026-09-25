@@ -10,7 +10,7 @@
 #   → verdicts.json에 score_total/score_breakdown/score_dq/rank/rank_reason 기록 + 순위표 출력
 import sys, json, re, os
 sys.stdout.reconfigure(encoding="utf-8")
-TOOLS = r"D:\my\cowork\tools"
+TOOLS = os.path.dirname(os.path.abspath(__file__))
 
 def _parking(lid):
     fp = os.path.join(TOOLS, "detail_%s.json" % lid)

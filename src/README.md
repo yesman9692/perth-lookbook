@@ -44,7 +44,7 @@ python perth_lookbook.py <group> [--beds 2,3] [--type ...] [--floor ...] [--no-r
 |---|---|---|---|
 | `perth_search.py` | 리스트 1차 필터 | **포그라운드**(빠름) | 그룹/가격/방/욕실/주차/타입/바닥/플래그 → 테이블 |
 | `perth_detail.py` | 단건 상세 + 사진 | **포그라운드** | `<listingId> --imgs` → detail_{id}.json + imgs_detail/ |
-| `perth_commute.py` | Maps 통근(도보가중) | **포그라운드**(빠름) | manifest 또는 단일 listingId → ECU City. `alternatives`+comfort_cost(탑승+도보×2.0) best, ⚡시간최단 병기, 평일 08:00 고정 |
+| `perth_commute.py` | Maps 통근(도보가중)+amenity/grocery | **포그라운드**(빠름) | manifest 또는 단일 listingId → ECU City. `alternatives`+comfort_cost(탑승+도보×2.0) best, ⚡시간최단 병기, 평일 08:00 고정. **`--refresh`** = amenity/grocery 캐시 무시 강제 재조회(기본은 캐시 재사용=무과금) |
 | `perth_pdf.py` | 인터랙티브 룩북 HTML | **포그라운드** | manifest+detail+`VERDICTS`(코드내) → 정렬·필터·사진 가로스크롤·구글맵 링크 HTML(사진 상대경로) |
 | `perth_upload.py` | Drive 업로드 | **백그라운드** | 매물 폴더 + PDF, 멱등(재실행 시 skip) |
 
@@ -113,6 +113,7 @@ python perth_lookbook.py <group> [--beds 2,3] [--type ...] [--floor ...] [--no-r
 
 ## 변경 이력 (트러블슈팅)
 
+- **2026-07-16 Places 레거시→New API 전환 + 비용통제 3중** (`perth_commute.py`): 레거시 `nearbysearch`가 Atmosphere/Contact 데이터를 강제 번들해 과금 → **6월 실결제 ₩21,656**(스파이크 6/16·6/23 = 71건 전건 재채점). `places:searchNearby`(New) + 필드마스크(`id,location,types,displayName`)만 요청해 비싼 SKU 구조적 제거 → Nearby Search Pro. 레거시 호환 dict로 정규화해 **tier 로직·perth_score 무수정**. 동시에 캐싱(`--refresh`)·월 4,500 하드스톱·콘솔 일 1,000 캡 신설(위 ④). Directions는 무료티어 내라 미변경. 최종 ₩0 확인은 다음 청구서.
 - **2026-06-09 통근 로직 개편** (`perth_commute.py`): `routes[0]`만 보던 것 → `alternatives=true` 후보 전수 + comfort_cost(탑승분 + 도보분×`WALK_PENALTY`=2.0) 최소를 best로(⚡시간최단 병기) + `departure_time`=다음 평일 08:00 AWST 고정(실행시점 의존 제거) + 단일 listingId 모드. **도보 1km train을 버스보다 잘못 우선하던 버그 해소**(Shenton 24번버스, Wembley 85번버스 전례).
 - **2026-06-09 perth_pdf 재설계**: 정적 PDF용(사진 base64·Chrome 렌더·`imgs[4]`·`tier`/`verdict`) → **인터랙티브 HTML**(정렬: 가격·통근·도보 / floor 필터 / 사진 가로스크롤·라이트박스 / 매물→ECU 구글맵 링크). 입력 = `full_manifest.json`(id·price·floor·flag·commute) + **코드 내 `VERDICTS` dict**(사진판정 floor·condition·notes·tags). 구 `imgs`/`tier`/`verdict` manifest 필드 폐기. 새 매물은 `VERDICTS`에 항목 추가.
 - **2026-06-09 perth_detail 사진 캡 제거**: `imgs[:14]` → `imgs` 전체(14장 초과 매물 사진 손실 버그).
@@ -134,8 +135,14 @@ python perth_lookbook.py <group> [--beds 2,3] [--type ...] [--floor ...] [--no-r
 - 룩북 카드에 존 배지 + 존 필터.
 
 ### ② 마트 거리 (`perth_commute.py` 내 `nearest_grocery`)
-- Google **Places API**(Nearby Search) + Directions로 가장 가까운 supermarket 거리. **GCP에서 Places API 사용설정 필수**(Directions만으론 REQUEST_DENIED).
+- **Places API (New)**(`places:searchNearby`, 필드마스크 id·location·types만) + Directions로 가장 가까운 supermarket 거리. 레거시 nearbysearch는 과금 이슈로 폐기(아래 ④).
 - 도보 15분 초과 시 자동으로 대중교통 경로 재계산("🛒 🚌 N분"). manifest의 `grocery` 필드.
+
+### ④ Places 비용통제 3중 (2026-07-16) — ⚠️ amenity 전부 D·grocery 전부 빈값이면 여기부터 의심
+- **캐싱** `places_cache.json` (listingId+좌표 키) — 재실행 시 Places 미호출=무과금. 강제 재조회 = **`--refresh`**.
+- **월 하드스톱 4,500** `_deploy/data/places_usage.json`(git 동기화·월 자동리셋) — 도달 시 호출 skip→폴백(amenity D/grocery 빈값)+경고 출력. 캐시적중은 카운트 안 함.
+- **콘솔 일 상한 1,000** (`SearchNearbyRequest per day`, GCP `gen-lang-client-0495701296`) — 폭주 백스톱. 전건 스캔=568콜/회라 여유. 대형 콜드스캔은 day1 캐시→day2 이어받아 자연 페이싱.
+- 상세·배경(6월 실결제 ₩21,656 경위): 메모리 `project_perth_maps_api_cost`, `tools/CLAUDE.md` gotcha #7.
 
 ### ③ micro-context 서브에이전트 (골목 단위 소음·평판)
 - 동네(suburb) vibe로 못 잡는 **이 주소만의** 정보: 간선/철로 인접 소음, 안쪽 골목 여부, 단지 평판.

@@ -5,7 +5,7 @@
 # 출력: 콘솔 표 + tools/market.json  ({suburb:{bed2:{n,med,lo,hi}, bed3:{...}}})
 import os, re, sys, json, statistics as st
 sys.stdout.reconfigure(encoding="utf-8")
-TOOLS = r"D:\my\cowork\tools"
+TOOLS = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, TOOLS)
 import ra_client   # 키 자동 폴백
 def num(s):

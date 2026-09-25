@@ -4,7 +4,8 @@
 import os, re, sys, json
 sys.stdout.reconfigure(encoding="utf-8")
 from curl_cffi import requests          # 이미지 다운로드(reastatic CDN, 키 불필요)용
-sys.path.insert(0, r"D:\my\cowork\tools")
+TOOLS = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, TOOLS)
 import ra_client                        # 키 자동 폴백
 
 PFX = "https://i2.au.reastatic.net/1000x750-format=jpeg"
@@ -18,7 +19,7 @@ def _detail_ok(jj):
 j, _km, _rem = ra_client.ra_get("/properties/detail", {"id": LID}, validate=_detail_ok)
 rs = j.get("results")
 d = rs[0] if isinstance(rs, list) and rs else (rs or j)
-open(r"D:\my\cowork\tools\detail_%s.json" % LID, "w", encoding="utf-8").write(
+open(os.path.join(TOOLS, "detail_%s.json" % LID), "w", encoding="utf-8").write(
     json.dumps(d, ensure_ascii=False, indent=2))
 
 g = (d.get("features", {}) or {}).get("general", {}) or {}
@@ -35,7 +36,7 @@ print("DESC:", re.sub("<[^>]+>", "\n - ", d.get("description") or ""))
 imgs = d.get("images", [])
 print("IMGS:", len(imgs))
 if DL:
-    OUT = r"D:\my\cowork\tools\imgs_detail"; os.makedirs(OUT, exist_ok=True)
+    OUT = os.path.join(TOOLS, "imgs_detail"); os.makedirs(OUT, exist_ok=True)
     n = 0
     for i, im in enumerate(imgs, 1):
         u = im.get("uri")

@@ -13,7 +13,7 @@ CRED_DIR = HOME / ".claude" / "projects" / "D--my-cowork" / ".gcreds"
 CRED_PATH, TOKEN_PATH = CRED_DIR / "credentials.json", CRED_DIR / "token.json"
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 PROPERTY_FOLDER_ID = "1Gp6mnA1CnDWvxWqQadxDtWTGXrdQtgCz"          # 호주/부동산/
-TOOLS = Path(r"D:\my\cowork\tools"); IMGDIR = TOOLS / "imgs_detail"
+TOOLS = Path(__file__).parent.resolve(); IMGDIR = TOOLS / "imgs_detail"
 
 def _load_token():
     data = json.load(open(TOKEN_PATH, encoding="utf-8"))

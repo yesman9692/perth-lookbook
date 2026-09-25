@@ -9,7 +9,7 @@
 # ⚠️ 인자 없는 blind glob은 다른 run/배치가 남긴 stale partial까지 슬러프함 — 자동 파이프라인은 항상 경로를 명시할 것.
 import os, sys, json, glob
 sys.stdout.reconfigure(encoding="utf-8")
-TOOLS = r"D:\my\cowork\tools"
+TOOLS = os.path.dirname(os.path.abspath(__file__))
 VPATH = os.path.join(TOOLS, "verdicts.json")
 
 base = {}

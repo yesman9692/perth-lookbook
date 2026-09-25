@@ -18,7 +18,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 # ── 경로 (머신 독립: __file__ 기준) ─────────────────────────────────────────
-TOOLS  = Path(__file__).parent.resolve()       # D:\my\cowork\tools
+TOOLS  = Path(__file__).parent.resolve()       # 실행 위치(D:/호주/tools)
 DEPLOY = TOOLS / "_deploy"
 
 # ── 도서관 허브(대문) 자동갱신 + Pages 리빌드 (같은 폴더 perth_hub.py) ──────────

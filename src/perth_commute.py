@@ -12,7 +12,7 @@ from datetime import datetime, timedelta, timezone
 sys.stdout.reconfigure(encoding="utf-8")
 from curl_cffi import requests
 
-TOOLS = r"D:\my\cowork\tools"
+TOOLS = os.path.dirname(os.path.abspath(__file__))
 KEY = open(os.path.join(TOOLS, "gmaps_key.txt"), encoding="utf-8").read().strip()
 B = "https://maps.googleapis.com/maps/api/directions/json"
 # Places API (New) Nearby Search — 필드마스크로 Basic(id·location·types·name)만 요청 →

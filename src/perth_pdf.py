@@ -13,7 +13,7 @@ from datetime import datetime
 sys.stdout.reconfigure(encoding="utf-8")
 DATESTR = datetime.now().strftime("%Y%m%d")
 
-TOOLS   = r"D:\my\cowork\tools"
+TOOLS   = os.path.dirname(os.path.abspath(__file__))
 IMGDIR  = "imgs_detail"          # relative from HTML file location
 ECU_LAT, ECU_LNG = -31.9502, 115.8640   # 500 Wellington St, Perth City Campus
 

@@ -13,8 +13,8 @@
 import os, json, time
 from curl_cffi import requests
 
-KEY_FILE   = r"D:\my\cowork\tools\rapidapi_key.txt"
-STATE_FILE = r"D:\my\cowork\tools\.ra_key_state.json"
+KEY_FILE   = os.path.join(os.path.dirname(os.path.abspath(__file__)), "rapidapi_key.txt")
+STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".ra_key_state.json")
 HOST = "realty-in-au.p.rapidapi.com"
 BASE = "https://realty-in-au.p.rapidapi.com"
 RPM_RESET_MAX = 3600          # reset가 이 값(초) 이하면 RPM(짧음), 초과면 월 한도로 간주

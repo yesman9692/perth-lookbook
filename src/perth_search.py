@@ -15,7 +15,8 @@
 #         YEL = soft (furnished / carpet / fifo-ish)  -> not filtered unless asked
 import os, re, sys, json, argparse
 sys.stdout.reconfigure(encoding="utf-8")
-sys.path.insert(0, r"D:\my\cowork\tools")
+TOOLS = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, TOOLS)
 import ra_client   # 키 자동 폴백 + degradation 감지
 
 GROUPS = {
