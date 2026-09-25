@@ -2,6 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>퍼스 매물 룩북</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
@@ -110,6 +111,25 @@ summary:hover{background:#eef1f6}
 #lb-nav button:hover{background:rgba(255,255,255,.3)}
 #lb-cnt{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);
   color:#eee;font-size:.8rem;background:rgba(0,0,0,.4);padding:3px 10px;border-radius:10px}
+
+#sort-btns{flex-wrap:wrap}
+.top{flex-wrap:wrap}
+@media (max-width: 480px) {
+  .excl-table{display:block;overflow-x:auto}
+  body{padding:8px;font-size:13px}
+  h1{font-size:1.05rem}
+  .controls{padding:8px 10px;gap:7px}
+  .divider{display:none}
+  #search{width:100%;flex:1 1 100%;order:99}
+  #count{margin-left:0}
+  .price{font-size:1.15rem}
+  .top{gap:6px}
+  .addr{font-size:.88rem}
+  .photos img{height:200px;min-width:150px}
+  .badge{font-size:.68rem;padding:2px 6px;white-space:normal}
+  .excl-table th,.excl-table td{padding:6px 8px}
+}
+html,body{max-width:100%;overflow-x:hidden}
 </style>
 </head>
 <body>

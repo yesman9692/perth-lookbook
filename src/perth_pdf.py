@@ -483,6 +483,31 @@ summary:hover{background:#eef1f6}
   color:#eee;font-size:.8rem;background:rgba(0,0,0,.4);padding:3px 10px;border-radius:10px}
 """
 
+# 모바일 대응 (2026-09-25, akl_pdf.py 2026-09-24 수정 이식) — viewport 메타와 짝.
+# 375px에서 한 열·페이지 가로 스크롤 금지·필터바 줄바꿈. 표와 사진 줄은 자체 가로 스크롤.
+# 이미 게시된 회차 페이지에도 이 문자열을 그대로 주입했다 — 고칠 땐 한 곳만.
+MOBILE_CSS = """
+#sort-btns{flex-wrap:wrap}
+.top{flex-wrap:wrap}
+@media (max-width: 480px) {
+  .excl-table{display:block;overflow-x:auto}
+  body{padding:8px;font-size:13px}
+  h1{font-size:1.05rem}
+  .controls{padding:8px 10px;gap:7px}
+  .divider{display:none}
+  #search{width:100%;flex:1 1 100%;order:99}
+  #count{margin-left:0}
+  .price{font-size:1.15rem}
+  .top{gap:6px}
+  .addr{font-size:.88rem}
+  .photos img{height:200px;min-width:150px}
+  .badge{font-size:.68rem;padding:2px 6px;white-space:normal}
+  .excl-table th,.excl-table td{padding:6px 8px}
+}
+html,body{max-width:100%;overflow-x:hidden}
+"""
+CSS += MOBILE_CSS
+
 # ---------------------------------------------------------------------------
 # JS
 # ---------------------------------------------------------------------------
@@ -601,6 +626,7 @@ doc = """\
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>퍼스 매물 룩북</title>
 <style>{css}</style>
 </head>
