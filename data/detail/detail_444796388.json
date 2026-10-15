@@ -1,0 +1,295 @@
+{
+  "prettyUrl": "property-apartment-wa-joondalup-444796388",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0437307415",
+    "website": "http://www.theagency.com.au",
+    "phoneNumber": "0437307415",
+    "powerProfile": false,
+    "jobTitle": "Leasing Manager",
+    "name": "Holly Woodward",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/28b714091790e233e9a7bf4ae4febb9deaf026428770f6e04980e392f972535f/main.jpg"
+    },
+    "id": "3993068",
+    "email": "hollywoodward@theagency.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to 38/165 Grand Boulevard; a stylish and spacious 2-bedroom, 2-bathroom apartment offering low-maintenance living in one of Joondalup’s most vibrant and connected locations. With contemporary features, natural light, and unbeatable access to lifestyle amenities, this home is perfect for those seeking comfort, convenience, and city-style living.<br/><br/>The highlights:<br/>• Generous master suite with walk-in robe and private ensuite<br/>• Open-plan living and dining area with soaring ceilings and abundant natural light<br/>• Modern kitchen equipped with 600mm appliances and built-in oven<br/>• Second bathroom with shower and vanity <br/>• Expansive balcony with elevated views, ideal for relaxing or entertaining<br/>• Secure complex with remote-controlled gate entry<br/>• Private storeroom for added storage convenience<br/>• Resident only amenities including a well-equipped gym, and communal BBQ area<br/><br/>Parking: Secure allocated car bay<br/><br/>The location:<br/>• Short stroll to Lakeside Joondalup Shopping City for shopping, dining and entertainment<br/>• Moments from Joondalup Health Campus, North Metropolitan TAFE and Lake Joondalup Baptist College<br/>• Easy access to Joondalup Train Station for a convenient commute<br/>• Close to Central Park, Lake Joondalup Nature Reserve, cafes, restaurants and everyday amenities<br/>With boutique shops, vibrant cafes, restaurants, parks, transport, and top-tier education and healthcare all nearby, this is urban living at its finest.<br/><br/>PLEASE NOTE: Please arrive at the advertised open home start time as everyone will be taken through as group. Unfortunately, if you arrive after the group has gone up, you may miss the inspection.<br/><br/>Next steps:<br/>Please register for the inspection by clicking \"Book Inspection\" on the listing. Registered attendees will be notified of any changes or cancellations. After attending the inspection, you'll receive an SMS and email with a link to submit your application.<br/><br/>Disclaimer: The information in this advertisement is provided as a guide only and is subject to change without notice. Prospective tenants should make their own enquiries to verify the information before relying on it.",
+  "showAgencyLogo": true,
+  "title": "Modern Apartment Living in the Heart of Joondalup",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0437307415",
+      "website": "http://www.theagency.com.au",
+      "phoneNumber": "0437307415",
+      "powerProfile": false,
+      "jobTitle": "Leasing Manager",
+      "name": "Holly Woodward",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/28b714091790e233e9a7bf4ae4febb9deaf026428770f6e04980e392f972535f/main.jpg"
+      },
+      "id": "3993068",
+      "email": "hollywoodward@theagency.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "apartment",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a66cba6fee8e9ec77665cad5c807d5f08f3533aa685c59d3856400d33582bef5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/78facca427d65c8b8e68f8fee45b8d155ed14093b3c051dbabc179e133f0e774/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/578173d16da7dd29f8c8a21e1fe1f7c7f87f7c7a8f5f0ebf0030837c09ae2255/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/796371c80ddfd663eeb0ae4fdbc229992185fdb02047c24c13919a6a03efc1e8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/83e54f5f74fa87949080a281b53ef3e62eaf124a6d2e886cf6b5642222c44115/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b72b71a6522dec14b4dfaeb0b93f19696cf8dc4d8328cc7fc5ffc81e5c20ca7f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a97cde68350f9331e748e413ca0d459e69535daac2e8a070793f2df5f183dfec/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a4b729776d5eb789ae1b26f272bbbf24a58f99d65d1c3a311a4ea31c3882201c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6b2f95e7aeedc439a762f0d9d5aadc4c68f7f79dfe15fb267af1aa779376b39d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0a05afc755c5dfafc60aff06ebea8ac06356525c3b0c71a2b803880a6e96b7f2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1de4b92bbfc2ed366b496b2e5ad7a4eb02de3e2ee7df7e9498a9b1a93221d577/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9d91925542bf0412d7ae1cef43f4fdc79d637828dd0fe41fc98d50e16b31f278/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/df315ac78c1d7d57a73c16ca32d2018347022405d972087c2bd8c2d72d3519da/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/50dee8eb81e0a9d6a33ce0778b414cc806171fddd80f267377b37395370b4c9c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/09544d4ab6ab4bcc2a32a58f09f15fdf6b5602d895051faed463377773361e20/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f4e8e1a66c28cf9efb13c6d61b640450a1b70e3e3ff3d11a58c518b3e84e394a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b2b1a1ae2f82fa28bb26159a271a6311eae983b2c7e54ff05bef49c4a2d47e1c/image.png"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "floorplan",
+      "resize": true,
+      "uri": "/ab78646b03509b8244935047f03501384a8ffc5ee93941ca3626928a67acf2d0/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "38/165 Grand Boulevard",
+    "locality": "Joondalup",
+    "postcode": "6027",
+    "suburb": "Joondalup",
+    "postCode": "6027",
+    "location": {
+      "latitude": -31.74340001,
+      "longitude": 115.77062428
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.theagency.com.au",
+    "address": {
+      "streetAddress": "Level 2, 1 Cambridge Street",
+      "postcode": "6007",
+      "suburb": "West Leederville",
+      "state": "WA"
+    },
+    "phoneNumber": "1300 243 629",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#272727"
+    },
+    "name": "The Agency - WA",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/489e4f98b74704767e776031b07270bd8e559fc104301ff999fc830581b5ae1e/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg",
+        "hero image": "/1536x800/489e4f98b74704767e776031b07270bd8e559fc104301ff999fc830581b5ae1e/main.jpg",
+        "default": "/160x30/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg",
+        "large": "/170x32/6386f883913ec585ee9c7e38bc48f9e9be64f7fc93f9d2e3f65cc90b5e249961/logo.jpg"
+      }
+    },
+    "agencyId": "SJOAVK",
+    "email": "hellowa@theagency.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6743148",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Carport: 1",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444796388",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/1c3ce91e75ea64d76da8788b6b8f4c0ddf103dece27931d2c0c15b459c255965/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "30 Sep 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Tomorrow",
+      "startTimeDisplay": "9:30 AM",
+      "endTimeDisplay": "9:40 AM",
+      "startTime": "2026-10-16T09:30:00",
+      "endTime": "2026-10-16T09:40:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

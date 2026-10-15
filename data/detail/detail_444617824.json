@@ -1,0 +1,219 @@
+{
+  "prettyUrl": "property-house-wa-beldon-444617824",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9221 6399",
+    "website": "http://www.momentumwealth.com.au/",
+    "phoneNumber": "08 9221 6399",
+    "powerProfile": false,
+    "name": "Rhianna Gillbard",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/cfaa0f5551ea73a2ee081924955673bb7ea52e876425774de57a5d2dfa81acab/main.jpg"
+    },
+    "id": "3515996",
+    "email": "2QP4JDL6@mail.snug.com"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Positioned on a generous 684sqm block directly opposite Beldon Park, this refreshed three-bedroom home offers the perfect combination of comfort, convenience, and lifestyle. With local schools, shopping centers, public transport, parklands, and the stunning coastline all within easy reach, this home presents an exceptional opportunity for those seeking a well-connected and family-friendly location.<br/><br/>The home is move-in ready and designed for easy living. The spacious front lounge welcomes plenty of natural light, while the expansive backyard and covered patio provide the ideal space for entertaining, relaxing, or enjoying time with family and friends.<br/><br/>Property Features:<br/>* Three generously sized bedrooms<br/>* Spacious front lounge filled with natural light<br/>* Split-system air conditioning for year-round comfort<br/>* Covered outdoor patio area, perfect for entertaining<br/>* Single secure carport with drive-through access to the rear<br/>* Large, family-friendly backyard with plenty of room to enjoy<br/>* Manual garage door<br/><br/>Conveniently Located Nearby:<br/>* Beldon Park<br/>* Beldon Primary School<br/>* Belridge Secondary College<br/>* Beldon and Belridge Shopping Centers<br/>* Edgewater Train Station<br/>* Mullaloo Beach<br/>* Westfield Whitford City<br/>* Ocean Reef Marina Precinct<br/>* Easy access to Perth CBD and major transport links<br/><br/><br/>AVAILABLE FROM: 31/07/2026<br/><br/><br/>TO VIEW THIS PROPERTY: To view this property and select your preferred inspection time, click on the \"contact agent’ link below, or the \"get in touch button\", enter your details and we will instantly respond. Important Note - If you are not registered, you will not be advised of cancelled viewings",
+  "showAgencyLogo": true,
+  "title": "Parkside living meets everyday convenience",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9221 6399",
+      "website": "http://www.momentumwealth.com.au/",
+      "phoneNumber": "08 9221 6399",
+      "powerProfile": false,
+      "name": "Rhianna Gillbard",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/cfaa0f5551ea73a2ee081924955673bb7ea52e876425774de57a5d2dfa81acab/main.jpg"
+      },
+      "id": "3515996",
+      "email": "2QP4JDL6@mail.snug.com"
+    },
+    {
+      "mobilePhoneNumber": "08 9221 6399",
+      "website": "http://www.momentumwealth.com.au/",
+      "phoneNumber": "08 9221 6399",
+      "powerProfile": false,
+      "name": "Liam Phillips",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/a1e6ec3d735370c885386705f46e62bccf28d845e92c61523a840c465fae12b0/main.jpg"
+      },
+      "id": "3223228",
+      "email": "rentals@momentumwealth.com.au,2QP4JDL6@mail.snug.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$670 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/24f5c5e1e7435f405132190289ee97cae956c39eb99f28007049448049fd9a06/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e8eab167907e75f97d8af624bc46ffbd4284afd5071e923b58765b54b355f823/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fa8a46b4f26c4e21cfbfb443889ab611f2e586f41bed326501006c98b964a8c3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/64084ee8ccc78a906a3a5dd3b941533fe8d317c19bc2adbddb9d2b8ec1387baf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e5538148a654036a86d5c78eff97866cb947d6ccfcd7a87b6ad98a2eb9c22688/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/49e6c2edc8a46523fa443e8346ed1c189f3a0ca7833783ef68f549a2af7480ec/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/11cba46d1abc739b9d1e86e4484c2345ced06537e25af64278b91b85d787dd7a/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "68 Gradient Way",
+    "locality": "Beldon",
+    "postcode": "6027",
+    "suburb": "Beldon",
+    "postCode": "6027",
+    "location": {
+      "latitude": -31.77589,
+      "longitude": 115.75779
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.momentumwealth.com.au/",
+    "address": {
+      "streetAddress": "Level 1, 38 Station St",
+      "postcode": "6008",
+      "suburb": "Subiaco",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9221 6399",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#b1a9a9"
+    },
+    "name": "Momentum Wealth Residential Property",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/bce0c81af9b09c368c8bccd3e86351cbc0021e58d1b38d1d547132a67a76bfd1/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/bce0c81af9b09c368c8bccd3e86351cbc0021e58d1b38d1d547132a67a76bfd1/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/bce0c81af9b09c368c8bccd3e86351cbc0021e58d1b38d1d547132a67a76bfd1/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/bce0c81af9b09c368c8bccd3e86351cbc0021e58d1b38d1d547132a67a76bfd1/logo.jpg",
+        "default": "/160x30/bce0c81af9b09c368c8bccd3e86351cbc0021e58d1b38d1d547132a67a76bfd1/logo.jpg",
+        "large": "/170x32/bce0c81af9b09c368c8bccd3e86351cbc0021e58d1b38d1d547132a67a76bfd1/logo.jpg"
+      }
+    },
+    "agencyId": "MOMEAS",
+    "email": "amandak@momentumwealth.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "b48700cc45a447658301659068671d96",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "444617824",
+  "bond": {
+    "display": "$2,680",
+    "value": 2680
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/6303ef829e1b937df8179af3e557a7d69ad132b47b72e3134bdaf15cab287901/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "31 Jul 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "444617824",
+    "region": "Beldon",
+    "price": "670",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": "🚆 33분(도보 951m): 도보 0.3 km → Gradient Wy Beldon Shopping Centre[463] 14정거장/20 mins → 도보 0.7 km ·무환승 · 🚲 자전거 17 mins(4.6 km) (Maps)",
+    "grocery": "🛒 도보 431m 6분 (Woolworths Beldon)",
+    "amenity": "🏪 amenity:B(클러스터6·최근접431m)"
+  },
+  {
+    "id": "444796388",
+    "region": "Joondalup",
+    "price": "700",
+    "type": "apartment",
+    "bd": "2",
+    "floor": "?",
+    "flag": "",
+    "commute": "🚆 12분(도보 609m): 도보 0.3 km → Boas Av Civic Centre[Blue CAT] 5정거장/4 mins → 도보 0.3 km ·무환승 · 🚲 자전거 3 mins(1.3 km) (Maps)",
+    "grocery": "🛒 도보 205m 3분 (Ok Oriental Mini Mart)",
+    "amenity": "🏪 amenity:A(클러스터52·최근접205m)"
+  },
+  {
+    "id": "445210604",
+    "region": "Kinross",
+    "price": "700",
+    "type": "villa",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": "🚆 43분(도보 519m): 도보 0.1 km → Kinross Dr After Marmion Av[474] 31정거장/29 mins → 도보 47 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · ⚡최단 41분(도보 2088m) · 🚲 자전거 27 mins(8.2 km) (Maps)",
+    "grocery": "🛒 🚌 11분 (Tucker Fresh IGA Kinross, 현지도보 252m)",
+    "amenity": "🏪 amenity:D(클러스터0·최근접2057m)"
+  }
+]
