@@ -16,6 +16,11 @@ DATESTR = datetime.now().strftime("%Y%m%d")
 TOOLS   = os.path.dirname(os.path.abspath(__file__))
 IMGDIR  = "imgs_detail"          # relative from HTML file location
 ECU_LAT, ECU_LNG = -31.9502, 115.8640   # 500 Wellington St, Perth City Campus
+# 오케스트레이터가 그룹별 통근 목적지를 PERTH_DEST(주소)·PERTH_DEST_LABEL(링크 라벨)로 넘긴다. 없으면 City Campus.
+DEST_ADDR  = os.environ.get("PERTH_DEST", "")
+DEST_LABEL = os.environ.get("PERTH_DEST_LABEL", "ECU City")
+def _dest_param():
+    return "+".join(DEST_ADDR.split()) if DEST_ADDR else "%.6f,%.6f" % (ECU_LAT, ECU_LNG)
 
 # 제외 컷 (사용자 조정 가능) — 2026-06-09: 도보는 1km 하드컷 아님(경계선 1000~1150 포함)
 COMMUTE_CUT = 60      # 분 초과 시 제외 (2026-06-15: C존 외곽 도어투도어 60분 정책 반영, 40→60)
@@ -59,12 +64,12 @@ def exclusion_reason(flag, mins, walk):
 
 def gmaps_url_coord(lat, lng):
     return ("https://www.google.com/maps/dir/?api=1&origin=%.6f,%.6f"
-            "&destination=%.6f,%.6f&travelmode=transit") % (lat, lng, ECU_LAT, ECU_LNG)
+            "&destination=%s&travelmode=transit") % (lat, lng, _dest_param())
 
 def gmaps_url_addr(addr, region):
     return ("https://www.google.com/maps/dir/?api=1&origin=%s+%s+WA+Australia"
-            "&destination=%.6f,%.6f&travelmode=transit") % (
-            "+".join(addr.split()), "+".join(region.split()), ECU_LAT, ECU_LNG)
+            "&destination=%s&travelmode=transit") % (
+            "+".join(addr.split()), "+".join(region.split()), _dest_param())
 
 FLOOR_BADGE = {
     "BARE": ('b-bare', '🟢 BARE'),
@@ -311,7 +316,7 @@ for e in manifest:
     walk_cls = "walk-warn" if walk >= 1000 else ""
     xfer_html = ' <span class="xfer">환승</span>' if xfer else ""
     _gmap = gmaps_url_coord(lat, lng) if (lat and lng) else gmaps_url_addr(addr, region)
-    gmaps_html = '<a class="maps-link" href="%s" target="_blank">🗺 구글맵 길찾기 (ECU City)</a>' % esc.escape(_gmap)
+    gmaps_html = '<a class="maps-link" href="%s" target="_blank">🗺 구글맵 길찾기 (%s)</a>' % (esc.escape(_gmap), esc.escape(DEST_LABEL))
     rea_html   = '<a class="rea-link" href="%s" target="_blank">↗ realestate.com.au/%s</a>' % (esc.escape(rea_url), lid)
 
     # photo img tags — try 01-40, remove on error (캡 없음; 40은 안전 상한)

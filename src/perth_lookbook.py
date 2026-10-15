@@ -37,6 +37,7 @@ except Exception as _hub_e:  # pragma: no cover
 ZONE_SEARCH = {"cat": 750, "inner": 700, "river": 650, "joondalup": 850}   # 준달럽 2~3BR 실거래 $700~920(2026-10-15 실측) → 700이면 3건뿐
 # 그룹별 통근 목적지 (perth_commute.py 가 PERTH_DEST 환경변수로 읽음). 없으면 ECU City Campus.
 GROUP_DEST = {"joondalup": "270 Joondalup Drive, Joondalup WA 6027"}   # ECU Joondalup Campus
+GROUP_DEST_LABEL = {"joondalup": "ECU Joondalup"}   # 룩북 길찾기 링크 라벨 (perth_pdf.py 가 PERTH_DEST_LABEL 로 읽음)
 
 # ── 유틸 ─────────────────────────────────────────────────────────────────────
 def _slug(group: str) -> str:
@@ -341,6 +342,7 @@ slug  = args.slug or _slug(args.group)
 t0    = time.time()
 if args.group in GROUP_DEST:   # 하위 프로세스(perth_commute)가 상속
     os.environ["PERTH_DEST"] = GROUP_DEST[args.group]
+    os.environ["PERTH_DEST_LABEL"] = GROUP_DEST_LABEL.get(args.group, "")
 
 manifest_path  = TOOLS / ("auto_%s_manifest.json" % slug)
 html_path      = TOOLS / ("%s.html" % slug)
