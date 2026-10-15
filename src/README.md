@@ -61,7 +61,7 @@ python perth_lookbook.py <group> [--beds 2,3] [--type ...] [--floor ...] [--no-r
 
 ### 케이스 ② Claude가 리스트 뽑아 추림
 1. `python perth_search.py <group> --min N --max N --beds 2 [--type ...] [--floor nocarpet] [--no-red]` → 가격·bd/ba/car·바닥·reno·플래그·listingId.
-   - 그룹: `cat`(무료CAT권) / `inner`(자전거·페리권) / `river` / `gallery` / `first3` / `all` / 또는 `"Suburb, WA 60xx"`.
+   - 그룹: `cat`(무료CAT권) / `inner`(자전거·페리권) / `river` / `joondalup`(ECU Joondalup 캠퍼스권, 통근 목적지도 Joondalup) / `gallery` / `first3` / `all` / 또는 `"Suburb, WA 60xx"`.
    - **선별 원칙: 애매하면 다 본다.** floor "?"·borderline 미리 컷 금지.
 2. 괜찮아 보이는 것마다 `perth_detail.py <id> --imgs`.
 3. Claude 판단 → manifest 추가.

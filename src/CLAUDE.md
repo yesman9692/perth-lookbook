@@ -13,7 +13,8 @@ python perth_lookbook.py <group> [--beds 2,3] [--max N] [--type ...] [--floor an
     [--no-red] [--no-cap] [--deploy] [--slug NAME] [--skip-judge] [--no-sync]
     [--workers 6] [--cap 14] [--judge-workers 3] [--judge-cap 14] [--judge-model opus]
 ```
-- `group`: `cat`(코어 $750) / `inner`($700) / `river`($650) / `all`(cat+inner 병합) / `first3` / `gallery` / `"Suburb, WA 60xx"`.
+- `group`: `cat`(코어 $750) / `inner`($700) / `river`($650) / `joondalup`($850 — 준달럽 2~3BR 시세가 $700~920이라, 통근 목적지 = ECU Joondalup 캠퍼스. 존 하드캡에 잘리므로 `--no-cap` 권장) / `all`(cat+inner 병합) / `first3` / `gallery` / `"Suburb, WA 60xx"`.
+- 통근 목적지: 기본 ECU City Campus. `perth_lookbook.py`의 `GROUP_DEST`가 그룹별로 `PERTH_DEST` 환경변수를 세팅 → `perth_commute.py`가 읽는다. 단독 실행 시 `PERTH_DEST="..." python perth_commute.py ...`.
 - 대표 풀런: `python perth_lookbook.py all --beds 2,3 --deploy --slug cat-inner-0623`
 - 7개 빌딩블록을 **사람 개입 0**으로 릴레이. 내가 스크립트를 하나씩 부르는 게 아니라 **이 한 줄이 1→7 자동 진행**.
 

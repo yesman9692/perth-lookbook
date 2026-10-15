@@ -34,7 +34,9 @@ except Exception as _hub_e:  # pragma: no cover
 
 # ── 존별 검색 캡 (원래캡 +$50 넉넉히) ────────────────────────────────────────
 # all 그룹은 cat+inner 각각 이 캡으로 검색 후 id 기준 dedup 병합
-ZONE_SEARCH = {"cat": 750, "inner": 700, "river": 650}
+ZONE_SEARCH = {"cat": 750, "inner": 700, "river": 650, "joondalup": 850}   # 준달럽 2~3BR 실거래 $700~920(2026-10-15 실측) → 700이면 3건뿐
+# 그룹별 통근 목적지 (perth_commute.py 가 PERTH_DEST 환경변수로 읽음). 없으면 ECU City Campus.
+GROUP_DEST = {"joondalup": "270 Joondalup Drive, Joondalup WA 6027"}   # ECU Joondalup Campus
 
 # ── 유틸 ─────────────────────────────────────────────────────────────────────
 def _slug(group: str) -> str:
@@ -305,7 +307,7 @@ def deploy(slug: str, html_path: Path, label: str, manifest_path: Path) -> str |
 # ── argparse ─────────────────────────────────────────────────────────────────
 ap = argparse.ArgumentParser(
     description="퍼스 렌트 룩북 단일 오케스트레이터 — search→download→commute→render→judge→merge→deploy")
-ap.add_argument("group", help="검색 그룹(cat/inner/river/first3/gallery/all) 또는 'Suburb, WA 60xx'")
+ap.add_argument("group", help="검색 그룹(cat/inner/river/joondalup/first3/gallery/all) 또는 'Suburb, WA 60xx'")
 # search 필터 패스스루
 ap.add_argument("--max",   type=int, default=700,  help="최고 임대료 $/주")
 ap.add_argument("--min",   type=int, default=0,    help="최저 임대료 $/주")
@@ -337,6 +339,8 @@ args = ap.parse_args()
 
 slug  = args.slug or _slug(args.group)
 t0    = time.time()
+if args.group in GROUP_DEST:   # 하위 프로세스(perth_commute)가 상속
+    os.environ["PERTH_DEST"] = GROUP_DEST[args.group]
 
 manifest_path  = TOOLS / ("auto_%s_manifest.json" % slug)
 html_path      = TOOLS / ("%s.html" % slug)

@@ -9,7 +9,7 @@
 #   python perth_search.py "Mount Lawley, WA 6050" --max 700 --type villa,townhouse,unit
 #   python perth_search.py cat   --max 700 --no-red          # hide hard red-flag listings
 #
-# groups: cat (free-CAT core) | inner (bike/ferry ring) | river | first3 | all
+# groups: cat (free-CAT core) | inner (bike/ferry ring) | river | joondalup (ECU Joondalup) | first3 | all
 # floor:  BARE = hard/non-carpet (barefoot ok, GOOD) | mix = living hard + beds carpet | CARP = carpet | ? = ad didn't say
 # flags:  RED = auto-out (communal laundry / serviced-short-stay / granny-rear)
 #         YEL = soft (furnished / carpet / fifo-ish)  -> not filtered unless asked
@@ -26,6 +26,10 @@ GROUPS = {
               "Subiaco, WA 6008", "Mount Hawthorn, WA 6016", "South Perth, WA 6151",
               "Victoria Park, WA 6100", "Como, WA 6152", "Kensington, WA 6151", "Maylands, WA 6051"],
     "river": ["South Perth, WA 6151", "Como, WA 6152", "Kensington, WA 6151"],
+    # ECU Joondalup 캠퍼스 도보·자전거권 (2026-10-15, 간호석사 전환 시 실습·수업 캠퍼스)
+    "joondalup": ["Joondalup, WA 6027", "Edgewater, WA 6027", "Connolly, WA 6027",
+                  "Heathridge, WA 6027", "Beldon, WA 6027", "Ocean Reef, WA 6027",
+                  "Mullaloo, WA 6027", "Currambine, WA 6028", "Kinross, WA 6028", "Iluka, WA 6028"],
     "first3":["Wembley, WA 6014", "Rivervale, WA 6103", "Shenton Park, WA 6008"],
     # original perth_rentals.html gallery footprint (re-filter target)
     "gallery":["East Perth, WA 6004", "Victoria Park, WA 6100", "Maylands, WA 6051",

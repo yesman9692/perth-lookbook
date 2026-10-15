@@ -23,7 +23,9 @@ CACHE_FILE = os.path.join(TOOLS, "places_cache.json")   # amenity/grocery listin
 USAGE_FILE = os.path.join(TOOLS, "_deploy", "data", "places_usage.json")   # New API 월 호출 카운터(git 동기화 대상)
 MONTHLY_LIMIT = 4500    # Pro 무료 5,000 아래 안전마진. 도달 시 호출 skip→폴백, 월 바뀌면 자동 리셋
 FALLBACK_AMENITY = "🏪 amenity:D(클러스터0·최근접9999m)"   # New API 미활성/오류 시. 이 값은 캐싱 안 함.
-DEST = "500 Wellington Street, Perth WA 6000"   # ECU City Campus
+# 통근 목적지 — 기본 ECU City Campus. 오케스트레이터가 그룹별로 PERTH_DEST 환경변수로 바꿔 넘긴다
+# (예: joondalup 그룹 → ECU Joondalup Campus).
+DEST = os.environ.get("PERTH_DEST", "500 Wellington Street, Perth WA 6000")
 WALK_PENALTY = 2.0   # 도보 1분 체감 = 탑승 2분. ↑ 도보 더 회피 / ↓ 시간 우선
 
 AWST = timezone(timedelta(hours=8))
