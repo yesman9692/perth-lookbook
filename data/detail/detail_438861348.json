@@ -1,0 +1,297 @@
+{
+  "prettyUrl": "property-house-wa-joondalup-438861348",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0416933623",
+    "website": "http://www.crashrealty.com.au",
+    "phoneNumber": "0416933623",
+    "powerProfile": false,
+    "name": "David Crash - Rent",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3694372",
+    "email": "rentals@davidcrash.com"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Beautiful Family Home with Spacious Entertaining Area<br/><br/>We are delighted to present this charming and well-maintained family home, offering comfort, space, and convenience in a sought-after location. Designed with practical family living in mind, this inviting home features three generous bedrooms, two bathrooms, a sunken lounge perfect for relaxing, a spacious open-plan kitchen with adjoining dining area, and a large covered patio ideal for entertaining family and friends or simply unwinding after a long day.<br/><br/>Conveniently located just minutes from local schools, cafés, parks, shopping facilities, and public transport, this neat and tidy home is ready for its next residents to move in and enjoy. Don't miss the opportunity to secure this fantastic family home in a convenient and family-friendly location.<br/><br/>🏡 Features You'll Love:<br/>🛏️ 3 spacious bedrooms and 2 bathrooms<br/>🍽️ Large open-plan kitchen with ample storage and bench space<br/>🛋️ Sunken lounge room offering a cosy retreat<br/>🧺 Separate laundry for added convenience<br/>🌿 Large covered patio, perfect for outdoor entertaining<br/>🚗 Double lock-up carport with secure parking<br/><br/>✨ Location Highlights:<br/>📍 Approximately 25km from Perth CBD<br/>🛍️ Close to Lakeside Joondalup Shopping Centre<br/>🚉 Easy access to Joondalup Train Station<br/>☕ Minutes from local cafés, parks, schools, and public transport<br/><br/>📩 Important: Home Open & Application Process<br/>* Send an enquiry to receive home open notifications and application links<br/>* Applications accepted \"after viewing\" or \"without viewing\"<br/>* Applications subject to viewing after approval will not be accepted<br/>🔑 Enquire today to secure this fantastic rental!",
+  "showAgencyLogo": true,
+  "title": "3x2 House in Joondalup with Patio.",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0416933623",
+      "website": "http://www.crashrealty.com.au",
+      "phoneNumber": "0416933623",
+      "powerProfile": false,
+      "name": "David Crash - Rent",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3694372",
+      "email": "rentals@davidcrash.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 4
+    }
+  },
+  "price": {
+    "display": "$765 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c4c457218fb3b653b37e2616985097a6dad5cec7edbb229fb4b8e2e76b650c88/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/10f15486fcdace08fbbb52d6db9df47a27ada0aec58412cc3ce415088182202b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fefb4987ca58ab182ef86308fdeacb4ddbe0e80214efb16ed18c1c9bb9c1edc4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b9721f5f748d232e1dd1a1f2b3ae9d191fbcb6214d28382d5af0c7a1907466c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/78cb5de6c72b6c1c09c0b3b3d96470788dd7cbc085ec19852f6e5e997d92e1a0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8dff98cf417686fd18bb0a49bf79219bb84d7136704477b33867b0656cfd3e44/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6f808560907ad618221d48870e47571389039db127c528e6efba6475372f89cd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fab2228725070cea78337243945c63fadc5c288d8604eb4469a41ca3c383f756/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7bcef7757337df7c571efdc951fbee61c3a764f40a9ac9e621fd6b9800d3ffc3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6500ce7f819ad1514063c5e9e72a5483dad3b415f6a09a780a836c44646aed6c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b4b94f6d3301e22dabce53d12731d750d2df82842469830f9be970376e5127fd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5db09eeb81cede486e18cc4600a7aac8d3909ff92e4f04e3818e46c43682895d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/62873799fd89d02151ba7782171be1682785bd3f1c5eafa21013e77aec44e219/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3661452fc6630a26d17422d7e20b284111faff735d0b50d5b1969d0072102d94/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c1d4912b34014b6396455ec3ec37283ed9c9bd674495b1fe040934ea41982bea/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/527b79802e50930bb85d93c8d591d01f897b4609c5a5425f530fb4d384c5809a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ec56246ec08eb25a0a45cd23e5e5f77ba9253c1b9adbf9b4d951ca8719c68cc9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/80d558dcf975e317738e28c8f7df8c685278040d3062b4bcb8292018adaa7421/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a5e77d80d55b1bda8e56266c747457eaf62cf2da54a936097569ffcc357abf7e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/19b151cd9fa72976502240a80833049242f7a705b9de6feaad835bd06a638a3c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d0018b71ad524aad1c9889c6bc5e1c39d3c5b2d25754c808d7cdd544748fd1d1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d00aeb53b154e1bc32e6bf707d4a8b2b3e2accfa4c5cbdf5218d20e6dede68b8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4b98f4031d5b9fa940ae4130f075b47c3e149dce687e97c00dda9a69d7dc7846/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "22 Simcoe Court",
+    "locality": "Joondalup",
+    "postcode": "6027",
+    "suburb": "Joondalup",
+    "postCode": "6027",
+    "location": {
+      "latitude": -31.73048,
+      "longitude": 115.76348
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.crashrealty.com.au",
+    "address": {
+      "streetAddress": "191 Mirrabooka Avenue",
+      "postcode": "6061",
+      "suburb": "Balga",
+      "state": "WA"
+    },
+    "phoneNumber": "0416 933 623",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#000000"
+    },
+    "name": "David Crash",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/f9f003748a369746923e71f993f0c4cef510755dec09798c38a5c2576709e8b2/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg",
+        "hero image": "/1536x800/f9f003748a369746923e71f993f0c4cef510755dec09798c38a5c2576709e8b2/main.gif",
+        "default": "/160x30/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg",
+        "large": "/170x32/9ecbdce4688d3e5a652f2045c4a1fd4ed897b3a31ad67108d147b047271d6fd4/logo.jpg"
+      }
+    },
+    "agencyId": "EZCMGT",
+    "email": "support@crashrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "1313484",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 2",
+        "Fully Fenced",
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Living Areas: 2",
+        "Toilets: 2"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "438861348",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/645d914e3636713113f71be05766900e477c8224b2f1454aafd42283c650cd71/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "26 Sep 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 4",
+      "type": "parkingSpaces",
+      "value": 4
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

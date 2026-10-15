@@ -34,5 +34,145 @@
     "commute": "🚆 43분(도보 519m): 도보 0.1 km → Kinross Dr After Marmion Av[474] 31정거장/29 mins → 도보 47 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · ⚡최단 41분(도보 2088m) · 🚲 자전거 27 mins(8.2 km) (Maps)",
     "grocery": "🛒 🚌 11분 (Tucker Fresh IGA Kinross, 현지도보 252m)",
     "amenity": "🏪 amenity:D(클러스터0·최근접2057m)"
+  },
+  {
+    "id": "445211304",
+    "region": "Connolly",
+    "price": "730",
+    "type": "house",
+    "bd": "3",
+    "floor": "BARE",
+    "flag": "",
+    "commute": "🚆 27분(도보 1245m): 도보 0.6 km → Hodges Dr After Chantilly Wy[462] 3정거장/10 mins → 도보 0.7 km ·무환승 · 🚲 자전거 13 mins(3.6 km) (Maps)",
+    "grocery": "🛒 도보 1197m 17분 (IGA Beaumaris)",
+    "amenity": "🏪 amenity:D(클러스터2·최근접1197m)"
+  },
+  {
+    "id": "442629108",
+    "region": "Connolly",
+    "price": "730",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": "🚆 42분(도보 1228m): 도보 0.8 km → Shenton Av After Delamere Av[460] 8정거장/18 mins → 도보 47 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · ⚡최단 39분(도보 1890m) · 🚲 자전거 18 mins(4.9 km) (Maps)",
+    "grocery": "🛒 도보 1169m 17분 (ALDI)",
+    "amenity": "🏪 amenity:D(클러스터1·최근접1169m)"
+  },
+  {
+    "id": "445240092",
+    "region": "Currambine",
+    "price": "730",
+    "type": "unit",
+    "bd": "2",
+    "floor": "?",
+    "flag": "",
+    "commute": ""
+  },
+  {
+    "id": "445237288",
+    "region": "Joondalup",
+    "price": "750",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": "🚆 13분(도보 655m): 도보 0.3 km → Boas Av Civic Centre[Blue CAT] 5정거장/4 mins → 도보 0.3 km ·무환승 · 🚲 자전거 3 mins(1.2 km) (Maps)",
+    "grocery": "🛒 도보 462m 6분 (ALDI)",
+    "amenity": "🏪 amenity:A(클러스터52·최근접462m)"
+  },
+  {
+    "id": "438861348",
+    "region": "Joondalup",
+    "price": "765",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": "🚆 27분(도보 484m): 도보 0.1 km → Candlewood Bvd After Silkeborg Cr[391] 7정거장/8 mins → 도보 38 m → Joondalup Station[Blue CAT] 10정거장/10 mins → 도보 0.3 km ·환승1회 · ⚡최단 22분(도보 1174m) · 🚲 자전거 11 mins(3.7 km) (Maps)",
+    "grocery": "🛒 도보 297m 4분 (Candlewood IGA)",
+    "amenity": "🏪 amenity:B(클러스터11·최근접297m)"
+  },
+  {
+    "id": "445176104",
+    "region": "Mullaloo",
+    "price": "775",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": " YEL:furnished",
+    "commute": ""
+  },
+  {
+    "id": "445214972",
+    "region": "Currambine",
+    "price": "775",
+    "type": "unit",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": ""
+  },
+  {
+    "id": "436464280",
+    "region": "Joondalup",
+    "price": "800",
+    "type": "house",
+    "bd": "3",
+    "floor": "MIX",
+    "flag": " YEL:carpet",
+    "commute": ""
+  },
+  {
+    "id": "445178688",
+    "region": "Joondalup",
+    "price": "800",
+    "type": "duplex/semi-detached",
+    "bd": "3",
+    "floor": "BARE",
+    "flag": "",
+    "commute": ""
+  },
+  {
+    "id": "439592460",
+    "region": "Heathridge",
+    "price": "800",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": ""
+  },
+  {
+    "id": "445236828",
+    "region": "Heathridge",
+    "price": "850",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": "",
+    "commute": ""
+  },
+  {
+    "id": "443965236",
+    "region": "Ocean Reef",
+    "price": "850",
+    "type": "house",
+    "bd": "3",
+    "floor": "?",
+    "flag": " YEL:furnished",
+    "commute": ""
+  },
+  {
+    "id": "445089868",
+    "region": "Mullaloo",
+    "price": "850",
+    "type": "apartment",
+    "bd": "2",
+    "floor": "?",
+    "flag": "",
+    "commute": "🚆 45분(도보 522m): 도보 0.1 km → Oceanside Prom After Korella St[460] 25정거장/32 mins → 도보 47 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · ⚡최단 42분(도보 1184m) · 🚲 자전거 30 mins(7.7 km) (Maps)",
+    "grocery": "🛒 도보 1435m 21분 (IGA Mullaloo)",
+    "amenity": "🏪 amenity:D(클러스터0·최근접1435m)"
   }
 ]

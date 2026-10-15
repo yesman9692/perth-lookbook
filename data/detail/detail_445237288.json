@@ -1,0 +1,333 @@
+{
+  "prettyUrl": "property-house-wa-joondalup-445237288",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0411133994",
+    "website": "http://propertynorth.net/",
+    "phoneNumber": "0411133994",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Shanae West",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/213604034e949987efc0290696ce43a04364534f7da8e07971199e4603470408/main.jpg"
+    },
+    "id": "3539868",
+    "email": "rentals@propertynorth.net"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "This beautifully presented 3 bedroom, 2 bathroom apartment is located on the first floor of the sought after Maddison apartment complex, perfectly positioned in the heart of Joondalup City Centre. Enjoy spectacular views across Central Park from your private balcony, and the convenience of being just steps away from Lakeside Joondalup Shopping Centre, the train station, cafes, restaurants, and all local amenities.<br/><br/>Features include:<br/>- 3 generously sized bedrooms, all with built in wardrobes<br/>- 2 well appointed bathrooms<br/>- Modern kitchen with ample bench and cupboard space<br/>- Open plan living and dining area<br/>- European style laundry with washing machine and dryer<br/>- Split system air conditioning for year round comfort<br/>- Spacious balcony with elevated views over Central Park<br/>- Quality flooring throughout<br/>- 2 secure undercover car bays<br/>- Separate lockable storeroom <br/><br/>Resident Amenities:<br/>- Sparkling resort-style swimming pool<br/>- Fully equipped gymnasium<br/>- Relaxing sauna<br/><br/>With its excellent floor plan, premium location, and access to first-class facilities, this apartment is easily one of the best in the complex.<br/><br/>Available 26th of November 2026<br/><br/>For any enquiries please contact Shanae on 6404 3895.<br/><br/>PLEASE NOTE APPLICANTIONS WILL NOT BE PROCESSED UNTIL AN APPLICANT HAS SUCCESSFULLY ATTENDED A HOME OPEN.<br/><br/>",
+  "showAgencyLogo": true,
+  "title": "Stunning Apartment for Rent in Joondalup - Experience Comfort and Style at its Finest!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0411133994",
+      "website": "http://propertynorth.net/",
+      "phoneNumber": "0411133994",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Shanae West",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/213604034e949987efc0290696ce43a04364534f7da8e07971199e4603470408/main.jpg"
+      },
+      "id": "3539868",
+      "email": "rentals@propertynorth.net"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$750 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/03514547c0e778d8a608014dc4b6e174da6ac992715f7f05da845b12bf53d9f4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1849f228286baa235af8e62b54d20656890b2a6b80cf68e29494a888164820a6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cfe1d618efb3c5739f16e4ebf0959343c5e6f939e1ee38f85bb93e069d4f9d52/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/62ffb69072c573486a90c59bf3c34d384981ac5b9820e7ae5360de763b250f0d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b075b2d1de700065eff740d078570804b46f35c74f6d56f2e9576819ea8b752f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0c2f61c627add595892f78533ba07fb97e041cca12ebe5aeaae1c7430f6c5382/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/45bde52f0950731cf1c533010ad3e15f9012f8a856091395d7fd483aa9f29086/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8558e960b9b5026e64e4db958c197b16a4435e38acb07bc5d049d176ab2e3403/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1f497b66958951e5ab89ccb937c76e4f429beac2e8d903bc4fcc3de9eed413ef/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1984e3afb36e8c6843ffb7423b44438ac85d019d8384ff7ec52de801c9dee5d3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/976c1f3a655cc9b15f0fb96fffb398e94b6c7be1ce36e8c7da3547d7dafc22be/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cd16f3e99531bd75058d9ad3d179a3aa93a0908ea0906eae144bdacbbe5bc8c6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/df388df4c10c2c8b74a4d9296a9d2f24478ce696c1d0a9fe2a931d86355a4ac3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a04fb1b52e79dbab1f649930f765c9f4cdd63aceefdadbeff811fac9ae4689b9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3e69ed3ec2b7e61a74c85adc6346d8446d1abfc79b94b86a0561fef9531a5a37/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cab9827cfa11cfb17aa97fd55b98735ae7256d8bd9f9dbed52b2909f58dc6f06/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/938c2fa1e5eb61933c28920cc3a47b52849a939f8952adecc1e20294d7743724/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/24288b1ed5ffb40817f59c0ee0ce4dd318b52d92a70bdde9c2db638d16208a96/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8e352de238205f955e594f4c404e76e5f95519c53bfaa3c1b50da6c59c291071/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1c9c3985f1139e47f9b51ad7cd063093e4dfe06388144f2098e203fd297a8eaf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/805f608eb4ab87b7334c6324348af5e585414645ce03c36d06ead3014acf0e45/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/daf031404fd159518d5a7fa51a7e8f81a410ed6b22836e97f84be8a2354dc1a9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6743b31501adad21a8e6667aad59da765a1c1076b706d247212d0b28bf476a7d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f6312224f4f1c0336d2ca038d400fdf49323c7c461e7eb9cf5bd5af55841fb05/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0a9fcc6fa5ccd5d3ced21c4b4c242bcc017d244cce3505150d0ee3191e8b12b7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1f0cfd0766706c7c2450909baf95cc7722158fc3a24c2a117052d7930c380cea/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/81ab554149d0e9ea632974ba9453565e9cd4b3c1fb7f094a8f2a6a312bfe4efe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/715391fa8188c435410922b7f355a2c3e17aac932cf1d86df119d0478cdb9e4b/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "47/167 Grand Boulevard",
+    "locality": "Joondalup",
+    "postcode": "6027",
+    "suburb": "Joondalup",
+    "postCode": "6027",
+    "location": {
+      "latitude": -31.7439722,
+      "longitude": 115.77062178
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://propertynorth.net/",
+    "address": {
+      "streetAddress": "3/1 Jewel Way",
+      "postcode": "6031",
+      "suburb": "Banksia Grove",
+      "state": "WA"
+    },
+    "phoneNumber": "0864043895",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#27c0c0"
+    },
+    "name": "Property North - Banksia Grove",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/5a7977c75ab9765a03d2c7a4d20ecc81801ae04498a3e8303c3d6c46ca2d6860/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/5a7977c75ab9765a03d2c7a4d20ecc81801ae04498a3e8303c3d6c46ca2d6860/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/5a7977c75ab9765a03d2c7a4d20ecc81801ae04498a3e8303c3d6c46ca2d6860/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/654896de3ab06521c6bdf54880d5992a6f0d7bac4f07e9a14ffff87c9d12c6db/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/5a7977c75ab9765a03d2c7a4d20ecc81801ae04498a3e8303c3d6c46ca2d6860/logo.jpg",
+        "hero image": "/1536x800/654896de3ab06521c6bdf54880d5992a6f0d7bac4f07e9a14ffff87c9d12c6db/main.jpg",
+        "default": "/160x30/5a7977c75ab9765a03d2c7a4d20ecc81801ae04498a3e8303c3d6c46ca2d6860/logo.jpg",
+        "large": "/170x32/5a7977c75ab9765a03d2c7a4d20ecc81801ae04498a3e8303c3d6c46ca2d6860/logo.jpg"
+      }
+    },
+    "agencyId": "TMUPWY",
+    "email": "admin@propertynorth.net"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "ren128751",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Balcony",
+        "Carport: 2",
+        "Remote Garage",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Built-in Wardrobes",
+        "Ensuite: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "445237288",
+  "bond": {
+    "display": "$3,000",
+    "value": 3000
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/2ac311df13065ccaef216d5a63265b50a90674eea99150d6217eda71881d4db1/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "26 Nov 2026",
+    "dateDisplay": "26 Nov 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

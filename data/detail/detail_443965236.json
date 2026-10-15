@@ -1,0 +1,231 @@
+{
+  "prettyUrl": "property-house-wa-ocean+reef-443965236",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "1800234397",
+    "website": "http://www.rentbetter.com.au",
+    "phoneNumber": "1800234397",
+    "powerProfile": false,
+    "jobTitle": "",
+    "name": "RentBetter",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/fceac892064355b30cf5ede9ff4eaa67a2223e475c88fa9b1761929b502207ba/main.jpg"
+    },
+    "id": "1486286",
+    "email": "rea@reply.rentbetter.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "RentBetter Property ID: 421235 (quote when calling)<br/><br/>APPLY: Send through an enquiry and you'll receive the link to apply<br/><br/>Property inspections 18/4/26 12pm to 1pm now in Ocean Reef Spacious, modern, fully self-contained, and feels like a full home, Don’t miss ✔️ 3 generous bedrooms<br/>✔️ 2 bathrooms<br/>✔️ Master with private ensuite<br/>✔️ Full kitchen + laundry<br/>✔️ Pool, patio & outdoor space<br/><br/>Perfect for anyone wanting space, privacy, and a relaxed coastal lifestyle.<br/><br/>Prime location:<br/>•very close fuel stations & shopping centres <br/>• Mullaloo Beach only 3 mins away<br/>• Future Ocean Reef Marina nearby for dining, walking & leisure<br/>• Shops, schools & fuel stations close by<br/>$850/week Looking for long-term, clean, respectful tenants.<br/><br/>Please call or text for viewing Ph 0439090413<br/>Properties like this go fast!",
+  "showAgencyLogo": false,
+  "title": "House for rent 3/2 $850",
+  "listers": [
+    {
+      "mobilePhoneNumber": "1800234397",
+      "website": "http://www.rentbetter.com.au",
+      "phoneNumber": "1800234397",
+      "powerProfile": false,
+      "jobTitle": "",
+      "name": "RentBetter",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/fceac892064355b30cf5ede9ff4eaa67a2223e475c88fa9b1761929b502207ba/main.jpg"
+      },
+      "id": "1486286",
+      "email": "rea@reply.rentbetter.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$850 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7a5c39183cb968afca343a1187422ee82b391296446861fd871c72c84a1ac4f1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7accf27bb37712924ee51f37f43e9a988033fbf8974c3bc0329cd5a888ca255a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/15e540e12d99d3d136a1441eb57df6732a0b6868cdfda744057964356c57cb32/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f7f78d76afefccd26435e32c1fbd412f5dffb89b6f8e6958c9520fbe2a4106d3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f466a88cf61197bd8b3dd5b4357fc17c56429a166876cd9e2782828abc715d1e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/728e9649cbffeeb7a84566a0eaae579011f76b95fc9abae448573fe40758f9b7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8fd9e61ddcc99bf55cae61e3021752e67e64a996ac73bf683552c85c1c1b1516/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "Address available on request",
+    "locality": "Ocean Reef",
+    "postcode": "6027",
+    "suburb": "Ocean Reef",
+    "postCode": "6027",
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": false
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rentbetter.com.au",
+    "address": {
+      "streetAddress": "-",
+      "postcode": "2026",
+      "suburb": "Bondi",
+      "state": "NSW"
+    },
+    "phoneNumber": "1800 234 397",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#082642"
+    },
+    "name": "RentBetter",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2b88d73bceb509a5b7d3f0c98ea039f1cec824a07db2b98ea2f32f1e60f90d84/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg",
+        "hero image": "/1536x800/2b88d73bceb509a5b7d3f0c98ea039f1cec824a07db2b98ea2f32f1e60f90d84/main.jpg",
+        "default": "/160x30/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg",
+        "large": "/170x32/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+      }
+    },
+    "agencyId": "AWOVDV",
+    "email": "rea@reply.rentbetter.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "rb:live:547351d1",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Courtyard",
+        "Fully Fenced",
+        "Open Spaces: 2",
+        "Shed",
+        "Swimming Pool - Inground"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Alarm System",
+        "Built-in Wardrobes",
+        "Gas Heating",
+        "Split-system Heating"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Furnished"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "443965236",
+  "bond": {
+    "display": "$3,400",
+    "value": 3400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/d957c52f74015d986c316da4b2b188ee8c51a433ebb0ea84e341a8676991b465/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Apr 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

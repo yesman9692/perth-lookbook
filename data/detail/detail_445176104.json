@@ -1,0 +1,230 @@
+{
+  "prettyUrl": "property-house-wa-mullaloo-445176104",
+  "standard": true,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "1800234397",
+    "website": "http://www.rentbetter.com.au",
+    "phoneNumber": "1800234397",
+    "powerProfile": false,
+    "jobTitle": "",
+    "name": "RentBetter",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/fceac892064355b30cf5ede9ff4eaa67a2223e475c88fa9b1761929b502207ba/main.jpg"
+    },
+    "id": "1486286",
+    "email": "rea@reply.rentbetter.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "RentBetter Property ID: 438042 (quote when calling)<br/><br/>APPLY: Send through an enquiry and you'll receive the link to apply<br/><br/>3 x 1 Rental Available in Mullaloo 6027 soon<br/>***Un-furnished*** <br/>Please 📧 tell us a bit about yourself first to register your interest as no large home opens will be held... only private viewings to a small selection based on your reply (thankyou!)<br/>🎗Lease Term: <br/>12-month lease with potential to extend<br/>🎗Features: <br/>older style somewhat refreshed home, 3 x Bed, 1 x Bath, Single carport with plenty of driveway parking available, 2 x split system air conditioners/heaters (master bed & living room), new cook top & oven, small garden shed, large level block in quiet cul-de-sac. <br/>Convenient location close to transport and schools, and a few minutes to Mullaloo beach. <br/>Suit a couple, small family, & someone to take care of the garden!<br/>Gas hot water, brand new electric oven & ceramic cooktop.<br/>Gas bayonets if you have a gas heater<br/>Gas hot water system<br/>no reticulation to lawns<br/>🎗Prefer: <br/>Suitability for pets will be assessed based on application<br/>🎗Rent: $775 per week<br/>🎗Move-in costs: <br/>4 weeks' bond ($3,100) + 2 weeks' rent in advance ($1,550)<br/>Note: An extra $350 pet bond applies if a pet is approved<br/><br/>‼️How to Apply & View:<br/>Private viewings will be arranged by appointment only, based on your application (no public home opens). <br/>Please 📧 tell us a bit about yourself first - Thank you",
+  "showAgencyLogo": false,
+  "title": "Unfurnished 3 bed 1 bath, Mullaloo, Quiet Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "1800234397",
+      "website": "http://www.rentbetter.com.au",
+      "phoneNumber": "1800234397",
+      "powerProfile": false,
+      "jobTitle": "",
+      "name": "RentBetter",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/fceac892064355b30cf5ede9ff4eaa67a2223e475c88fa9b1761929b502207ba/main.jpg"
+      },
+      "id": "1486286",
+      "email": "rea@reply.rentbetter.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$775 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "standard",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9131d67c76f709b972fa356742f6f6ec86731fe61731f3495a615b509cd64602/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/05c030bd0df5fd52a83653b6722f3c1d9906e6d9263b9782ed5300388f39c081/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/dea21ed3690cae880cdaec18116497ce6a60e7060a0911869ce7a905bc65812a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/66c09280f8c865b4a2ba77cce80d3b350f35c9267e1d4ac91e0ec2b28cee4e6d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0e82641dd929a9f0932469d390cbc344a32db198e6a3a0b6f1a7e51df8ca3c90/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/db904618a4516319eaaf62caa3742ea7086038771b4dc1cfaa3a8f9c58625831/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e630a06dc20ff59a1c2a81795fe0455179e401308a602823e2c4b0f51d11db65/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/87415dcbe010f4d75f619ff80d33125a0a563eb874690f3466c6a619d75859ec/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "floorplan",
+      "resize": true,
+      "uri": "/bcdd60e1e86681e246524be53475a8284fce177f17b4d99f0d9ab240e79ae25d/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "Address available on request",
+    "locality": "Mullaloo",
+    "postcode": "6027",
+    "suburb": "Mullaloo",
+    "postCode": "6027",
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": false
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rentbetter.com.au",
+    "address": {
+      "streetAddress": "-",
+      "postcode": "2026",
+      "suburb": "Bondi",
+      "state": "NSW"
+    },
+    "phoneNumber": "1800 234 397",
+    "branded": false,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#082642"
+    },
+    "name": "RentBetter",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2b88d73bceb509a5b7d3f0c98ea039f1cec824a07db2b98ea2f32f1e60f90d84/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg",
+        "hero image": "/1536x800/2b88d73bceb509a5b7d3f0c98ea039f1cec824a07db2b98ea2f32f1e60f90d84/main.jpg",
+        "default": "/160x30/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg",
+        "large": "/170x32/cc8fa1105f89428d23c2fa5898874275e027adcdc35600c4c14a082da10da688/logo.jpg"
+      }
+    },
+    "agencyId": "AWOVDV",
+    "email": "rea@reply.rentbetter.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "rb:live:7c2d24df",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Fully Fenced",
+        "Open Spaces: 2",
+        "Shed"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Split-system Heating"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "445176104",
+  "bond": {
+    "display": "$3,100",
+    "value": 3100
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/b2d5981b6575083298da52746bd262817b65ead190844d38c5b6756d7a272ecc/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "09 Oct 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}
