@@ -1,0 +1,263 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-441545484",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0499023949",
+    "website": "http://www.rossrealty.com.au",
+    "phoneNumber": "0499023949",
+    "powerProfile": false,
+    "jobTitle": "Leasing Agent",
+    "name": "Emily Towler",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/0c40119c8f3b127c54b8b46eb8225a0e98ae9a2a47bfcef5478ec80b2aef6778/main.jpg"
+    },
+    "id": "3438856",
+    "email": "rentals@rossrealty.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This delightful 3-bedroom, 2-bathroom home perfectly blends comfort and modern living. Situated in a family-friendly neighborhood, this property is conveniently located near schools, parks, shopping centers, and public transport, making it easy to enjoy everything Alkimos has to offer, and only a 5 minute drive to the beach!<br/><br/>Property Features<br/>• Master bedroom with dual walk-in wardrobes and ensuite bathroom<br/>• Two additional bedrooms both with built-in robes and shared access to second bathroom<br/>• Functional main bathroom with shower/bath<br/>• Open-plan kitchen, dining and living area<br/>• Well-appointed kitchen with modern stainless steel appliances<br/>• Paved outdoor area<br/>• Double remote garage/Access from the rear<br/>• Walking distance from the supermarket, daycare, primary school and park.<br/><br/>Register your interest NOW - This one will not last.<br/><br/>**Please do not apply prior to inspecting the property**",
+  "showAgencyLogo": true,
+  "title": "Easy Living!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0499023949",
+      "website": "http://www.rossrealty.com.au",
+      "phoneNumber": "0499023949",
+      "powerProfile": false,
+      "jobTitle": "Leasing Agent",
+      "name": "Emily Towler",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/0c40119c8f3b127c54b8b46eb8225a0e98ae9a2a47bfcef5478ec80b2aef6778/main.jpg"
+      },
+      "id": "3438856",
+      "email": "rentals@rossrealty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$670 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1a452954555ce20adc9c63140b72767cfe7011455da1d012f75525a9a02c8031/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b8274ecde80846ffdd72fefddb33e3b67160c8c63597430757626bc683369645/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cdaf489361092337deed5666195fcf2ff784383b4d3f2581eae3a4266b7dbeab/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cb48d29dfdba3a8775ca9ca9781ac39eec61ee8b4124d33aae9b6015becb2fc0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2021420478d24fe2c175e07c72220db1b06e551854055fdb935a7fa565469695/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0138c57c3ec8db10a257c3da8a3169039f55f25f2fbfe8f60b93bc2f5f604ff0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4c3e192315d12e7c12b4989a723fee575d0b717f07d64f588d944c5610280f30/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a23f4ae4fb3f898b87c51f322b0287e5ad822eae77127386931e3cf610f5e163/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b309b7cf629e91e71b4692793eedb23148f480dad1ab9bc05add4335a3bf10a1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bfcc1fe771752b6c7ad5945baad57382e71035a5ca30868a5e53fc5c0ca33a09/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fd126621398616ff4d968b50284fe0104c2d52f937197df1db7111f9912c932e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ddaf841bf9e8c8d9d3f839f7f108a48c95489748ae1545715900b1afb128d5ca/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/67f9edfec6939c427a9250fef0d20f634ab7495fd3e0afb1a0dc4961b82a7368/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/78cc43de5aadb4285a4e58e6176ad43093e81cf4a7a7f97e31543e5deeb6c37e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8ee3ea35a62d565568d8b7f30f25ddbc1c4a508d63a196f434805236499e5b52/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4b577aa6660ee86e7a91b4fe0b4de875566c9990cb65247633e662a952cd7a7f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/14d7de68d8d9be1e597d01b1ea3c50d042d5fc9c828526630f9aa32bb8211d9c/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "2/88 Santorini Promenade",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.6283875,
+      "longitude": 115.6961815
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rossrealty.com.au",
+    "address": {
+      "streetAddress": "Unit 2/141 Russell Street",
+      "postcode": "6062",
+      "suburb": "Morley",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9275 3825",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#00adef"
+    },
+    "name": "ROSS REALTY - MORLEY",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/aeb203629e9ea3fb15ad6632acd015843e88eb22591cc9c0a0f7a1082f27ba18/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/aeb203629e9ea3fb15ad6632acd015843e88eb22591cc9c0a0f7a1082f27ba18/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/aeb203629e9ea3fb15ad6632acd015843e88eb22591cc9c0a0f7a1082f27ba18/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/9c3b6def7aff55daec4915e0ca50c3d4e06ec61816561cfbe33e37f87bed1add/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/aeb203629e9ea3fb15ad6632acd015843e88eb22591cc9c0a0f7a1082f27ba18/logo.jpg",
+        "hero image": "/1536x800/9c3b6def7aff55daec4915e0ca50c3d4e06ec61816561cfbe33e37f87bed1add/main.jpg",
+        "default": "/160x30/aeb203629e9ea3fb15ad6632acd015843e88eb22591cc9c0a0f7a1082f27ba18/logo.jpg",
+        "large": "/170x32/aeb203629e9ea3fb15ad6632acd015843e88eb22591cc9c0a0f7a1082f27ba18/logo.jpg"
+      }
+    },
+    "agencyId": "IDQFSB",
+    "email": "admin@rossrealty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3866234",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "441545484",
+  "bond": {
+    "display": "$2,680",
+    "value": 2680
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/4bddad5f33ecea3ae27b9aead738fceb0c74ff751022bac1468d611c2c7de230/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Oct 2026",
+    "dateDisplay": "16 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

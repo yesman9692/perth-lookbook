@@ -1,0 +1,294 @@
+{
+  "prettyUrl": "property-house-wa-eglinton-445207348",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9562 2888",
+    "website": "http://www.northerncoast.com.au/",
+    "phoneNumber": "08 9562 2888",
+    "powerProfile": false,
+    "jobTitle": "Senior Property Manager",
+    "name": "Rebecca Shaw",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/79ee200566002b0a9690b08e1d15957b1323c3671a514f39795252e3d91fe5cd/main.jpg"
+    },
+    "id": "3457176",
+    "email": "leasing@northerncoast.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This stylish two bedroom, two bathroom home offers low-maintenance living in the growing coastal community of Eglinton, just minutes from Eglinton Beach and the convenience of Eglinton Shopping Centre.<br/><br/>Enjoy easy access to local schools including Eglinton South West Primary School, Shorehaven Primary School and Alkimos College, while Eglinton Train Station makes commuting a breeze. With cafés, parks and the stunning northern coastline all close by, this home is perfectly positioned for relaxed coastal living.<br/><br/>PROPERTY FEATURES: <br/>• Two bedrooms with mirrored built-in robes<br/>• Master bedroom with split system air conditioning and ensuite<br/>• Split system air conditioning to living area<br/>• Modern kitchen with gas cooktop<br/>• New double-door fridge/freezer included in the lease<br/>• New washing machine included in the lease<br/>• Open plan kitchen, living and dining area<br/>• Single remote garage with shoppers entrance<br/>• Low-maintenance landscaping<br/><br/><br/><br/>VIEWING & APPLICATION INFORMATION<br/>• Does this property tick the boxes? Yes - Click the 'BOOK AN INSPECTION' button. If there isn't a time available, send through the enquiry so you can be contacted when one is booked and/or emailed updates. Registrations are MANDATORY, no registration, no updates. Please be aware, if there isn't a time available, there may have already been an inspection and applications pending.<br/>• The property MUST be viewed by yourself or someone on your behalf before you can apply. We will not carry out virtual inspections.<br/>• Applications will NOT be accepted prior to viewing<br/>• We use the 2Apply platform so you are welcome to prepare your profile - after the viewing, you will be sent the code to submit your application<br/>• Something else you need to know? Please EMAIL your enquiry as we are often on the road, in appointments or with clients and do not have the information at hand.<br/>• SCAM BE AWARE - we will only ever accept an applicant via phone before following up with an email confirmation. We do not advertise on Facebook Marketplace. If in doubt, call to confirm the legitimacy before transferring any funds",
+  "showAgencyLogo": true,
+  "title": "Coastal Comfort",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9562 2888",
+      "website": "http://www.northerncoast.com.au/",
+      "phoneNumber": "08 9562 2888",
+      "powerProfile": false,
+      "jobTitle": "Senior Property Manager",
+      "name": "Rebecca Shaw",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/79ee200566002b0a9690b08e1d15957b1323c3671a514f39795252e3d91fe5cd/main.jpg"
+      },
+      "id": "3457176",
+      "email": "leasing@northerncoast.com.au"
+    },
+    {
+      "mobilePhoneNumber": "0418496883",
+      "website": "http://www.northerncoast.com.au/",
+      "phoneNumber": "0418496883",
+      "powerProfile": false,
+      "jobTitle": "Business Development Manager",
+      "name": "Rebecca Pierce",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/bf96a7491071a9bccbbda78fedbfe9f86ce0b1972252ba5548d15049290e2231/main.jpg"
+      },
+      "id": "3715816",
+      "email": "clientmanager@northerncoast.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$620 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fdb1579c91e501bb41cd6579755685d514785f6c34f54e548bf48423982eec94/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3ba9174d5f7cec39e8fd52a1b321d2ee5150c318b157e006ec1d9336fbfa78d3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/44977de01f924a52101e304e1b3d685dc3738b589ef48ae30a07f5887a9039de/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4ca777555e244512bd860f97a4f33b38a6492b17fd02cb78f6640545ef290656/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/81a60e8e3e50b7991e0b7af96b8a5f06ea998de1f3b2c67350d240ed4425dac5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ea7ebeda70dd95dbb952a23dcf6175fb065940ec2b28ec92a32f6c4fbda1de4e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0d1f89be4bb57a557ad82f673ac6424ed96712fb0b2acb9e3cdf4bddd3e8f8b0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bc24d85a1b42e28f572ae11eb8af9d346e05c7a3f00b3e318ceeb37c18df2820/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f02921e5363e40612fe616c46cc64c1c6657e094ae5d068cd6147fcbe7f3594c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3cff292f6f36113f334ddc52621f06f5716ed79de647a6bf37db7e9e5b8e779a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/816a2a03ea9ae214706b9720aa974ad0e2a370a8d79a3747364df97c63537825/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f57d9f514eea29da7a38724477d3ce69379d1a5873ab3fa23d7b27e197ba36a7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/80a45361b3697e54cadba2045159a7c2ad9b0bc9ba15f3b18f4e05c273ac2193/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/853788ad2922fe31afd76c57f72dafe49392b7dc2f1eb5b068276211c110551e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/48c31c5ca81d6fd5c3c5b8ec3684d28f661130daf4944b55873a9f725c7073cc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ca92f99dbc491ef142db4d5a24ff62fbf5b49a20a5b89f1a5d50ae497b7bf30a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/19e6829d13915afdd64b5a54c31278a88fe3ed464e42a144cf1564bd014b6dc2/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "9 Lindquist Vista",
+    "locality": "Eglinton",
+    "postcode": "6034",
+    "suburb": "Eglinton",
+    "postCode": "6034",
+    "location": {
+      "latitude": -31.59084137,
+      "longitude": 115.66562212
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.northerncoast.com.au/",
+    "address": {
+      "streetAddress": "Shop 18 Brighton S/Ctre Marmion Ave & Kingsbridge Drive",
+      "postcode": "6036",
+      "suburb": "Butler",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9562 2888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#373D40"
+    },
+    "name": "Professionals Northern Coast Real Estate",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg",
+        "default": "/160x30/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg",
+        "large": "/170x32/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+      }
+    },
+    "agencyId": "WUPOJJ",
+    "email": "salesadmin@northerncoast.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4523142",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1",
+        "Remote Garage",
+        "Secure Parking"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Built-in Wardrobes",
+        "Split-system Heating",
+        "Toilets: 2"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "445207348",
+  "bond": {
+    "display": "$2,480",
+    "value": 2480
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/b7ec96b3a26392dfd14d3a3030c0142c9118c8430e409c550c841a8f669e93d8/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Oct 2026",
+    "dateDisplay": "16 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

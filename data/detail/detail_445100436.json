@@ -1,0 +1,221 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-445100436",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0403780869",
+    "website": "http://https://propertymanagementwithpk.com.au/",
+    "phoneNumber": "0403780869",
+    "powerProfile": false,
+    "jobTitle": "Portfolio Manager",
+    "name": "Katie Ross",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/a621310f5d4cda8b42e8cbc7aaecc9ebdf49d42b04eafb1dff156f70bdeb730a/main.jpg"
+    },
+    "id": "4077796",
+    "email": "katie@propertymanagementwithpk.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to 50A Moolooaba Road, this well-presented two -bedroom, one-bathroom home offers comfortable and easy living in a convenient location.<br/><br/>The light-filled open-plan living and dining area flows seamlessly to the private outdoor patio, providing a great space to relax or entertain.<br/><br/>The modern kitchen features stainless steel appliances, plenty of storage and a practical layout overlooking the main living area.<br/><br/>The home offers two comfortable bedrooms, with built-in storage, along with one modern bathroom featuring contemporary fixtures and fittings.<br/><br/>Property features include:<br/><br/>Two bedrooms<br/>One bathroom<br/>Light-filled open-plan living and dining<br/>Modern kitchen with stainless steel appliances<br/>Built-in wardrobes<br/>Private outdoor patio<br/>Low-maintenance outdoor area<br/><br/>Conveniently located close to beaches, parks, schools, shopping centres and public transport, with easy access to major transport links.<br/><br/> *While all details listed are presumed to be correct at time of publishing, renters must perform their own due diligence.",
+  "showAgencyLogo": true,
+  "title": "Ready to move in!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0403780869",
+      "website": "http://https://propertymanagementwithpk.com.au/",
+      "phoneNumber": "0403780869",
+      "powerProfile": false,
+      "jobTitle": "Portfolio Manager",
+      "name": "Katie Ross",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/a621310f5d4cda8b42e8cbc7aaecc9ebdf49d42b04eafb1dff156f70bdeb730a/main.jpg"
+      },
+      "id": "4077796",
+      "email": "katie@propertymanagementwithpk.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$630 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8a7a9e2db7b06d31e04c41475e2b1227f63c1fdd97ce808763a3534f5c4ea298/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d7567fb44306f269cee435c04fcc45da4e4c53c170a23d0e0118c3004af2aeb8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/81b73bee1e739928d3040560c59bf8fd77da679327952b22bbf9a21570a2c178/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8380016b5ad5ef41bca545b620804b7f9a09242ab535120a25798c2500484e0a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9fe127b7552e72ea6172620d9d57fe406d3d9aeef60e6037c0c2de30a2ceaf9b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9a101574efd4e86803ec2217d6ba9a8a7df9e2a81b89e83ac42c44a0fd6ef8c8/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "50A Mooloolaba Road",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.6308804,
+      "longitude": 115.68238724
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://https://propertymanagementwithpk.com.au/",
+    "address": {
+      "streetAddress": "Unit 11, 3 Arkwright Road",
+      "postcode": "6168",
+      "suburb": "Rockingham",
+      "state": "WA"
+    },
+    "phoneNumber": "08 6243 0318",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#F1F4F7"
+    },
+    "name": "Perth Property Management with PK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/728f0a1f3e01bd655b65701e202aa1cca71c37819766af645d116450a8efe021/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/728f0a1f3e01bd655b65701e202aa1cca71c37819766af645d116450a8efe021/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/728f0a1f3e01bd655b65701e202aa1cca71c37819766af645d116450a8efe021/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/9bb4737c4cd38e93778e5b1c8f27c461829fa77c9977119d11dcee556de38b36/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/728f0a1f3e01bd655b65701e202aa1cca71c37819766af645d116450a8efe021/logo.jpg",
+        "hero image": "/1536x800/9bb4737c4cd38e93778e5b1c8f27c461829fa77c9977119d11dcee556de38b36/main.jpg",
+        "default": "/160x30/728f0a1f3e01bd655b65701e202aa1cca71c37819766af645d116450a8efe021/logo.jpg",
+        "large": "/170x32/728f0a1f3e01bd655b65701e202aa1cca71c37819766af645d116450a8efe021/logo.jpg"
+      }
+    },
+    "agencyId": "SDBLJM",
+    "email": "perthadmin@propertymanagementwithpk.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "b4cd00fcae184fd6a28b1650aef47b05",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Courtyard",
+        "Fully Fenced",
+        "Garage: 1",
+        "Outdoor Entertaining Area"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Floorboards",
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "445100436",
+  "bond": {
+    "display": "$2,520",
+    "value": 2520
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/afaab6cc11363b80091f6892c6ebf92a8d111797756aa1c58d94f96353b4d3bb/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "25 Sep 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

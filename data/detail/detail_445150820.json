@@ -1,0 +1,196 @@
+{
+  "prettyUrl": "property-house-wa-butler-445150820",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9417 1199",
+    "phoneNumber": "08 9417 1199",
+    "powerProfile": false,
+    "jobTitle": "Leasing Agent",
+    "name": "Ella Pugh",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/4d3ee820f88dd7f72069c445ca261fd45c694fc40aef14ab2954b05d6a1a4091/main.jpg"
+    },
+    "id": "3558012",
+    "email": "epugh@harcourtsps.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "This modern home offers 3 good sized bedrooms, and two separate living areas. The kitchen and bathrooms are light, bright and spacious.<br/><br/>This home offers easy care gardens and a great lifestyle, being close to excellent schools, an abundance of shops, easy 5 minute walk to the Butler Train Station and a short drive to the beach front and cafes.<br/><br/>This would property would prove suitable for a professional couple or young family alike.<br/><br/>*** ARE YOU A LANDLORD? If you are looking for property management services, we would love to hear from you. Contact our Business Development Manager Ervina on 0430 705 375 or edeng@harcourtsps.com.au for a no-obligation and confidential conversation.",
+  "showAgencyLogo": true,
+  "title": "3x2 In Butler",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9417 1199",
+      "phoneNumber": "08 9417 1199",
+      "powerProfile": false,
+      "jobTitle": "Leasing Agent",
+      "name": "Ella Pugh",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/4d3ee820f88dd7f72069c445ca261fd45c694fc40aef14ab2954b05d6a1a4091/main.jpg"
+      },
+      "id": "3558012",
+      "email": "epugh@harcourtsps.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 0
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e12089be39126dbe630ce3b0db22cc8f756b792e0e272bdb202aaf03f584695d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/920ade7108defe732a8dbe3c6065d5156e7ba09e65b1dfb398360f79c507f3e0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/496cd256b21ca4b84267567c46efa84689a38bb01122f8f00ba9fa0d2ed8bb44/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b542945b55a409ad97579b30aa61ebb382427f49409cdaaed9b4e9a95ce7ac98/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f32c55ccaa699e83a093ce3d29e66784a43b8c86b7795ac55ca5e47e69f67a62/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aa264d35399ac7475434fe2a14c9cd40acb2b8b4a643570dfce2412b65caac2d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/00ea3604fdbc30d9a51ca7fa1d3c2db9ffe818fef0a1596a89e8746d7ad117b4/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "3 Poppleton Pkwy",
+    "locality": "Butler",
+    "postcode": "6036",
+    "suburb": "Butler",
+    "postCode": "6036",
+    "location": {
+      "latitude": -31.63411535,
+      "longitude": 115.69337331
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "1 Rimmington Court",
+      "postcode": "6164",
+      "suburb": "South Lake",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9417 1199",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#001f49"
+    },
+    "name": "Harcourts Property Specialists",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/8c15360596e6144c6873badfa2c7ae877c8fe2af6489d6908a3a920e319ea9df/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg",
+        "hero image": "/1536x800/8c15360596e6144c6873badfa2c7ae877c8fe2af6489d6908a3a920e319ea9df/main.jpg",
+        "default": "/160x30/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg",
+        "large": "/170x32/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+      }
+    },
+    "agencyId": "FNSHIZ",
+    "email": "vpaz@harcourtsps.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4518145",
+  "listingId": "445150820",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/41b338dcc1ee2115eb1d352652dbffab8a06910677d02aa0d0364ff6d34ceb50/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "14 Nov 2026",
+    "dateDisplay": "14 Nov 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

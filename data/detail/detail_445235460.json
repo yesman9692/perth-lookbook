@@ -1,0 +1,268 @@
+{
+  "prettyUrl": "property-house-wa-eglinton-445235460",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 7095 0189",
+    "website": "http://mypropertyhouse.com.au",
+    "phoneNumber": "08 7095 0189",
+    "powerProfile": false,
+    "name": "Johnathan Toynbee",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3795012",
+    "email": "mypropertyhouse@mail.inspectrealestate.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "WOULD YOU LIKE TO VIEW THIS PROPERTY? Please click on \"GET IN TOUCH\" and enter your details. You will receive an instant response with an invitation to apply for the property.<br/><br/>Enjoy the convenience of living in one of Eglinton's growing coastal communities, with schools, parks, shopping amenities and public transport all within easy reach. Just minutes from the beach and within the catchment area for Shorehaven Primary School and Alkimos College, this location offers an excellent balance of lifestyle and convenience for families and professionals alike.<br/><br/>Property features:<br/><br/>- Master Bedroom with his & hers walk-in-robes with an ensuite<br/><br/>- Main bathroom with shower and bath<br/><br/>- Kitchen will plenty of cupboard space and stainless-steel appliances; including a dishwasher<br/><br/>- Open plan kitchen/living area<br/><br/>- Ducted reverse-cycle air-conditioning<br/><br/>- Separate laundry<br/><br/>- Double garage with automatic roller door<br/><br/>- Easy to maintain rear exterior<br/><br/>- Solar panels<br/><br/>- Water filter<br/><br/>12 Month Lease<br/><br/>Tenants to pay all water usage<br/><br/>Unfurnished<br/><br/>Disclaimer: The information contained in this advertisement is provided in good faith and is believed to be correct; however, prospective tenants should make their own enquiries to satisfy themselves as to its accuracy.",
+  "showAgencyLogo": true,
+  "title": "Modern Comfort Meets Coastal Convenience",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 7095 0189",
+      "website": "http://mypropertyhouse.com.au",
+      "phoneNumber": "08 7095 0189",
+      "powerProfile": false,
+      "name": "Johnathan Toynbee",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3795012",
+      "email": "mypropertyhouse@mail.inspectrealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bef72fa5d82d9a9e4b86f7f0ef8c5d28c0feaebcc6a8c38d1bbdc894dc04adfd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5235e2fd22e53bd2bbcbc02d7e36592021189b1fcc914649a4be6e35a2a4c8e3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/14b6173790415cbdc783f072d07c2a9464230161ed0b7cb2e0bff042ed879e67/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/588613008caa0e3f3e918feb3c6f528715d2880219f9bafaac8f5841c4729d49/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ec7f6014c9b7efd35e2051410bd1d7132cdaccd22f671fb7f78b552878f00f72/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/81b7c402408ecd15bd4f5f7fbdea145f5b667385fb60b34f3c11a8c34bafc2b6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2cb55b6275e8940b7639403ab2477066b8ad27e6f20d7f53eecfef3b74c47b0a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2f84ea00c97d1f45531ef3fbb93175589d7bfe72e6e53db8efb174d8e113ea6a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f5f7d68e77a1c8a476ca2ec77f16fd31e3872a847681acb38a9cbfef783fcd1c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/08f4578b90a7e1b3914a2264b25ef260495536ef111b704312d01d918ab4a4e0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/697bb2d760b916457c4697788fbd52b33bc6259c5adde798bd4827841196deab/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/06e0a0594c1fc6516b32d32730a97959a535a7c406c79da485f29d5a6bb416f8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c0becb1d06bc0a3f9d21f2dc2ab4ed698473f42df274b611c7312f991f7b2090/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d3bc250c645d37ff78e9eb031406c55831f91a5fedf0ea31f5aa6c76f27622ac/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2fa1ab4a0b4918c907dc52edad46fa1fc4cc9c68f880ee13138d94da6ae7d5ad/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fa0ff0a1e6d2d9d4cda1779ca4059393772b88d6ea68803d06de283ad468a4dd/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "3 Sandpatch Parkway",
+    "locality": "Eglinton",
+    "postcode": "6034",
+    "suburb": "Eglinton",
+    "postCode": "6034",
+    "location": {
+      "latitude": -31.59755405,
+      "longitude": 115.6848275
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://mypropertyhouse.com.au",
+    "address": {
+      "streetAddress": "49 The Parade",
+      "postcode": "5067",
+      "suburb": "Norwood",
+      "state": "SA"
+    },
+    "phoneNumber": "08 7095 0189",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#0f0f0f"
+    },
+    "name": "My Property House - NORWOOD",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg",
+        "default": "/160x30/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg",
+        "large": "/170x32/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+      }
+    },
+    "agencyId": "NKLVFX",
+    "email": "rentals@mypropertyhouse.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE6222756",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Dishwasher"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "445235460",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/6fa1375c17f8c1eaac1a87cff66e3787c9f6d81ae404657439632337e30ddf26/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "19 Oct 2026",
+    "dateDisplay": "19 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

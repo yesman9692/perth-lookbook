@@ -1,0 +1,263 @@
+{
+  "prettyUrl": "property-other-wa-eglinton-445220540",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 7095 0189",
+    "website": "http://mypropertyhouse.com.au",
+    "phoneNumber": "08 7095 0189",
+    "powerProfile": false,
+    "name": "Johnathan Toynbee",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3795012",
+    "email": "mypropertyhouse@mail.inspectrealestate.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "WOULD YOU LIKE TO VIEW THIS PROPERTY? Please click on \"GET IN TOUCH\" and enter your details. You will receive an instant response with an invitation to apply for the property.<br/><br/>Located in the beautiful Elavale Estate, this brand new 3-bedroom, 2-bathroom home is the perfect home to experience the coastal living lifestyle. With local schools, beaches and shopping centres just minutes away, this is the perfect place to settle in.<br/><br/>Property features:<br/><br/>- Master Bedroom with walk-in-robe & ensuite<br/><br/>- Main bathroom with shower and bath<br/><br/>- Kitchen will plenty of cupboard space and stainless-steel appliances; including a dishwasher<br/><br/>- Open plan kitchen/living area<br/><br/>- Air-conditioning to Living Area<br/><br/>- European laundry<br/><br/>- Double garage with automatic roller door<br/><br/>- Easy to maintain landscaped yard<br/><br/>12 Month Lease<br/><br/>Tenants to pay all water usage<br/><br/>Unfurnished",
+  "showAgencyLogo": true,
+  "title": "COASTAL LIFE, ELEVATED",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 7095 0189",
+      "website": "http://mypropertyhouse.com.au",
+      "phoneNumber": "08 7095 0189",
+      "powerProfile": false,
+      "name": "Johnathan Toynbee",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3795012",
+      "email": "mypropertyhouse@mail.inspectrealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$680 per week"
+  },
+  "propertyType": "other",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a0b1ad98dd272990358b0dda77d35ff81cdb217c55102c9b1f30850ffe60f74b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e8ee58398b1ffa90f2740fb933afc801728c95a2dbcd2dd3cc3fa6e9ad99df89/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b144e0a4d656c4f8a0d1934777c07cea291ccdefe235d5f9b527071417600b34/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/14e88d122cb2b8f29f1d305e91ab44445b9a658a5742e13cbaeee922ea70930d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2819c235813c744473c299708d4c3162ff37b32109fa4c9dddfc570be35fdd10/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/27a108501a124e6f6ced8553a8509ac261dd1bba46d184c00b00cc0c10038718/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b397e15b1477d36904697fdc228093a7dd02fb4d3bffa7d68b3f981528ba3885/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d05d29a484f339e1a25dba89408c341e690c17005004966bf23cbeffd3070c93/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1ca4cf5a4104e4a60acdcbefeedf3666db32d847cfd06cb1ce3acefe058f8b9f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bfe0473ff42a22500864561cbbc147be0bd200d2e5660cee6159a5a83212e15a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8916360ce426a629095241e36b240895b3585ee516a076429902a109a3a272c1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f61f8bdf8e4c10d098920b8c18b43ac754dec560e8c433e23bf7ee1836af1d86/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/90bb6fda4575fd4ef98140b109506f5fdacd6372a9d4efca36a9e41726c06981/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e92959e89d6b9dd7f4288a8120273859932c527ceca7fadf9565a78e1c762504/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/be911379d583fc26cdfd2b59fca5a695a8eacd2f7d58354214928171a2ed2b92/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "19 Kookaburra Street",
+    "locality": "Eglinton",
+    "postcode": "6034",
+    "suburb": "Eglinton",
+    "postCode": "6034",
+    "location": {
+      "latitude": -31.58803565,
+      "longitude": 115.66203528
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://mypropertyhouse.com.au",
+    "address": {
+      "streetAddress": "49 The Parade",
+      "postcode": "5067",
+      "suburb": "Norwood",
+      "state": "SA"
+    },
+    "phoneNumber": "08 7095 0189",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#0f0f0f"
+    },
+    "name": "My Property House - NORWOOD",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg",
+        "default": "/160x30/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg",
+        "large": "/170x32/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+      }
+    },
+    "agencyId": "NKLVFX",
+    "email": "rentals@mypropertyhouse.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "IRE6027827",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Dishwasher"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "445220540",
+  "bond": {
+    "display": "$2,720",
+    "value": 2720
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/0fc172d6816459883e5d29293f5d46e68c2348c448c15b78af7fa69bb0aef77d/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Oct 2026",
+    "dateDisplay": "16 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

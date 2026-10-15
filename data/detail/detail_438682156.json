@@ -1,0 +1,301 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-438682156",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "08 9269 6100",
+    "website": "http://www.rmaproperty.com.au",
+    "phoneNumber": "08 9269 6100",
+    "powerProfile": false,
+    "name": "Stella Rossiter",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3732736",
+    "email": "inspect.joondalup@rmaproperty.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Welcome to your new home in Alkimos! This stunning 3-bedroom, 2-bathroom house presents the ideal opportunity for you and your family to settle into a comfortable and modern lifestyle.<br/><br/>Upon arrival, you'll be greeted by an aesthetically pleasing artificial turf front yard, complete with charming garden beds, setting the tone for the inviting atmosphere within.<br/><br/>Step inside to discover a designated lounge area, offering a cozy retreat for quiet moments or nighttime cinematic indulgence. The master bedroom, conveniently located at the front of the home, boasts generous proportions and ample wardrobe space, leading to an open and accessible ensuite fitted with a shower, vanity, and toilet.<br/><br/>Moving into the heart of the home, you'll find a well-appointed combined living and dining space connected to the modern kitchen. Here, convenience meets style with features such as a dishwasher, gas cooktop, electric oven, and plenty of storage. The tiled flooring in the living/dining room not only ensures easy cleanup but also contributes to a comfortable atmosphere for relaxation.<br/><br/>Continuing through the home, you'll discover two additional minor bedrooms, offering versatility to be used as bedrooms or as a home office to suit your needs. The main bathroom features both a shower and bath, alongside a modern vanity, while the separate laundry area provides a hassle-free space for tackling your laundry needs.<br/><br/>Step outside to the covered alfresco area, overlooking a paved courtyard with more artificial lawn for added comfort. Lastly, the home features secure double-car garage parking access through the rear laneway, providing convenience and peace of mind.<br/><br/>Property Features:<br/>- Modern Home<br/>- 3 Bedrooms<br/>- 2 Bathrooms<br/>- Modern Kitchen<br/>- Lounge Room<br/>- Living/Dining Room<br/>- AC's in Living and Master Bedroom<br/>- Laundry<br/>- Double Garage<br/>- Courtyard<br/><br/>Don't delay - this modern family home is sure to attract attention and won't stay on the market for long. Schedule a viewing today and make this your new home sweet home!<br/><br/>HOW TO INSPECT THIS PROPERTY<br/><br/>Arranging inspections is easy.<br/><br/>Simply click on the button above 'Request an inspection' then enter your details or alternatively go to our website and book the inspection on this site by entering your details and choose an appointment time that suits YOU.<br/><br/>You will be INSTANTLY informed of any updates, changes or cancellations for your appointment.<br/><br/>If no one registers for an appointment time - then that appointment may not proceed.<br/><br/>So DON'T MISS OUT book for an appointment today!<br/><br/>*Important* Whilst every care is taken in the preparation of the information contained in this marketing, Rental Management Australia will not be held liable for any errors in typing or information. All information is considered correct at the time of printing.<br/>",
+  "showAgencyLogo": true,
+  "title": "Modern Home, Modern Lifestyle",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9269 6100",
+      "website": "http://www.rmaproperty.com.au",
+      "phoneNumber": "08 9269 6100",
+      "powerProfile": false,
+      "name": "Stella Rossiter",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3732736",
+      "email": "inspect.joondalup@rmaproperty.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$700 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4d8921d286e3f3c154524a02689531bd97573e7459b2b072c979588c5a1f9cba/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e8f01877b389ab3e02c8b103a269677e5fcbea97058f48bda9e732e550cebc9c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/161057a5013abb52d5caa899813e69b5b6fdffcad0dde8f5a65f547612dec66a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/54ec9570adb222ede573b3191849cb44cf2a4f1ba0fc9503eaf4dbf50e698425/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e9a6a89bedc98ddfe7079b7a9401117964b9068a3f662b74c6021f1e2dcaa3d9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b5b73f5f812997ac3f24554e11cdad09425a9236b457c82584fff92d04d8ed15/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/425534341623b3700f9df0cb5c650c94b8f60d0620a26f2cc0d0ad2749813ef7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ede0dae9f1407fd15e5608c7b0f3fdaf301b0fca39322364e2c74883d9d71600/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f33b8a555388663b74fc415a9bdfe2207f6c8e80c289f324e8f7914114cfec5f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7968d189275c7b92b705ddacc65f115e2c2690579d989d2cfff86cb64ce2043a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/98e5b7920cc65bce5eb2ae33add77acaabb1f53c37bd9b7989935a15729d91ff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0c0d1ec880299a8e1792cc7eae20d4004b50a383dcf5e5c38513d1779d3dd1cb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/945fbbfd43b6ccf094ebff6e6077960bf550586b4aed7081ce26e656d9d5ce0d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/781692d9b34602f707677f92517f77d023501544ccabcee387c4a792d3bf999a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/196cad18758e0296fc878144ff203c7b1f6fba87493bfb382c16632c1fa80f86/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8313167d3476bda5a7b65d1ea71f80ca92e5a25a7280c06af1e2513426b93db5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e8afa04c2e36d83330091ee3cc5af2885fb472643cb84e063f2a0d2ba387e7cf/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5d3b1941edd387afdddc37cf5bdc9118b7ff2686937ae87fde4dbbfddd4b7925/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5d6ba6abdee35de9528cdd87f7385d62cb94ee6e9b29a8360ffe1c15860b99db/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8057f106e7de5e6502cffa24f09be480351eb7d7f6b8ec4b30fa6d4c24bb3397/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e2b91215a2df931155e3152bd43a07eb19960b25b01c80814bdb75b0d95d2d86/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4fde5a77159fded9c4f414ad6103d3cab0ec4b901036f9e03e0b7052cfaffad8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8ce11d38f589d40a6cbe3f6588f4c74eebac57392e5994c64c711a0a393ee96b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/005615c1a63f819695ec63ea5e363b9498be6e86ad39e55cae1b6bb9a3154d22/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/89307b49ff8ab948b5911b8e738fd02e4d861e8acb4f2531049d7abf25ef4351/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "51 Leeway Loop",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.59998604,
+      "longitude": 115.68334761
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rmaproperty.com.au",
+    "address": {
+      "streetAddress": "17 Drake Steet",
+      "postcode": "6017",
+      "suburb": "Osborne Park",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9269 6100",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffffff"
+    },
+    "name": "Rental Management Australia - OSBORNE PARK",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/db62cba2e93d1995a98ad6c9eab73016679ebd27adeb63b19d54ecdb3b1471a0/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg",
+        "hero image": "/1536x800/db62cba2e93d1995a98ad6c9eab73016679ebd27adeb63b19d54ecdb3b1471a0/main.jpg",
+        "default": "/160x30/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg",
+        "large": "/170x32/f1f5becf02780c3517942e9a1f20d70fb791de812ed3d0f4e3fe55087d6b1564/logo.jpg"
+      }
+    },
+    "agencyId": "GOGBAY",
+    "email": "info@rmaproperty.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3391175",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "438682156",
+  "bond": {
+    "display": "$2,800",
+    "value": 2800
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/81cd6c4923aaab16d9b59c957b99fbef861269ddd67306e03fd7dd29c31c2964/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "28 Oct 2026",
+    "dateDisplay": "28 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

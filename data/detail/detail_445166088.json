@@ -1,0 +1,234 @@
+{
+  "prettyUrl": "property-house-wa-warwick-445166088",
+  "standard": false,
+  "midtier": true,
+  "lister": {
+    "mobilePhoneNumber": "0894171199",
+    "phoneNumber": "0894171199",
+    "powerProfile": false,
+    "jobTitle": "Office Manager",
+    "name": "Carly Graham",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/b7d27dbb0ee080b22a2ea49551fb7527ddc6c9506224001d01cfefccc222a1da/main.jpg"
+    },
+    "id": "4091400",
+    "email": "cgraham@harcourtsps.com.au"
+  },
+  "featured": false,
+  "signature": false,
+  "channel": "rent",
+  "description": "Beautifully maintained and perfectly positioned, this charming villa is nestled within a quiet, well-kept Over 55's complex and ideally located at the end for added privacy.<br/><br/>Offered furnished (including washing machine), the home is designed for comfortable, low-maintenance living.<br/><br/>The property features a spacious kitchen and bathroom, providing both functionality and comfort. Enjoy year-round climate control with split system air conditioning in both the master bedroom and lounge, complemented by ceiling fans in the dining area and both bedrooms.<br/><br/>Both bedrooms feature built-in robes, while the master also benefits from a security roller shutter for added peace of mind.<br/><br/>The home includes a single lock-up garage and a lovely, easy-care courtyard-perfect for relaxing and enjoying the surroundings.<br/><br/>Conveniently located directly across from Warwick Grove Shopping Centre, with public transport and parks just moments away.<br/><br/>Please note: This property is strictly for residents aged 55 and over.",
+  "showAgencyLogo": true,
+  "title": "Delightful Over 55's Villa",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0894171199",
+      "phoneNumber": "0894171199",
+      "powerProfile": false,
+      "jobTitle": "Office Manager",
+      "name": "Carly Graham",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/b7d27dbb0ee080b22a2ea49551fb7527ddc6c9506224001d01cfefccc222a1da/main.jpg"
+      },
+      "id": "4091400",
+      "email": "cgraham@harcourtsps.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$600 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "midtier",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0a59cc77974ca03aa61df21798e310ab42574060326165e140aac0bd34d94e18/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6d8bb01ef73251012c1963df121eaeaac06c5933ffd4881f460f8206c160d322/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e55f2212b368053c58ec42cb761be1b26c51d0090a1426bd207a28372e5b145d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9a856ca510bba4030b89acf3334900cfaa33ab4af12b0acc1b6d1bb6bcc511f1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9584c2d4f5f948277dbc3d01e597af603cbf6c9d00f7cbb877bc464301b3b40e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cd242111493eecf0046df8f9852e22c9921defb21578d3f3ac7e3b7db5041112/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d81a2326bb8750668a88c0926b09c0b070f3b009d22656f33fb5cfdeac69553e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/225bfc0ca96a07fd9fa1c7ef5a9efa330c058dce514534b6ae28dc450e9c1103/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d72e992a484d10885fd3524c5db0d77e41d44ff8467dcefd8866a2860d6e4fe5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4c12a7bd20a91cdb1068bd2271c65be7ba94a176f674b743ecc956edf47076a8/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "8/86 Ellersdale Avenue",
+    "locality": "Warwick",
+    "postcode": "6024",
+    "suburb": "Warwick",
+    "postCode": "6024",
+    "location": {
+      "latitude": -31.84165661,
+      "longitude": 115.8108407
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "133 Rokeby Road",
+      "postcode": "6008",
+      "suburb": "Subiaco",
+      "state": "WA"
+    },
+    "phoneNumber": "0894171199",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#001f49"
+    },
+    "name": "Harcourts Property Specialists Subiaco",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/82e70dce33253b22ad3d8d9bf896fb5dc25770534d4e78d13508d3cac7df06a7/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg",
+        "hero image": "/1536x800/82e70dce33253b22ad3d8d9bf896fb5dc25770534d4e78d13508d3cac7df06a7/main.jpg",
+        "default": "/160x30/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg",
+        "large": "/170x32/f0fe7a0ff51159575293a416a7516278aae2306ac0bcdc27255d615a637c1d11/logo.jpg"
+      }
+    },
+    "agencyId": "OGWMBE",
+    "email": "admin@harcourtsps.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4519508",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "445166088",
+  "bond": {
+    "display": "$2,400",
+    "value": 2400
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/7d5407672d4e6047e4fe6c9a1131332b60e711ab085377c5d5c12bf0a7beb90c/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Oct 2026",
+    "dateDisplay": "16 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Wed 21 Oct",
+      "startTimeDisplay": "4:30 PM",
+      "endTimeDisplay": "4:45 PM",
+      "startTime": "2026-10-21T16:30:00",
+      "endTime": "2026-10-21T16:45:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

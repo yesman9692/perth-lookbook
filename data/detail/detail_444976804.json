@@ -1,0 +1,233 @@
+{
+  "prettyUrl": "property-house-wa-butler-444976804",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0893149888",
+    "website": "http://www.rentwest.com.au",
+    "phoneNumber": "0893149888",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Lisa Newman",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/3a19388d598f714ea83bf0737ae583da9af87328f8f66153ff8759e2f5e58021/main.jpg"
+    },
+    "id": "3400420",
+    "email": "lisanewman@rentwest.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Be impressed by this quality built 3 bedroom 1 bathroom home all within walking distance to local schools and short drive to beach and shops. Features include;<br/><br/>DUCTED REVERSE CYCLE AIR-CODNITIONING<br/>BUILT-IN-ROBES<br/>OPEN PLAN LIVING<br/>STONE BENCH TOP<br/>DISHWASHER<br/>STAINLESS STEEL APPLIANCES<br/>CATHEDRAL CEILINGS<br/>SECURITY ALARM SYSTEM<br/>EASY CARE COURTYARD<br/>RETICULATED GARDENS<br/>DOUBLE LOCK UP GARAGE<br/><br/>We ask you for a reference, now here is ours: I would like to thank you personally with the ways that the rental between yourself, the owner and me the tenant had gone so smoothly. It was a pleasure to deal with such an understanding property manager and the team you have.<br/><br/>TO VIEW OR APPLY FOR THIS PROPERTY: Go to www.rentwest.com.au or call Lisa on 9314 9888",
+  "showAgencyLogo": true,
+  "title": "MODERN 3 X 1 HOME OPPOSITE BEAUTIFUL PARK",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0893149888",
+      "website": "http://www.rentwest.com.au",
+      "phoneNumber": "0893149888",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Lisa Newman",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/3a19388d598f714ea83bf0737ae583da9af87328f8f66153ff8759e2f5e58021/main.jpg"
+      },
+      "id": "3400420",
+      "email": "lisanewman@rentwest.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/41b4f591ea80c6a5b0cfec61f54ba7c08b738dc92c01f49e86a161a9f7aed55d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/65f20ea8c3f43e07ab73e23d8de4f3c5702cee41881809df5fe3da7b4478361e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5fb758e20841eb41a7f194c4adef823d076d38a968e6ff8fbfa0bf73d63d24fd/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bd0e6698c31000c132ed537325abd63afb2ac51154a77c8d5e47609a00cf097e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/029e06cf92a0b1df71d4cda21a1f03d83975646416481e83fb17ceaedd8716df/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8e426e963c61da17927606f149a93334152ce60c6bc875371a447c8513a59172/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e22826688e70a2752f885c78b57f3ada00b34ab2e09dcaee060496494b598623/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "8B Echo Way",
+    "locality": "Butler",
+    "postcode": "6036",
+    "suburb": "Butler",
+    "postCode": "6036",
+    "location": {
+      "latitude": -31.64880969,
+      "longitude": 115.71693827
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rentwest.com.au",
+    "address": {
+      "streetAddress": "Level 2, 42 Kishorn Road",
+      "postcode": "6153",
+      "suburb": "Applecross",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9314 9888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#3a153d"
+    },
+    "name": "Rentwest Solutions - Applecross",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/37b1f2d46c76b96c538bbbaca0d8d88de8a0de6aa40b3a395b92556e4983b6c8/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg",
+        "hero image": "/1536x800/37b1f2d46c76b96c538bbbaca0d8d88de8a0de6aa40b3a395b92556e4983b6c8/main.jpg",
+        "default": "/160x30/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg",
+        "large": "/170x32/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+      }
+    },
+    "agencyId": "UGJNKI",
+    "email": "leasing@rentwest.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "p_01a06650-5c99-769c-b3da-7dc343996c97",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Courtyard",
+        "Garage: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Alarm System",
+        "Built-in Wardrobes",
+        "Dishwasher"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "444976804",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/d2b76671dfe13339c163a1fabfc7380ff090b4ee4ea6b94f8fbed2ed80b7551d/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "02 Oct 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Thu 22 Oct",
+      "startTimeDisplay": "4:30 PM",
+      "endTimeDisplay": "4:45 PM",
+      "startTime": "2026-10-22T16:30:00",
+      "endTime": "2026-10-22T16:45:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

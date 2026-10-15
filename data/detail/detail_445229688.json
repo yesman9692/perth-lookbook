@@ -1,0 +1,351 @@
+{
+  "prettyUrl": "property-house-wa-eglinton-445229688",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0895612728",
+    "website": "http://www.lifestyleresidential.net",
+    "phoneNumber": "0895612728",
+    "powerProfile": false,
+    "jobTitle": "Senior Property Manager & BDM",
+    "name": "Jacqui Deal",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/e42160e88636dd8e432c07fae027c79897be82dac397bf92e810d788ec71d03e/main.jpg"
+    },
+    "id": "3964136",
+    "email": "pm2@plr.net.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "*** To arrange a viewing or enquire about this property, please click on the \"Enquire Now\" or \"Get In Touch\" button on the listing.<br/>*** If you are attending a home open please register so you can be updated on any changes to days/times or cancellations.<br/><br/><br/>Welcome to 18 Pender Lane, Eglinton - a beautifully presented home offering comfortable, low-maintenance living in a fantastic coastal location.<br/><br/>Featuring three bedrooms, two bathrooms and a double garage, this inviting property combines practical living with a light, neutral palette and a beautiful, uninterrupted outlook. The open-plan living and dining area creates a welcoming space to relax and unwind, while the private rear courtyard offers the perfect spot to enjoy your morning coffee or entertain friends.<br/><br/>Perfectly positioned to enjoy the best of coastal living, this home is close to beautiful beaches, local schools and public transport, making everyday living easy and convenient.<br/><br/>Whether you're looking for a comfortable place to call home or a low-maintenance lifestyle in a lovely location, this property is ready for you to move in and enjoy.<br/><br/>Property Features Include:<br/><br/>Three well-appointed bedrooms<br/>Two bathrooms<br/>Double garage with convenient rear laneway access<br/>Light-filled open-plan living and dining<br/>Neutral colour palette to complement any style<br/>Split-system air conditioning<br/>Ceiling fans for added comfort<br/>Private, low-maintenance rear courtyard<br/>Beautiful uninterrupted outlook<br/>Directly opposite the open green spaces of Roebuck Park<br/><br/>Enjoy the Eglinton Lifestyle<br/><br/>",
+  "showAgencyLogo": true,
+  "title": "RELEAXED COASTAL LIVING",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0895612728",
+      "website": "http://www.lifestyleresidential.net",
+      "phoneNumber": "0895612728",
+      "powerProfile": false,
+      "jobTitle": "Senior Property Manager & BDM",
+      "name": "Jacqui Deal",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/e42160e88636dd8e432c07fae027c79897be82dac397bf92e810d788ec71d03e/main.jpg"
+      },
+      "id": "3964136",
+      "email": "pm2@plr.net.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bbbb206667a5bc5282c3575bb5cb6e81955775197e8d36bce7506d6b88ebafd4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2d9fc2896f7812e2d264b4026debab3a4f183dbb261a7c4e6040735d0a41ccff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9e4568e123ac04d999be2126258aad9eae439fea633c3afb12e1b913f80bdf64/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b907a234b1599d113d731909631b7d69cd3b872095150b38f3e0e15640e221d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bfe9a8791a8c3383bab153275442d3552f8e844b4284f646a5074728fbbfb9c0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9272b62155ac4a32dbdb608f708d61522222db77b2ebaa710ad15db2f37fee0d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/401de5f0a2efcf246df082bd2ba7e55e12d16c99a69ce2e7966d866b86ccbad1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/febd4e984ad39dc1e0f002c430ea65fbf0046e833003070cd04b8711de0f5529/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/cd744991e0a876722e34688158b46349c4d1f3d23320f6163a086a88d6d8fd11/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/beef526969de7d76f7ccebf08f185afa5c438e313c5c5a8454e914bec41858c0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/67e6a1d2b986aa9a94e524ee3c494ea9f0e8ebad0ff01a523797df0e03354cb1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/22cc1d8aaec4827de085194e080ebc5b3637ff2ad4ecafc6d049de730d30929d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/62248d965620e0220216eac2115e6ff0876abef650c43eed46c246a9828fc6f2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f7dcfcc9953bc62acb3f8841b5207f7ea064f6f7f5f84f4b258a9d6afe472fd6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1f7ef5b5f93475e3e50ec13efa6da3e449396b4628570585abec304fc04c58a5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aa9265cf4fd6e57b831df88802959e952cf36fcf2e13952f4579a6954e8c13ff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/efdf52889ae763fabdc8b25ec8dbbaf01a08b26d250855487db7ad6b08f27d9d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/11cea0fae240915c1af827329e5c14fd392054dd2619f678ec805b45835af0e6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5b9a87d43afa0b77a9e97d3d710b88f3f81008b1b034b193548b015dac998bbb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ff5ee33e120190ee35c53fae4abb3a335a0c1c036c1070da3c96d129720794e8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e48f87d2cd991ce7129873f6a4aa879935eca285dd5b5082eb5972be57fd1e74/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/de8377fd3fd85babee0dfe7b63e55e4fd21df6a206744ac62f06275bec2036b0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ea29bad606edacd033367e034f5f1947cfabeeec6cb08501cc4fe355543f7311/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c680c1447a8e3de60b7968f4c0a42cb70e87efdf329e67521375fd3589ca59e3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7b12322877b9d3d6f61258a79cda52ad118b95129aec8eb67790651370f3a21b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/21250ce7c5df2241cbc45ac255b57aa41776685bb16a7644ce4effa8d858d6b4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2fbc069bf618acddd31113f3331f1a15a8212f299fbce64fdad3d06058c3e9db/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c15861d37e92b9f85a082d05f22e1dfcf93970009d9bd0679cccbd43123e8d51/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a50c4b762675f6ae3d9b75a242dc22f5a44e406357ac3b67c095984ce2b34035/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6f1b08450e5f8b7e109f449d70c36b9e8a38cd00b48661f6e2e18fb073acf716/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c1cf574073ff18c01f432607fe3ed575ad4e72646cf6124da03b5bc27ca791c6/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "18 Pender Lane",
+    "locality": "Eglinton",
+    "postcode": "6034",
+    "suburb": "Eglinton",
+    "postCode": "6034",
+    "location": {
+      "latitude": -31.59615728,
+      "longitude": 115.6842368
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.lifestyleresidential.net",
+    "address": {
+      "streetAddress": "Unit 1/8 Enterprise Avenue",
+      "postcode": "6037",
+      "suburb": "Two Rocks",
+      "state": "WA"
+    },
+    "phoneNumber": "0895612728",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#fd6b0b"
+    },
+    "name": "Perth Lifestyle Residential - Lifestyle Is Where It Begins",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/3fee2e2462adee1cf49081f1aea01a7380751754b14c2e70a8eba5cd01118ebc/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg",
+        "hero image": "/1536x800/3fee2e2462adee1cf49081f1aea01a7380751754b14c2e70a8eba5cd01118ebc/main.jpg",
+        "default": "/160x30/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg",
+        "large": "/170x32/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+      }
+    },
+    "agencyId": "EJPBJF",
+    "email": "reception@plr.net.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4442603",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Fully Fenced",
+        "Garage: 2",
+        "Remote Garage"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Dishwasher",
+        "Ensuite: 1",
+        "Split-system Heating",
+        "Toilets: 2"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "445229688",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/ac2d76f05edd03255e25d07035ed81b6c8e8cac23cd059ee11fa2f0fd4050cca/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "16 Oct 2026",
+    "dateDisplay": "16 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

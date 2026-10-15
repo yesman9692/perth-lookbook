@@ -1,0 +1,269 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-444884836",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 7095 0189",
+    "website": "http://mypropertyhouse.com.au",
+    "phoneNumber": "08 7095 0189",
+    "powerProfile": false,
+    "name": "Johnathan Toynbee",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+    },
+    "id": "3795012",
+    "email": "mypropertyhouse@mail.inspectrealestate.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "WANT TO VIEW THIS PROPERTY?<br/>Click “Get in Touch” and submit your details to receive an instant response with a link to apply.<br/><br/>Discover the vibrant coastal lifestyle at Shorehaven Estate — where every day feels like a getaway. Enjoy direct access to 1.7km of stunning shoreline via Waterfront Park and make the most of this well-connected, beachside community. Your brand new home is just a short walk from schools, shops, parks, and transport options — everything you need is right at your doorstep.<br/><br/>Property Features:<br/><br/>Master bedroom with built-in robe and private ensuite<br/><br/>Bedrooms 2 and 3 with built-in robes<br/><br/>Main bathroom with shower<br/><br/>Stylish kitchen with ample cupboard space and stainless steel appliances, including dishwasher<br/><br/>Open plan kitchen and living area<br/><br/>Split system air-conditioning<br/><br/>European-style laundry<br/><br/>Double carport with automatic roller door<br/><br/>Low-maintenance landscaped yard<br/><br/>Additional Information:<br/><br/>12-month lease<br/><br/>Unfurnished<br/><br/>Tenants responsible for all water usage",
+  "showAgencyLogo": true,
+  "title": "Coastal Living!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 7095 0189",
+      "website": "http://mypropertyhouse.com.au",
+      "phoneNumber": "08 7095 0189",
+      "powerProfile": false,
+      "name": "Johnathan Toynbee",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/d595b4480e748e34e0d1c8e5e3dd2c0588d0a08057b4cac560561fd99c035fb3/main.png"
+      },
+      "id": "3795012",
+      "email": "mypropertyhouse@mail.inspectrealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c371f68e9de2aa465401b2dedeb06119508c9f0285bc1f675a152b47d5a4d526/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/814151dabf62fcbee836c3beda8df90b4679d9fc1ba4ccf50c099682516c3d50/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b2697ab6470b63743e297b24fc9ee9d94d7e6ed47ff32cc115315000ab11aee8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d63cfabdc80190dd082ac4f162cb02c3a89332a240fc1338af6e43c4560cd7b5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2bacdf96f3008b3eba956d4ed6985732ff7229760b19f83bd3206929f84fcb15/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b37d0e05a42ec99aabb20709def1c5eacfbb3371c140b5492d20fe3747268860/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0c6c8dd0907cae9d866ddc6f70db0acf4c39cb46f51a96ac7c88a1e68373322a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/44470cda190ba8729865349504f3c78123579754dda6981325128b81059b4996/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aa01ae699ae139b6bbe8dbba0379527682f0a0888fbf6e144322ae03901c9b31/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9e8ca0052c45c5e080873354c6990afcfb10681a582412d4bc7360aa502444f8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8fba68f4e664b9cfcaf22b0b2b5b9da4eb50a6428796afa4a69aabe357bad130/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/03ccdb6d332d0dce57c7c69087bc3a2ad2ba00c53803287cc4fda9601587be76/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/261f8af5c472d4d1df400d8864259a55e639736c02d1563a4d8f79448808cb73/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0e17145ff9b48f70bfda7cf17cef3c7cca1955b39612fe68d632eee2d7671e69/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/35be96e902db8b0f8b3ef8d34602033be94ba35182b92ef9550074bb40ad8df8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/261100e188d46e33d5349140ed84566763a359baee8130a4f47fc0816875116e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7da592cd5fd27f601a311ab7fdf480332aa9340d75c8ef2581206399d5ae5a97/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "8 Clover Lane",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.603204,
+      "longitude": 115.66673155
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://mypropertyhouse.com.au",
+    "address": {
+      "streetAddress": "49 The Parade",
+      "postcode": "5067",
+      "suburb": "Norwood",
+      "state": "SA"
+    },
+    "phoneNumber": "08 7095 0189",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#0f0f0f"
+    },
+    "name": "My Property House - NORWOOD",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg",
+        "default": "/160x30/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg",
+        "large": "/170x32/3c57ba0a6bd1616a1a83b2d254f1414b7dc3f86e4abc3be99f30576713be76b3/logo.jpg"
+      }
+    },
+    "agencyId": "NKLVFX",
+    "email": "rentals@mypropertyhouse.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "6764447",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Dishwasher"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    },
+    {
+      "features": [
+        "Pets Allowed"
+      ],
+      "section": "allowances",
+      "label": "Allowances"
+    }
+  ],
+  "listingId": "444884836",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/f9dba977602647bb2dbdce66a3eab365582b7fc198670e00cf10b08467b1599a/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "21 Sep 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

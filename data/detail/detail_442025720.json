@@ -1,0 +1,334 @@
+{
+  "prettyUrl": "property-house-wa-eglinton-442025720",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0895612728",
+    "website": "http://www.lifestyleresidential.net",
+    "phoneNumber": "0895612728",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Luci Colla",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/b005d422b8547a5f20d0e1a79474027f61c17258ba34cb716ac69880089f64e7/main.jpg"
+    },
+    "id": "3874860",
+    "email": "pm3@plr.net.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "• All enquiries by email only to property management - ali@plr.net.au<br/>• All applications through realestate.com.au ONLY<br/>• Photos to follow soon<br/><br/>A fabulously finished 2 bedroom, 1 bathroom DUAL home with complete privacy, positioned within the Allara Estate of Eglinton only minutes from the train station, pristine beaches and has all the mod cons you will need! <br/><br/>The open plan kitchen with stone benchtops and built in pantry shares the air-conditioned spacious living area and there is a study area as well. The master bedroom with built in robe, a second bedroom, roomy bathroom and a built in laundry. <br/><br/>Entry is via the carport and the side gate allows access to the beautifully landscaped and reticulated rear garden and lawn.<br/><br/>PROPERTY FEATURES;<br/>• 2 Bedrooms and spacious bathroom.<br/>• Study area and built in laundry.<br/>• Kitchen with stone benchtop and built in pantry shares the living room with split R/C air.<br/>• Paved driveway continues into the carport area with entry into the home plus a gate to the rear landscaped garden.<br/><br/>Disclaimer: The above information has been provided by sources we deem to be reliable. We do not accept any responsibility to any person for its accuracy. All interested parties should rely upon their own enquiries in order to determine the accuracy of this information.",
+  "showAgencyLogo": true,
+  "title": "2 Bedroom Allara Park & Coastal Lifestyle",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0895612728",
+      "website": "http://www.lifestyleresidential.net",
+      "phoneNumber": "0895612728",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Luci Colla",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/b005d422b8547a5f20d0e1a79474027f61c17258ba34cb716ac69880089f64e7/main.jpg"
+      },
+      "id": "3874860",
+      "email": "pm3@plr.net.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$560 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b17169d7744f6d5d06fbf006f98a8956e8e4391534ae76aa317d2cbfb3a10da1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/65e8bb48d6f4188e73da72069d582d9ab821f9a1474b9cfe42a7cb378137d3ba/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3e9574be2b74e1a1475ed18accaf21b1d4efd6c34b7069ec40b2ec04c459596f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ca41359d9de9fb57933bb4ac145f6fa927988a2f642ab6221c768d53fada867e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/124b7cdb4a09410bc7b14ad6b2d30f5d56ee708a68b69d9820a30afb76be4c25/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/811dc69ee940ec2edaad0f79d799682ddb24fccd41eea14c2b3d49da3b25e98b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/99fc1621223ce912bd0ba08e208fba34d3d1f5f9d468bb0a4f9f7f9e78c72622/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/98cc8840a0c79b5fa3780fe7825d00f18bd6be68de821808caabe42c6bfdcdab/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4f058324db474da57a1b15e43ec5a287001fd3f2a9389cb896b5228f5f643476/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/95e62df7a6fb51608e660e5fddf45bcb01ac5952b2748e7434c6063472ef5fd0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0b19dada65673318fc5446f3db4bf98d19090a069419887d3e50b1635e30f3ea/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c401126ae64b2b303c98a44b89f3386fd8640243fe660f5d46cdf1f665077914/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/de9a0a61061974ecb12778434043730b61f893311139dfb5b3b4e258b6f71eae/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1f38fa1e3b11ef08921b8aa67951d5a511e5f013ea6a7b1df21a26aa30654b49/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8cf3a56a4f8943c5bfcd5375bc1566d0efa1526fcbaf6c364ee95ff06c39530c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7e796514ac43db3226fc445ecaac4217373da305d5ae5edb927c1c62e122e611/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9e9fd8e922b8c59b1383c5ac7a01418445057e65e2ebf9cc555e255e5d517430/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1953bd0db2d99190e08a82f723dcd3cbd20e9193d5668555b8ef90f4b0fff401/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/33085bdf2c912c98acdec5d9a8a29469de91f807d78b8cb7bca9d559ed3e3e8f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/49e90c96f51d39d685337629dba9a3e6e34a9902a8dbd38b0cf67ee2a4f05603/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/53137c0a0d4c76640d063017997d10f312c94e538633cb4632f4d7d12c995ed7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/67bb739e8fc59fd12168c0c4f510678ab8dd3a5a56f91a382fc1c0a5a8450d87/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b172a7ab66e2d64d6eb40efd2bb578558c999630d7d96904d24416311febe86a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/416f2b896b858605036186aa262d5a77d34ae4f2dfb9b12b6d0f290cd17f03c6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4b3c98790151181301514b112a09098a56f13695b07803660c382fa5f9444971/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/416b4c4e1ccaccd2467c2c1a6a65a99d18c9ba149f279ec5bacfbaff628df1b6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "floorplan",
+      "resize": true,
+      "uri": "/c12dc8abdaacff6a572f582672779dba05cceb2704fd5b412350ba0bb13182cf/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "7a Lucent Approach",
+    "locality": "Eglinton",
+    "postcode": "6034",
+    "suburb": "Eglinton",
+    "postCode": "6034",
+    "location": {
+      "latitude": -31.57128189,
+      "longitude": 115.66775889
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.lifestyleresidential.net",
+    "address": {
+      "streetAddress": "Unit 1/8 Enterprise Avenue",
+      "postcode": "6037",
+      "suburb": "Two Rocks",
+      "state": "WA"
+    },
+    "phoneNumber": "0895612728",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#fd6b0b"
+    },
+    "name": "Perth Lifestyle Residential - Lifestyle Is Where It Begins",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/3fee2e2462adee1cf49081f1aea01a7380751754b14c2e70a8eba5cd01118ebc/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg",
+        "hero image": "/1536x800/3fee2e2462adee1cf49081f1aea01a7380751754b14c2e70a8eba5cd01118ebc/main.jpg",
+        "default": "/160x30/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg",
+        "large": "/170x32/d8c2fc4dc53623c66741816713aac919769f2d6cef7d9698564a0c9ebbc3cb30/logo.jpg"
+      }
+    },
+    "agencyId": "EJPBJF",
+    "email": "reception@plr.net.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3779024",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Toilets: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "442025720",
+  "bond": {
+    "display": "$2,240",
+    "value": 2240
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/05cc0a3e0e2d052ec1d103f9faf91c6982c62c533b2da16e9c4df1a82587d8e8/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "26 Oct 2026",
+    "dateDisplay": "26 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Today",
+      "startTimeDisplay": "4:30 PM",
+      "endTimeDisplay": "4:45 PM",
+      "startTime": "2026-10-15T16:30:00",
+      "endTime": "2026-10-15T16:45:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 2",
+      "type": "bedrooms",
+      "value": 2
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

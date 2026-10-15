@@ -1,0 +1,226 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-438564916",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0427865558",
+    "phoneNumber": "0427865558",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Alison Ebert",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/26c81e472a89fc16390385d10619c6db2e073a05f6ef4b179229a50a7567bf3d/main.jpg"
+    },
+    "id": "3956504",
+    "email": "harcourtsalliance@mail.inspectrealestate.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Premium, easy maintenance residence in the lovely Alkimos Beach Estate. This quality built 3 x 2 is the perfect family home and is sure to impress! What we love about this property:<br/><br/>- All bedrooms with built in robes including sliding mirrored closet in master<br/>- Stainless steel appliances including dishwasher<br/>- NO carpet! Woodlook floorboards throughout living and bedrooms<br/>- Laundry with sliding door to rear<br/>- Split system air conditioning in main living area<br/>- Low maintenance front reticulated garden with artificial lawn<br/>- Beautiful rear alfresco area with decking and built in bench<br/>- Double lock up remote garage plus driveway parking<br/>- Less than 2km from Alkimos Beach, Shopping, schools, parks and more.<br/><br/>WANT TO VIEW THIS PROPERTY? Simply click the BOOK INSPECTION button and you will immediately be able to see and book into any available viewing times. (if a date isn't currently available you will receive an SMS and Email as soon as it's available to view)<br/><br/>To ensure a smooth viewing and application process, please note the following:<br/>- Please ensure you register to view (note; all attending parties MUST be registered)<br/>- If a viewing is not available then please be patient, we will notify you as soon as a time becomes available.<br/>- Upon viewing, you will be able to apply for the property via Tenant Options<br/><br/>Our application processing team will keep you updated on the progress and outcome of your application - please keep in mind that it can take 24-48 working hours to process when many applications are received. We suggest giving your references a heads up that we may be in touch - this will help expedite the process!<br/>",
+  "showAgencyLogo": true,
+  "title": "Well presented low maintenance 3 bedroom home",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0427865558",
+      "phoneNumber": "0427865558",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Alison Ebert",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/26c81e472a89fc16390385d10619c6db2e073a05f6ef4b179229a50a7567bf3d/main.jpg"
+      },
+      "id": "3956504",
+      "email": "harcourtsalliance@mail.inspectrealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$670 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/abbd69f9c18c346a0083d3da56ea108c9d7602dd605f9a5c697a949abdccac95/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7f9a1b79b6f27da2e9179d7abcc22a3fc51c08d8dfeb93006cede6ff71647ed1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/96b54a087dfae85544314b1946157f5fd540dbf56d68b396b45016b56c6f1ae7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/260dc313dcb4181345dcb112157bdacf3ceb597b8c9bde66ebf5d32a3f3e8184/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/024bb0aaa8782ced266aabe2e325a92b1a04e460ba35279e07376df8b3c2e4c2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/914ca5de1968ec2353fc6444246e07b679d5923272de105eeeeb038c53e8c8a4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e8eeab6b3f6ca41571b3e58666ffb9e823a184927cf7d5a853ceddc6a9599c65/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ed6a200a90e0f6b947908ac82199db803ae7e59eaf7eb6176a22776f386b6b41/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "11 Scrubwren Circuit",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.62229501,
+      "longitude": 115.68086081
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "2/4 Bouvard Walk",
+      "postcode": "6030",
+      "suburb": "Clarkson",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9300 3344",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#001F49"
+    },
+    "name": "Harcourts Alliance",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2525971bc098152f0b8c7020c84e085efe3d4e3fc7f49b3a22b7460700272b5e/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg",
+        "hero image": "/1536x800/2525971bc098152f0b8c7020c84e085efe3d4e3fc7f49b3a22b7460700272b5e/main.jpg",
+        "default": "/160x30/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg",
+        "large": "/170x32/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+      }
+    },
+    "agencyId": "EOMRPO",
+    "email": "ben.bernacki@harcourtsalliance.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3392524",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Ensuite: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "438564916",
+  "bond": {
+    "display": "$2,680",
+    "value": 2680
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/11e8d9fc5b32bd954e652e4fd9828d0ce5d012662eff86eb2aba7e65c744295a/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "12 Oct 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

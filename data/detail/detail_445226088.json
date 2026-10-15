@@ -1,0 +1,271 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-445226088",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "08 9562 2888",
+    "website": "http://www.northerncoast.com.au/",
+    "phoneNumber": "08 9562 2888",
+    "powerProfile": false,
+    "jobTitle": "Senior Property Manager",
+    "name": "Michelle Bourke",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/9097f03ac65ec17ae66cea22655b317ae39b21922f4b18b42b9fa772cc2de75a/main.jpg"
+    },
+    "id": "1042683",
+    "email": "leasing@northerncoast.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to 12 Decatur Street, Alkimos - a stylish and low-maintenance home perfectly suited to modern coastal living.<br/><br/>Positioned in the sought-after Shorehaven Estate, this beautifully presented 3-bedroom, 2-bathroom home offers a smart, functional layout with everything you need for comfortable everyday living.<br/><br/>Features include:<br/>3 spacious bedrooms with built-in robes<br/>2 modern bathrooms<br/>Contemporary kitchen with stone benchtops<br/>Stainless-steel appliances<br/>Open-plan living and dining<br/>Reverse-cycle air conditioning<br/>Secure double lock-up garage<br/>Low-maintenance lifestyle<br/><br/>VIEWING & APPLICATION INFORMATION<br/>• Does this property tick the boxes? Yes - Click the 'BOOK AN INSPECTION' button. If there isn't a time available, send through the enquiry so you can be contacted when one is booked. Please be aware, if there isn't a time available, there may have already been an inspection and applications pending.<br/>• The property MUST be viewed by yourself or someone on your behalf before you can apply<br/>• Applications will NOT be accepted prior to viewing<br/>• We use the 2Apply platform so you are welcome to prepare your profile - after the viewing, you will be sent the code to submit your application<br/>• Something else you need to know? Please EMAIL your enquiry as we are often on the road, in appointments or with clients and do not have the information at hand.",
+  "showAgencyLogo": true,
+  "title": "MODERN COASTAL LIVING IN THE HEART OF SHOREHAVEN",
+  "listers": [
+    {
+      "mobilePhoneNumber": "08 9562 2888",
+      "website": "http://www.northerncoast.com.au/",
+      "phoneNumber": "08 9562 2888",
+      "powerProfile": false,
+      "jobTitle": "Senior Property Manager",
+      "name": "Michelle Bourke",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/9097f03ac65ec17ae66cea22655b317ae39b21922f4b18b42b9fa772cc2de75a/main.jpg"
+      },
+      "id": "1042683",
+      "email": "leasing@northerncoast.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a6abb147d737cfad0c1a17535a32bc495b23fb573288517510d430049270ebb3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a4fa6a215447a8e1980636da8c7204ff322be9f4818b20843ea7baf6f9b4cb79/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/88196515887c51616fd8b2542cceef0a0fd2724eb9d6d001db16da282f6b3a3b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c16cc0f79dd8412257bcdabe6799d4eb2062528b5073b3d47ae0b41492907a1d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0cf9ad408df1a927becf69c1d056ce911c708717c4d168a905630a1408a3d994/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b5e731200ddcb8ccc6fa98e4bf9c5268f9f3ec27f418edab5ac019e3d5a7c139/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bdc03f77c0148839fa3733c800c8da60bb7a54e4de99cfa1af6c73594dd9dcd4/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/13630731ec60f971fef4825d12d3cd24c047dc72d11b7ff56af8f3cbd04ce328/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6e281e726f1c75d275b4314a0b9dcc2c47b799ba6952cf1a9f1f3667555969b0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9ce908f2e52f38f34fb5b10f530287527548da4c2314ffd6e0295b8f75a27cd0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/faaf479ba9d3c2ed444127151e25656ced45acfd86b3cdf552f00341ef6effee/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/915d1fab54c44714a67ee0b6063a5b594525e7c398367fe39461f857d43e97b0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0b34b2c36a932d5dc1e15265adfb47ec5194b685d5055e459a665077672a394f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ba64f65490f2a80cc195b3a249ec6db6bb0a1ccc262323f079ed5c584cd4c389/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/91caf9bcfd6126219267713441b5e957156f9ee02daca4bb66f28c8fd9890b3e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d2b16940d167449f4829b322047a2f818fe866b6c9e152d62bed300601f36e70/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e9072a6098576c80926f863810350cfd612f6f0fce2f1f7140eb6ece2b1ed869/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f7c5f9c1471b1b06c2d7ca7776329b1c14a0525a0f215cdfafde6650c18ed99c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7e1ec045d3453e734b20f594353b44f0032f1030b607d41ad1bb3befb4f5b9b3/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "12 Decatur Street",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.60115478,
+      "longitude": 115.6914695
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.northerncoast.com.au/",
+    "address": {
+      "streetAddress": "Shop 18 Brighton S/Ctre Marmion Ave & Kingsbridge Drive",
+      "postcode": "6036",
+      "suburb": "Butler",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9562 2888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#373D40"
+    },
+    "name": "Professionals Northern Coast Real Estate",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg",
+        "default": "/160x30/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg",
+        "large": "/170x32/c5722373d3e172f022f3a2946eb7cbd398a12aa5803c37a79d463f6d36f32000/logo.jpg"
+      }
+    },
+    "agencyId": "WUPOJJ",
+    "email": "salesadmin@northerncoast.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4518136",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "445226088",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/dfc74d5495bbd93a51effec791c18be3e8b78ca2d4f4b9e7a0630f279a30e564/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "27 Oct 2026",
+    "dateDisplay": "27 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

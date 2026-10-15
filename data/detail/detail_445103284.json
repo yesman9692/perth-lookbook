@@ -1,0 +1,304 @@
+{
+  "prettyUrl": "property-house-wa-butler-445103284",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0893149888",
+    "website": "http://www.rentwest.com.au",
+    "phoneNumber": "0893149888",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Lisa Newman",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/3a19388d598f714ea83bf0737ae583da9af87328f8f66153ff8759e2f5e58021/main.jpg"
+    },
+    "id": "3400420",
+    "email": "lisanewman@rentwest.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "You must see this spacious 3 bedroom 2 bathroom home ideally located within walking distance to Primary schools, local parks and 5 minute drive to the beach..<br/><br/>3 BEDROOMS<br/>2 BATHROOMS<br/>AIR-CONDITIONING<br/>OPEN PLAN LIVING<br/>DOUBLE LOCK UP GARAGE<br/>EASY CARE GARDENS<br/>CLOSE TO SHOPS & PARKS<br/>WALKING DISTANCE TO SCHOOLS<br/>PETS CONSIDERED<br/><br/>We ask you for a reference, now here is ours: Very helpful. Rented out unit very quickly. Always kept me up to date. Pleasure to deal with.<br/><br/>TO VIEW THIS PROPERTY: Please call Lisa on 9314 9888 or go to www.rentwest.com.au to register for the Home Open.",
+  "showAgencyLogo": true,
+  "title": "EASY CARE HOME",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0893149888",
+      "website": "http://www.rentwest.com.au",
+      "phoneNumber": "0893149888",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Lisa Newman",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/3a19388d598f714ea83bf0737ae583da9af87328f8f66153ff8759e2f5e58021/main.jpg"
+      },
+      "id": "3400420",
+      "email": "lisanewman@rentwest.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 4
+    }
+  },
+  "price": {
+    "display": "$660 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9b1f57ed1c4e427cb72e14d1d9a016b009ce75afe0234d80bdd2e55b489e75d1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1d1da62ad4d20c6940f3139f94d78f343f0bbb446fd93ac859f543e2020c6a10/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fe341de0c559ac2977f5292266aec9af20e5e5aed90163ce56f578772995552a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/992364da38ecda8af14db06ed1633771b77b81e7a55d8825d56d96d3bbe2e580/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/af41268551a0f6f62c7eb9d6faa456a2ad38feff9f31c142425ffbd3e98c11e0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7790739116784fcef7897d887b392b3b79881a795e2a9efd9653602c3adfa7b2/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7aae5848234ab742a7c08c3396225a11841cacb1e1f823fb2ad9d6add006bde8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/68cd4804ec03c229e928640caa2028a472301a9a476d997de22ccccf2808b229/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9cf123bd59369a8855e0765762ff9e51e429066dce2f064fed7b6ddecb0e6d81/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ed1d9af767746d8e4c8bcbd98d794619ed95f796fad603840d08ac10d2d3ef1f/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7ea86896fe717e32338622c00074803c3d5678ab194ec9e480002070a3a6a506/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d126d94a8310b3ae2958f4fee2a32bc9523b1575b1aa7e891ef526de8a9a5c50/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/609bade52c49733ff7a7c43847873ee942993a0e80096cdb1f48433f2a721ae0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/59bdd4943402870eec924f34529e68988b354fb8aa5151543704fd39e2c33998/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6a26b1000f4b24181d8dc93d28e83af8cbf0dc8dc77443afc2dfc65729f2a81c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/99c26e859d3418158abbf58959877661a8c5f246b10fc9f639a81b3e9c15a694/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fb6fe05218230f5b4d375bd70e8e76ac336b8f6cfe006030a512d37f9eaaad01/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/65c6ba164140117484dc67088161ec15224eb7b31c9b20a5a3b97ddda169adff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/69b4f2f2ead0d2514885d96b20754373c2657074af5822cc40c23d2383fca1d3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fcb574a8c9890d79a748ed872cecc9400c94baf9327d9b14b64d7c3c47e55aa6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/580897c920446d7984049856aa8785da056120ba223c2c9ae9ab297412b13333/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "91 Kahana Parkway",
+    "locality": "Butler",
+    "postcode": "6036",
+    "suburb": "Butler",
+    "postCode": "6036",
+    "location": {
+      "latitude": -31.64910216,
+      "longitude": 115.71804142
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://www.rentwest.com.au",
+    "address": {
+      "streetAddress": "Level 2, 42 Kishorn Road",
+      "postcode": "6153",
+      "suburb": "Applecross",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9314 9888",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#3a153d"
+    },
+    "name": "Rentwest Solutions - Applecross",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/37b1f2d46c76b96c538bbbaca0d8d88de8a0de6aa40b3a395b92556e4983b6c8/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg",
+        "hero image": "/1536x800/37b1f2d46c76b96c538bbbaca0d8d88de8a0de6aa40b3a395b92556e4983b6c8/main.jpg",
+        "default": "/160x30/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg",
+        "large": "/170x32/ea90aed09b9cbbb8c93655d8c31a70ddb29fc3f07526fd2f23b7b3d05d7b6ecb/logo.jpg"
+      }
+    },
+    "agencyId": "UGJNKI",
+    "email": "leasing@rentwest.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "p_01a0c7a3-67a5-7abb-a971-ea8d3bbded29",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Courtyard",
+        "Fully Fenced",
+        "Garage: 2",
+        "Open Spaces: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Air Conditioning",
+        "Built-in Wardrobes",
+        "Dishwasher"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "445103284",
+  "bond": {
+    "display": "$2,640",
+    "value": 2640
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/7d859fcf996baf40d15bfbb83637eefada3fa8f0ebf80347fcade448b7c3a88e/image.png"
+  },
+  "dateAvailable": {
+    "date": "23 Oct 2026",
+    "dateDisplay": "23 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Today",
+      "startTimeDisplay": "4:00 PM",
+      "endTimeDisplay": "4:20 PM",
+      "startTime": "2026-10-15T16:00:00",
+      "endTime": "2026-10-15T16:20:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 4",
+      "type": "parkingSpaces",
+      "value": 4
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}

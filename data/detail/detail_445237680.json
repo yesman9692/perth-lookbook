@@ -1,0 +1,349 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-445237680",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0439538143",
+    "phoneNumber": "0439538143",
+    "powerProfile": false,
+    "jobTitle": "Property Manager",
+    "name": "Melissa Tonaro",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/05434fc236e7ccf3217055b79378841f804853272f5c94765adbb2355e6765bc/main.jpg"
+    },
+    "id": "3956588",
+    "email": "harcourtsalliance@mail.inspectrealestate.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Welcome to 19 Bowline Avenue, Alkimos - a stylish and low-maintenance home perfectly suited to modern coastal living. <br/><br/>Positioned in the sought-after Shorehaven Estate, this nicely presented 3-bedroom, 2-bathroom home offers all you need!<br/><br/>Features include:<br/>3 spacious bedrooms with built-in robes<br/>2 bathrooms<br/>Stainless-steel appliances<br/>Open-plan living and dining<br/>Reverse-cycle air conditioning<br/>Secure double lock-up garage<br/>Low-maintenance gardens<br/><br/>WANT TO VIEW THIS PROPERTY? Simply click the BOOK INSPECTION button and you will immediately be able to see and book into any available viewing times. (if a date isn't currently available you will receive an SMS and Email as soon as it becomes available to view)<br/><br/>To ensure a smooth viewing and application process, please note the following:<br/><br/>1. Please ensure you register to view (note; all attending parties MUST be registered)<br/>2. If a viewing is not available then please be patient, we will notify you as soon as a time becomes available<br/>3. A flyer will be provided at the home open outlining stepÃ¢€'byÃ¢€'step instructions on how to submit your application.<br/>4. Our application processing team will keep you updated on the progress and outcome of your application - please keep in mind that it can take 24-48 working hours to process when many applications are received. We suggest giving your references a heads up that we may be in touch - this will help expedite the process!<br/>5. Please note that only applications submitted via Tenant Options will be considered.<br/><br/>Looking for professional, stress-free property management? Megan McHenry at Harcourts Alliance is here to help. Whether you're after expert advice or just exploring your options, feel free to get in touch for a confidential, no obligation conversation - 0422 808 112 / megan.mchenry@harcourtsalliance.com.au",
+  "showAgencyLogo": true,
+  "title": "Low Maintenance & Great Location",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0439538143",
+      "phoneNumber": "0439538143",
+      "powerProfile": false,
+      "jobTitle": "Property Manager",
+      "name": "Melissa Tonaro",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/05434fc236e7ccf3217055b79378841f804853272f5c94765adbb2355e6765bc/main.jpg"
+      },
+      "id": "3956588",
+      "email": "harcourtsalliance@mail.inspectrealestate.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/2066293cb49ee8ea24cf424368cef294e4c7bb82eb2a6e569aa8d6fc045da1b5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7ca8050b1fd1afd8083183a2fd200585d50c7598a68d27e3a0816bb9aabfd7fb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9017e04235278d51bbca6bfeb8f6fdeb0499af2884c167eacb11cbd176ca6b94/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d9d662d16d6e16adc20580e57336b966862e87612dcb5b8b832ff014d7d637d9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0ccd2decbe957876c88476acdc13aaff90544a16956c2d1f1d218b17aae890fe/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/acdf44c2b30f1543f33580ae43da34960384f230f2c7f45abc6341dea1a237a1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/440daad0bb99bf2b951b31275a9eaf6f5408ff81ffdbd5455c05fe9c4e33abe1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/facac467f9f7ff60826710a635d8c48f2d651cb887becab806c769f3ba93f920/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/faeed651a38c6a52cb4a6eab1937b529bef12a44d8c35b618e40a52c6e43170e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/18db729574377813b4b78969cf83d46f6732b1ac321f8b5e3385858cec235466/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ef4160a50ebd866c98345fda29c1406abb865f0b245b3197071c31aa86a5e3eb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/56728b9aefca62adc03eb16309f1cfac99b3afbc0ff17655b37d19f1fefc9077/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/33f14a08713296312b1d68d7a06f498f3aaa0a11193fb82f62b8dedfefa6bfeb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7a5820893c51591922615c74bddaec46ead466a7097f59feb634c31812c2e1f1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/7561da62682c09c9296dbec5d87efd4b49071a4d49994a74aa50fc2648f3ab22/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a6d771f2715643052d4f06e033d55cbe0096c890b83a3a3eb97131072ac038c7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/89f6f41359e8611898dd7605bce021ce487c901bd0c0b94fc4ce5380076221be/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f8868ffe42fca48f5e9f297dcbcaec49e75666b17c7f268c9644a9844f63d767/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3fbbf6ca1bde984054cc7555002351cd625d7faea6da2078ac7cc53db0bd81e3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1efbdd96cdaf61d438b1609e48181c2ce28226b9fd6363636279e1cef0e5a9e7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ca3e502b8af88c2f3613043a8072f49bb03e931e40d789e4a6239e23cdab3fc7/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f81abe973a5594b73097e6cb0ace3b24b841394d737466b16bc08bfcf58a01b0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a9c81d288444719d8bc37754064343ce9db2dd166ac1a23b57cc1401e00a9f4d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/e2d76f2ca55dc27d7208ba6f5d3f98b40ea408b30d767f297c03df3b42206af9/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d731262c1f7259fb2b6fba785e9553618730c8bb00c4cb9c1f1a1b4970ebc47a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/69552c29bc95942570fd375e010ef13b776361724ee91ccc1933740e8705968a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0edc3244dab488eaa09459203bf51cd96ff5a37e4d41a2ed8d8c5375fe1dc1d6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/84d4ddf4d64d0b7e2082eec593612bdfd5d671703103576eea763434d87e8737/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9ceca95a48de441289da28fb3ee0a7d4aaa2b292570e380eb8effb01f49a95a3/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/96b493274b5c518a5570bcceef54fe92f91e5f455f63561b4e9a9efd468ad429/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/66bbd1183fac92f00cea0661751dcafac4f963afaeaa583916354ee9390dbddb/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f63774e9a2226956f33dd9a12a001f57cf5f96554aae92a9a4e67419e9e370fc/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/21e16eaefedf861d1e2478e15ca51a475067a97d7725cef895630dc906a236d1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/bb82abf8cc5da7579fd62005ebb916e5a24d48076c7502c1575c0aa33b369c9c/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "19 Bowline Avenue",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.60199781,
+      "longitude": 115.68711996
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "2/4 Bouvard Walk",
+      "postcode": "6030",
+      "suburb": "Clarkson",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9300 3344",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#001F49"
+    },
+    "name": "Harcourts Alliance",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2525971bc098152f0b8c7020c84e085efe3d4e3fc7f49b3a22b7460700272b5e/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg",
+        "hero image": "/1536x800/2525971bc098152f0b8c7020c84e085efe3d4e3fc7f49b3a22b7460700272b5e/main.jpg",
+        "default": "/160x30/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg",
+        "large": "/170x32/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+      }
+    },
+    "agencyId": "EOMRPO",
+    "email": "ben.bernacki@harcourtsalliance.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R4506236",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "445237680",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/2845f8fba7164939ec79b25aa86ed7f96db5008c69393e750ddbeb54758a0927/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "23 Oct 2026",
+    "dateDisplay": "23 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

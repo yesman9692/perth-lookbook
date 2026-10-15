@@ -1,0 +1,285 @@
+{
+  "prettyUrl": "property-house-wa-alkimos-439931668",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0467014607",
+    "website": "http://raywhitenortherncoast.com.au",
+    "phoneNumber": "0467014607",
+    "powerProfile": false,
+    "jobTitle": "Property Portfolio Manager",
+    "name": "Jean Grobler",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/61d0f1ca838fd00476ed1122d5dfb0317f2cf55c1fad517937693e285372a8d6/main.jpg"
+    },
+    "id": "4042736",
+    "email": "jean.grobler@raywhite.com"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "Move straight into this stylish beachside home nestled in a hugely popular whisper quiet pocket of the Shorehaven Estate.<br/><br/>You'll love the hot spot location just minutes away from schools, shopping, dining and entertainment.<br/><br/>Packed with style, and plenty of features:<br/><br/>+ Spacious open plan dining and living <br/><br/>+ Big kitchen with pantry and plenty of bench and storage space<br/><br/>+ Slide open the patio doors onto the large alfresco area<br/><br/>+ Great size master with walk in robe and ensuite<br/><br/>+ Light and spacious bedrooms with built-in robes<br/><br/>+ Family bathroom with separate bath and shower<br/><br/>+ Private water closet<br/><br/>+ Laundry with linen storage<br/><br/>+ Double remote garage with rear access<br/><br/>+ Low maintenance gardens<br/><br/>Pets considered<br/><br/>Tucked away in a great spot within walking distance to Northshore Christian Grammar School, close to parks, playgrounds, Alkimos shopping complex, dining, entertainment and the beach.<br/><br/>** APPLY ONLINE NOW **<br/><br/>Please note we do not accept 1 Form applications.<br/><br/>Disclaimer: the above information has been provided by sources we deem to be reliable. We do not accept any responsibility to any person for its accuracy. All interested parties should rely upon their own enquiries in order to determine the accuracy of this information.",
+  "showAgencyLogo": true,
+  "title": "COASTAL CHARMER!",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0467014607",
+      "website": "http://raywhitenortherncoast.com.au",
+      "phoneNumber": "0467014607",
+      "powerProfile": false,
+      "jobTitle": "Property Portfolio Manager",
+      "name": "Jean Grobler",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/61d0f1ca838fd00476ed1122d5dfb0317f2cf55c1fad517937693e285372a8d6/main.jpg"
+      },
+      "id": "4042736",
+      "email": "jean.grobler@raywhite.com"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$650 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1b5f62aa9709588b3d54d81a0187f86deca14e75e905a610485741e65bef5399/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/5fd3cccb6989862dee1f6a9c440899c9e76d05a9ebdb22e66e34f87db8d06741/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/4d33622141e27c79f2324796ca15540ede4d581a10fbf035701355d63da00a20/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6f6ea5179d9721d70e8555f2ce6b13cc8199100db736b5376904597d5f70f1b0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c5127ab4f95287550e68d994f2646edd314ec13f491f4af82b84859b087267ae/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/f2979377473526cd123cbf208d29f7247922e977c7bf4d61b47dba78de859ced/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/36efb2a8e5b8d15f01f83130507a89d046204ffb6f3a5894c9ec6d5530494d54/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8da7379b41c56ed03866964b81041a4e7c169c9bf5b684afc03a47de3dd46b7a/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8d780e5cae898dc6e3a3e1b8aa1ab532f591a7b6ff2fe0516c70179d3ae7915c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/853f460b21cda0ba006d23fbe957454e04a26afcbc37285af964690b333dcc19/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/016000eae0d155f446bdbc4dab5984139a8d1101bf80307ede459fe1886d4965/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/76fb941eb115bc4ebed5db60327aa46b71b394973596e9e0722aeb0bbfe82685/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/adf20ec45d969a8fa0c2cac74346dab591b343d0c672b43b80c814d8e683803c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/25024e0af39310f2371392bfae210d00e35c81893d5a4a3f3549a58ed7a519b5/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/aa0747dd4e2c2cb3c5d501a4add42cefc13266f4881bac05ad8bbffe51608142/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/6ba15649ced723559ff53c512d25c8d8e139849ffcde5723069fba3361a85361/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/d0e1db78a5d395ee804740a8ff60318c6dfe9f0b5c370365d71fd71843d8d568/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/1e72c943d9652539abd38c6cae79e8d6507f6d941871fb9b0ae2bd127d638d5d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8aa8fafc1d1646a74d5fe27dd618accabad33bf8935cc29e96b2847dd805b2c0/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/99eb8f4dc904c1e70eb9d689b5d77c2c1b77375f05f750c40a930c8f441bdcdd/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "36 Bowline Avenue",
+    "locality": "Alkimos",
+    "postcode": "6038",
+    "suburb": "Alkimos",
+    "postCode": "6038",
+    "location": {
+      "latitude": -31.60236713,
+      "longitude": 115.68767916
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "website": "http://raywhitenortherncoast.com.au",
+    "address": {
+      "streetAddress": "5/5 Kingsbridge Boulevard",
+      "postcode": "6036",
+      "suburb": "Butler",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9329 4655",
+    "branded": true,
+    "brandingColors": {
+      "text": "#000000",
+      "primary": "#ffe512"
+    },
+    "name": "Ray White Northern Coast",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/8277e9e0d30c3aa24673110f7f60cc2d1fb5e30c10baf8fe802a4af5a7275288/main.gif"
+        }
+      ],
+      "links": {
+        "small": "/114x21/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg",
+        "hero image": "/1536x800/8277e9e0d30c3aa24673110f7f60cc2d1fb5e30c10baf8fe802a4af5a7275288/main.gif",
+        "default": "/160x30/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg",
+        "large": "/170x32/c0e028c3e3ac06faf9f2eb90614e0e8f4bdf8f5e025da657cb8f85839cf494d8/logo.jpg"
+      }
+    },
+    "agencyId": "ABCTWO",
+    "email": "northerncoast.wa@raywhite.com"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3177592",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Built-in Wardrobes"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "439931668",
+  "bond": {
+    "display": "$2,600",
+    "value": 2600
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/f864ccb65990af8b1a79971a5d255d733b0f23e07620ce022242a5fefa3fcf00/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "13 Oct 2026",
+    "dateDisplay": "Available now"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false
+}
