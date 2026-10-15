@@ -44,6 +44,8 @@ python perth_lookbook.py <group> [--beds 2,3] [--max N] [--type ...] [--floor an
 5. **commute(3)에서 멈추면 GitHub 무변경.** 배포는 `[4]`와 `[7]`에서만. 중간 stop은 배포·채점 안 됨.
 6. **judge는 adaptive·캐시 게이트.** verdict 있고 `rubric_version`(SCORING.md 첫줄 vN) 일치하면 재채점 skip. SCORING.md 버전 올리면 다음 judge가 8항목 전건 자동 재판정. 토큰은 **신규/버전불일치 건수만큼만**.
 7. **commute(3) amenity/grocery = Places API (New) + 3중 비용통제 (2026-07-16 전환).** ⚠️ **amenity가 전부 D·grocery 전부 빈값이면 "동네가 나빠서"가 아니라 캐시미스+한도** 의심. ① `perth_commute.py`는 레거시 nearbysearch 폐기하고 **Places New(필드마스크 id·location·types만 → Nearby Search Pro SKU, 월 5,000 무료)** 사용. ② **listingId 캐싱**(`places_cache.json`) — 재실행 무과금, 좌표 동일 시 skip. **강제 재조회는 `--refresh`**. ③ **월 하드스톱 4,500**(`_deploy/data/places_usage.json`, git 동기화, 월 자동리셋) 도달 시 호출 skip→폴백 + 경고. ④ 콘솔 `SearchNearbyRequest per day=1,000`(폭주 백스톱). 레거시 25/일 캡은 미사용이라 방치. 상세: 메모리 `project_perth_maps_api_cost`.
+8. **RapidAPI 키가 1개뿐이면 `--workers 2`** (2026-10-15 실측). 기본 6병렬은 분당 한도(429)에 걸려 일부 매물의 detail·사진이 통째로 빠진다(`imgs=-1 ERR:모든 키 사용불가: ('429'...)`). ⚠️ 그 상태로 judge가 돌면 사진 없이 "판정불가" verdict가 **캐시에 박혀 다음 run에서 재사용**된다 → 해당 id를 `verdicts.json`(tools·`_deploy/data` 둘 다)에서 지우고 재실행해야 사진으로 다시 판정한다.
+9. **`tools/_deploy` = `perth-lookbook` 저장소 정션** (2026-10-15 생성, 이사 후 끊겨 있었음). 배포 직전 `src/` 수정이 미커밋이면 `pull --rebase`가 막혀 "배포 실패(수동 push 필요)"가 뜬다 → 코드 수정은 실행 전에 커밋. 바뀐 게 없어 빈 커밋이 거부되면 "데이터 git sync: 실패"로 찍히지만 실제론 정상.
 
 ---
 
