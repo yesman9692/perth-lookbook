@@ -1,0 +1,211 @@
+{
+  "prettyUrl": "property-house-wa-heathridge-445236828",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0455927692",
+    "phoneNumber": "0455927692",
+    "powerProfile": false,
+    "name": "Debra Toperesu",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/b6c3fb98bd6628889a5427b0c345468bd620507daa14684503c7ae690733f21d/main.jpg"
+    },
+    "id": "3151480",
+    "email": "debra@urbanwa.com.au"
+  },
+  "featured": true,
+  "signature": false,
+  "channel": "rent",
+  "description": "Looking for a great place to settle in, then you must see this lovely 3 bedroom home,<br/><br/><br/> Bathroom and kitchen have been done up and shine! The painting, floor coverings and blinds have all been refreshed, Add to that a whopping big entertaining back yard with a drive in powered workshop, SPLIT SYSTEM AIRCONDITIONING and located across from Admiral Park.<br/><br/>*Perfect location opposite Admiral Park and such a short walk to shops, schools and transport <br/>*Large, light and bright separate front lounge <br/>*Generous living area off the kitchen with access to the patio and rear yard <br/>*Updated kitchen with neutral tones, a really big pantry and views to the back yard<br/>*Recently renovated bathroom with glass shower screen and separate bath <br/>*Massive back yard with heaps of grassed area, big garden shed <br/>*Carport under the main roof with drive through access to the powered workshop<br/><br/><br/><br/>Don't delay as this will not last long, call or email Debra on 9206 1600 or Debra@urbanwa.com.au<br/><br/>Property Code: 4831<br/>",
+  "showAgencyLogo": true,
+  "title": "3X 1 FAMILY HOME!! AVAILABLE FOR 3 MONTHS ONLY FROM 22.10.2026",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0455927692",
+      "phoneNumber": "0455927692",
+      "powerProfile": false,
+      "name": "Debra Toperesu",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/b6c3fb98bd6628889a5427b0c345468bd620507daa14684503c7ae690733f21d/main.jpg"
+      },
+      "id": "3151480",
+      "email": "debra@urbanwa.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "parkingSpaces": 1
+    }
+  },
+  "price": {
+    "display": "$850 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "featured",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/0df0d6fc30abe89e059eb199cadea99055a3c031233014d1f4d822f41e3bca29/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/3b86441584e4fbe97734934606060a60167c456ea65e1244f8b3ba56529a0c73/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/37511043a4872aa05c08cfd9fedce94eaa5901d9077397e8834690c64b0021ff/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/67b7e8ae107bfe2f9575df1adfda5abc202e72724721bf41955929db0ae7f499/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c4a2680032fdb6769a05034e2378d96bab79c244806c63c4e434d955e06e8c29/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/a4ce6bd2b4f0c36c7ac34f9decdd00f5736aeaee3b1b2a9bc88a50edaa219314/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/ce01699ae6c72ecbb06a90767de2d3ccaac58f9ea380694f54d76e3d8642f25f/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "84 Channel Dr",
+    "locality": "Heathridge",
+    "postcode": "6027",
+    "suburb": "Heathridge",
+    "postCode": "6027",
+    "location": {
+      "latitude": -31.76314661,
+      "longitude": 115.76191071
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "945 Wanneroo Road",
+      "postcode": "6065",
+      "suburb": "Wanneroo",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9206 1600",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#003087"
+    },
+    "name": "Urban WA Real Estate - Wanneroo",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/ff61645ac06e994ac9d71c7509b5ee4f70f7f9304f89484a9488be0a8e6e3e64/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/ff61645ac06e994ac9d71c7509b5ee4f70f7f9304f89484a9488be0a8e6e3e64/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/ff61645ac06e994ac9d71c7509b5ee4f70f7f9304f89484a9488be0a8e6e3e64/logo.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/ff61645ac06e994ac9d71c7509b5ee4f70f7f9304f89484a9488be0a8e6e3e64/logo.jpg",
+        "default": "/160x30/ff61645ac06e994ac9d71c7509b5ee4f70f7f9304f89484a9488be0a8e6e3e64/logo.jpg",
+        "large": "/170x32/ff61645ac06e994ac9d71c7509b5ee4f70f7f9304f89484a9488be0a8e6e3e64/logo.jpg"
+      }
+    },
+    "agencyId": "YUEASJ",
+    "email": "reception@urbanwa.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "urban_1_408394639",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Carport: 1"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    }
+  ],
+  "listingId": "445236828",
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/c8ad6e5f64b4ebb4a60f94bc64427fb35e3042f158805ca54fa1ef6f5e9f4e60/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "22 Oct 2026",
+    "dateDisplay": "22 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [
+    {
+      "dateDisplay": "Inspection Today",
+      "startTimeDisplay": "4:45 PM",
+      "endTimeDisplay": "5:00 PM",
+      "startTime": "2026-10-15T16:45:00",
+      "endTime": "2026-10-15T17:00:00",
+      "auction": false
+    }
+  ],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 1",
+      "type": "bathrooms",
+      "value": 1
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 1",
+      "type": "parkingSpaces",
+      "value": 1
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}

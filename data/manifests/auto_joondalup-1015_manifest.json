@@ -67,7 +67,9 @@
     "bd": "2",
     "floor": "?",
     "flag": "",
-    "commute": ""
+    "commute": "🚆 20분(도보 617m): 도보 0.2 km → Currambine[Yanchep Line] 1정거장/3 mins → 도보 87 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · 🚲 자전거 19 mins(5.6 km) (Maps)",
+    "grocery": "🛒 도보 455m 6분 (Coles Currambine)",
+    "amenity": "🏪 amenity:B(클러스터5·최근접455m)"
   },
   {
     "id": "445237288",
@@ -111,7 +113,9 @@
     "bd": "3",
     "floor": "?",
     "flag": "",
-    "commute": ""
+    "commute": "🚆 22분(도보 741m): 도보 0.3 km → Currambine[Yanchep Line] 1정거장/3 mins → 도보 87 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · 🚲 자전거 19 mins(5.7 km) (Maps)",
+    "grocery": "🛒 도보 657m 9분 (Coles Currambine)",
+    "amenity": "🏪 amenity:B(클러스터5·최근접657m)"
   },
   {
     "id": "436464280",
@@ -121,7 +125,9 @@
     "bd": "3",
     "floor": "MIX",
     "flag": " YEL:carpet",
-    "commute": ""
+    "commute": "🚆 29분(도보 736m): 도보 0.3 km → Candlewood Bvd After Blue Mountain Dr[391] 11정거장/12 mins → 도보 47 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · 🚲 자전거 17 mins(5.1 km) (Maps)",
+    "grocery": "🛒 🚌 12분 (Candlewood IGA, 현지도보 362m)",
+    "amenity": "🏪 amenity:D(클러스터0·최근접1297m)"
   },
   {
     "id": "445178688",
@@ -131,7 +137,9 @@
     "bd": "3",
     "floor": "BARE",
     "flag": "",
-    "commute": ""
+    "commute": "🚆 23분(도보 906m): 도보 0.5 km → Grand Bvd After Plaistow St[468] 4정거장/5 mins → 도보 47 m → Joondalup Station[Red CAT] 2정거장/3 mins → 도보 0.4 km ·환승1회 · 🚲 자전거 8 mins(2.5 km) (Maps)",
+    "grocery": "🛒 🚌 12분 (Ok Oriental Mini Mart, 현지도보 188m)",
+    "amenity": "🏪 amenity:D(클러스터10·최근접1163m)"
   },
   {
     "id": "439592460",
@@ -141,7 +149,9 @@
     "bd": "3",
     "floor": "?",
     "flag": "",
-    "commute": ""
+    "commute": "🚆 26분(도보 998m): 도보 0.3 km → Poseidon Rd After Penguin Cl[463] 6정거장/12 mins → 도보 0.7 km ·무환승 · 🚲 자전거 13 mins(3.5 km) (Maps)",
+    "grocery": "🛒 🚌 10분 (Coles Beldon, 현지도보 166m)",
+    "amenity": "🏪 amenity:D(클러스터3·최근접1791m)"
   },
   {
     "id": "445236828",
@@ -151,7 +161,9 @@
     "bd": "3",
     "floor": "?",
     "flag": "",
-    "commute": ""
+    "commute": "🚆 30분(도보 1092m): 도보 0.4 km → Admiral Gr After Sloop Pl[463] 9정거장/15 mins → 도보 0.7 km ·무환승 · ⚡최단 28분(도보 1262m) · 🚲 자전거 13 mins(3.1 km) (Maps)",
+    "grocery": "🛒 🚌 7분 (Coles Beldon, 현지도보 166m)",
+    "amenity": "🏪 amenity:D(클러스터9·최근접1151m)"
   },
   {
     "id": "443965236",

@@ -1,0 +1,239 @@
+{
+  "prettyUrl": "property-house-wa-joondalup-436464280",
+  "standard": false,
+  "midtier": false,
+  "lister": {
+    "mobilePhoneNumber": "0401616129",
+    "phoneNumber": "0401616129",
+    "powerProfile": false,
+    "name": "Annabelle Hall",
+    "mainPhoto": {
+      "server": "https://i3.au.reastatic.net",
+      "name": "main photo",
+      "uri": "/8b56485a19fcc280b460271b420379a0e10c9ca663641c882fe1b500d9fce767/main.jpg"
+    },
+    "id": "4050904",
+    "email": "annabelle@harcourtsalliance.com.au"
+  },
+  "featured": false,
+  "signature": true,
+  "channel": "rent",
+  "description": "PROPERTY INFORMATION:<br/>- 3 bedrooms. Master with walk in robe, 2 additional bedrooms with built in robes and new carpets<br/>- 2 Bathrooms. Ensuite with shower, bath, vanity & toilet. Main bathroom with toilet, shower & basin<br/>- Large lounge room off the entry with gas bayonet & Reverse cycle air conditioning for both heating & cooling<br/>- Near new kitchen has a double fridge recess, stainless steel appliances - Gas hot plate, electric oven & dishwasher<br/>- Meals / Family adjacent to the kitchen with wood look laminate flooring & study nook area<br/>- Sunken games room with gas bayonet & Reverse cycle air conditioning for both heating & cooling plus direct access to the rear<br/>entertaining area<br/>- Ducted evaporative air conditioning throughout<br/>- Covered in rear pergola with sunset views for evening BBQ's. Pergola also has alfresco blinds & ceiling fans for all year round<br/>comfort<br/>- Double lock up garage<br/>- Additional storage to rear of the garage area with separate roller door access<br/>- Security cameras all round<br/>- Alarm system<br/>- Rear garden shed<br/><br/>Please register your interest online. Applications can be submitted through Tenant Options - https://tenantoptions.com.au/",
+  "showAgencyLogo": true,
+  "title": "3 x 2 Family Home - Includes lawnmowing",
+  "listers": [
+    {
+      "mobilePhoneNumber": "0401616129",
+      "phoneNumber": "0401616129",
+      "powerProfile": false,
+      "name": "Annabelle Hall",
+      "mainPhoto": {
+        "server": "https://i3.au.reastatic.net",
+        "name": "main photo",
+        "uri": "/8b56485a19fcc280b460271b420379a0e10c9ca663641c882fe1b500d9fce767/main.jpg"
+      },
+      "id": "4050904",
+      "email": "annabelle@harcourtsalliance.com.au"
+    }
+  ],
+  "features": {
+    "general": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSpaces": 2
+    }
+  },
+  "price": {
+    "display": "$800 per week"
+  },
+  "propertyType": "house",
+  "productDepth": "signature",
+  "calculator": {
+    "brandingColors": {
+      "text": "#e4002b",
+      "primary": "#ffffff"
+    },
+    "subtitle": "Calculate repayments for this property",
+    "title": "Buy or Rent Calculator"
+  },
+  "images": [
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/df46d5c7f9a0230bbcdcce597534a2ec077cb22b9d95d5e31021d5c550d573e6/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/eef38ddf67098668e1c3c895ed784e8abcd949a760b76fdaa324af8472d72ce8/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/105bfcf1d7b63a32d8e9728769eba87370f7269b1e6039a6eec7dc5ee9632d26/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/b05a2575093c89eb30cacacabe30309c7b2fc225ddae365cbdf43d05b04b8621/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/94fd5b4c593904fcfe5ae11df6f523c9ba2d0211d00ef9c39326083320102f3c/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/862fc723f3f9ce8b54c421deeb07bd03cf8f081e9cd033a8311ed4e6352a701e/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/8c851a108534f3551ec8ea3a779fbcd817995c42780e422ab16a761b3b216c69/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/9ca5c443dd26876b8352e61dc20119093d6de855d9867fbe4dea43dcbf3fc58b/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/c29a58349bbbe178256f9ef8b583fcaf9c2b7de5a3c462cef519dca55c49369d/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/483d970f7797f2fe0e5708c2411d7e1f85928d96ff6b81318ab38aabe4d071a1/image.jpg"
+    },
+    {
+      "server": "https://i3.au.reastatic.net",
+      "name": "photo",
+      "uri": "/fc81f3cd9cd4bebd3a67db6c6d064121a51c7ec04bf18236fa7e3f55f3de5ba9/image.jpg"
+    }
+  ],
+  "address": {
+    "streetAddress": "21 Quesnel Place",
+    "locality": "Joondalup",
+    "postcode": "6027",
+    "suburb": "Joondalup",
+    "postCode": "6027",
+    "location": {
+      "latitude": -31.72115,
+      "longitude": 115.7605
+    },
+    "subdivisionCode": "WA",
+    "state": "WA",
+    "showAddress": true
+  },
+  "classicProject": false,
+  "agency": {
+    "address": {
+      "streetAddress": "2/4 Bouvard Walk",
+      "postcode": "6030",
+      "suburb": "Clarkson",
+      "state": "WA"
+    },
+    "phoneNumber": "08 9300 3344",
+    "branded": true,
+    "brandingColors": {
+      "text": "#ffffff",
+      "primary": "#001F49"
+    },
+    "name": "Harcourts Alliance",
+    "logo": {
+      "images": [
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "large",
+          "uri": "/170x32/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "default",
+          "uri": "/160x30/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "small",
+          "uri": "/114x21/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+        },
+        {
+          "server": "https://i3.au.reastatic.net",
+          "name": "hero image",
+          "uri": "/1536x800/2525971bc098152f0b8c7020c84e085efe3d4e3fc7f49b3a22b7460700272b5e/main.jpg"
+        }
+      ],
+      "links": {
+        "small": "/114x21/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg",
+        "hero image": "/1536x800/2525971bc098152f0b8c7020c84e085efe3d4e3fc7f49b3a22b7460700272b5e/main.jpg",
+        "default": "/160x30/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg",
+        "large": "/170x32/07eff89ade13d0340c1105cd816706838af8d8bb110b41472198936f5a6a261b/logo.jpg"
+      }
+    },
+    "agencyId": "EOMRPO",
+    "email": "ben.bernacki@harcourtsalliance.com.au"
+  },
+  "isSoldChannel": false,
+  "isBuyChannel": false,
+  "signatureProject": false,
+  "agencyListingId": "R3043367",
+  "propertyFeatures": [
+    {
+      "features": [
+        "Garage: 2"
+      ],
+      "section": "outdoor",
+      "label": "Outdoor Features"
+    },
+    {
+      "features": [
+        "Ensuite: 1"
+      ],
+      "section": "indoor",
+      "label": "Indoor Features"
+    }
+  ],
+  "listingId": "436464280",
+  "bond": {
+    "display": "$3,200",
+    "value": 3200
+  },
+  "mainImage": {
+    "server": "https://i3.au.reastatic.net",
+    "name": "main photo",
+    "uri": "/9256d49c71d6cd5cee8dc9268362e085cc22ec4d92af3d511f7eb50d1e7f2e7a/image.jpg"
+  },
+  "dateAvailable": {
+    "date": "19 Oct 2026",
+    "dateDisplay": "19 Oct 2026"
+  },
+  "modifiedDate": {
+    "value": ""
+  },
+  "inspectionsAndAuctions": [],
+  "generalFeatures": {
+    "bedrooms": {
+      "label": "Bedrooms: 3",
+      "type": "bedrooms",
+      "value": 3
+    },
+    "bathrooms": {
+      "label": "Bathrooms: 2",
+      "type": "bathrooms",
+      "value": 2
+    },
+    "parkingSpaces": {
+      "label": "Parking Spaces: 2",
+      "type": "parkingSpaces",
+      "value": 2
+    }
+  },
+  "isRentChannel": true,
+  "applyOnline": false,
+  "status": {
+    "label": "New",
+    "type": "new_listing"
+  }
+}
