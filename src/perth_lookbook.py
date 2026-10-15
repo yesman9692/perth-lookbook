@@ -34,10 +34,11 @@ except Exception as _hub_e:  # pragma: no cover
 
 # ── 존별 검색 캡 (원래캡 +$50 넉넉히) ────────────────────────────────────────
 # all 그룹은 cat+inner 각각 이 캡으로 검색 후 id 기준 dedup 병합
-ZONE_SEARCH = {"cat": 750, "inner": 700, "river": 650, "joondalup": 850}   # 준달럽 2~3BR 실거래 $700~920(2026-10-15 실측) → 700이면 3건뿐
+ZONE_SEARCH = {"cat": 750, "inner": 700, "river": 650, "joondalup": 850, "jdl-line": 700}   # 준달럽 2~3BR 실거래 $700~920(2026-10-15 실측) → 700이면 3건뿐
 # 그룹별 통근 목적지 (perth_commute.py 가 PERTH_DEST 환경변수로 읽음). 없으면 ECU City Campus.
-GROUP_DEST = {"joondalup": "270 Joondalup Drive, Joondalup WA 6027"}   # ECU Joondalup Campus
-GROUP_DEST_LABEL = {"joondalup": "ECU Joondalup"}   # 룩북 길찾기 링크 라벨 (perth_pdf.py 가 PERTH_DEST_LABEL 로 읽음)
+GROUP_DEST = {"joondalup": "270 Joondalup Drive, Joondalup WA 6027",
+              "jdl-line":  "270 Joondalup Drive, Joondalup WA 6027"}   # ECU Joondalup Campus
+GROUP_DEST_LABEL = {"joondalup": "ECU Joondalup", "jdl-line": "ECU Joondalup"}   # 룩북 길찾기 링크 라벨 (perth_pdf.py 가 PERTH_DEST_LABEL 로 읽음)
 
 # ── 유틸 ─────────────────────────────────────────────────────────────────────
 def _slug(group: str) -> str:

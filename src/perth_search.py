@@ -30,6 +30,12 @@ GROUPS = {
     "joondalup": ["Joondalup, WA 6027", "Edgewater, WA 6027", "Connolly, WA 6027",
                   "Heathridge, WA 6027", "Beldon, WA 6027", "Ocean Reef, WA 6027",
                   "Mullaloo, WA 6027", "Currambine, WA 6028", "Kinross, WA 6028", "Iluka, WA 6028"],
+    # 준달럽 기차 노선 역세권 (2026-10-15) — 캠퍼스 도보권이 $700 안에 거의 없어 기차로 범위 확장
+    # 북: Clarkson·Butler·Alkimos·Eglinton역 / 남: Whitfords·Greenwood·Warwick역
+    "jdl-line": ["Clarkson, WA 6030", "Merriwa, WA 6030", "Ridgewood, WA 6030", "Mindarie, WA 6030",
+                 "Butler, WA 6036", "Jindalee, WA 6036", "Alkimos, WA 6038", "Eglinton, WA 6034",
+                 "Kallaroo, WA 6025", "Craigie, WA 6025", "Padbury, WA 6025",
+                 "Greenwood, WA 6024", "Warwick, WA 6024"],
     "first3":["Wembley, WA 6014", "Rivervale, WA 6103", "Shenton Park, WA 6008"],
     # original perth_rentals.html gallery footprint (re-filter target)
     "gallery":["East Perth, WA 6004", "Victoria Park, WA 6100", "Maylands, WA 6051",
